@@ -1,0 +1,55 @@
+#!/usr/local/bin/lispscript
+; vi: ft=lisp
+
+
+(defconstant +OLDMUSICPATH+ •/Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/•)
+(defconstant +NEWMUSICPATH+ •/home/tony/Music/•)
+(defconstant +CONVERTFROMWHERE+ •./itunes-playlists/•)
+
+
+(defvar /huge-holder/ (with-a-file "./xlation-table.lisp" :r (read stream!)))
+
+
+(declaim (inline xlate-fn))
+(defun xlate-fn (old)
+  (fn "./out/~A" (~ra (~ra old •.+/• "") •.xml$• "")))
+
+(declaim (inline nfc-it))
+(defun nfc-it (it)
+  (sb-unicode:normalize-string it :nfc))
+
+
+; « (defparameter /a-file/ Ø (cadr (cmdargs)))
+;     or die "no input file given" »
+; (defparameter /new-fn/ (xlate-fn /a-file/))
+
+
+(zsh •mkdir -p out•)
+
+
+(for-each/list (zsh "find itunes-playlists/ -type f" :split t)
+  (let ((thefile    value!)
+        (new-fn     (xlate-fn value!)))
+    ; (unless (~m thefile "ctima")
+    ;   (continue!))
+    (with-a-file new-fn :w
+      (ft (yellow "preparing: ~A~%" new-fn))
+      (for-each/line thefile
+        (let ((final    nil))
+          (unless (~m value! •file:///•) (continue!))
+          (setq value! (-<> value!
+                            (~ra <> (fn •.+~A• +OLDMUSICPATH+) "")
+                            (~ra <> •</string>• "")
+                            (quri:url-decode <>)
+                            (html-entities:decode-entities <>)
+                            (nfc-it <>)))
+          ; (ft (yellow "~A~%" value!))
+          (setq final (gethash value! /huge-holder/))
+          ; (ft (green "~A~%~%" final))
+          (unless (null final)
+            (format stream! (fn "~A~A~%" +NEWMUSICPATH+ final))))))))
+
+
+
+
+; vi: ft=lisp

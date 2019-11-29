@@ -4,3 +4,6 @@ cache
 search-history
 command-history
 lib.pl
+DEBUG
+xlation-table.lisp
+cmyus-debug.txt
