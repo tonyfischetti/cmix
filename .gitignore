@@ -7,3 +7,4 @@ lib.pl
 DEBUG
 cmus-debug.txt
 out/
+socket
