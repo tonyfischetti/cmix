@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>37311</key>
+		<dict>
+			<key>Track ID</key><integer>37311</integer>
+			<key>Size</key><integer>4345463</integer>
+			<key>Total Time</key><integer>180897</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFD0F8D309CD28C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ex-Guru</string>
+			<key>Artist</key><string>David Byrne</string>
+			<key>Album</key><string>Thrill Jockey </string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/David%20Byrne/Thrill%20Jockey/01%20Ex-Guru.mp3</string>
+		</dict>
+		<key>20751</key>
+		<dict>
+			<key>Track ID</key><integer>20751</integer>
+			<key>Size</key><integer>5307790</integer>
+			<key>Total Time</key><integer>221152</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>18A25D9A26CB8495</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Life During Wartime</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Album</key><string>Fear of Music</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Fear%20of%20Music/05%20Life%20During%20Wartime.mp3</string>
+		</dict>
+		<key>20737</key>
+		<dict>
+			<key>Track ID</key><integer>20737</integer>
+			<key>Size</key><integer>5779875</integer>
+			<key>Total Time</key><integer>240822</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>77C0F9158B826C03</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heaven</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Album</key><string>Fear of Music</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Fear%20of%20Music/08%20Heaven.mp3</string>
+		</dict>
+		<key>20581</key>
+		<dict>
+			<key>Track ID</key><integer>20581</integer>
+			<key>Size</key><integer>7799987</integer>
+			<key>Total Time</key><integer>219454</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-31T03:58:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B90DDA700DAA1FEA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>And She Was</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Album</key><string>Little Creatures</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Little%20Creatures/01%20And%20She%20Was.mp3</string>
+		</dict>
+		<key>20703</key>
+		<dict>
+			<key>Track ID</key><integer>20703</integer>
+			<key>Size</key><integer>5115282</integer>
+			<key>Total Time</key><integer>158171</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7EBD8403B5B3A4A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Girls Want To Be With The Girls</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Album</key><string>More Songs About Buildings and Food</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/More%20Songs%20About%20Buildings%20and%20Food/05%20Girls%20Want%20To%20Be%20With%20The%20Girls.mp3</string>
+		</dict>
+		<key>20763</key>
+		<dict>
+			<key>Track ID</key><integer>20763</integer>
+			<key>Size</key><integer>6306504</integer>
+			<key>Total Time</key><integer>262765</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6475788F3997F90F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Once In A Lifetime</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Album</key><string>Remain In Light</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Remain%20In%20Light/04%20Once%20In%20A%20Lifetime.mp3</string>
+		</dict>
+		<key>20605</key>
+		<dict>
+			<key>Track ID</key><integer>20605</integer>
+			<key>Size</key><integer>9853002</integer>
+			<key>Total Time</key><integer>242625</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC39C76340BC5693</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Burning Down the House</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Composer</key><string>Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth</string>
+			<key>Album</key><string>Speaking in Tongues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Talking Heads</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Speaking%20in%20Tongues/01%20Burning%20Down%20the%20House.mp3</string>
+		</dict>
+		<key>20601</key>
+		<dict>
+			<key>Track ID</key><integer>20601</integer>
+			<key>Size</key><integer>14333522</integer>
+			<key>Total Time</key><integer>354638</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624770939</integer>
+			<key>Play Date UTC</key><date>2018-11-11T13:48:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07C622174AEA14CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Making Flippy Floppy</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Composer</key><string>Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth</string>
+			<key>Album</key><string>Speaking in Tongues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Talking Heads</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Speaking%20in%20Tongues/02%20Making%20Flippy%20Floppy.mp3</string>
+		</dict>
+		<key>20611</key>
+		<dict>
+			<key>Track ID</key><integer>20611</integer>
+			<key>Size</key><integer>13965718</integer>
+			<key>Total Time</key><integer>345443</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB202B5A2463411A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Girlfriend Is Better</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Composer</key><string>Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth</string>
+			<key>Album</key><string>Speaking in Tongues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Talking Heads</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Speaking%20in%20Tongues/03%20Girlfriend%20Is%20Better.mp3</string>
+		</dict>
+		<key>20597</key>
+		<dict>
+			<key>Track ID</key><integer>20597</integer>
+			<key>Size</key><integer>11950127</integer>
+			<key>Total Time</key><integer>295053</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624771296</integer>
+			<key>Play Date UTC</key><date>2018-11-11T13:54:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67F99271214082FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>This Must Be the Place (Naive Melody)</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Composer</key><string>Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth</string>
+			<key>Album</key><string>Speaking in Tongues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Talking Heads</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Speaking%20in%20Tongues/09%20This%20Must%20Be%20the%20Place%20(Naive%20Melody).mp3</string>
+		</dict>
+		<key>20671</key>
+		<dict>
+			<key>Track ID</key><integer>20671</integer>
+			<key>Size</key><integer>6732633</integer>
+			<key>Total Time</key><integer>261459</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73D8DBAB9D51B2C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Psycho Killer</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Album</key><string>Talking Heads: 77</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/Talking%20Heads_%2077/10%20Psycho%20Killer.mp3</string>
+		</dict>
+		<key>20701</key>
+		<dict>
+			<key>Track ID</key><integer>20701</integer>
+			<key>Size</key><integer>5328757</integer>
+			<key>Total Time</key><integer>220029</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2014-10-20T15:24:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>707C2569113B1470</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wild Wild Life</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Album</key><string>True Stories</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Mastered from Vinyl by Neptune</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talking%20Heads/True%20Stories/Wild%20Wild%20Life.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138435</integer>
+			<key>Playlist Persistent ID</key><string>AD530ED00172C0CC</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Talking Heads</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>37311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20751</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20701</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

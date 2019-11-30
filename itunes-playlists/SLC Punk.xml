@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>13845</key>
+		<dict>
+			<key>Track ID</key><integer>13845</integer>
+			<key>Size</key><integer>4781276</integer>
+			<key>Total Time</key><integer>298762</integer>
+			<key>Date Modified</key><date>2014-01-19T19:23:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>184D4CD9C1B3E5C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sex and Violence</string>
+			<key>Artist</key><string>The Exploited</string>
+			<key>Album</key><string>Punks Not Dead</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Exploited</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Exploited/Punks%20Not%20Dead/Sex%20and%20Violence.mp3</string>
+		</dict>
+		<key>42237</key>
+		<dict>
+			<key>Track ID</key><integer>42237</integer>
+			<key>Size</key><integer>4667320</integer>
+			<key>Total Time</key><integer>193071</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2014-01-19T18:59:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6675E6EEC8E68E7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Too Hot</string>
+			<key>Artist</key><string>The Specials</string>
+			<key>Album Artist</key><string>The Specials</string>
+			<key>Composer</key><string>Toots Hibbert</string>
+			<key>Album</key><string>The Specials</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Specials</string>
+			<key>Sort Artist</key><string>Specials</string>
+			<key>Sort Album Artist</key><string>Specials</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Specials/The%20Specials/08%20Too%20Hot.mp3</string>
+		</dict>
+		<key>50153</key>
+		<dict>
+			<key>Track ID</key><integer>50153</integer>
+			<key>Size</key><integer>4569883</integer>
+			<key>Total Time</key><integer>190406</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4BFB2F45B39C4DB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mirror In the Bathroom</string>
+			<key>Artist</key><string>The English Beat</string>
+			<key>Album</key><string>I Just Can't Stop It</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>English Beat</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20English%20Beat/I%20Just%20Can't%20Stop%20It/01%20Mirror%20In%20the%20Bathroom.mp3</string>
+		</dict>
+		<key>16581</key>
+		<dict>
+			<key>Track ID</key><integer>16581</integer>
+			<key>Size</key><integer>8351733</integer>
+			<key>Total Time</key><integer>247928</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2014-01-19T19:18:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D8FA90C43E8711D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>1969</string>
+			<key>Artist</key><string>The Stooges</string>
+			<key>Album Artist</key><string>The Stooges</string>
+			<key>Album</key><string>The Stooges</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Stooges</string>
+			<key>Sort Artist</key><string>Stooges</string>
+			<key>Sort Album Artist</key><string>Stooges</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stooges/The%20Stooges/01%201969.mp3</string>
+		</dict>
+		<key>7235</key>
+		<dict>
+			<key>Track ID</key><integer>7235</integer>
+			<key>Size</key><integer>5048697</integer>
+			<key>Total Time</key><integer>124342</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2014-01-19T19:19:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8CDEF84E54C1B01</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Love Livin' in the City</string>
+			<key>Artist</key><string>Fear</string>
+			<key>Album Artist</key><string>Soundtrack</string>
+			<key>Composer</key><string>Lee Ving</string>
+			<key>Album</key><string>I Love Livin' in the City</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Soundtrack/I%20Love%20Livin'%20in%20the%20City/03%20I%20Love%20Livin'%20in%20the%20City.mp3</string>
+		</dict>
+		<key>15257</key>
+		<dict>
+			<key>Track ID</key><integer>15257</integer>
+			<key>Size</key><integer>2969660</integer>
+			<key>Total Time</key><integer>115983</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9B53E00190BAFA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cretin Hop</string>
+			<key>Artist</key><string>The Ramones</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Audio CD (June 6, 2006) 
+Original Release Date: June 6, 2006 
+Number of Discs: 1 
+Label: Rhino / Wea 
+ASIN: B000EXZI0A </string>
+			<key>Sort Artist</key><string>Ramones</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Greatest%20Hits/10%20Cretin%20Hop.mp3</string>
+		</dict>
+		<key>4955</key>
+		<dict>
+			<key>Track ID</key><integer>4955</integer>
+			<key>Size</key><integer>2604917</integer>
+			<key>Total Time</key><integer>162481</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-01-19T18:42:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C4567C127D750C83</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Never Promised You A Rose Garden</string>
+			<key>Artist</key><string>The Suicide Machines</string>
+			<key>Album Artist</key><string>The Suicide Machines</string>
+			<key>Composer</key><string>Joe South</string>
+			<key>Album</key><string>The Suicide Machines</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>3</string>
+			<key>Sort Album</key><string>Suicide Machines</string>
+			<key>Sort Artist</key><string>Suicide Machines</string>
+			<key>Sort Album Artist</key><string>Suicide Machines</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Suicide%20Machines/The%20Suicide%20Machines/14%20I%20Never%20Promised%20You%20A%20Rose%20Garden.mp3</string>
+		</dict>
+		<key>34933</key>
+		<dict>
+			<key>Track ID</key><integer>34933</integer>
+			<key>Size</key><integer>1921332</integer>
+			<key>Total Time</key><integer>118543</integer>
+			<key>Date Modified</key><date>2014-01-19T19:23:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5E531653EDAA9BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One of These Days</string>
+			<key>Artist</key><string>The 8 Bucks Experiment</string>
+			<key>Album</key><string>SLC Punk Soundtrack</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>8 Bucks Experiment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%208%20Bucks%20Experiment/SLC%20Punk%20Soundtrack/One%20of%20These%20Days.mp3</string>
+		</dict>
+		<key>15271</key>
+		<dict>
+			<key>Track ID</key><integer>15271</integer>
+			<key>Size</key><integer>3203072</integer>
+			<key>Total Time</key><integer>133433</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F7D08763770D2113</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She's The One</string>
+			<key>Artist</key><string>The Ramones</string>
+			<key>Album</key><string>Road To Ruin</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped By Magnus Blom</string>
+			<key>Sort Artist</key><string>Ramones</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Road%20To%20Ruin/10%20She's%20The%20One.mp3</string>
+		</dict>
+		<key>42225</key>
+		<dict>
+			<key>Track ID</key><integer>42225</integer>
+			<key>Size</key><integer>4056174</integer>
+			<key>Total Time</key><integer>167601</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2014-01-19T18:57:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67794EE18473706E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gangsters</string>
+			<key>Artist</key><string>The Specials</string>
+			<key>Album Artist</key><string>The Specials</string>
+			<key>Composer</key><string>Horace Panter/Jerry Dammers/John Bradbury/Lynval Golding/Neville Staple/Roddy Byers/Terry Hall</string>
+			<key>Album</key><string>The Specials</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Specials</string>
+			<key>Sort Artist</key><string>Specials</string>
+			<key>Sort Album Artist</key><string>Specials</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Specials/The%20Specials/03%20Gangsters.mp3</string>
+		</dict>
+		<key>50345</key>
+		<dict>
+			<key>Track ID</key><integer>50345</integer>
+			<key>Size</key><integer>3079125</integer>
+			<key>Total Time</key><integer>191764</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2014-01-19T19:11:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9900E8BF6755F558</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beat my Guest</string>
+			<key>Artist</key><string>Adam Ant</string>
+			<key>Composer</key><string>Ant</string>
+			<key>Album</key><string>Antics in The Forbidden Zone</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Adam%20Ant/Antics%20in%20The%20Forbidden%20Zone/11%20Beat%20my%20Guest.mp3</string>
+		</dict>
+		<key>47811</key>
+		<dict>
+			<key>Track ID</key><integer>47811</integer>
+			<key>Size</key><integer>3698450</integer>
+			<key>Total Time</key><integer>229746</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-03-10T16:37:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>584AEE55799BF619</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Urban Struggle</string>
+			<key>Artist</key><string>The Vandals</string>
+			<key>Composer</key><string>Joe Escalante/The Vandals</string>
+			<key>Album</key><string>Peace Thru Vandalism</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Vandals</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Vandals/Peace%20Thru%20Vandalism/02%20Urban%20Struggle.mp3</string>
+		</dict>
+		<key>17667</key>
+		<dict>
+			<key>Track ID</key><integer>17667</integer>
+			<key>Size</key><integer>3159672</integer>
+			<key>Total Time</key><integer>196675</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2013-10-19T04:45:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D9A024104CEEE39</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Look Back and Laugh</string>
+			<key>Artist</key><string>Minor Threat</string>
+			<key>Album Artist</key><string>Minor Threat</string>
+			<key>Composer</key><string>Ian MacKaye/Minor Threat</string>
+			<key>Album</key><string>Complete Discography</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Minor%20Threat/Complete%20Discography/18%20Look%20Back%20and%20Laugh.mp3</string>
+		</dict>
+		<key>23941</key>
+		<dict>
+			<key>Track ID</key><integer>23941</integer>
+			<key>Size</key><integer>7027213</integer>
+			<key>Total Time</key><integer>285857</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T05:20:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E1D4101707CF8C43</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rock And Roll</string>
+			<key>Artist</key><string>The Velvet Underground</string>
+			<key>Album</key><string>Loaded</string>
+			<key>Genre</key><string>Avant Garde</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Velvet Underground</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Velvet%20Underground/Loaded/03%20Rock%20And%20Roll.mp3</string>
+		</dict>
+		<key>8395</key>
+		<dict>
+			<key>Track ID</key><integer>8395</integer>
+			<key>Size</key><integer>6630340</integer>
+			<key>Total Time</key><integer>410775</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2014-01-19T19:23:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3627808138</integer>
+			<key>Play Date UTC</key><date>2018-12-16T17:28:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-01T01:09:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A44EB0CD391CBCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mother of Pearl</string>
+			<key>Artist</key><string>Roxy Music</string>
+			<key>Album</key><string>Stranded</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Roxy%20Music/Stranded/07%20Mother%20of%20Pearl.mp3</string>
+		</dict>
+		<key>13649</key>
+		<dict>
+			<key>Track ID</key><integer>13649</integer>
+			<key>Size</key><integer>3805122</integer>
+			<key>Total Time</key><integer>188186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2014-01-19T18:36:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3627808326</integer>
+			<key>Play Date UTC</key><date>2018-12-16T17:32:06Z</date>
+			<key>Persistent ID</key><string>B6079FEC0B8389EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dreaming</string>
+			<key>Artist</key><string>Blondie</string>
+			<key>Album Artist</key><string>Blondie</string>
+			<key>Composer</key><string>Chris Stein/Debbie Harry</string>
+			<key>Album</key><string>Best Of Blondie</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Blondie/Best%20Of%20Blondie/02%20Dreaming.mp3</string>
+		</dict>
+		<key>9535</key>
+		<dict>
+			<key>Track ID</key><integer>9535</integer>
+			<key>Size</key><integer>4289069</integer>
+			<key>Total Time</key><integer>178494</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2014-01-19T18:31:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3627807626</integer>
+			<key>Play Date UTC</key><date>2018-12-16T17:20:26Z</date>
+			<key>Persistent ID</key><string>7C10C75418526FF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She Loved Like Diamond</string>
+			<key>Artist</key><string>Spandau Ballet</string>
+			<key>Album</key><string>Diamond</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Spandau%20Ballet/Diamond/05%20She%20Loved%20Like%20Diamond.mp3</string>
+		</dict>
+		<key>6451</key>
+		<dict>
+			<key>Track ID</key><integer>6451</integer>
+			<key>Size</key><integer>7479840</integer>
+			<key>Total Time</key><integer>186618</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EC03B220E74E4192</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Amoeba</string>
+			<key>Artist</key><string>The Adolescents</string>
+			<key>Album</key><string>The Adolescents</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Adolescents</string>
+			<key>Sort Artist</key><string>Adolescents</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Adolescents/The%20Adolescents/08%20Amoeba.mp3</string>
+		</dict>
+		<key>35373</key>
+		<dict>
+			<key>Track ID</key><integer>35373</integer>
+			<key>Size</key><integer>7548077</integer>
+			<key>Total Time</key><integer>280163</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-01-19T19:22:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1438F5CA21F919C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kiss Me Deadly</string>
+			<key>Artist</key><string>Generation X</string>
+			<key>Album</key><string>Kiss Me Deadly</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Kiss%20Me%20Deadly/08%20Kiss%20Me%20Deadly.mp3</string>
+		</dict>
+		<key>14447</key>
+		<dict>
+			<key>Track ID</key><integer>14447</integer>
+			<key>Size</key><integer>4557619</integer>
+			<key>Total Time</key><integer>189466</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B025AEC45316D198</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kill The Poor</string>
+			<key>Artist</key><string>Dead Kennedys</string>
+			<key>Album</key><string>Fresh Fruit for Rotting Vegetables</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Kennedys/Fresh%20Fruit%20for%20Rotting%20Vegetables/01%20Kill%20The%20Poor.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138290</integer>
+			<key>Playlist Persistent ID</key><string>5807E0FBA3BEA9AD</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>SLC Punk</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14447</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>51861</key>
+		<dict>
+			<key>Track ID</key><integer>51861</integer>
+			<key>Size</key><integer>11135138</integer>
+			<key>Total Time</key><integer>255529</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B13D923DB991585C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Simple Song</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Port of Morrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Port%20of%20Morrow/02%20Simple%20Song.mp3</string>
+		</dict>
+		<key>51887</key>
+		<dict>
+			<key>Track ID</key><integer>51887</integer>
+			<key>Size</key><integer>4047879</integer>
+			<key>Total Time</key><integer>168568</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>93A6FA542423F5A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>So Says I</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>James Mercer</string>
+			<key>Album</key><string>Chutes Too Narrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Chutes%20Too%20Narrow/03%20So%20Says%20I.mp3</string>
+		</dict>
+		<key>51857</key>
+		<dict>
+			<key>Track ID</key><integer>51857</integer>
+			<key>Size</key><integer>10052624</integer>
+			<key>Total Time</key><integer>228466</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3AE8DFAF4EBE2595</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fall of '82</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Port of Morrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Port%20of%20Morrow/08%20Fall%20of%20'82.mp3</string>
+		</dict>
+		<key>51919</key>
+		<dict>
+			<key>Track ID</key><integer>51919</integer>
+			<key>Size</key><integer>6501722</integer>
+			<key>Total Time</key><integer>270811</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>E84336926852E3CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Red Rabbits</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/06%20Red%20Rabbits.mp3</string>
+		</dict>
+		<key>51923</key>
+		<dict>
+			<key>Track ID</key><integer>51923</integer>
+			<key>Size</key><integer>3260320</integer>
+			<key>Total Time</key><integer>149394</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A2446C5AC778442</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Know Your Onion!</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Oh, Inverted World</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 4</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Oh,%20Inverted%20World/04%20Know%20Your%20Onion!.mp3</string>
+		</dict>
+		<key>51901</key>
+		<dict>
+			<key>Track ID</key><integer>51901</integer>
+			<key>Size</key><integer>7746192</integer>
+			<key>Total Time</key><integer>322664</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>D1BF50550EEABCED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sea Legs</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/05%20Sea%20Legs.mp3</string>
+		</dict>
+		<key>51879</key>
+		<dict>
+			<key>Track ID</key><integer>51879</integer>
+			<key>Size</key><integer>4790812</integer>
+			<key>Total Time</key><integer>199523</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>C21EC862B6D94F3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kissing The Lipless</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>James Mercer</string>
+			<key>Album</key><string>Chutes Too Narrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Chutes%20Too%20Narrow/01%20Kissing%20The%20Lipless.mp3</string>
+		</dict>
+		<key>51903</key>
+		<dict>
+			<key>Track ID</key><integer>51903</integer>
+			<key>Size</key><integer>1367091</integer>
+			<key>Total Time</key><integer>56868</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>081405FFAB6C684F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pam Berry</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/03%20Pam%20Berry.mp3</string>
+		</dict>
+		<key>51913</key>
+		<dict>
+			<key>Track ID</key><integer>51913</integer>
+			<key>Size</key><integer>5685575</integer>
+			<key>Total Time</key><integer>236800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9C95B2E7CB0B1630</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Australia</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album Artist</key><string>The Shins</string>
+			<key>Composer</key><string>Kevin Kling</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>1</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Album Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/02%20Australia.mp3</string>
+		</dict>
+		<key>51909</key>
+		<dict>
+			<key>Track ID</key><integer>51909</integer>
+			<key>Size</key><integer>6904844</integer>
+			<key>Total Time</key><integer>287608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>A62B49DBDF60AB22</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Phantom Limb</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/04%20Phantom%20Limb.mp3</string>
+		</dict>
+		<key>51925</key>
+		<dict>
+			<key>Track ID</key><integer>51925</integer>
+			<key>Size</key><integer>5001364</integer>
+			<key>Total Time</key><integer>200228</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FDCD76F277BDB290</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Caring Is Creepy</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Oh, Inverted World</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 1</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Oh,%20Inverted%20World/01%20Caring%20Is%20Creepy.mp3</string>
+		</dict>
+		<key>51933</key>
+		<dict>
+			<key>Track ID</key><integer>51933</integer>
+			<key>Size</key><integer>6035145</integer>
+			<key>Total Time</key><integer>231235</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0B9E879CD75C134</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Slang</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Oh, Inverted World</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 6</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Oh,%20Inverted%20World/06%20New%20Slang.mp3</string>
+		</dict>
+		<key>51917</key>
+		<dict>
+			<key>Track ID</key><integer>51917</integer>
+			<key>Size</key><integer>5390160</integer>
+			<key>Total Time</key><integer>224496</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>AE5109E93D51866F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Girl Sailor</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/10%20Girl%20Sailor.mp3</string>
+		</dict>
+		<key>51899</key>
+		<dict>
+			<key>Track ID</key><integer>51899</integer>
+			<key>Size</key><integer>5716172</integer>
+			<key>Total Time</key><integer>238080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>E3E944651A0D43B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sleeping Lessons</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/01%20Sleeping%20Lessons.mp3</string>
+		</dict>
+		<key>51915</key>
+		<dict>
+			<key>Track ID</key><integer>51915</integer>
+			<key>Size</key><integer>5503013</integer>
+			<key>Total Time</key><integer>229198</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>DBD8D5079ABBC496</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Comet Appears</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Comet Appears</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/11%20A%20Comet%20Appears.mp3</string>
+		</dict>
+		<key>51929</key>
+		<dict>
+			<key>Track ID</key><integer>51929</integer>
+			<key>Size</key><integer>3777324</integer>
+			<key>Total Time</key><integer>170266</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>176</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D560F5E230263B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Girl On the Wing</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Oh, Inverted World</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 8</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Oh,%20Inverted%20World/08%20Girl%20On%20the%20Wing.mp3</string>
+		</dict>
+		<key>51927</key>
+		<dict>
+			<key>Track ID</key><integer>51927</integer>
+			<key>Size</key><integer>2954296</integer>
+			<key>Total Time</key><integer>110602</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B4C1301946506DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Celibate Life</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Oh, Inverted World</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 7</string>
+			<key>Sort Name</key><string>Celibate Life</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Oh,%20Inverted%20World/07%20The%20Celibate%20Life.mp3</string>
+		</dict>
+		<key>51905</key>
+		<dict>
+			<key>Track ID</key><integer>51905</integer>
+			<key>Size</key><integer>5328091</integer>
+			<key>Total Time</key><integer>221910</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>FBA8EFC9569DB77A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Turn On Me</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>The Shins</string>
+			<key>Album</key><string>Wincing The Night Away</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Sort Composer</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Wincing%20The%20Night%20Away/07%20Turn%20On%20Me.mp3</string>
+		</dict>
+		<key>51897</key>
+		<dict>
+			<key>Track ID</key><integer>51897</integer>
+			<key>Size</key><integer>5603944</integer>
+			<key>Total Time</key><integer>233404</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>BDFE7E9771507A39</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pink Bullets</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>James Mercer</string>
+			<key>Album</key><string>Chutes Too Narrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Chutes%20Too%20Narrow/07%20Pink%20Bullets.mp3</string>
+		</dict>
+		<key>51881</key>
+		<dict>
+			<key>Track ID</key><integer>51881</integer>
+			<key>Size</key><integer>6375078</integer>
+			<key>Total Time</key><integer>265534</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>983644E2DA26C66C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Saint Simon</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Composer</key><string>James Mercer</string>
+			<key>Album</key><string>Chutes Too Narrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Chutes%20Too%20Narrow/05%20Saint%20Simon.mp3</string>
+		</dict>
+		<key>51871</key>
+		<dict>
+			<key>Track ID</key><integer>51871</integer>
+			<key>Size</key><integer>8765310</integer>
+			<key>Total Time</key><integer>196284</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:16:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23D19D04DEDD73DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No Way Down</string>
+			<key>Artist</key><string>The Shins</string>
+			<key>Album</key><string>Port of Morrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Shins</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Shins/Port%20of%20Morrow/06%20No%20Way%20Down.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>141932</integer>
+			<key>Playlist Persistent ID</key><string>0BEAFCC8998617C1</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Shins</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>51861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51919</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51923</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51903</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51909</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51917</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51897</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51871</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

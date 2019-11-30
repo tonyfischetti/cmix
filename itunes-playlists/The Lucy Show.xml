@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>22639</key>
+		<dict>
+			<key>Track ID</key><integer>22639</integer>
+			<key>Size</key><integer>9284509</integer>
+			<key>Total Time</key><integer>218200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F53710D35117159</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leonardo da Vinci</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Remembrances</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/01%20Leonardo%20da%20Vinci.mp3</string>
+		</dict>
+		<key>22621</key>
+		<dict>
+			<key>Track ID</key><integer>22621</integer>
+			<key>Size</key><integer>16495350</integer>
+			<key>Total Time</key><integer>398471</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A01814B022F4340</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Better On The Hard Side</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Remembrances</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/09%20Better%20On%20The%20Hard%20Side.mp3</string>
+		</dict>
+		<key>22611</key>
+		<dict>
+			<key>Track ID</key><integer>22611</integer>
+			<key>Size</key><integer>11065019</integer>
+			<key>Total Time</key><integer>262713</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>109C2273AA7B477D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>History Part 1</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Remembrances</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/03%20History%20Part%201.mp3</string>
+		</dict>
+		<key>22633</key>
+		<dict>
+			<key>Track ID</key><integer>22633</integer>
+			<key>Size</key><integer>9413000</integer>
+			<key>Total Time</key><integer>221413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42B7167B5EC88F0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kill The Beast</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Remembrances</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/02%20Kill%20The%20Beast.mp3</string>
+		</dict>
+		<key>22589</key>
+		<dict>
+			<key>Track ID</key><integer>22589</integer>
+			<key>Size</key><integer>9062227</integer>
+			<key>Total Time</key><integer>225149</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1985-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55C513FA5598FCFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ephemeral (This Is No Heaven)</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>...Undone</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/01%20Ephemeral%20(This%20Is%20No%20Heaven).mp3</string>
+		</dict>
+		<key>22599</key>
+		<dict>
+			<key>Track ID</key><integer>22599</integer>
+			<key>Size</key><integer>9692282</integer>
+			<key>Total Time</key><integer>240901</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1985-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>364F3A4B09066841</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Resistance</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>...Undone</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/02%20Resistance.mp3</string>
+		</dict>
+		<key>22587</key>
+		<dict>
+			<key>Track ID</key><integer>22587</integer>
+			<key>Size</key><integer>10325495</integer>
+			<key>Total Time</key><integer>256731</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1985-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E93F517C3E80A2B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The White Space</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>...Undone</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>White Space</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/04%20The%20White%20Space.mp3</string>
+		</dict>
+		<key>22605</key>
+		<dict>
+			<key>Track ID</key><integer>22605</integer>
+			<key>Size</key><integer>7922222</integer>
+			<key>Total Time</key><integer>196649</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647171047</integer>
+			<key>Play Date UTC</key><date>2019-07-28T19:04:07Z</date>
+			<key>Release Date</key><date>1985-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00EE8E41FC4358B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wipe Out</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>...Undone</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/05%20Wipe%20Out.mp3</string>
+		</dict>
+		<key>22597</key>
+		<dict>
+			<key>Track ID</key><integer>22597</integer>
+			<key>Size</key><integer>9847967</integer>
+			<key>Total Time</key><integer>244793</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1985-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DDA48B1128009D28</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Undone</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>...Undone</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/07%20Undone.mp3</string>
+		</dict>
+		<key>22593</key>
+		<dict>
+			<key>Track ID</key><integer>22593</integer>
+			<key>Size</key><integer>9322384</integer>
+			<key>Total Time</key><integer>231653</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1985-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E04E5926A67DD468</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Remain</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>...Undone</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/08%20Remain.mp3</string>
+		</dict>
+		<key>22629</key>
+		<dict>
+			<key>Track ID</key><integer>22629</integer>
+			<key>Size</key><integer>11981347</integer>
+			<key>Total Time</key><integer>285622</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A28C8EFC6CB60DB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Prove It</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Remembrances</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/04%20Prove%20It.mp3</string>
+		</dict>
+		<key>22623</key>
+		<dict>
+			<key>Track ID</key><integer>22623</integer>
+			<key>Size</key><integer>9920852</integer>
+			<key>Total Time</key><integer>234109</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>426729FEDCD0AF6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Come Back To The Living</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Remembrances</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/05%20Come%20Back%20To%20The%20Living.mp3</string>
+		</dict>
+		<key>22613</key>
+		<dict>
+			<key>Track ID</key><integer>22613</integer>
+			<key>Size</key><integer>9965769</integer>
+			<key>Total Time</key><integer>235232</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:12:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13AE83FBE7AD97ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Twister</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Remembrances</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Twister</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/07%20The%20Twister.mp3</string>
+		</dict>
+		<key>22653</key>
+		<dict>
+			<key>Track ID</key><integer>22653</integer>
+			<key>Size</key><integer>5707798</integer>
+			<key>Total Time</key><integer>140486</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-12-22T19:49:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DAB3DC4DB9CBB389</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Land And The Life</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Composer</key><string>VanDeVen</string>
+			<key>Album</key><string>Mania</string>
+			<key>Genre</key><string>Post-Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/01%20Land%20And%20The%20Life.mp3</string>
+		</dict>
+		<key>22663</key>
+		<dict>
+			<key>Track ID</key><integer>22663</integer>
+			<key>Size</key><integer>8591719</integer>
+			<key>Total Time</key><integer>212584</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-12-22T19:50:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647170852</integer>
+			<key>Play Date UTC</key><date>2019-07-28T19:00:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A30BCA0431E0869D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>View From The Outside</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Composer</key><string>Bandola</string>
+			<key>Album</key><string>Mania</string>
+			<key>Genre</key><string>Post-Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/02%20View%20From%20The%20Outside.mp3</string>
+		</dict>
+		<key>22649</key>
+		<dict>
+			<key>Track ID</key><integer>22649</integer>
+			<key>Size</key><integer>9374341</integer>
+			<key>Total Time</key><integer>232150</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-12-22T19:50:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73F86A7CA476E8A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sojourn's End</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Composer</key><string>VanDeVen</string>
+			<key>Album</key><string>Mania</string>
+			<key>Genre</key><string>Post-Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/03%20Sojourn's%20End.mp3</string>
+		</dict>
+		<key>22645</key>
+		<dict>
+			<key>Track ID</key><integer>22645</integer>
+			<key>Size</key><integer>6765222</integer>
+			<key>Total Time</key><integer>166922</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-12-22T19:50:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C3DB07A3CEC19E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shame</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Composer</key><string>Bandola</string>
+			<key>Album</key><string>Mania</string>
+			<key>Genre</key><string>Post-Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/07%20Shame.mp3</string>
+		</dict>
+		<key>22651</key>
+		<dict>
+			<key>Track ID</key><integer>22651</integer>
+			<key>Size</key><integer>9852904</integer>
+			<key>Total Time</key><integer>244114</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-12-22T19:50:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9BBF6ABCC60264E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Part Of Me Now</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album Artist</key><string>The Lucy Show</string>
+			<key>Composer</key><string>Bandola</string>
+			<key>Album</key><string>Mania</string>
+			<key>Genre</key><string>Post-Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Sort Album Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/09%20Part%20Of%20Me%20Now.mp3</string>
+		</dict>
+		<key>22655</key>
+		<dict>
+			<key>Track ID</key><integer>22655</integer>
+			<key>Size</key><integer>7941429</integer>
+			<key>Total Time</key><integer>293982</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-12-22T19:49:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE246F2C4591E3E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Message</string>
+			<key>Artist</key><string>The Lucy Show</string>
+			<key>Album</key><string>Mania</string>
+			<key>Genre</key><string>Post-Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Lucy Show</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/10%20New%20Message.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>141689</integer>
+			<key>Playlist Persistent ID</key><string>B35F522C439D2D77</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Lucy Show</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>22639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22655</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

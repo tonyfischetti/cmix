@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>22975</key>
+		<dict>
+			<key>Track ID</key><integer>22975</integer>
+			<key>Size</key><integer>8371885</integer>
+			<key>Total Time</key><integer>165172</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-12-05T19:22:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>880290A5F448FBCB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Let My Love Open The Door</string>
+			<key>Artist</key><string>Pete Townshend</string>
+			<key>Album</key><string>Empty Glass</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pete%20Townshend/Empty%20Glass/04%20Let%20My%20Love%20Open%20The%20Door.mp3</string>
+		</dict>
+		<key>24815</key>
+		<dict>
+			<key>Track ID</key><integer>24815</integer>
+			<key>Size</key><integer>18561755</integer>
+			<key>Total Time</key><integer>337658</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-12-05T19:15:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A9EA8D7B5676C86</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Better You Bet</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>Face Dances</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>smb...rules this little pebble in the universe...we call earth</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/Face%20Dances/01%20You%20Better%20You%20Bet.mp3</string>
+		</dict>
+		<key>24907</key>
+		<dict>
+			<key>Track ID</key><integer>24907</integer>
+			<key>Size</key><integer>5984257</integer>
+			<key>Total Time</key><integer>149577</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9EA9391965B41F71</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Boris the Spider</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>A Quick One</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Quick One</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/A%20Quick%20One/02%20Boris%20the%20Spider.mp3</string>
+		</dict>
+		<key>24905</key>
+		<dict>
+			<key>Track ID</key><integer>24905</integer>
+			<key>Size</key><integer>7125286</integer>
+			<key>Total Time</key><integer>178102</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>49E501DC98AD2776</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Whiskey Man</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>A Quick One</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Quick One</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/A%20Quick%20One/04%20Whiskey%20Man.mp3</string>
+		</dict>
+		<key>24891</key>
+		<dict>
+			<key>Track ID</key><integer>24891</integer>
+			<key>Size</key><integer>7382331</integer>
+			<key>Total Time</key><integer>184528</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>793BC7C1EDD86460</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>So Sad About Us</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>A Quick One</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Quick One</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/A%20Quick%20One/09%20So%20Sad%20About%20Us.mp3</string>
+		</dict>
+		<key>24915</key>
+		<dict>
+			<key>Track ID</key><integer>24915</integer>
+			<key>Size</key><integer>22048519</integer>
+			<key>Total Time</key><integer>551183</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C49A20B407893B4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Quick One, While She's Away</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>A Quick One</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Quick One, While She's Away</string>
+			<key>Sort Album</key><string>Quick One</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/A%20Quick%20One/10%20A%20Quick%20One,%20While%20She's%20Away.mp3</string>
+		</dict>
+		<key>24859</key>
+		<dict>
+			<key>Track ID</key><integer>24859</integer>
+			<key>Size</key><integer>6522448</integer>
+			<key>Total Time</key><integer>228858</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74D093BF323ED370</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Armenia City In The Sky</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album Artist</key><string>The Who</string>
+			<key>Composer</key><string>John "Speedy" Keen</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Franx '82   -= P.A.D. Crew =</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Sort Album Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/01%20Armenia%20City%20In%20The%20Sky.mp3</string>
+		</dict>
+		<key>24875</key>
+		<dict>
+			<key>Track ID</key><integer>24875</integer>
+			<key>Size</key><integer>1799349</integer>
+			<key>Total Time</key><integer>60604</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A17A3AEBE0CEF4DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heinz Baked Beans</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Franx '82   -= P.A.D. Crew =</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/02%20Heinz%20Baked%20Beans.mp3</string>
+		</dict>
+		<key>24863</key>
+		<dict>
+			<key>Track ID</key><integer>24863</integer>
+			<key>Size</key><integer>4198333</integer>
+			<key>Total Time</key><integer>129123</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBD94ED4889C45F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mary Anne With The Shaky Hand</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/03%20Mary%20Anne%20With%20The%20Shaky%20Hand.mp3</string>
+		</dict>
+		<key>24851</key>
+		<dict>
+			<key>Track ID</key><integer>24851</integer>
+			<key>Size</key><integer>5010348</integer>
+			<key>Total Time</key><integer>154671</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFEC958660A0E208</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Odorono</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album Artist</key><string>The Who</string>
+			<key>Composer</key><string>Pete Townshend</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Sort Album Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/04%20Odorono.mp3</string>
+		</dict>
+		<key>24871</key>
+		<dict>
+			<key>Track ID</key><integer>24871</integer>
+			<key>Size</key><integer>2862226</integer>
+			<key>Total Time</key><integer>173662</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1734088AC126270</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tattoo</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/05%20Tattoo.mp3</string>
+		</dict>
+		<key>24865</key>
+		<dict>
+			<key>Track ID</key><integer>24865</integer>
+			<key>Size</key><integer>4941798</integer>
+			<key>Total Time</key><integer>203363</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C8722AA9901B6F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Our Love Was</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Composer</key><string>P. Townshend</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Pete Townshend - vocals, guitar, piano;
+John Entwistle - vocals, bass;
+Roger Daltrey - vocals;
+Keith Moon - drums.</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/06%20Our%20Love%20Was.mp3</string>
+		</dict>
+		<key>24873</key>
+		<dict>
+			<key>Track ID</key><integer>24873</integer>
+			<key>Size</key><integer>4986891</integer>
+			<key>Total Time</key><integer>246021</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F785A6D6F9F0F555</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Can See For Miles</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/07%20I%20Can%20See%20For%20Miles.mp3</string>
+		</dict>
+		<key>24857</key>
+		<dict>
+			<key>Track ID</key><integer>24857</integer>
+			<key>Size</key><integer>4472226</integer>
+			<key>Total Time</key><integer>183797</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7ABC4B8F8A69B3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Can't Reach You</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Composer</key><string>P. Townshend</string>
+			<key>Album</key><string>The Who Sell Out</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Pete Townshend - vocals, guitar, piano;
+John Entwistle - vocals, bass;
+Roger Daltrey - vocals;
+Keith Moon - drums.</string>
+			<key>Sort Album</key><string>Who Sell Out</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/The%20Who%20Sell%20Out/08%20I%20Can't%20Reach%20You.mp3</string>
+		</dict>
+		<key>24819</key>
+		<dict>
+			<key>Track ID</key><integer>24819</integer>
+			<key>Size</key><integer>5657088</integer>
+			<key>Total Time</key><integer>201888</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2014-05-14T19:26:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>32000</integer>
+			<key>Persistent ID</key><string>CF9E1AB77F000BFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Generation</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>My Generation</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/My%20Generation/06%20My%20Generation.mp3</string>
+		</dict>
+		<key>24839</key>
+		<dict>
+			<key>Track ID</key><integer>24839</integer>
+			<key>Size</key><integer>3501984</integer>
+			<key>Total Time</key><integer>124920</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2014-05-14T19:25:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>32000</integer>
+			<key>Persistent ID</key><string>04B70FC215AD33D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Can't Explain</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>My Generation</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/My%20Generation/14%20I%20Can't%20Explain.mp3</string>
+		</dict>
+		<key>24985</key>
+		<dict>
+			<key>Track ID</key><integer>24985</integer>
+			<key>Size</key><integer>7753478</integer>
+			<key>Total Time</key><integer>323056</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>82CCA0D0B9BE0117</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Overture</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>Tommy</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/Tommy/01%20Overture.mp3</string>
+		</dict>
+		<key>24973</key>
+		<dict>
+			<key>Track ID</key><integer>24973</integer>
+			<key>Size</key><integer>6069521</integer>
+			<key>Total Time</key><integer>252891</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D46BC28D550510F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sally Simpson</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>Tommy</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/Tommy/20%20Sally%20Simpson.mp3</string>
+		</dict>
+		<key>24971</key>
+		<dict>
+			<key>Track ID</key><integer>24971</integer>
+			<key>Size</key><integer>5053880</integer>
+			<key>Total Time</key><integer>210573</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Date Modified</key><date>2013-10-19T05:21:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CA4EAAFFF6358377</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We're Not Gonna Take It</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>Tommy</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/Tommy/24%20We're%20Not%20Gonna%20Take%20It.mp3</string>
+		</dict>
+		<key>24995</key>
+		<dict>
+			<key>Track ID</key><integer>24995</integer>
+			<key>Size</key><integer>5341843</integer>
+			<key>Total Time</key><integer>222145</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Date Modified</key><date>2013-12-05T18:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F0E6C4E35D3E941F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>See Me Feel Me/Listening To You</string>
+			<key>Artist</key><string>The Who</string>
+			<key>Album</key><string>Tommy</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Who</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Who/Tommy/25%20See%20Me%20Feel%20Me_Listening%20To%20You.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>142248</integer>
+			<key>Playlist Persistent ID</key><string>BE465E79BDB660EF</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Who</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>22975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24873</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24995</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

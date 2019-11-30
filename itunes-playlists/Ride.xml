@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>20519</key>
+		<dict>
+			<key>Track ID</key><integer>20519</integer>
+			<key>Size</key><integer>6573240</integer>
+			<key>Total Time</key><integer>181133</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>289</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643768226</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:50:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7242F0E968CB4CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kaleidoscope</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/02%20Kaleidoscope.mp3</string>
+		</dict>
+		<key>20527</key>
+		<dict>
+			<key>Track ID</key><integer>20527</integer>
+			<key>Size</key><integer>10965306</integer>
+			<key>Total Time</key><integer>328672</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643767076</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:31:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6211FD29FDBC4D09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In A Different Place</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/03%20In%20A%20Different%20Place.mp3</string>
+		</dict>
+		<key>20523</key>
+		<dict>
+			<key>Track ID</key><integer>20523</integer>
+			<key>Size</key><integer>9774902</integer>
+			<key>Total Time</key><integer>285152</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3643768511</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:55:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>288A90F99F2D4303</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Polar Bear</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/04%20Polar%20Bear.mp3</string>
+		</dict>
+		<key>20511</key>
+		<dict>
+			<key>Track ID</key><integer>20511</integer>
+			<key>Size</key><integer>12602631</integer>
+			<key>Total Time</key><integer>364094</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>276</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643766279</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:17:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D5A65553F717E4EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dreams Burn Down</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/05%20Dreams%20Burn%20Down.mp3</string>
+		</dict>
+		<key>20529</key>
+		<dict>
+			<key>Track ID</key><integer>20529</integer>
+			<key>Size</key><integer>11113958</integer>
+			<key>Total Time</key><integer>333662</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643768045</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:47:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D250CF4BAF27120</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Paralysed</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/07%20Paralysed.mp3</string>
+		</dict>
+		<key>20513</key>
+		<dict>
+			<key>Track ID</key><integer>20513</integer>
+			<key>Size</key><integer>8891951</integer>
+			<key>Total Time</key><integer>258220</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3643769069</integer>
+			<key>Play Date UTC</key><date>2019-06-19T10:04:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41BF3E8B411BD5FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Vapour Trail</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/08%20Vapour%20Trail.mp3</string>
+		</dict>
+		<key>20517</key>
+		<dict>
+			<key>Track ID</key><integer>20517</integer>
+			<key>Size</key><integer>8939072</integer>
+			<key>Total Time</key><integer>266344</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643765718</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:08:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBCC4839A31252A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Here and Now</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/10%20Here%20and%20Now.mp3</string>
+		</dict>
+		<key>20525</key>
+		<dict>
+			<key>Track ID</key><integer>20525</integer>
+			<key>Size</key><integer>8846004</integer>
+			<key>Total Time</key><integer>246308</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>286</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643766526</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:22:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>391A9758F0C4BB95</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beneath</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/14%20Beneath.mp3</string>
+		</dict>
+		<key>20443</key>
+		<dict>
+			<key>Track ID</key><integer>20443</integer>
+			<key>Size</key><integer>10497890</integer>
+			<key>Total Time</key><integer>305475</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3643769375</integer>
+			<key>Play Date UTC</key><date>2019-06-19T10:09:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57EED10CF70F747C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>OX4</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album Artist</key><string>Ride</string>
+			<key>Album</key><string>OX4 The Best of Ride</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/OX4%20The%20Best%20of%20Ride/10%20OX4.mp3</string>
+		</dict>
+		<key>20503</key>
+		<dict>
+			<key>Track ID</key><integer>20503</integer>
+			<key>Size</key><integer>6440967</integer>
+			<key>Total Time</key><integer>196989</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643765915</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:11:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B7F3073F4509EF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Taste</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album</key><string>Nowhere</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Nowhere/09%20Taste.mp3</string>
+		</dict>
+		<key>20429</key>
+		<dict>
+			<key>Track ID</key><integer>20429</integer>
+			<key>Size</key><integer>5326740</integer>
+			<key>Total Time</key><integer>221910</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643766748</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:25:48Z</date>
+			<key>Persistent ID</key><string>79544C8C20A9630A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Twisterella</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album Artist</key><string>Ride</string>
+			<key>Composer</key><string>Mark Gardener</string>
+			<key>Album</key><string>Going Blank Again</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Going%20Blank%20Again/02%20Twisterella.mp3</string>
+		</dict>
+		<key>20419</key>
+		<dict>
+			<key>Track ID</key><integer>20419</integer>
+			<key>Size</key><integer>8500931</integer>
+			<key>Total Time</key><integer>354168</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643767430</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:37:10Z</date>
+			<key>Persistent ID</key><string>9EA3D314B1EB5F3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Time Machine</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album Artist</key><string>Ride</string>
+			<key>Composer</key><string>Mark Gardener</string>
+			<key>Album</key><string>Going Blank Again</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Going%20Blank%20Again/09%20Time%20Machine.mp3</string>
+		</dict>
+		<key>20481</key>
+		<dict>
+			<key>Track ID</key><integer>20481</integer>
+			<key>Size</key><integer>9979648</integer>
+			<key>Total Time</key><integer>299859</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3643768811</integer>
+			<key>Play Date UTC</key><date>2019-06-19T10:00:11Z</date>
+			<key>Persistent ID</key><string>9B2D502B70F69BE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>1000 Miles</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album Artist</key><string>Ride</string>
+			<key>Album</key><string>Carnival of Light</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Carnival%20of%20Light/02%201000%20Miles.mp3</string>
+		</dict>
+		<key>20483</key>
+		<dict>
+			<key>Track ID</key><integer>20483</integer>
+			<key>Size</key><integer>9049831</integer>
+			<key>Total Time</key><integer>281103</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643767711</integer>
+			<key>Play Date UTC</key><date>2019-06-19T09:41:51Z</date>
+			<key>Persistent ID</key><string>6D7D5189D5DFC897</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crown Of Creation</string>
+			<key>Artist</key><string>Ride</string>
+			<key>Album Artist</key><string>Ride</string>
+			<key>Album</key><string>Carnival of Light</string>
+			<key>Genre</key><string>Shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ride/Carnival%20of%20Light/07%20Crown%20Of%20Creation.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138074</integer>
+			<key>Playlist Persistent ID</key><string>78E659C9D22DFF92</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Ride</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20483</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>47445</key>
+		<dict>
+			<key>Track ID</key><integer>47445</integer>
+			<key>Size</key><integer>13504450</integer>
+			<key>Total Time</key><integer>336953</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647320550</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:35:50Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85F826975FADB692</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Piano Man</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-01%20Piano%20Man.mp3</string>
+		</dict>
+		<key>47387</key>
+		<dict>
+			<key>Track ID</key><integer>47387</integer>
+			<key>Size</key><integer>16685123</integer>
+			<key>Total Time</key><integer>416470</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647320965</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:42:45Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4467BDC4014584B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Captain Jack</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-02%20Captain%20Jack.mp3</string>
+		</dict>
+		<key>47405</key>
+		<dict>
+			<key>Track ID</key><integer>47405</integer>
+			<key>Size</key><integer>8788832</integer>
+			<key>Total Time</key><integer>219062</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647321184</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:46:24Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BC0F780D0A7EF3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Entertainer</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Entertainer</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-03%20The%20Entertainer.mp3</string>
+		</dict>
+		<key>47407</key>
+		<dict>
+			<key>Track ID</key><integer>47407</integer>
+			<key>Size</key><integer>14535778</integer>
+			<key>Total Time</key><integer>362736</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647321547</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:52:27Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C3F970CAD728FA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New York State Of Mind</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-05%20New%20York%20State%20Of%20Mind.mp3</string>
+		</dict>
+		<key>47345</key>
+		<dict>
+			<key>Track ID</key><integer>47345</integer>
+			<key>Size</key><integer>12331033</integer>
+			<key>Total Time</key><integer>307617</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647321854</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:57:34Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>651604BBF7D2949F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Stranger</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Stranger</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-06%20The%20Stranger.mp3</string>
+		</dict>
+		<key>47399</key>
+		<dict>
+			<key>Track ID</key><integer>47399</integer>
+			<key>Size</key><integer>18218009</integer>
+			<key>Total Time</key><integer>454791</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647322309</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:05:09Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6CB4881E439F665</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Scenes From An Italian Restaurant</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-07%20Scenes%20From%20An%20Italian%20Restaurant.mp3</string>
+		</dict>
+		<key>47391</key>
+		<dict>
+			<key>Track ID</key><integer>47391</integer>
+			<key>Size</key><integer>11597523</integer>
+			<key>Total Time</key><integer>289280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647322598</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:09:58Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB20DEEECA572E71</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Just The Way You Are</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-08%20Just%20The%20Way%20You%20Are.mp3</string>
+		</dict>
+		<key>47449</key>
+		<dict>
+			<key>Track ID</key><integer>47449</integer>
+			<key>Size</key><integer>12695942</integer>
+			<key>Total Time</key><integer>317387</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2015-03-04T14:37:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647322915</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:15:15Z</date>
+			<key>Release Date</key><date>1998-10-19T07:00:00Z</date>
+			<key>Persistent ID</key><string>F7FA90835888C2E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Prelude / Angry Young Man</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>Turnstiles</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/Turnstiles/06%20Prelude%20_%20Angry%20Young%20Man.mp3</string>
+		</dict>
+		<key>47385</key>
+		<dict>
+			<key>Track ID</key><integer>47385</integer>
+			<key>Size</key><integer>8349987</integer>
+			<key>Total Time</key><integer>208091</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647323124</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:18:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-25T22:52:38Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E40146986A8AFF4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Movin' Out (Anthony's Song)</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-09%20Movin'%20Out%20(Anthony's%20Song).mp3</string>
+		</dict>
+		<key>47369</key>
+		<dict>
+			<key>Track ID</key><integer>47369</integer>
+			<key>Size</key><integer>9348906</integer>
+			<key>Total Time</key><integer>233064</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647323357</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:22:37Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A446EE412A047B91</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Only The Good Die Young</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-10%20Only%20The%20Good%20Die%20Young.mp3</string>
+		</dict>
+		<key>47441</key>
+		<dict>
+			<key>Track ID</key><integer>47441</integer>
+			<key>Size</key><integer>8036509</integer>
+			<key>Total Time</key><integer>200254</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647323557</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:25:57Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8263BB85515FE22</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She Always A Woman</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/1-11%20She%20Always%20A%20Woman.mp3</string>
+		</dict>
+		<key>47379</key>
+		<dict>
+			<key>Track ID</key><integer>47379</integer>
+			<key>Size</key><integer>11314342</integer>
+			<key>Total Time</key><integer>282200</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647323839</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:30:39Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72AA0E43CD37AE5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Life</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-01%20My%20Life.mp3</string>
+		</dict>
+		<key>47427</key>
+		<dict>
+			<key>Track ID</key><integer>47427</integer>
+			<key>Size</key><integer>9699976</integer>
+			<key>Total Time</key><integer>241841</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647324081</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:34:41Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1CA1612F7AE1D768</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Big Shot</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-02%20Big%20Shot.mp3</string>
+		</dict>
+		<key>47419</key>
+		<dict>
+			<key>Track ID</key><integer>47419</integer>
+			<key>Size</key><integer>10177502</integer>
+			<key>Total Time</key><integer>253779</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647324335</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:38:55Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0BD7023C5068874</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You May Be Right</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-03%20You%20May%20Be%20Right.mp3</string>
+		</dict>
+		<key>47425</key>
+		<dict>
+			<key>Track ID</key><integer>47425</integer>
+			<key>Size</key><integer>7101337</integer>
+			<key>Total Time</key><integer>176875</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647324511</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:41:51Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C1D9E9A9B219C1B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Still Rock And Roll To Me</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-04%20It's%20Still%20Rock%20And%20Roll%20To%20Me.mp3</string>
+		</dict>
+		<key>47341</key>
+		<dict>
+			<key>Track ID</key><integer>47341</integer>
+			<key>Size</key><integer>11117902</integer>
+			<key>Total Time</key><integer>277289</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647324789</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:46:29Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0572AF484851E53F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pressure</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-07%20Pressure.mp3</string>
+		</dict>
+		<key>47363</key>
+		<dict>
+			<key>Track ID</key><integer>47363</integer>
+			<key>Size</key><integer>9187977</integer>
+			<key>Total Time</key><integer>229041</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3647325018</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:50:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-25T22:18:38Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BEC4DAE14CE675A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Allentown</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-08%20Allentown.mp3</string>
+		</dict>
+		<key>47409</key>
+		<dict>
+			<key>Track ID</key><integer>47409</integer>
+			<key>Size</key><integer>7835882</integer>
+			<key>Total Time</key><integer>195239</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647325213</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:53:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-25T22:18:42Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C266FA83AB11A8A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Uptown Girl</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-11%20Uptown%20Girl.mp3</string>
+		</dict>
+		<key>47433</key>
+		<dict>
+			<key>Track ID</key><integer>47433</integer>
+			<key>Size</key><integer>8762711</integer>
+			<key>Total Time</key><integer>218409</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647325431</integer>
+			<key>Play Date UTC</key><date>2019-07-30T13:57:11Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E190F0D616B42A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Longest Time</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Longest Time</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/2-12%20The%20Longest%20Time.mp3</string>
+		</dict>
+		<key>47365</key>
+		<dict>
+			<key>Track ID</key><integer>47365</integer>
+			<key>Size</key><integer>9808646</integer>
+			<key>Total Time</key><integer>244558</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647325676</integer>
+			<key>Play Date UTC</key><date>2019-07-30T14:01:16Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41FB094946F5B3B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leningrad</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/3-06%20Leningrad.mp3</string>
+		</dict>
+		<key>47381</key>
+		<dict>
+			<key>Track ID</key><integer>47381</integer>
+			<key>Size</key><integer>10487837</integer>
+			<key>Total Time</key><integer>261537</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647325937</integer>
+			<key>Play Date UTC</key><date>2019-07-30T14:05:37Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B81F5A70070CD7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Go To Extremes</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/3-08%20I%20Go%20To%20Extremes.mp3</string>
+		</dict>
+		<key>47347</key>
+		<dict>
+			<key>Track ID</key><integer>47347</integer>
+			<key>Size</key><integer>9899563</integer>
+			<key>Total Time</key><integer>246831</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-24T20:01:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647326184</integer>
+			<key>Play Date UTC</key><date>2019-07-30T14:09:44Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E3A50D1A2F65248</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The River Of Dreams</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album</key><string>The Complete Hits Collection</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>River Of Dreams</string>
+			<key>Sort Album</key><string>Complete Hits Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/The%20Complete%20Hits%20Collection/3-14%20The%20River%20Of%20Dreams.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131850</integer>
+			<key>Playlist Persistent ID</key><string>7C13D27C04C96942</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Billy Joel</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47347</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

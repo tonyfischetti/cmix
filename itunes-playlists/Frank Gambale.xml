@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>24675</key>
+		<dict>
+			<key>Track ID</key><integer>24675</integer>
+			<key>Size</key><integer>5457351</integer>
+			<key>Total Time</key><integer>338834</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648743877</integer>
+			<key>Play Date UTC</key><date>2019-08-15T23:57:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C830C0E4A6D6DD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Little Charmer</string>
+			<key>Artist</key><string>Frank Gambale</string>
+			<key>Album</key><string>Passages</string>
+			<key>Genre</key><string>Jazz Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Frank Gambale</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20Gambale/Passages/01%20Little%20Charmer.mp3</string>
+		</dict>
+		<key>24677</key>
+		<dict>
+			<key>Track ID</key><integer>24677</integer>
+			<key>Size</key><integer>3932627</integer>
+			<key>Total Time</key><integer>243539</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3648744121</integer>
+			<key>Play Date UTC</key><date>2019-08-16T00:02:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A23D991A8A135FCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>D-Day</string>
+			<key>Artist</key><string>Frank Gambale</string>
+			<key>Album</key><string>Passages</string>
+			<key>Genre</key><string>Jazz Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Frank Gambale</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20Gambale/Passages/05%20D-Day.mp3</string>
+		</dict>
+		<key>24669</key>
+		<dict>
+			<key>Track ID</key><integer>24669</integer>
+			<key>Size</key><integer>5149314</integer>
+			<key>Total Time</key><integer>319582</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3648744440</integer>
+			<key>Play Date UTC</key><date>2019-08-16T00:07:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>899825E24593DD53</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nunzio's Near</string>
+			<key>Artist</key><string>Frank Gambale</string>
+			<key>Album</key><string>Passages</string>
+			<key>Genre</key><string>Jazz Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Frank Gambale</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20Gambale/Passages/06%20Nunzio's%20Near.mp3</string>
+		</dict>
+		<key>24663</key>
+		<dict>
+			<key>Track ID</key><integer>24663</integer>
+			<key>Size</key><integer>4962902</integer>
+			<key>Total Time</key><integer>307931</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648743538</integer>
+			<key>Play Date UTC</key><date>2019-08-15T23:52:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F68848438AF1FA37</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Free Spirit</string>
+			<key>Artist</key><string>Frank Gambale</string>
+			<key>Album</key><string>Passages</string>
+			<key>Genre</key><string>Jazz Fusion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Frank Gambale</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20Gambale/Passages/07%20Free%20Spirit.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132931</integer>
+			<key>Playlist Persistent ID</key><string>6F7F59A688873583</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Frank Gambale</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>24675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24663</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

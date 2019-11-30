@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>46853</key>
+		<dict>
+			<key>Track ID</key><integer>46853</integer>
+			<key>Size</key><integer>5567128</integer>
+			<key>Total Time</key><integer>209084</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B739568695286210</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Wave</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/01%20New%20Wave.mp3</string>
+		</dict>
+		<key>46841</key>
+		<dict>
+			<key>Track ID</key><integer>46841</integer>
+			<key>Size</key><integer>4347474</integer>
+			<key>Total Time</key><integer>172747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A697F09DB47B598</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Up the Cuts</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/02%20Up%20the%20Cuts.mp3</string>
+		</dict>
+		<key>46843</key>
+		<dict>
+			<key>Track ID</key><integer>46843</integer>
+			<key>Size</key><integer>6200649</integer>
+			<key>Total Time</key><integer>249652</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADEF890C0C6547D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Borne On the FM Waves of the Heart</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/06%20Borne%20On%20the%20FM%20Waves%20of%20the%20Heart.mp3</string>
+		</dict>
+		<key>46845</key>
+		<dict>
+			<key>Track ID</key><integer>46845</integer>
+			<key>Size</key><integer>3519724</integer>
+			<key>Total Time</key><integer>147200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22EC270CDDAD1B17</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Piss and Vinegar</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/07%20Piss%20and%20Vinegar.mp3</string>
+		</dict>
+		<key>46855</key>
+		<dict>
+			<key>Track ID</key><integer>46855</integer>
+			<key>Size</key><integer>3259492</integer>
+			<key>Total Time</key><integer>135680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>185</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BF645FE0A238A20</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Americans Abroad</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/08%20Americans%20Abroad.mp3</string>
+		</dict>
+		<key>46857</key>
+		<dict>
+			<key>Track ID</key><integer>46857</integer>
+			<key>Size</key><integer>5013969</integer>
+			<key>Total Time</key><integer>200097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A62890336ECDACB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Animal</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/09%20Animal.mp3</string>
+		</dict>
+		<key>46859</key>
+		<dict>
+			<key>Track ID</key><integer>46859</integer>
+			<key>Size</key><integer>6938796</integer>
+			<key>Total Time</key><integer>278517</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>785BFB101DA1F7F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Ocean</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Ocean</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/10%20The%20Ocean.mp3</string>
+		</dict>
+		<key>46881</key>
+		<dict>
+			<key>Track ID</key><integer>46881</integer>
+			<key>Size</key><integer>6112052</integer>
+			<key>Total Time</key><integer>231209</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-11-02T02:12:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FAE1470744D84E7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spanish Moss</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-08%20Spanish%20Moss.mp3</string>
+		</dict>
+		<key>46863</key>
+		<dict>
+			<key>Track ID</key><integer>46863</integer>
+			<key>Size</key><integer>3114100</integer>
+			<key>Total Time</key><integer>106187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-11-02T02:15:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A97479D5B3D66068</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rapid Decompression</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-09%20Rapid%20Decompression.mp3</string>
+		</dict>
+		<key>46867</key>
+		<dict>
+			<key>Track ID</key><integer>46867</integer>
+			<key>Size</key><integer>5776993</integer>
+			<key>Total Time</key><integer>215327</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-11-02T02:17:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD2928940E2D3238</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bamboo Bones</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-10%20Bamboo%20Bones.mp3</string>
+		</dict>
+		<key>46869</key>
+		<dict>
+			<key>Track ID</key><integer>46869</integer>
+			<key>Size</key><integer>5631359</integer>
+			<key>Total Time</key><integer>211774</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-10-23T20:23:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>583B59D746798E37</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lehigh Acres</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-11%20Lehigh%20Acres.mp3</string>
+		</dict>
+		<key>46887</key>
+		<dict>
+			<key>Track ID</key><integer>46887</integer>
+			<key>Size</key><integer>4726148</integer>
+			<key>Total Time</key><integer>176822</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-10-23T20:23:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D597DB7706718D76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bob Dylan Dream</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-12%20Bob%20Dylan%20Dream.mp3</string>
+		</dict>
+		<key>46871</key>
+		<dict>
+			<key>Track ID</key><integer>46871</integer>
+			<key>Size</key><integer>5840362</integer>
+			<key>Total Time</key><integer>215118</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-10-23T20:23:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98530F0820900E4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One By One</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-13%20One%20By%20One.mp3</string>
+		</dict>
+		<key>46875</key>
+		<dict>
+			<key>Track ID</key><integer>46875</integer>
+			<key>Size</key><integer>6423903</integer>
+			<key>Total Time</key><integer>241606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-10-23T20:23:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>35BBAB509D40985F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bitter Divisions</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-14%20Bitter%20Divisions.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131598</integer>
+			<key>Playlist Persistent ID</key><string>CBE75457ECAFAA68</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Against Me! Audit</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46843</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46875</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

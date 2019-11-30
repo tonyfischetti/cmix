@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>46799</key>
+		<dict>
+			<key>Track ID</key><integer>46799</integer>
+			<key>Size</key><integer>5664515</integer>
+			<key>Total Time</key><integer>176692</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-10-23T20:14:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3633758031</integer>
+			<key>Play Date UTC</key><date>2019-02-23T14:13:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-22T12:17:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8676EC60A7D9A32D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>12:03</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Laura Jane Grace, James Bowman, Atom Willard &amp; Inge Johansson</string>
+			<key>Album</key><string>Shape Shift with Me</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Shape%20Shift%20with%20Me/02%2012_03.mp3</string>
+		</dict>
+		<key>46817</key>
+		<dict>
+			<key>Track ID</key><integer>46817</integer>
+			<key>Size</key><integer>4225352</integer>
+			<key>Total Time</key><integer>155271</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-10-23T20:14:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3633758186</integer>
+			<key>Play Date UTC</key><date>2019-02-23T14:16:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E414B2CDB67657F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crash</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Laura Jane Grace</string>
+			<key>Album</key><string>Shape Shift with Me</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Shape%20Shift%20with%20Me/04%20Crash.mp3</string>
+		</dict>
+		<key>46811</key>
+		<dict>
+			<key>Track ID</key><integer>46811</integer>
+			<key>Size</key><integer>5291411</integer>
+			<key>Total Time</key><integer>197903</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-10-23T20:14:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3633754948</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:22:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB381A5EAD87E5A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>333</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Laura Jane Grace, James Bowman, Inge Johansson &amp; Atom Willard</string>
+			<key>Album</key><string>Shape Shift with Me</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Shape%20Shift%20with%20Me/06%20333.mp3</string>
+		</dict>
+		<key>46803</key>
+		<dict>
+			<key>Track ID</key><integer>46803</integer>
+			<key>Size</key><integer>3926688</integer>
+			<key>Total Time</key><integer>145084</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-10-23T20:14:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3633755093</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:24:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FE3DC677385570F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Haunting, Haunted, Haunts</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Laura Jane Grace, James Bowman, Inge Johansson &amp; Atom Willard</string>
+			<key>Album</key><string>Shape Shift with Me</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Shape%20Shift%20with%20Me/07%20Haunting,%20Haunted,%20Haunts.mp3</string>
+		</dict>
+		<key>46805</key>
+		<dict>
+			<key>Track ID</key><integer>46805</integer>
+			<key>Size</key><integer>4202107</integer>
+			<key>Total Time</key><integer>158119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-10-23T20:14:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3633755251</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:27:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB5BDD7D36409477</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rebecca</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Laura Jane Grace, James Bowman, Inge Johansson &amp; Atom Willard</string>
+			<key>Album</key><string>Shape Shift with Me</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Shape%20Shift%20with%20Me/09%20Rebecca.mp3</string>
+		</dict>
+		<key>46839</key>
+		<dict>
+			<key>Track ID</key><integer>46839</integer>
+			<key>Size</key><integer>4624191</integer>
+			<key>Total Time</key><integer>196466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-10-23T20:15:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3633755461</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:31:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7DD7ECC8C7A91FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Transgender Dysphoria Blues</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>Transgender Dysphoria Blues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Transgender%20Dysphoria%20Blues/01%20Transgender%20Dysphoria%20Blues.mp3</string>
+		</dict>
+		<key>46821</key>
+		<dict>
+			<key>Track ID</key><integer>46821</integer>
+			<key>Size</key><integer>4829464</integer>
+			<key>Total Time</key><integer>192862</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-10-23T20:15:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3633755654</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:34:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>970F46EF38F801C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>True Trans Soul Rebel</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>Transgender Dysphoria Blues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Transgender%20Dysphoria%20Blues/02%20True%20Trans%20Soul%20Rebel.mp3</string>
+		</dict>
+		<key>46831</key>
+		<dict>
+			<key>Track ID</key><integer>46831</integer>
+			<key>Size</key><integer>4208979</integer>
+			<key>Total Time</key><integer>171598</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-10-23T20:15:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3633755826</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:37:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>609B10BDACEED3ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unconditional Love</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>Transgender Dysphoria Blues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Transgender%20Dysphoria%20Blues/03%20Unconditional%20Love.mp3</string>
+		</dict>
+		<key>46835</key>
+		<dict>
+			<key>Track ID</key><integer>46835</integer>
+			<key>Size</key><integer>4290413</integer>
+			<key>Total Time</key><integer>176613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-10-23T20:15:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3633757230</integer>
+			<key>Play Date UTC</key><date>2019-02-23T14:00:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F28048160325EEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>FUCKMYLIFE666</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>Transgender Dysphoria Blues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Transgender%20Dysphoria%20Blues/06%20FUCKMYLIFE666.mp3</string>
+		</dict>
+		<key>46827</key>
+		<dict>
+			<key>Track ID</key><integer>46827</integer>
+			<key>Size</key><integer>4532123</integer>
+			<key>Total Time</key><integer>182465</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-10-23T20:15:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3633757409</integer>
+			<key>Play Date UTC</key><date>2019-02-23T14:03:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB3DC7315897EAF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dead Friend</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>Transgender Dysphoria Blues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Transgender%20Dysphoria%20Blues/07%20Dead%20Friend.mp3</string>
+		</dict>
+		<key>46849</key>
+		<dict>
+			<key>Track ID</key><integer>46849</integer>
+			<key>Size</key><integer>5189005</integer>
+			<key>Total Time</key><integer>211435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-10-23T20:20:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3633756396</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:46:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9419C198D5E9CB61</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>White People for Peace</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>New Wave</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/New%20Wave/04%20White%20People%20for%20Peace.mp3</string>
+		</dict>
+		<key>46883</key>
+		<dict>
+			<key>Track ID</key><integer>46883</integer>
+			<key>Size</key><integer>5375247</integer>
+			<key>Total Time</key><integer>195213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-10-24T17:07:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3633756591</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:49:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85E377401DAC502E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Was a Teenage Anarchist</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-02%20I%20Was%20a%20Teenage%20Anarchist.mp3</string>
+		</dict>
+		<key>46825</key>
+		<dict>
+			<key>Track ID</key><integer>46825</integer>
+			<key>Size</key><integer>4823658</integer>
+			<key>Total Time</key><integer>192653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-10-23T20:15:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3633756938</integer>
+			<key>Play Date UTC</key><date>2019-02-23T13:55:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5048AD0897D5ECAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Paralytic States</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Album</key><string>Transgender Dysphoria Blues</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/Transgender%20Dysphoria%20Blues/09%20Paralytic%20States.mp3</string>
+		</dict>
+		<key>46879</key>
+		<dict>
+			<key>Track ID</key><integer>46879</integer>
+			<key>Size</key><integer>5896429</integer>
+			<key>Total Time</key><integer>216320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-11-02T01:31:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3633757854</integer>
+			<key>Play Date UTC</key><date>2019-02-23T14:10:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2EF6373D682E94CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>White Crosses</string>
+			<key>Artist</key><string>Against Me!</string>
+			<key>Album Artist</key><string>Against Me!</string>
+			<key>Composer</key><string>Against Me!</string>
+			<key>Album</key><string>White Crosses</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>White Crosses</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Against%20Me!/White%20Crosses/1-01%20White%20Crosses.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131581</integer>
+			<key>Playlist Persistent ID</key><string>FA5044F93BC2CCF4</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Against Me!</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46803</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46805</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46879</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

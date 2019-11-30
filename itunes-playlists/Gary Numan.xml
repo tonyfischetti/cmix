@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>10711</key>
+		<dict>
+			<key>Track ID</key><integer>10711</integer>
+			<key>Size</key><integer>5894087</integer>
+			<key>Total Time</key><integer>241240</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T01:04:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD718A9C0C0B82CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cars</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/01%20Cars.mp3</string>
+		</dict>
+		<key>10705</key>
+		<dict>
+			<key>Track ID</key><integer>10705</integer>
+			<key>Size</key><integer>6883922</integer>
+			<key>Total Time</key><integer>169613</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>76430B45A0483119</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tracks</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/02%20Tracks.mp3</string>
+		</dict>
+		<key>10731</key>
+		<dict>
+			<key>Track ID</key><integer>10731</integer>
+			<key>Size</key><integer>10585956</integer>
+			<key>Total Time</key><integer>262243</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89CEE2C0166AD355</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Down in the Dark</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/03%20Down%20in%20the%20Dark.mp3</string>
+		</dict>
+		<key>10729</key>
+		<dict>
+			<key>Track ID</key><integer>10729</integer>
+			<key>Size</key><integer>13088421</integer>
+			<key>Total Time</key><integer>324858</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4044AFA4E1C195CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>This Wreckage</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/04%20This%20Wreckage.mp3</string>
+		</dict>
+		<key>10701</key>
+		<dict>
+			<key>Track ID</key><integer>10701</integer>
+			<key>Size</key><integer>9603542</integer>
+			<key>Total Time</key><integer>237662</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B04E4BEFDC9DFCC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Random</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/05%20Random.mp3</string>
+		</dict>
+		<key>10733</key>
+		<dict>
+			<key>Track ID</key><integer>10733</integer>
+			<key>Size</key><integer>7313017</integer>
+			<key>Total Time</key><integer>180349</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A31AFA4ED5433377</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Shadow in Vain</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/06%20My%20Shadow%20in%20Vain.mp3</string>
+		</dict>
+		<key>10707</key>
+		<dict>
+			<key>Track ID</key><integer>10707</integer>
+			<key>Size</key><integer>8840392</integer>
+			<key>Total Time</key><integer>218566</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB5AC8DCC5533C4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Music for Chameleons</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/08%20Music%20for%20Chameleons.mp3</string>
+		</dict>
+		<key>10713</key>
+		<dict>
+			<key>Track ID</key><integer>10713</integer>
+			<key>Size</key><integer>11312622</integer>
+			<key>Total Time</key><integer>280424</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F0B9CF8AF01ED75D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>On Broadway [Live]</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Barry Mann/Cynthia Weil/Jerry Leiber/Mike Stoller</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/13%20On%20Broadway%20%5BLive%5D.mp3</string>
+		</dict>
+		<key>10717</key>
+		<dict>
+			<key>Track ID</key><integer>10717</integer>
+			<key>Size</key><integer>13596856</integer>
+			<key>Total Time</key><integer>337580</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCB5410805DA4DBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Aircrash Bureau</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Aircrash Bureau</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/14%20The%20Aircrash%20Bureau.mp3</string>
+		</dict>
+		<key>10703</key>
+		<dict>
+			<key>Track ID</key><integer>10703</integer>
+			<key>Size</key><integer>12946448</integer>
+			<key>Total Time</key><integer>321306</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E44E86ED58B9A1D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Are 'Friends' Electric?</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/16%20Are%20'Friends'%20Electric_.mp3</string>
+		</dict>
+		<key>10723</key>
+		<dict>
+			<key>Track ID</key><integer>10723</integer>
+			<key>Size</key><integer>11276037</integer>
+			<key>Total Time</key><integer>279510</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8557A9A29D860828</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Are Glass</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album Artist</key><string>Gary Numan</string>
+			<key>Composer</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/18%20We%20Are%20Glass.mp3</string>
+		</dict>
+		<key>10801</key>
+		<dict>
+			<key>Track ID</key><integer>10801</integer>
+			<key>Size</key><integer>5171347</integer>
+			<key>Total Time</key><integer>202814</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>93FA3BEDE37EEF7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Me! I Disconnect from You</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>Replicas</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Replicas/01%20Me!%20I%20Disconnect%20from%20You.mp3</string>
+		</dict>
+		<key>10765</key>
+		<dict>
+			<key>Track ID</key><integer>10765</integer>
+			<key>Size</key><integer>4769396</integer>
+			<key>Total Time</key><integer>198713</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B1B66F4A8169522E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Airlane</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/01%20Airlane.mp3</string>
+		</dict>
+		<key>10737</key>
+		<dict>
+			<key>Track ID</key><integer>10737</integer>
+			<key>Size</key><integer>5112329</integer>
+			<key>Total Time</key><integer>213002</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DC4CD7D695515FEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Metal</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/02%20Metal.mp3</string>
+		</dict>
+		<key>10761</key>
+		<dict>
+			<key>Track ID</key><integer>10761</integer>
+			<key>Size</key><integer>4619558</integer>
+			<key>Total Time</key><integer>192470</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>77308502ECF7199A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Complex</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/03%20Complex.mp3</string>
+		</dict>
+		<key>10759</key>
+		<dict>
+			<key>Track ID</key><integer>10759</integer>
+			<key>Size</key><integer>5989417</integer>
+			<key>Total Time</key><integer>249547</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>96456D923A7F9801</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Films</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/04%20Films.mp3</string>
+		</dict>
+		<key>10741</key>
+		<dict>
+			<key>Track ID</key><integer>10741</integer>
+			<key>Size</key><integer>8095930</integer>
+			<key>Total Time</key><integer>337319</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BCFCBFD58102C903</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>M.E.</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/05%20M.E..mp3</string>
+		</dict>
+		<key>10755</key>
+		<dict>
+			<key>Track ID</key><integer>10755</integer>
+			<key>Size</key><integer>4123648</integer>
+			<key>Total Time</key><integer>171807</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>79A6BBA8F5D5353D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tracks</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/06%20Tracks.mp3</string>
+		</dict>
+		<key>10757</key>
+		<dict>
+			<key>Track ID</key><integer>10757</integer>
+			<key>Size</key><integer>4170670</integer>
+			<key>Total Time</key><integer>173766</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BCCE54EC4F7C80D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Observer</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/07%20Observer.mp3</string>
+		</dict>
+		<key>10743</key>
+		<dict>
+			<key>Track ID</key><integer>10743</integer>
+			<key>Size</key><integer>5793189</integer>
+			<key>Total Time</key><integer>241371</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>530B7E15FBBC1207</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Engineers</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>The Pleasure Principle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Pleasure Principle</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/The%20Pleasure%20Principle/10%20Engineers.mp3</string>
+		</dict>
+		<key>10853</key>
+		<dict>
+			<key>Track ID</key><integer>10853</integer>
+			<key>Size</key><integer>8682740</integer>
+			<key>Total Time</key><integer>316186</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-04-25T16:54:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>219</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DFEDE9B64CDD09EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Down in the Park</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>Dominion Day</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Dominion%20Day/11%20Down%20in%20the%20Park.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132961</integer>
+			<key>Playlist Persistent ID</key><string>47855FB5A52C9F31</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Gary Numan</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10765</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10853</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

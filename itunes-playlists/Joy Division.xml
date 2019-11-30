@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>14961</key>
+		<dict>
+			<key>Track ID</key><integer>14961</integer>
+			<key>Size</key><integer>5543085</integer>
+			<key>Total Time</key><integer>173400</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>85C5B3BB34216F25</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Isolation</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Closer</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Closer/02%20Isolation.mp3</string>
+		</dict>
+		<key>14951</key>
+		<dict>
+			<key>Track ID</key><integer>14951</integer>
+			<key>Size</key><integer>11237782</integer>
+			<key>Total Time</key><integer>351555</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>94FB8AFEEFCEEE76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heart And Soul</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Closer</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Closer/06%20Heart%20And%20Soul.mp3</string>
+		</dict>
+		<key>14953</key>
+		<dict>
+			<key>Track ID</key><integer>14953</integer>
+			<key>Size</key><integer>7919507</integer>
+			<key>Total Time</key><integer>247745</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EC00987ABB59A809</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Means To An End</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Closer</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Means To An End</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Closer/05%20A%20Means%20To%20An%20End.mp3</string>
+		</dict>
+		<key>14957</key>
+		<dict>
+			<key>Track ID</key><integer>14957</integer>
+			<key>Size</key><integer>11835648</integer>
+			<key>Total Time</key><integer>370259</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CE6C9F67328BCDBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Decades</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Closer</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Closer/09%20Decades.mp3</string>
+		</dict>
+		<key>14859</key>
+		<dict>
+			<key>Track ID</key><integer>14859</integer>
+			<key>Size</key><integer>8032481</integer>
+			<key>Total Time</key><integer>250853</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C9C68DB4A6A6AED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Twenty Four Hours</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Peel Sessions</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Peel%20Sessions/06%20Twenty%20Four%20Hours.mp3</string>
+		</dict>
+		<key>14903</key>
+		<dict>
+			<key>Track ID</key><integer>14903</integer>
+			<key>Size</key><integer>5244965</integer>
+			<key>Total Time</key><integer>217991</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89082EC42D3EF21C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Will Tear Us Apart</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Permanent</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Permanent/Love%20Will%20Tear%20Us%20Apart.mp3</string>
+		</dict>
+		<key>14845</key>
+		<dict>
+			<key>Track ID</key><integer>14845</integer>
+			<key>Size</key><integer>6863256</integer>
+			<key>Total Time</key><integer>212349</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>40584D36A34F83AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Disorder</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Unknown Pleasures</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Unknown%20Pleasures/01%20Disorder.mp3</string>
+		</dict>
+		<key>14851</key>
+		<dict>
+			<key>Track ID</key><integer>14851</integer>
+			<key>Size</key><integer>7653186</integer>
+			<key>Total Time</key><integer>236773</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61E36B96257AAB92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She's Lost Control</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Unknown Pleasures</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Unknown%20Pleasures/06%20She's%20Lost%20Control.mp3</string>
+		</dict>
+		<key>14849</key>
+		<dict>
+			<key>Track ID</key><integer>14849</integer>
+			<key>Size</key><integer>8680220</integer>
+			<key>Total Time</key><integer>269191</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8D20E72AA725D5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Insight</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Unknown Pleasures</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Unknown%20Pleasures/04%20Insight.mp3</string>
+		</dict>
+		<key>14929</key>
+		<dict>
+			<key>Track ID</key><integer>14929</integer>
+			<key>Size</key><integer>9390767</integer>
+			<key>Total Time</key><integer>293773</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6D86370172D9117C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dead Souls</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Still</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Still/09%20Dead%20Souls.mp3</string>
+		</dict>
+		<key>14943</key>
+		<dict>
+			<key>Track ID</key><integer>14943</integer>
+			<key>Size</key><integer>4602864</integer>
+			<key>Total Time</key><integer>143804</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AE4669701D713051</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ice Age</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Still</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Still/02%20Ice%20Age.mp3</string>
+		</dict>
+		<key>14939</key>
+		<dict>
+			<key>Track ID</key><integer>14939</integer>
+			<key>Size</key><integer>7571306</integer>
+			<key>Total Time</key><integer>236564</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F13D7C33C7AF98AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Glass</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Still</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Still/04%20Glass.mp3</string>
+		</dict>
+		<key>14877</key>
+		<dict>
+			<key>Track ID</key><integer>14877</integer>
+			<key>Size</key><integer>4970196</integer>
+			<key>Total Time</key><integer>155088</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50B4989503B901A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leaders Of Men</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Substance</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Substance/02%20Leaders%20Of%20Men.mp3</string>
+		</dict>
+		<key>14887</key>
+		<dict>
+			<key>Track ID</key><integer>14887</integer>
+			<key>Size</key><integer>6920746</integer>
+			<key>Total Time</key><integer>216111</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF19AF7D95292291</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Transmission</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Substance</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Substance/05%20Transmission.mp3</string>
+		</dict>
+		<key>14875</key>
+		<dict>
+			<key>Track ID</key><integer>14875</integer>
+			<key>Size</key><integer>8031303</integer>
+			<key>Total Time</key><integer>250853</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE9B95617DEFFC8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Atmosphere</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Substance</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Substance/09%20Atmosphere.mp3</string>
+		</dict>
+		<key>14895</key>
+		<dict>
+			<key>Track ID</key><integer>14895</integer>
+			<key>Size</key><integer>7143711</integer>
+			<key>Total Time</key><integer>223085</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F230C791745EB039</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No Love Lost</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Substance</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Substance/11%20No%20Love%20Lost.mp3</string>
+		</dict>
+		<key>14891</key>
+		<dict>
+			<key>Track ID</key><integer>14891</integer>
+			<key>Size</key><integer>4710523</integer>
+			<key>Total Time</key><integer>146964</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6459D199F6AB3DE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>From Safety To Where</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Substance</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Substance/14%20From%20Safety%20To%20Where.mp3</string>
+		</dict>
+		<key>14893</key>
+		<dict>
+			<key>Track ID</key><integer>14893</integer>
+			<key>Size</key><integer>5476191</integer>
+			<key>Total Time</key><integer>170919</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD1A582BF0754B5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Digital</string>
+			<key>Artist</key><string>Joy Division</string>
+			<key>Album</key><string>Substance</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Joy%20Division/Substance/03%20Digital.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>136887</integer>
+			<key>Playlist Persistent ID</key><string>2212EF1DCE9DF6A5</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Joy Division</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14903</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14893</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

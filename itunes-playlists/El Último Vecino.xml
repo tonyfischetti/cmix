@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>20559</key>
+		<dict>
+			<key>Track ID</key><integer>20559</integer>
+			<key>Size</key><integer>7806902</integer>
+			<key>Total Time</key><integer>224182</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>276</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613416941</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:55:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4B32E3894EA38EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Antes De Conocerme</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Voces</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Sort Album</key><string>Voces</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Voces/01%20Antes%20De%20Conocerme.mp3</string>
+		</dict>
+		<key>20573</key>
+		<dict>
+			<key>Track ID</key><integer>20573</integer>
+			<key>Size</key><integer>6389689</integer>
+			<key>Total Time</key><integer>186096</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>272</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613415915</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:38:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3990F612337ECC71</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Noche Interminable</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Voces</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Sort Album</key><string>Voces</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Voces/02%20La%20Noche%20Interminable.mp3</string>
+		</dict>
+		<key>20565</key>
+		<dict>
+			<key>Track ID</key><integer>20565</integer>
+			<key>Size</key><integer>6185912</integer>
+			<key>Total Time</key><integer>190511</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613414406</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:13:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4CC3CE227A25C1AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nubes Grises</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Voces</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Sort Album</key><string>Voces</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Voces/03%20Nubes%20Grises.mp3</string>
+		</dict>
+		<key>20567</key>
+		<dict>
+			<key>Track ID</key><integer>20567</integer>
+			<key>Size</key><integer>6513190</integer>
+			<key>Total Time</key><integer>191764</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3613415492</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:31:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9543C421F8DA855B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mi Amiga Salvaje</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Voces</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Sort Album</key><string>Voces</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Voces/05%20Mi%20Amiga%20Salvaje.mp3</string>
+		</dict>
+		<key>20563</key>
+		<dict>
+			<key>Track ID</key><integer>20563</integer>
+			<key>Size</key><integer>8408109</integer>
+			<key>Total Time</key><integer>254275</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-03T02:25:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC60554CCC92D388</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mi Escriba</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Voces</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Sort Album</key><string>Voces</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Voces/06%20Mi%20Escriba.mp3</string>
+		</dict>
+		<key>20555</key>
+		<dict>
+			<key>Track ID</key><integer>20555</integer>
+			<key>Size</key><integer>7668016</integer>
+			<key>Total Time</key><integer>215353</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>282</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613414621</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:17:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>64571F6642A3D311</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Un Sueño Terrible</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/03%20Un%20Suen%CC%83o%20Terrible.mp3</string>
+		</dict>
+		<key>20557</key>
+		<dict>
+			<key>Track ID</key><integer>20557</integer>
+			<key>Size</key><integer>6405253</integer>
+			<key>Total Time</key><integer>174471</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>291</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644500297</integer>
+			<key>Play Date UTC</key><date>2019-06-27T21:11:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7AC82593C9DE7E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Los Nuevos Vecinos</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/07%20Los%20Nuevos%20Vecinos.mp3</string>
+		</dict>
+		<key>20569</key>
+		<dict>
+			<key>Track ID</key><integer>20569</integer>
+			<key>Size</key><integer>7042238</integer>
+			<key>Total Time</key><integer>203964</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613415099</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:24:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>39A18FF22CE48020</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Entera Mitad</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Voces</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Sort Album</key><string>Voces</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Voces/08%20La%20Entera%20Mitad.mp3</string>
+		</dict>
+		<key>20575</key>
+		<dict>
+			<key>Track ID</key><integer>20575</integer>
+			<key>Size</key><integer>6850358</integer>
+			<key>Total Time</key><integer>202788</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613416313</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:45:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>022D8956A6B29D96</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Selva</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Voces</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Sort Album</key><string>Voces</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Voces/09%20La%20Selva.mp3</string>
+		</dict>
+		<key>20541</key>
+		<dict>
+			<key>Track ID</key><integer>20541</integer>
+			<key>Size</key><integer>8208419</integer>
+			<key>Total Time</key><integer>237035</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613415729</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:35:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7398EFFB916BDEE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Que Más Da</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/01%20Que%20Ma%CC%81s%20Da.mp3</string>
+		</dict>
+		<key>20549</key>
+		<dict>
+			<key>Track ID</key><integer>20549</integer>
+			<key>Size</key><integer>6994240</integer>
+			<key>Total Time</key><integer>192888</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>287</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613415300</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:28:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>313EBFDDBB8D0F6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Otra Vez Asustado</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/02%20Otra%20Vez%20Asustado.mp3</string>
+		</dict>
+		<key>20543</key>
+		<dict>
+			<key>Track ID</key><integer>20543</integer>
+			<key>Size</key><integer>9563985</integer>
+			<key>Total Time</key><integer>266840</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3613414216</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:10:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ACA04FDA3B55018C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Antes Siempre Esperaba</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/04%20Antes%20Siempre%20Esperaba.mp3</string>
+		</dict>
+		<key>20547</key>
+		<dict>
+			<key>Track ID</key><integer>20547</integer>
+			<key>Size</key><integer>7583091</integer>
+			<key>Total Time</key><integer>224888</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613416538</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:48:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C06C4768880CEB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Riscas</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/06%20Riscas.mp3</string>
+		</dict>
+		<key>20551</key>
+		<dict>
+			<key>Track ID</key><integer>20551</integer>
+			<key>Size</key><integer>6217472</integer>
+			<key>Total Time</key><integer>179696</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613416717</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:51:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8798AF3CE95DDE75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Los Ángeles</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/08%20Los%20A%CC%81ngeles.mp3</string>
+		</dict>
+		<key>20545</key>
+		<dict>
+			<key>Track ID</key><integer>20545</integer>
+			<key>Size</key><integer>8453540</integer>
+			<key>Total Time</key><integer>249364</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-06-01T19:07:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613417191</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:59:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8401C049E8795A66</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tú No Estás Asustado</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>El Último Vecino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://elultimovecino.bandcamp.com</string>
+			<key>Sort Artist</key><string>El Último Vecino</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/El%20U%CC%81ltimo%20Vecino/09%20Tu%CC%81%20No%20Esta%CC%81s%20Asustado.mp3</string>
+		</dict>
+		<key>20539</key>
+		<dict>
+			<key>Track ID</key><integer>20539</integer>
+			<key>Size</key><integer>6628424</integer>
+			<key>Total Time</key><integer>195448</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-06-01T23:05:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3613416110</integer>
+			<key>Play Date UTC</key><date>2018-07-03T02:41:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2E93C7C4B5C3707</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tu Casa Nueva</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Tu Casa Nueva</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Tu%20Casa%20Nueva/01%20Tu%20Casa%20Nueva.mp3</string>
+		</dict>
+		<key>20535</key>
+		<dict>
+			<key>Track ID</key><integer>20535</integer>
+			<key>Size</key><integer>4701432</integer>
+			<key>Total Time</key><integer>146364</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-06-01T23:05:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613417337</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:02:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-19T22:39:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B50346A73A6665F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sin Ni Tan Siquiera</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Tu Casa Nueva</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Tu%20Casa%20Nueva/02%20Sin%20Ni%20Tan%20Siquiera.mp3</string>
+		</dict>
+		<key>20537</key>
+		<dict>
+			<key>Track ID</key><integer>20537</integer>
+			<key>Size</key><integer>9833001</integer>
+			<key>Total Time</key><integer>282435</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-06-01T23:05:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613417619</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:06:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D689524EBDF864E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Culebra, Columna y Estatua (feat. Javiera Mena)</string>
+			<key>Artist</key><string>El Último Vecino</string>
+			<key>Album Artist</key><string>El Último Vecino</string>
+			<key>Album</key><string>Tu Casa Nueva</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://canadaeditorial.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/El%20U%CC%81ltimo%20Vecino/Tu%20Casa%20Nueva/03%20Culebra,%20Columna%20y%20Estatua%20(feat.%20Javiera%20Mena).mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132806</integer>
+			<key>Playlist Persistent ID</key><string>4706BC83841A73D0</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>El Último Vecino</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20537</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

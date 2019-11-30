@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>7463</key>
+		<dict>
+			<key>Track ID</key><integer>7463</integer>
+			<key>Size</key><integer>9627521</integer>
+			<key>Total Time</key><integer>235467</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2015-01-08T14:59:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4705C51574AD8367</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Ain't No Joke</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Paid In Full</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Paid%20In%20Full/01%20I%20Ain't%20No%20Joke.mp3</string>
+		</dict>
+		<key>7467</key>
+		<dict>
+			<key>Track ID</key><integer>7467</integer>
+			<key>Size</key><integer>16566676</integer>
+			<key>Total Time</key><integer>408946</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2015-01-08T14:59:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-28T21:41:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FF90D5EB6249627</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Melody</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Paid In Full</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Paid%20In%20Full/03%20My%20Melody.mp3</string>
+		</dict>
+		<key>7465</key>
+		<dict>
+			<key>Track ID</key><integer>7465</integer>
+			<key>Size</key><integer>11816590</integer>
+			<key>Total Time</key><integer>290194</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2015-01-08T14:59:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D36AC7BBB100DFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Know You Got Soul</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Paid In Full</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Paid%20In%20Full/04%20I%20Know%20You%20Got%20Soul.mp3</string>
+		</dict>
+		<key>7475</key>
+		<dict>
+			<key>Track ID</key><integer>7475</integer>
+			<key>Size</key><integer>9413315</integer>
+			<key>Total Time</key><integer>230112</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2015-01-08T14:59:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F2A36EE0513162FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Move The Crowd</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Paid In Full</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Paid%20In%20Full/05%20Move%20The%20Crowd.mp3</string>
+		</dict>
+		<key>7545</key>
+		<dict>
+			<key>Track ID</key><integer>7545</integer>
+			<key>Size</key><integer>13555526</integer>
+			<key>Total Time</key><integer>336613</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2015-01-08T14:59:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0D68F9907D33423</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Follow The Leader</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Follow The Leader</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Follow%20The%20Leader/01%20Follow%20The%20Leader.mp3</string>
+		</dict>
+		<key>7553</key>
+		<dict>
+			<key>Track ID</key><integer>7553</integer>
+			<key>Size</key><integer>12677810</integer>
+			<key>Total Time</key><integer>314671</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2015-01-08T14:58:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>267303FD94A5D236</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Microphone Fiend</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Follow The Leader</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Follow%20The%20Leader/02%20Microphone%20Fiend.mp3</string>
+		</dict>
+		<key>7495</key>
+		<dict>
+			<key>Track ID</key><integer>7495</integer>
+			<key>Size</key><integer>10656763</integer>
+			<key>Total Time</key><integer>262791</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>22</integer>
+			<key>Date Modified</key><date>2015-01-08T14:59:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9234617255766E5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Sweat The Technique</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Don't Sweat The Technique</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Don't%20Sweat%20The%20Technique/11%20Don't%20Sweat%20The%20Technique.mp3</string>
+		</dict>
+		<key>21491</key>
+		<dict>
+			<key>Track ID</key><integer>21491</integer>
+			<key>Size</key><integer>9035713</integer>
+			<key>Total Time</key><integer>223007</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-01-10T01:11:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3626870047</integer>
+			<key>Play Date UTC</key><date>2018-12-05T20:54:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6868396108D746E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When I B on tha Mic</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Master</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Master</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Master/03%20When%20I%20B%20on%20tha%20Mic.mp3</string>
+		</dict>
+		<key>21493</key>
+		<dict>
+			<key>Track ID</key><integer>21493</integer>
+			<key>Size</key><integer>9919705</integer>
+			<key>Total Time</key><integer>245106</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-01-10T02:27:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626870292</integer>
+			<key>Play Date UTC</key><date>2018-12-05T20:58:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-28T21:41:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FEE4B11C28D4E8FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Waiting for the World to End</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Master</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Master</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Master/16%20Waiting%20for%20the%20World%20to%20End.mp3</string>
+		</dict>
+		<key>21455</key>
+		<dict>
+			<key>Track ID</key><integer>21455</integer>
+			<key>Size</key><integer>10141537</integer>
+			<key>Total Time</key><integer>250984</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-01-14T14:43:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3626870543</integer>
+			<key>Play Date UTC</key><date>2018-12-05T21:02:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>77170F5F2C2D1282</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Guess Who's Back</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The 18th Letter</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>18th Letter</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%2018th%20Letter/1-08%20Guess%20Who's%20Back.mp3</string>
+		</dict>
+		<key>21437</key>
+		<dict>
+			<key>Track ID</key><integer>21437</integer>
+			<key>Size</key><integer>12275218</integer>
+			<key>Total Time</key><integer>304326</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-01-14T14:43:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626870847</integer>
+			<key>Play Date UTC</key><date>2018-12-05T21:07:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E08C9F500A9D39BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When I'm Flowin</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The 18th Letter</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>18th Letter</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%2018th%20Letter/1-14%20When%20I'm%20Flowin.mp3</string>
+		</dict>
+		<key>21447</key>
+		<dict>
+			<key>Track ID</key><integer>21447</integer>
+			<key>Size</key><integer>9611779</integer>
+			<key>Total Time</key><integer>237740</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-01-14T14:43:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626871085</integer>
+			<key>Play Date UTC</key><date>2018-12-05T21:11:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E2200E2D4004256</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Been a Long Time</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The 18th Letter</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>18th Letter</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%2018th%20Letter/1-04%20It's%20Been%20a%20Long%20Time.mp3</string>
+		</dict>
+		<key>21489</key>
+		<dict>
+			<key>Track ID</key><integer>21489</integer>
+			<key>Size</key><integer>10460979</integer>
+			<key>Total Time</key><integer>258925</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-01-09T18:30:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3649080023</integer>
+			<key>Play Date UTC</key><date>2019-08-19T21:20:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>761DD88F0EC3EBAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Workin' For You</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Seventh Seal</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Seventh Seal</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Seventh%20Seal/09%20Workin'%20For%20You.mp3</string>
+		</dict>
+		<key>21467</key>
+		<dict>
+			<key>Track ID</key><integer>21467</integer>
+			<key>Size</key><integer>6608438</integer>
+			<key>Total Time</key><integer>162612</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-01-09T16:55:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3649080185</integer>
+			<key>Play Date UTC</key><date>2019-08-19T21:23:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>476116E1D78068DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Still In Love</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Seventh Seal</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Seventh Seal</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Seventh%20Seal/13%20Still%20In%20Love.mp3</string>
+		</dict>
+		<key>21497</key>
+		<dict>
+			<key>Track ID</key><integer>21497</integer>
+			<key>Size</key><integer>10174644</integer>
+			<key>Total Time</key><integer>251480</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-01-10T02:27:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626871758</integer>
+			<key>Play Date UTC</key><date>2018-12-05T21:22:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82EC93A717CA6944</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Flow Forever</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Master</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Master</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Master/02%20Flow%20Forever.mp3</string>
+		</dict>
+		<key>21501</key>
+		<dict>
+			<key>Track ID</key><integer>21501</integer>
+			<key>Size</key><integer>10707560</integer>
+			<key>Total Time</key><integer>264803</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-01-10T02:19:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626872022</integer>
+			<key>Play Date UTC</key><date>2018-12-05T21:27:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22C6F51333F8B906</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Finest Ones (Feat. Clark Kent)</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Master</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Master</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Master/04%20Finest%20Ones%20(Feat.%20Clark%20Kent).mp3</string>
+		</dict>
+		<key>21433</key>
+		<dict>
+			<key>Track ID</key><integer>21433</integer>
+			<key>Size</key><integer>7342276</integer>
+			<key>Total Time</key><integer>181002</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-01-14T14:43:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3626872203</integer>
+			<key>Play Date UTC</key><date>2018-12-05T21:30:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21C163EF161A4409</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The 18th Letter (Always and Forever)</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The 18th Letter</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>18th Letter (Always and Forever)</string>
+			<key>Sort Album</key><string>18th Letter</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%2018th%20Letter/1-02%20The%2018th%20Letter%20(Always%20and%20Forever).mp3</string>
+		</dict>
+		<key>7499</key>
+		<dict>
+			<key>Track ID</key><integer>7499</integer>
+			<key>Size</key><integer>9698581</integer>
+			<key>Total Time</key><integer>238837</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>22</integer>
+			<key>Date Modified</key><date>2015-01-08T14:59:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615585348</integer>
+			<key>Play Date UTC</key><date>2018-07-28T05:15:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42C889428C4580E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Know The Ledge</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Don't Sweat The Technique</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Don't%20Sweat%20The%20Technique/10%20Know%20The%20Ledge.mp3</string>
+		</dict>
+		<key>21495</key>
+		<dict>
+			<key>Track ID</key><integer>21495</integer>
+			<key>Size</key><integer>10347051</integer>
+			<key>Total Time</key><integer>255791</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-01-10T02:23:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615585603</integer>
+			<key>Play Date UTC</key><date>2018-07-28T05:20:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E2520D93A2688B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's the R</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Master</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Master</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Master/09%20It's%20the%20R.mp3</string>
+		</dict>
+		<key>21505</key>
+		<dict>
+			<key>Track ID</key><integer>21505</integer>
+			<key>Size</key><integer>10562298</integer>
+			<key>Total Time</key><integer>261172</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-01-10T02:25:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615585864</integer>
+			<key>Play Date UTC</key><date>2018-07-28T05:24:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-02T02:34:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6FBE70176D445C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Real Shit</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Master</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Master</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Master/12%20Real%20Shit.mp3</string>
+		</dict>
+		<key>21523</key>
+		<dict>
+			<key>Track ID</key><integer>21523</integer>
+			<key>Size</key><integer>10012679</integer>
+			<key>Total Time</key><integer>247431</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-01-10T02:24:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5265D3B74117F20B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Know</string>
+			<key>Artist</key><string>Rakim</string>
+			<key>Album Artist</key><string>Rakim</string>
+			<key>Album</key><string>The Master</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Master</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rakim/The%20Master/08%20I%20Know.mp3</string>
+		</dict>
+		<key>7509</key>
+		<dict>
+			<key>Track ID</key><integer>7509</integer>
+			<key>Size</key><integer>10489062</integer>
+			<key>Total Time</key><integer>259213</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2015-01-08T14:52:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-28T21:41:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D921A7A32794C439</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Untouchables</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Let The Rhythm Hit 'em</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Let%20The%20Rhythm%20Hit%20'em/07%20Untouchables.mp3</string>
+		</dict>
+		<key>7497</key>
+		<dict>
+			<key>Track ID</key><integer>7497</integer>
+			<key>Size</key><integer>13417377</integer>
+			<key>Total Time</key><integer>331807</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>22</integer>
+			<key>Date Modified</key><date>2015-01-08T14:58:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85BBC106C5F80F7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>What's On Your Mind?</string>
+			<key>Artist</key><string>Eric B. &amp; Rakim</string>
+			<key>Album</key><string>Don't Sweat The Technique</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Eric%20B.%20&amp;%20Rakim/Don't%20Sweat%20The%20Technique/01%20What's%20On%20Your%20Mind_.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137844</integer>
+			<key>Playlist Persistent ID</key><string>1707DB4584FF7BD2</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Rakim</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7497</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

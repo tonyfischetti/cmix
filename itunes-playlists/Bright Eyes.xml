@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>6595</key>
+		<dict>
+			<key>Track ID</key><integer>6595</integer>
+			<key>Size</key><integer>3762188</integer>
+			<key>Total Time</key><integer>234814</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>74DE2342B3540E02</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Road To Joy</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>I'm Wide Awake, It's Morning</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>910AB50A</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/I'm%20Wide%20Awake,%20It's%20Morning/10%20Road%20To%20Joy.mp3</string>
+		</dict>
+		<key>6609</key>
+		<dict>
+			<key>Track ID</key><integer>6609</integer>
+			<key>Size</key><integer>4484003</integer>
+			<key>Total Time</key><integer>279928</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BF16412A54C54F9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Poison Oak</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>I'm Wide Awake, It's Morning</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>910AB50A</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/I'm%20Wide%20Awake,%20It's%20Morning/09%20Poison%20Oak.mp3</string>
+		</dict>
+		<key>6605</key>
+		<dict>
+			<key>Track ID</key><integer>6605</integer>
+			<key>Size</key><integer>5569861</integer>
+			<key>Total Time</key><integer>347794</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CFE1DE52F4007A86</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Land Locked Blues</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>I'm Wide Awake, It's Morning</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>910AB50A</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/I'm%20Wide%20Awake,%20It's%20Morning/08%20Land%20Locked%20Blues.mp3</string>
+		</dict>
+		<key>6593</key>
+		<dict>
+			<key>Track ID</key><integer>6593</integer>
+			<key>Size</key><integer>3026579</integer>
+			<key>Total Time</key><integer>188839</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>59AF3C90544FDCCE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>First Day Of My Life</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>I'm Wide Awake, It's Morning</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>910AB50A</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/I'm%20Wide%20Awake,%20It's%20Morning/06%20First%20Day%20Of%20My%20Life.mp3</string>
+		</dict>
+		<key>6599</key>
+		<dict>
+			<key>Track ID</key><integer>6599</integer>
+			<key>Size</key><integer>4353020</integer>
+			<key>Total Time</key><integer>271725</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647108671</integer>
+			<key>Play Date UTC</key><date>2019-07-28T01:44:31Z</date>
+			<key>Persistent ID</key><string>811248B6BC287081</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lua</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Composer</key><string>Conor Oberst</string>
+			<key>Album</key><string>I'm Wide Awake, It's Morning</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>910AB50A</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/I'm%20Wide%20Awake,%20It's%20Morning/04%20Lua.mp3</string>
+		</dict>
+		<key>6607</key>
+		<dict>
+			<key>Track ID</key><integer>6607</integer>
+			<key>Size</key><integer>4312896</integer>
+			<key>Total Time</key><integer>269217</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AF39CC38AF6B8D24</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Old Soul Song (For The New World Order)</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>I'm Wide Awake, It's Morning</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>910AB50A</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/I'm%20Wide%20Awake,%20It's%20Morning/03%20Old%20Soul%20Song%20(For%20The%20New%20World%20Order).mp3</string>
+		</dict>
+		<key>6683</key>
+		<dict>
+			<key>Track ID</key><integer>6683</integer>
+			<key>Size</key><integer>13883874</integer>
+			<key>Total Time</key><integer>235885</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>960DA18A57CAB4E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shell Games</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>The People's Key</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>People's Key</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/The%20People's%20Key/02%20Shell%20Games.mp3</string>
+		</dict>
+		<key>6691</key>
+		<dict>
+			<key>Track ID</key><integer>6691</integer>
+			<key>Size</key><integer>14456480</integer>
+			<key>Total Time</key><integer>250200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC5D97858DB23FC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jejune Stars</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>The People's Key</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>People's Key</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/The%20People's%20Key/03%20Jejune%20Stars.mp3</string>
+		</dict>
+		<key>6699</key>
+		<dict>
+			<key>Track ID</key><integer>6699</integer>
+			<key>Size</key><integer>15377039</integer>
+			<key>Total Time</key><integer>273214</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F0DBB00029A35FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Haile Selassie</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>The People's Key</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>People's Key</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/The%20People's%20Key/05%20Haile%20Selassie.mp3</string>
+		</dict>
+		<key>6685</key>
+		<dict>
+			<key>Track ID</key><integer>6685</integer>
+			<key>Size</key><integer>13678033</integer>
+			<key>Total Time</key><integer>230739</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0D58C3EC9528060</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Triple Spiral</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>The People's Key</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>People's Key</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/The%20People's%20Key/07%20Triple%20Spiral.mp3</string>
+		</dict>
+		<key>6695</key>
+		<dict>
+			<key>Track ID</key><integer>6695</integer>
+			<key>Size</key><integer>13864029</integer>
+			<key>Total Time</key><integer>235389</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C70B91251826904</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beginner's Mind</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>The People's Key</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>People's Key</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/The%20People's%20Key/08%20Beginner's%20Mind.mp3</string>
+		</dict>
+		<key>6689</key>
+		<dict>
+			<key>Track ID</key><integer>6689</integer>
+			<key>Size</key><integer>13977915</integer>
+			<key>Total Time</key><integer>238236</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647108401</integer>
+			<key>Play Date UTC</key><date>2019-07-28T01:40:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3235B090423A4E57</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ladder Song</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>The People's Key</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>People's Key</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/The%20People's%20Key/09%20Ladder%20Song.mp3</string>
+		</dict>
+		<key>6655</key>
+		<dict>
+			<key>Track ID</key><integer>6655</integer>
+			<key>Size</key><integer>5367597</integer>
+			<key>Total Time</key><integer>131866</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>453D3B3B486F0880</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The City Has Sex</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>Letting Off The Happiness</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>City Has Sex</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/Letting%20Off%20The%20Happiness/04%20The%20City%20Has%20Sex.mp3</string>
+		</dict>
+		<key>6643</key>
+		<dict>
+			<key>Track ID</key><integer>6643</integer>
+			<key>Size</key><integer>8657987</integer>
+			<key>Total Time</key><integer>214125</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16A5FAEF9ED4FFC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>June on the West Coast</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>Letting Off The Happiness</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/Letting%20Off%20The%20Happiness/07%20June%20on%20the%20West%20Coast.mp3</string>
+		</dict>
+		<key>6787</key>
+		<dict>
+			<key>Track ID</key><integer>6787</integer>
+			<key>Size</key><integer>7628305</integer>
+			<key>Total Time</key><integer>188525</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:08:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>283771624079D4B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When The Curious Girl Realizes She Is Under Glass</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>Fevers and Mirrors</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bright%20Eyes/Fevers%20and%20Mirrors/07%20When%20The%20Curious%20Girl%20Realizes%20She%20Is%20Under%20Glass.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131909</integer>
+			<key>Playlist Persistent ID</key><string>752773F40E8D4C22</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Bright Eyes</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6787</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

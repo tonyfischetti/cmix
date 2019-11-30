@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>22527</key>
+		<dict>
+			<key>Track ID</key><integer>22527</integer>
+			<key>Size</key><integer>4755047</integer>
+			<key>Total Time</key><integer>177998</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB03B89E6B5DD7DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Treason</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/03%20Treason.mp3</string>
+		</dict>
+		<key>22501</key>
+		<dict>
+			<key>Track ID</key><integer>22501</integer>
+			<key>Size</key><integer>3744872</integer>
+			<key>Total Time</key><integer>151484</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3445672E451B7BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Brave Boys Keep Their Promises</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/07%20Brave%20Boys%20Keep%20Their%20Promises.mp3</string>
+		</dict>
+		<key>22503</key>
+		<dict>
+			<key>Track ID</key><integer>22503</integer>
+			<key>Size</key><integer>4911045</integer>
+			<key>Total Time</key><integer>191111</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>95BFD1B223EABB8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Second Head</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/04%20Second%20Head.mp3</string>
+		</dict>
+		<key>22509</key>
+		<dict>
+			<key>Track ID</key><integer>22509</integer>
+			<key>Size</key><integer>4077795</integer>
+			<key>Total Time</key><integer>147826</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>219</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E23C84ADA9A09EFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bouncing Babies</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/08%20Bouncing%20Babies.mp3</string>
+		</dict>
+		<key>22531</key>
+		<dict>
+			<key>Track ID</key><integer>22531</integer>
+			<key>Size</key><integer>10531706</integer>
+			<key>Total Time</key><integer>429871</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C600357CA75E3784</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When I Dream</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/11%20When%20I%20Dream.mp3</string>
+		</dict>
+		<key>22549</key>
+		<dict>
+			<key>Track ID</key><integer>22549</integer>
+			<key>Size</key><integer>4429599</integer>
+			<key>Total Time</key><integer>160313</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>219</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C02041EFE11D8AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Went Crazy</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/06%20Went%20Crazy.mp3</string>
+		</dict>
+		<key>22543</key>
+		<dict>
+			<key>Track ID</key><integer>22543</integer>
+			<key>Size</key><integer>4636584</integer>
+			<key>Total Time</key><integer>166269</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>899401624977AD02</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Reward</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/12%20Reward.mp3</string>
+		</dict>
+		<key>22533</key>
+		<dict>
+			<key>Track ID</key><integer>22533</integer>
+			<key>Size</key><integer>6633482</integer>
+			<key>Total Time</key><integer>226925</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0267757956939BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sleeping Gas</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/02%20Sleeping%20Gas.mp3</string>
+		</dict>
+		<key>22519</key>
+		<dict>
+			<key>Track ID</key><integer>22519</integer>
+			<key>Size</key><integer>4359335</integer>
+			<key>Total Time</key><integer>156943</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D8FC11151560D4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Books</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/09%20Books.mp3</string>
+		</dict>
+		<key>22499</key>
+		<dict>
+			<key>Track ID</key><integer>22499</integer>
+			<key>Size</key><integer>7098222</integer>
+			<key>Total Time</key><integer>286093</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCD118645DD23892</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Strange House In The Snow</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/21%20Strange%20House%20In%20The%20Snow.mp3</string>
+		</dict>
+		<key>22495</key>
+		<dict>
+			<key>Track ID</key><integer>22495</integer>
+			<key>Size</key><integer>4430918</integer>
+			<key>Total Time</key><integer>174419</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:19:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7EC4460683F8846C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ha Ha I'm Drowning</string>
+			<key>Artist</key><string>The Teardrop Explodes</string>
+			<key>Album Artist</key><string>The Teardrop Explodes</string>
+			<key>Album</key><string>Kilimanjaro</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>TMH-RG</string>
+			<key>Sort Artist</key><string>Teardrop Explodes</string>
+			<key>Sort Album Artist</key><string>Teardrop Explodes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Teardrop%20Explodes/Kilimanjaro/01%20Ha%20Ha%20I'm%20Drowning.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>142026</integer>
+			<key>Playlist Persistent ID</key><string>2D0A981DB173E61D</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Teardrop Explodes</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>22527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22495</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

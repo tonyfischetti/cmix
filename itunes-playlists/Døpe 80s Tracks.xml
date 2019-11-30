@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>18683</key>
+		<dict>
+			<key>Track ID</key><integer>18683</integer>
+			<key>Size</key><integer>7104984</integer>
+			<key>Total Time</key><integer>295601</integer>
+			<key>Date Modified</key><date>2015-03-27T18:53:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3622827156</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:52:36Z</date>
+			<key>Persistent ID</key><string>583E515DC8A6670A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Africa</string>
+			<key>Artist</key><string>Toto</string>
+			<key>Album</key><string>Toto IV</string>
+			<key>Genre</key><string>Dope</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Toto/Toto%20IV/Africa.mp3</string>
+		</dict>
+		<key>11795</key>
+		<dict>
+			<key>Track ID</key><integer>11795</integer>
+			<key>Size</key><integer>3998106</integer>
+			<key>Total Time</key><integer>248633</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3615612524</integer>
+			<key>Play Date UTC</key><date>2018-07-28T12:48:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-28T12:57:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9DF476345BF3B55</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Night in Bangkok</string>
+			<key>Artist</key><string>Murray Head</string>
+			<key>Album</key><string>Chess</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Murray%20Head/Chess/One%20Night%20in%20Bangkok.mp3</string>
+		</dict>
+		<key>7237</key>
+		<dict>
+			<key>Track ID</key><integer>7237</integer>
+			<key>Size</key><integer>5044517</integer>
+			<key>Total Time</key><integer>210102</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2015-03-27T18:56:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3622827595</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:59:55Z</date>
+			<key>Persistent ID</key><string>99E2836A243C558E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She Drives Me Crazy</string>
+			<key>Artist</key><string>Fine Young Cannibals</string>
+			<key>Album</key><string>The Raw and the Cooked</string>
+			<key>Genre</key><string>General Pop Vocal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Raw and the Cooked</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Fine%20Young%20Cannibals/The%20Raw%20and%20the%20Cooked/04%20She%20Drives%20Me%20Crazy.mp3</string>
+		</dict>
+		<key>49963</key>
+		<dict>
+			<key>Track ID</key><integer>49963</integer>
+			<key>Size</key><integer>15352963</integer>
+			<key>Total Time</key><integer>383555</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2015-03-27T19:05:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622829834</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:37:14Z</date>
+			<key>Release Date</key><date>2003-05-06T07:00:00Z</date>
+			<key>Persistent ID</key><string>9C5D729D078E7BCE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Night Long (All Night)</string>
+			<key>Artist</key><string>Lionel Richie</string>
+			<key>Composer</key><string>Lionel Richie</string>
+			<key>Album</key><string>Can't Slow Down (Deluxe Edition)</string>
+			<key>Genre</key><string>R&amp;B/Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lionel%20Richie/Can't%20Slow%20Down%20(Deluxe%20Edition)/02%20All%20Night%20Long%20(All%20Night).mp3</string>
+		</dict>
+		<key>22969</key>
+		<dict>
+			<key>Track ID</key><integer>22969</integer>
+			<key>Size</key><integer>2965530</integer>
+			<key>Total Time</key><integer>181942</integer>
+			<key>Track Number</key><integer>49</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:24:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622829193</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:26:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A304FBA6EFD0908</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Vacation</string>
+			<key>Artist</key><string>Go-Gos</string>
+			<key>Album</key><string>Vacation</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Go-Gos/Vacation/49%20Vacation.mp3</string>
+		</dict>
+		<key>38247</key>
+		<dict>
+			<key>Track ID</key><integer>38247</integer>
+			<key>Size</key><integer>5617471</integer>
+			<key>Total Time</key><integer>226220</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T03:59:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-03-07T12:19:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E5766C7A773A5E6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Take On Me</string>
+			<key>Artist</key><string>A-Ha</string>
+			<key>Album</key><string>I Want My 80's Box</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A-Ha/I%20Want%20My%2080's%20Box/04%20Take%20On%20Me.mp3</string>
+		</dict>
+		<key>30121</key>
+		<dict>
+			<key>Track ID</key><integer>30121</integer>
+			<key>Size</key><integer>9596729</integer>
+			<key>Total Time</key><integer>239281</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646110104</integer>
+			<key>Play Date UTC</key><date>2019-07-16T12:21:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-12T22:05:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CDC919B154F128F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>West End Girls</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 1</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/01%20West%20End%20Girls.mp3</string>
+		</dict>
+		<key>31417</key>
+		<dict>
+			<key>Track ID</key><integer>31417</integer>
+			<key>Size</key><integer>9536578</integer>
+			<key>Total Time</key><integer>238001</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:13:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-18T23:43:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>374080D01BFA67B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Girls Just Want To Have Fun</string>
+			<key>Artist</key><string>Cyndi Lauper</string>
+			<key>Album</key><string>She's So Unusual</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Cyndi%20Lauper/She's%20So%20Unusual/02%20Girls%20Just%20Want%20To%20Have%20Fun.mp3</string>
+		</dict>
+		<key>43425</key>
+		<dict>
+			<key>Track ID</key><integer>43425</integer>
+			<key>Size</key><integer>6840097</integer>
+			<key>Total Time</key><integer>209240</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:58:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3622826844</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:47:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>347634E7376FDDE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Together Forever</string>
+			<key>Artist</key><string>Rick Astley</string>
+			<key>Album</key><string>Whenever You Need Somebody</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> YEAR: 1987 </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rick%20Astley/Whenever%20You%20Need%20Somebody/03%20Together%20Forever.mp3</string>
+		</dict>
+		<key>51389</key>
+		<dict>
+			<key>Track ID</key><integer>51389</integer>
+			<key>Size</key><integer>5666975</integer>
+			<key>Total Time</key><integer>234945</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T05:04:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3622830073</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:41:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25C9878F4C677E7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's My Life</string>
+			<key>Artist</key><string>Talk Talk</string>
+			<key>Album Artist</key><string>Talk Talk</string>
+			<key>Composer</key><string>Mark Hollis/Tim Friese-Greene</string>
+			<key>Album</key><string>It's My Life</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Talk%20Talk/It's%20My%20Life/04%20It's%20My%20Life.mp3</string>
+		</dict>
+		<key>46347</key>
+		<dict>
+			<key>Track ID</key><integer>46347</integer>
+			<key>Size</key><integer>10442973</integer>
+			<key>Total Time</key><integer>260806</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2015-04-15T16:05:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-10-20T01:37:18Z</date>
+			<key>Release Date</key><date>2013-03-22T07:00:00Z</date>
+			<key>Persistent ID</key><string>0D229499427CC809</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't You (Forget About Me)</string>
+			<key>Artist</key><string>Simple Minds</string>
+			<key>Composer</key><string>Steve Schiff &amp; Keith Forsey</string>
+			<key>Album</key><string>Celebrate Greatest Hits</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Simple%20Minds/Celebrate%20Greatest%20Hits/14%20Don't%20You%20(Forget%20About%20Me).mp3</string>
+		</dict>
+		<key>46253</key>
+		<dict>
+			<key>Track ID</key><integer>46253</integer>
+			<key>Size</key><integer>8849492</integer>
+			<key>Total Time</key><integer>220969</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2015-04-15T16:05:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3622829011</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:23:31Z</date>
+			<key>Release Date</key><date>1996-01-30T08:00:00Z</date>
+			<key>Persistent ID</key><string>7C0776D88F019BBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Down Under</string>
+			<key>Artist</key><string>Men At Work</string>
+			<key>Composer</key><string>Colin Hay &amp; Ron Strykert</string>
+			<key>Album</key><string>Contraband: The Best of Men At Work</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Men%20At%20Work/Contraband_%20The%20Best%20of%20Men%20At%20Work/02%20Down%20Under.mp3</string>
+		</dict>
+		<key>41469</key>
+		<dict>
+			<key>Track ID</key><integer>41469</integer>
+			<key>Size</key><integer>9907983</integer>
+			<key>Total Time</key><integer>247431</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2015-04-15T16:05:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622826401</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:40:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-18T23:48:20Z</date>
+			<key>Release Date</key><date>1987-10-05T07:00:00Z</date>
+			<key>Persistent ID</key><string>D991179A20DC91A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heaven is a Place on Earth</string>
+			<key>Artist</key><string>Belinda Carlisle</string>
+			<key>Composer</key><string>Rick Nowels &amp; Ellen Shipley</string>
+			<key>Album</key><string>Heaven On Earth</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Belinda%20Carlisle/Heaven%20On%20Earth/01%20Heaven%20is%20a%20Place%20on%20Earth.mp3</string>
+		</dict>
+		<key>13809</key>
+		<dict>
+			<key>Track ID</key><integer>13809</integer>
+			<key>Size</key><integer>9535001</integer>
+			<key>Total Time</key><integer>238106</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2015-04-15T16:05:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T00:47:41Z</date>
+			<key>Release Date</key><date>2005-03-21T08:00:00Z</date>
+			<key>Persistent ID</key><string>FB98C02CB62CFB50</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't You Want Me</string>
+			<key>Artist</key><string>The Human League</string>
+			<key>Composer</key><string>Philip Wright, Phil Oakey &amp; John Callis</string>
+			<key>Album</key><string>The Very Best of the Human League (Remastered)</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Very Best of the Human League (Remastered)</string>
+			<key>Sort Artist</key><string>Human League</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Human%20League/The%20Very%20Best%20of%20the%20Human%20League%20(Remastered)/01%20Don't%20You%20Want%20Me.mp3</string>
+		</dict>
+		<key>39133</key>
+		<dict>
+			<key>Track ID</key><integer>39133</integer>
+			<key>Size</key><integer>6236708</integer>
+			<key>Total Time</key><integer>256391</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:45:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3622827852</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:04:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-31T03:45:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE13EBE64CF27549</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beds Are Burning</string>
+			<key>Artist</key><string>Midnight Oil</string>
+			<key>Composer</key><string>Midnight Oil</string>
+			<key>Album</key><string>Diesel and Dust</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Midnight Oil</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Midnight%20Oil/Diesel%20and%20Dust/01%20Beds%20Are%20Burning.mp3</string>
+		</dict>
+		<key>50457</key>
+		<dict>
+			<key>Track ID</key><integer>50457</integer>
+			<key>Size</key><integer>4866495</integer>
+			<key>Total Time</key><integer>202135</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:06:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622825683</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:28:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF7FF4ECB4860BED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dancing With Myself</string>
+			<key>Artist</key><string>Billy Idol</string>
+			<key>Album</key><string>Mix that is Awesome</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Billy%20Idol/Mix%20that%20is%20Awesome/02%20Dancing%20With%20Myself.mp3</string>
+		</dict>
+		<key>44607</key>
+		<dict>
+			<key>Track ID</key><integer>44607</integer>
+			<key>Size</key><integer>5695262</integer>
+			<key>Total Time</key><integer>353854</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3617207456</integer>
+			<key>Play Date UTC</key><date>2018-08-15T23:50:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T00:32:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>439EC0B0FCB96AB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Running In The Family</string>
+			<key>Artist</key><string>Level 42</string>
+			<key>Album</key><string>Running In The Family</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Level%2042/Running%20In%20The%20Family/Running%20In%20The%20Family.mp3</string>
+		</dict>
+		<key>51441</key>
+		<dict>
+			<key>Track ID</key><integer>51441</integer>
+			<key>Size</key><integer>3668950</integer>
+			<key>Total Time</key><integer>225854</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>BPM</key><integer>14000</integer>
+			<key>Date Modified</key><date>2013-10-19T03:59:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3622826627</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:43:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF6146D44760FC7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Space Age Love Song</string>
+			<key>Artist</key><string>A Flock of Seagulls</string>
+			<key>Album Artist</key><string>A Flock of Seagulls</string>
+			<key>Composer</key><string>Ali Score/Frank Maudsley/Mike Score/Paul Reynolds</string>
+			<key>Album</key><string>A Flock of Seagulls</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Flock of Seagulls</string>
+			<key>Sort Artist</key><string>Flock of Seagulls</string>
+			<key>Sort Album Artist</key><string>Flock of Seagulls</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Flock%20of%20Seagulls/A%20Flock%20of%20Seagulls/02%20Space%20Age%20Love%20Song.mp3</string>
+		</dict>
+		<key>2991</key>
+		<dict>
+			<key>Track ID</key><integer>2991</integer>
+			<key>Size</key><integer>7926660</integer>
+			<key>Total Time</key><integer>231131</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-05T23:42:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622830544</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:49:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD901A922146E0C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jenny</string>
+			<key>Artist</key><string>Tommy Tutone</string>
+			<key>Album</key><string>867-5309 / Jenny</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 207793432</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tommy%20Tutone/867-5309%20_%20Jenny/01%20Jenny.mp3</string>
+		</dict>
+		<key>50755</key>
+		<dict>
+			<key>Track ID</key><integer>50755</integer>
+			<key>Size</key><integer>9396978</integer>
+			<key>Total Time</key><integer>234501</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2013-10-19T04:49:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3622828342</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:12:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-06-21T15:10:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B04F5BA3D3F7C3A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bizarre Love Triangle</string>
+			<key>Artist</key><string>New Order</string>
+			<key>Composer</key><string>NewOrder</string>
+			<key>Album</key><string>The Best Of New Order</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of New Order</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/New%20Order/The%20Best%20Of%20New%20Order/02%20Bizarre%20Love%20Triangle.mp3</string>
+		</dict>
+		<key>48973</key>
+		<dict>
+			<key>Track ID</key><integer>48973</integer>
+			<key>Size</key><integer>6398912</integer>
+			<key>Total Time</key><integer>239464</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3622825926</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:32:06Z</date>
+			<key>Persistent ID</key><string>6F48E80F59BA0F3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pulling Mussels (From The Shell)</string>
+			<key>Artist</key><string>Squeeze</string>
+			<key>Album</key><string>Squeeze - Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Squeeze/Squeeze%20-%20Greatest%20Hits/07%20Pulling%20Mussels%20(From%20The%20Shell).mp3</string>
+		</dict>
+		<key>10711</key>
+		<dict>
+			<key>Track ID</key><integer>10711</integer>
+			<key>Size</key><integer>5894087</integer>
+			<key>Total Time</key><integer>241240</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T01:04:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD718A9C0C0B82CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cars</string>
+			<key>Artist</key><string>Gary Numan</string>
+			<key>Album</key><string>Collection</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gary%20Numan/Collection/01%20Cars.mp3</string>
+		</dict>
+		<key>16673</key>
+		<dict>
+			<key>Track ID</key><integer>16673</integer>
+			<key>Size</key><integer>6003065</integer>
+			<key>Total Time</key><integer>250122</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:15:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-18T23:53:14Z</date>
+			<key>Persistent ID</key><string>3F5BA71FE49A5A14</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Let's Dance</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album</key><string>Best Of Bowie</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/David%20Bowie/Best%20Of%20Bowie/14%20Let's%20Dance.mp3</string>
+		</dict>
+		<key>43627</key>
+		<dict>
+			<key>Track ID</key><integer>43627</integer>
+			<key>Size</key><integer>5729607</integer>
+			<key>Total Time</key><integer>238680</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-12-31T04:08:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622825481</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:24:41Z</date>
+			<key>Persistent ID</key><string>D24425F8A6162CC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pretty In Pink</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album Artist</key><string>The Psychedelic Furs</string>
+			<key>Composer</key><string>Ducan Kilburn/John Ashton/Richard Butler/Roger Morris/Tim Butler/V. Davey</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Sort Album Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Greatest%20Hits/04%20Pretty%20In%20Pink.mp3</string>
+		</dict>
+		<key>17409</key>
+		<dict>
+			<key>Track ID</key><integer>17409</integer>
+			<key>Size</key><integer>6180165</integer>
+			<key>Total Time</key><integer>230661</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622828790</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:19:50Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-06-24T22:04:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E22F621B8FE14242</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>99 Red Balloons</string>
+			<key>Artist</key><string>Nena</string>
+			<key>Album Artist</key><string>Nena</string>
+			<key>Composer</key><string>J.U. Fahrenkrog-Petersen &amp; C. Karges</string>
+			<key>Album</key><string>99 Luftballons</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Nena/99%20Luftballons/01%2099%20Red%20Balloons.mp3</string>
+		</dict>
+		<key>28233</key>
+		<dict>
+			<key>Track ID</key><integer>28233</integer>
+			<key>Size</key><integer>6994958</integer>
+			<key>Total Time</key><integer>221753</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T00:52:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>843C811D68C4DD5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Always Something There to Remind Me</string>
+			<key>Artist</key><string>Naked Eyes</string>
+			<key>Composer</key><string>Burt Bacharach &amp; Hal David</string>
+			<key>Album</key><string>'80s Super Hits</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Naked%20Eyes/'80s%20Super%20Hits/01%20Always%20Something%20There%20to%20Remind%20Me.mp3</string>
+		</dict>
+		<key>4503</key>
+		<dict>
+			<key>Track ID</key><integer>4503</integer>
+			<key>Size</key><integer>9061068</integer>
+			<key>Total Time</key><integer>351555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T00:43:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9105F2C98F521F25</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Higher Love</string>
+			<key>Artist</key><string>Steve Winwood</string>
+			<key>Album Artist</key><string>Steve Winwood</string>
+			<key>Composer</key><string>Steve Winwood &amp; Will Jennings</string>
+			<key>Album</key><string>Back In the High Life</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Steve%20Winwood/Back%20In%20the%20High%20Life/01%20Higher%20Love.mp3</string>
+		</dict>
+		<key>44611</key>
+		<dict>
+			<key>Track ID</key><integer>44611</integer>
+			<key>Size</key><integer>6125154</integer>
+			<key>Total Time</key><integer>209528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622824955</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:15:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C64F4303825B8C4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Got You</string>
+			<key>Artist</key><string>Split Enz</string>
+			<key>Album Artist</key><string>Split Enz</string>
+			<key>Composer</key><string>Neil Finn</string>
+			<key>Album</key><string>True Colours</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Split%20Enz/True%20Colours/01%20I%20Got%20You.mp3</string>
+		</dict>
+		<key>39247</key>
+		<dict>
+			<key>Track ID</key><integer>39247</integer>
+			<key>Size</key><integer>6848525</integer>
+			<key>Total Time</key><integer>204538</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-10-20T00:35:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4C6B97FFB664444</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kids in America</string>
+			<key>Artist</key><string>Kim Wilde</string>
+			<key>Album Artist</key><string>Kim Wilde</string>
+			<key>Composer</key><string>Marty Wilde &amp; Ricky Wilde</string>
+			<key>Album</key><string>The Very Best of Kim Wilde</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Very Best of Kim Wilde</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Kim%20Wilde/The%20Very%20Best%20of%20Kim%20Wilde/01%20Kids%20in%20America.mp3</string>
+		</dict>
+		<key>43589</key>
+		<dict>
+			<key>Track ID</key><integer>43589</integer>
+			<key>Size</key><integer>8662269</integer>
+			<key>Total Time</key><integer>222119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>181</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T00:32:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C51DE6A81E064B27</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Suddenly Last Summer</string>
+			<key>Artist</key><string>The Motels</string>
+			<key>Album Artist</key><string>The Motels</string>
+			<key>Album</key><string>Essential Collection</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Motels</string>
+			<key>Sort Album Artist</key><string>Motels</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Motels/Essential%20Collection/01%20Suddenly%20Last%20Summer.mp3</string>
+		</dict>
+		<key>18813</key>
+		<dict>
+			<key>Track ID</key><integer>18813</integer>
+			<key>Size</key><integer>6021734</integer>
+			<key>Total Time</key><integer>171180</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3612425279</integer>
+			<key>Play Date UTC</key><date>2018-06-21T15:27:59Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-10-20T01:04:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A9869A3C958BFA25</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hit Me With Your Best Shot</string>
+			<key>Artist</key><string>Pat Benatar</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Edward Schwartz</string>
+			<key>Album</key><string>'80s Super Hits</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/'80s%20Super%20Hits/04%20Hit%20Me%20With%20Your%20Best%20Shot.mp3</string>
+		</dict>
+		<key>24761</key>
+		<dict>
+			<key>Track ID</key><integer>24761</integer>
+			<key>Size</key><integer>7749993</integer>
+			<key>Total Time</key><integer>286772</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622825242</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:20:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20F90DFC65F3C33B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hold Me Now</string>
+			<key>Artist</key><string>Thompson Twins</string>
+			<key>Album Artist</key><string>Thompson Twins</string>
+			<key>Composer</key><string>Tom Bailey, Alannah Currie &amp; Joseph Martin Leeway</string>
+			<key>Album</key><string>Platinum &amp; Gold Collection: Thompson Twins</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thompson%20Twins/Platinum%20&amp;%20Gold%20Collection_%20Thompson%20Twins/06%20Hold%20Me%20Now.mp3</string>
+		</dict>
+		<key>24763</key>
+		<dict>
+			<key>Track ID</key><integer>24763</integer>
+			<key>Size</key><integer>6234984</integer>
+			<key>Total Time</key><integer>247484</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-10-20T00:43:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3B47E15AB27AFC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everybody Wants to Rule the World</string>
+			<key>Artist</key><string>Tears for Fears</string>
+			<key>Album Artist</key><string>Tears for Fears</string>
+			<key>Composer</key><string>Ian Stanley, Roland Orzabal &amp; Christopher Merrick Hughes</string>
+			<key>Album</key><string>Shout: The Very Best of Tears for Fears</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tears%20for%20Fears/Shout_%20The%20Very%20Best%20of%20Tears%20for%20Fears/08%20Everybody%20Wants%20to%20Rule%20the%20World.mp3</string>
+		</dict>
+		<key>44083</key>
+		<dict>
+			<key>Track ID</key><integer>44083</integer>
+			<key>Size</key><integer>6465975</integer>
+			<key>Total Time</key><integer>257253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622829450</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:30:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-18T23:58:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C974EB12FFF7201</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Metro</string>
+			<key>Artist</key><string>Berlin</string>
+			<key>Album</key><string>This Is '80s New Wave 2.0</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Berlin/This%20Is%20'80s%20New%20Wave%202.0/10%20Metro.mp3</string>
+		</dict>
+		<key>47451</key>
+		<dict>
+			<key>Track ID</key><integer>47451</integer>
+			<key>Size</key><integer>7880917</integer>
+			<key>Total Time</key><integer>217469</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-07-12T19:18:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3622826150</integer>
+			<key>Play Date UTC</key><date>2018-10-20T00:35:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>71BC05BC6B32A3DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Upside Down</string>
+			<key>Artist</key><string>Diana Ross</string>
+			<key>Album Artist</key><string>Diana Ross</string>
+			<key>Composer</key><string>Nile Rodgers &amp; Bernard Edwards Jr.</string>
+			<key>Album</key><string>Number 1's: Diana Ross &amp; The Supremes</string>
+			<key>Genre</key><string>R&amp;B/Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Diana%20Ross/Number%201's_%20Diana%20Ross%20&amp;%20The%20Supremes/21%20Upside%20Down.mp3</string>
+		</dict>
+		<key>27203</key>
+		<dict>
+			<key>Track ID</key><integer>27203</integer>
+			<key>Size</key><integer>7410863</integer>
+			<key>Total Time</key><integer>218017</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2017-09-29T04:39:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3622828560</integer>
+			<key>Play Date UTC</key><date>2018-10-20T01:16:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17F944DE74459C0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>He's so Shy</string>
+			<key>Artist</key><string>The Pointer Sisters</string>
+			<key>Album Artist</key><string>The Pointer Sisters</string>
+			<key>Composer</key><string>Tom Snow</string>
+			<key>Album</key><string>Platinum &amp; Gold Collection</string>
+			<key>Genre</key><string>R&amp;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 203931017</string>
+			<key>Sort Artist</key><string>Pointer Sisters</string>
+			<key>Sort Album Artist</key><string>Pointer Sisters</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Pointer%20Sisters/Platinum%20&amp;%20Gold%20Collection/02%20He's%20so%20Shy.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132718</integer>
+			<key>Playlist Persistent ID</key><string>7106971A2F422B48</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Døpe 80s Tracks</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27203</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

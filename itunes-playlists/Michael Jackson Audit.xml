@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>39207</key>
+		<dict>
+			<key>Track ID</key><integer>39207</integer>
+			<key>Size</key><integer>7438685</integer>
+			<key>Total Time</key><integer>178782</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615011910</integer>
+			<key>Play Date UTC</key><date>2018-07-21T13:58:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>502C9FCDBD3D92C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Want You Back</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/01%20I%20Want%20You%20Back.mp3</string>
+		</dict>
+		<key>39221</key>
+		<dict>
+			<key>Track ID</key><integer>39221</integer>
+			<key>Size</key><integer>7373877</integer>
+			<key>Total Time</key><integer>177162</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85A5D7E46D24FB49</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>ABC</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/02%20ABC.mp3</string>
+		</dict>
+		<key>39211</key>
+		<dict>
+			<key>Track ID</key><integer>39211</integer>
+			<key>Size</key><integer>7692599</integer>
+			<key>Total Time</key><integer>185129</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3628719782</integer>
+			<key>Play Date UTC</key><date>2018-12-27T06:43:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C784C3DDBFB099D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Love You Save</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Sort Name</key><string>Love You Save</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/03%20The%20Love%20You%20Save.mp3</string>
+		</dict>
+		<key>39225</key>
+		<dict>
+			<key>Track ID</key><integer>39225</integer>
+			<key>Size</key><integer>8489852</integer>
+			<key>Total Time</key><integer>205061</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>71C0DABA0A3D9AB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Got To Be There</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/04%20Got%20To%20Be%20There.mp3</string>
+		</dict>
+		<key>39227</key>
+		<dict>
+			<key>Track ID</key><integer>39227</integer>
+			<key>Size</key><integer>6402142</integer>
+			<key>Total Time</key><integer>152868</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B934EEC5295A5BE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rockin' Robin</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/05%20Rockin'%20Robin.mp3</string>
+		</dict>
+		<key>39215</key>
+		<dict>
+			<key>Track ID</key><integer>39215</integer>
+			<key>Size</key><integer>6938155</integer>
+			<key>Total Time</key><integer>166269</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>514F4CBD5ACC7E2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ben</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/06%20Ben.mp3</string>
+		</dict>
+		<key>39237</key>
+		<dict>
+			<key>Track ID</key><integer>39237</integer>
+			<key>Size</key><integer>8347744</integer>
+			<key>Total Time</key><integer>201508</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50F5724E58E09331</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Enjoy Yourself</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/07%20Enjoy%20Yourself.mp3</string>
+		</dict>
+		<key>39223</key>
+		<dict>
+			<key>Track ID</key><integer>39223</integer>
+			<key>Size</key><integer>8710340</integer>
+			<key>Total Time</key><integer>210573</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB506F41A92FB656</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blame It On The Boogie</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/08%20Blame%20It%20On%20The%20Boogie.mp3</string>
+		</dict>
+		<key>39233</key>
+		<dict>
+			<key>Track ID</key><integer>39233</integer>
+			<key>Size</key><integer>9284017</integer>
+			<key>Total Time</key><integer>224914</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4CCDAFB68E628C41</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shake Your Body (Down To The Ground)</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/09%20Shake%20Your%20Body%20(Down%20To%20The%20Ground).mp3</string>
+		</dict>
+		<key>39245</key>
+		<dict>
+			<key>Track ID</key><integer>39245</integer>
+			<key>Size</key><integer>14342358</integer>
+			<key>Total Time</key><integer>351373</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69777B278627E9D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Stop 'Til You Get Enough</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/10%20Don't%20Stop%20'Til%20You%20Get%20Enough.mp3</string>
+		</dict>
+		<key>39217</key>
+		<dict>
+			<key>Track ID</key><integer>39217</integer>
+			<key>Size</key><integer>8411483</integer>
+			<key>Total Time</key><integer>203102</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4526A83A69A6930E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rock With You</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/11%20Rock%20With%20You.mp3</string>
+		</dict>
+		<key>39235</key>
+		<dict>
+			<key>Track ID</key><integer>39235</integer>
+			<key>Size</key><integer>9311138</integer>
+			<key>Total Time</key><integer>225593</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F194386D80EBB091</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Off The Wall</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/12%20Off%20The%20Wall.mp3</string>
+		</dict>
+		<key>39219</key>
+		<dict>
+			<key>Track ID</key><integer>39219</integer>
+			<key>Size</key><integer>8979922</integer>
+			<key>Total Time</key><integer>217312</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BFE70E6262AE6BC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She's Out Of My Life</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/13%20She's%20Out%20Of%20My%20Life.mp3</string>
+		</dict>
+		<key>39239</key>
+		<dict>
+			<key>Track ID</key><integer>39239</integer>
+			<key>Size</key><integer>9520124</integer>
+			<key>Total Time</key><integer>230817</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FB05BAF14EA34FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Can You Feel It</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/14%20Can%20You%20Feel%20It.mp3</string>
+		</dict>
+		<key>39213</key>
+		<dict>
+			<key>Track ID</key><integer>39213</integer>
+			<key>Size</key><integer>9164860</integer>
+			<key>Total Time</key><integer>221936</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FEFA61626D0E1912</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Girl Is Mine</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Sort Name</key><string>Girl Is Mine</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/15%20The%20Girl%20Is%20Mine.mp3</string>
+		</dict>
+		<key>39241</key>
+		<dict>
+			<key>Track ID</key><integer>39241</integer>
+			<key>Size</key><integer>12006973</integer>
+			<key>Total Time</key><integer>292989</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615012204</integer>
+			<key>Play Date UTC</key><date>2018-07-21T14:03:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AE8B24716E5ED84</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Billie Jean</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/16%20Billie%20Jean.mp3</string>
+		</dict>
+		<key>39229</key>
+		<dict>
+			<key>Track ID</key><integer>39229</integer>
+			<key>Size</key><integer>10609936</integer>
+			<key>Total Time</key><integer>258063</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A536A8D100997818</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beat It</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/17%20Beat%20It.mp3</string>
+		</dict>
+		<key>39209</key>
+		<dict>
+			<key>Track ID</key><integer>39209</integer>
+			<key>Size</key><integer>10585944</integer>
+			<key>Total Time</key><integer>257462</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>127773B72D8BA122</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wanna Be Startin' Somethin'</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/18%20Wanna%20Be%20Startin'%20Somethin'.mp3</string>
+		</dict>
+		<key>39243</key>
+		<dict>
+			<key>Track ID</key><integer>39243</integer>
+			<key>Size</key><integer>9291285</integer>
+			<key>Total Time</key><integer>225097</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4006C1337CF46064</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Human Nature</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/19%20Human%20Nature.mp3</string>
+		</dict>
+		<key>39205</key>
+		<dict>
+			<key>Track ID</key><integer>39205</integer>
+			<key>Size</key><integer>9832572</integer>
+			<key>Total Time</key><integer>238628</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8AE8727F3120FDAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>P.Y.T. (Pretty Young Thing)</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/20%20P.Y.T.%20(Pretty%20Young%20Thing).mp3</string>
+		</dict>
+		<key>39231</key>
+		<dict>
+			<key>Track ID</key><integer>39231</integer>
+			<key>Size</key><integer>12785416</integer>
+			<key>Total Time</key><integer>312450</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-21T18:49:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A223183909B816C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Thriller</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD1</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD1/21%20Thriller.mp3</string>
+		</dict>
+		<key>39157</key>
+		<dict>
+			<key>Track ID</key><integer>39157</integer>
+			<key>Size</key><integer>10196149</integer>
+			<key>Total Time</key><integer>247719</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B5B7EBD5B464F52</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bad</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/22%20Bad.mp3</string>
+		</dict>
+		<key>39165</key>
+		<dict>
+			<key>Track ID</key><integer>39165</integer>
+			<key>Size</key><integer>10358158</integer>
+			<key>Total Time</key><integer>251768</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3DF142FC5B64EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Just Can't Stop Loving You</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/23%20I%20Just%20Can't%20Stop%20Loving%20You.mp3</string>
+		</dict>
+		<key>39167</key>
+		<dict>
+			<key>Track ID</key><integer>39167</integer>
+			<key>Size</key><integer>11496024</integer>
+			<key>Total Time</key><integer>280215</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A39DB31CE018D03</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leave Me Alone</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/24%20Leave%20Me%20Alone.mp3</string>
+		</dict>
+		<key>39159</key>
+		<dict>
+			<key>Track ID</key><integer>39159</integer>
+			<key>Size</key><integer>10942248</integer>
+			<key>Total Time</key><integer>266370</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50BA1D8A366B85F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Way You Make Me Feel</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Sort Name</key><string>Way You Make Me Feel</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/25%20The%20Way%20You%20Make%20Me%20Feel.mp3</string>
+		</dict>
+		<key>39147</key>
+		<dict>
+			<key>Track ID</key><integer>39147</integer>
+			<key>Size</key><integer>13046658</integer>
+			<key>Total Time</key><integer>318981</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5AB656592D40DAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Man In The Mirror</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/26%20Man%20In%20The%20Mirror.mp3</string>
+		</dict>
+		<key>39151</key>
+		<dict>
+			<key>Track ID</key><integer>39151</integer>
+			<key>Size</key><integer>11519006</integer>
+			<key>Total Time</key><integer>280790</integer>
+			<key>Track Number</key><integer>27</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CDFC23C65B71F103</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dirty Diana</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/27%20Dirty%20Diana.mp3</string>
+		</dict>
+		<key>39171</key>
+		<dict>
+			<key>Track ID</key><integer>39171</integer>
+			<key>Size</key><integer>9352946</integer>
+			<key>Total Time</key><integer>226638</integer>
+			<key>Track Number</key><integer>28</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B079B9316F1EBC88</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Another Part Of Me</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/28%20Another%20Part%20Of%20Me.mp3</string>
+		</dict>
+		<key>39143</key>
+		<dict>
+			<key>Track ID</key><integer>39143</integer>
+			<key>Size</key><integer>10578605</integer>
+			<key>Total Time</key><integer>257280</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>475C9D8316E8D9A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Smooth Criminal</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/29%20Smooth%20Criminal.mp3</string>
+		</dict>
+		<key>39163</key>
+		<dict>
+			<key>Track ID</key><integer>39163</integer>
+			<key>Size</key><integer>8403126</integer>
+			<key>Total Time</key><integer>202893</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF6CDDAEC9738D19</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black Or White</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/30%20Black%20Or%20White.mp3</string>
+		</dict>
+		<key>39149</key>
+		<dict>
+			<key>Track ID</key><integer>39149</integer>
+			<key>Size</key><integer>15701738</integer>
+			<key>Total Time</key><integer>385358</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DB7F6CB3EC8171F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heal The World</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/31%20Heal%20The%20World.mp3</string>
+		</dict>
+		<key>39175</key>
+		<dict>
+			<key>Track ID</key><integer>39175</integer>
+			<key>Size</key><integer>9884797</integer>
+			<key>Total Time</key><integer>239934</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A1F1D70C4D7378C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Remember The Time</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/32%20Remember%20The%20Time.mp3</string>
+		</dict>
+		<key>39145</key>
+		<dict>
+			<key>Track ID</key><integer>39145</integer>
+			<key>Size</key><integer>11840838</integer>
+			<key>Total Time</key><integer>288835</integer>
+			<key>Track Number</key><integer>33</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B91EDC9CD738E74F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In The Closet</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/33%20In%20The%20Closet.mp3</string>
+		</dict>
+		<key>39155</key>
+		<dict>
+			<key>Track ID</key><integer>39155</integer>
+			<key>Size</key><integer>9871197</integer>
+			<key>Total Time</key><integer>239595</integer>
+			<key>Track Number</key><integer>34</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>192D70834F414DF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Who Is It</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/34%20Who%20Is%20It.mp3</string>
+		</dict>
+		<key>39173</key>
+		<dict>
+			<key>Track ID</key><integer>39173</integer>
+			<key>Size</key><integer>9104258</integer>
+			<key>Total Time</key><integer>220421</integer>
+			<key>Track Number</key><integer>35</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FAAEFBDF6C61F3D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Will You Be There</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/35%20Will%20You%20Be%20There.mp3</string>
+		</dict>
+		<key>39153</key>
+		<dict>
+			<key>Track ID</key><integer>39153</integer>
+			<key>Size</key><integer>17071589</integer>
+			<key>Total Time</key><integer>419604</integer>
+			<key>Track Number</key><integer>36</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A718A0D9A89212E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dangerous</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/36%20Dangerous.mp3</string>
+		</dict>
+		<key>39161</key>
+		<dict>
+			<key>Track ID</key><integer>39161</integer>
+			<key>Size</key><integer>12128193</integer>
+			<key>Total Time</key><integer>296019</integer>
+			<key>Track Number</key><integer>37</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B125B47513D8D58</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Are Not Alone</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/37%20You%20Are%20Not%20Alone.mp3</string>
+		</dict>
+		<key>39169</key>
+		<dict>
+			<key>Track ID</key><integer>39169</integer>
+			<key>Size</key><integer>12626609</integer>
+			<key>Total Time</key><integer>308480</integer>
+			<key>Track Number</key><integer>38</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>679B51CC18FFFCC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Rock My World</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD2</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD2/38%20You%20Rock%20My%20World.mp3</string>
+		</dict>
+		<key>39179</key>
+		<dict>
+			<key>Track ID</key><integer>39179</integer>
+			<key>Size</key><integer>10143946</integer>
+			<key>Total Time</key><integer>246413</integer>
+			<key>Track Number</key><integer>39</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C50BAF60CEE4FD95</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Can't Get Outta The Rain</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/39%20Can't%20Get%20Outta%20The%20Rain.mp3</string>
+		</dict>
+		<key>39189</key>
+		<dict>
+			<key>Track ID</key><integer>39189</integer>
+			<key>Size</key><integer>9734368</integer>
+			<key>Total Time</key><integer>236173</integer>
+			<key>Track Number</key><integer>40</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F9458F75A23625DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Say, Say, Say (with Paul McCartney)</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/40%20Say,%20Say,%20Say%20(with%20Paul%20McCartney).mp3</string>
+		</dict>
+		<key>39183</key>
+		<dict>
+			<key>Track ID</key><integer>39183</integer>
+			<key>Size</key><integer>13825079</integer>
+			<key>Total Time</key><integer>338442</integer>
+			<key>Track Number</key><integer>41</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89CFE41A523F3F14</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jam</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/41%20Jam.mp3</string>
+		</dict>
+		<key>39203</key>
+		<dict>
+			<key>Track ID</key><integer>39203</integer>
+			<key>Size</key><integer>11735325</integer>
+			<key>Total Time</key><integer>286197</integer>
+			<key>Track Number</key><integer>42</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5341815ECA4B7EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>They Don't Care About Us</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/42%20They%20Don't%20Care%20About%20Us.mp3</string>
+		</dict>
+		<key>39201</key>
+		<dict>
+			<key>Track ID</key><integer>39201</integer>
+			<key>Size</key><integer>10457415</integer>
+			<key>Total Time</key><integer>254249</integer>
+			<key>Track Number</key><integer>43</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>483EBD84465E519D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blood On The Dance Floor</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/43%20Blood%20On%20The%20Dance%20Floor.mp3</string>
+		</dict>
+		<key>39185</key>
+		<dict>
+			<key>Track ID</key><integer>39185</integer>
+			<key>Size</key><integer>14092603</integer>
+			<key>Total Time</key><integer>345129</integer>
+			<key>Track Number</key><integer>44</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85B3B97137624F27</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stranger In Moscow</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/44%20Stranger%20In%20Moscow.mp3</string>
+		</dict>
+		<key>39187</key>
+		<dict>
+			<key>Track ID</key><integer>39187</integer>
+			<key>Size</key><integer>11535724</integer>
+			<key>Total Time</key><integer>281208</integer>
+			<key>Track Number</key><integer>45</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E5646E1FFF295EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Butterflies</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/45%20Butterflies.mp3</string>
+		</dict>
+		<key>39197</key>
+		<dict>
+			<key>Track ID</key><integer>39197</integer>
+			<key>Size</key><integer>10596379</integer>
+			<key>Total Time</key><integer>257724</integer>
+			<key>Track Number</key><integer>46</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C944E6B19032C72B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Day In Your Life</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/46%20One%20Day%20In%20Your%20Life.mp3</string>
+		</dict>
+		<key>39193</key>
+		<dict>
+			<key>Track ID</key><integer>39193</integer>
+			<key>Size</key><integer>13459385</integer>
+			<key>Total Time</key><integer>329299</integer>
+			<key>Track Number</key><integer>47</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A566CC784F1FE997</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Give In To Me</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/47%20Give%20In%20To%20Me.mp3</string>
+		</dict>
+		<key>39199</key>
+		<dict>
+			<key>Track ID</key><integer>39199</integer>
+			<key>Size</key><integer>13476137</integer>
+			<key>Total Time</key><integer>329717</integer>
+			<key>Track Number</key><integer>48</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>071775DE894C5C7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Break Of Dawn (Album Version) </string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/48%20Break%20Of%20Dawn%20(Album%20Version).mp3</string>
+		</dict>
+		<key>39191</key>
+		<dict>
+			<key>Track ID</key><integer>39191</integer>
+			<key>Size</key><integer>9468956</integer>
+			<key>Total Time</key><integer>229537</integer>
+			<key>Track Number</key><integer>49</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51342D90A2F7EBC0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One More Chance (Album Version)</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/49%20One%20More%20Chance%20(Album%20Version).mp3</string>
+		</dict>
+		<key>39195</key>
+		<dict>
+			<key>Track ID</key><integer>39195</integer>
+			<key>Size</key><integer>11112546</integer>
+			<key>Total Time</key><integer>270628</integer>
+			<key>Track Number</key><integer>50</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>864FF5447466B6E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>State Of Shock</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/50%20State%20Of%20Shock.mp3</string>
+		</dict>
+		<key>39181</key>
+		<dict>
+			<key>Track ID</key><integer>39181</integer>
+			<key>Size</key><integer>12094760</integer>
+			<key>Total Time</key><integer>295183</integer>
+			<key>Track Number</key><integer>51</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A951CFBEE473164B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Someone In The Dark</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/51%20Someone%20In%20The%20Dark.mp3</string>
+		</dict>
+		<key>39177</key>
+		<dict>
+			<key>Track ID</key><integer>39177</integer>
+			<key>Size</key><integer>9824185</integer>
+			<key>Total Time</key><integer>238419</integer>
+			<key>Track Number</key><integer>52</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-27T18:40:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E73C32A92DC5A2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I'll Be There</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Essential 3.0 CD3</string>
+			<key>Genre</key><string>R&amp;B/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.bubaneemusic.com/ 
+http://www.thelocalbay.com/</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Michael%20Jackson/Essential%203.0%20CD3/52%20I'll%20Be%20There.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137251</integer>
+			<key>Playlist Persistent ID</key><string>AEBA5386CF98AD24</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Michael Jackson Audit</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39177</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

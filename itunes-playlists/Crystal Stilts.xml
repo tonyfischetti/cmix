@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>36163</key>
+		<dict>
+			<key>Track ID</key><integer>36163</integer>
+			<key>Size</key><integer>9524315</integer>
+			<key>Total Time</key><integer>236512</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2014-02-10T17:30:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626842239</integer>
+			<key>Play Date UTC</key><date>2018-12-05T13:10:39Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ED0855748BEB95A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shake The Shackles</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>In Love With Oblivion</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/In%20Love%20With%20Oblivion/07%20Shake%20The%20Shackles.mp3</string>
+		</dict>
+		<key>36167</key>
+		<dict>
+			<key>Track ID</key><integer>36167</integer>
+			<key>Size</key><integer>8635108</integer>
+			<key>Total Time</key><integer>214282</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2014-02-10T17:30:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626842456</integer>
+			<key>Play Date UTC</key><date>2018-12-05T13:14:16Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D03F1AA1D31CA0C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Flying Into The Sun</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>In Love With Oblivion</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/In%20Love%20With%20Oblivion/06%20Flying%20Into%20The%20Sun.mp3</string>
+		</dict>
+		<key>36171</key>
+		<dict>
+			<key>Track ID</key><integer>36171</integer>
+			<key>Size</key><integer>7381221</integer>
+			<key>Total Time</key><integer>182935</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2014-02-10T17:30:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626842638</integer>
+			<key>Play Date UTC</key><date>2018-12-05T13:17:18Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6CD136E62E28E0F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Silver Sun</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>In Love With Oblivion</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/In%20Love%20With%20Oblivion/03%20Silver%20Sun.mp3</string>
+		</dict>
+		<key>36181</key>
+		<dict>
+			<key>Track ID</key><integer>36181</integer>
+			<key>Size</key><integer>7719774</integer>
+			<key>Total Time</key><integer>191399</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2014-02-10T17:30:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626842830</integer>
+			<key>Play Date UTC</key><date>2018-12-05T13:20:30Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E2FB844DD6C8C86</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Precarious Stair</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>In Love With Oblivion</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/In%20Love%20With%20Oblivion/08%20Precarious%20Stair.mp3</string>
+		</dict>
+		<key>36217</key>
+		<dict>
+			<key>Track ID</key><integer>36217</integer>
+			<key>Size</key><integer>8682037</integer>
+			<key>Total Time</key><integer>216528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-02-10T17:33:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626843054</integer>
+			<key>Play Date UTC</key><date>2018-12-05T13:24:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FD401FD740FB386</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Prismatic Room</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>Alight of Night</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/Alight%20of%20Night/04%20Prismatic%20Room.mp3</string>
+		</dict>
+		<key>36185</key>
+		<dict>
+			<key>Track ID</key><integer>36185</integer>
+			<key>Size</key><integer>7039876</integer>
+			<key>Total Time</key><integer>169639</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-02-10T17:16:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3629318786</integer>
+			<key>Play Date UTC</key><date>2019-01-03T05:06:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B18A2BC0A7C6B13E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nature Noir</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>Nature Noir</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.NewAlbumRelease.net</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/Nature%20Noir/09%20Nature%20Noir.mp3</string>
+		</dict>
+		<key>36183</key>
+		<dict>
+			<key>Track ID</key><integer>36183</integer>
+			<key>Size</key><integer>5794028</integer>
+			<key>Total Time</key><integer>143255</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2014-02-10T17:30:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626843367</integer>
+			<key>Play Date UTC</key><date>2018-12-05T13:29:27Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6356452ECF4BAD21</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Through The Floor</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>In Love With Oblivion</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/In%20Love%20With%20Oblivion/02%20Through%20The%20Floor.mp3</string>
+		</dict>
+		<key>36195</key>
+		<dict>
+			<key>Track ID</key><integer>36195</integer>
+			<key>Size</key><integer>9372087</integer>
+			<key>Total Time</key><integer>227944</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-02-10T17:16:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626843901</integer>
+			<key>Play Date UTC</key><date>2018-12-05T13:38:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F32A31FFF33656D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Star Crawl</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>Nature Noir</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.NewAlbumRelease.net</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/Nature%20Noir/02%20Star%20Crawl.mp3</string>
+		</dict>
+		<key>36189</key>
+		<dict>
+			<key>Track ID</key><integer>36189</integer>
+			<key>Size</key><integer>10669655</integer>
+			<key>Total Time</key><integer>260127</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-02-10T17:16:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3629319046</integer>
+			<key>Play Date UTC</key><date>2019-01-03T05:10:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51AFC1A6E27BAC4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Phases Forever</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>Nature Noir</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.NewAlbumRelease.net</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/Nature%20Noir/10%20Phases%20Forever.mp3</string>
+		</dict>
+		<key>36213</key>
+		<dict>
+			<key>Track ID</key><integer>36213</integer>
+			<key>Size</key><integer>9486606</integer>
+			<key>Total Time</key><integer>236643</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-02-10T17:33:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4BCE5210A15FE2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Dazzled</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>Alight of Night</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Dazzled</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/Alight%20of%20Night/01%20The%20Dazzled.mp3</string>
+		</dict>
+		<key>36209</key>
+		<dict>
+			<key>Track ID</key><integer>36209</integer>
+			<key>Size</key><integer>6900486</integer>
+			<key>Total Time</key><integer>171990</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-02-10T17:33:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E74D3D54F1A60F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shattered Shine</string>
+			<key>Artist</key><string>Crystal Stilts</string>
+			<key>Album</key><string>Alight of Night</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Stilts/Alight%20of%20Night/07%20Shattered%20Shine.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132486</integer>
+			<key>Playlist Persistent ID</key><string>EFC61ED496C42667</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Crystal Stilts</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36209</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

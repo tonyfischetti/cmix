@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>18509</key>
+		<dict>
+			<key>Track ID</key><integer>18509</integer>
+			<key>Size</key><integer>8597115</integer>
+			<key>Total Time</key><integer>213995</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623333554</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:32:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ECEAB9C7EA87500C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Sparks</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/All%20Sparks.mp3</string>
+		</dict>
+		<key>18499</key>
+		<dict>
+			<key>Track ID</key><integer>18499</integer>
+			<key>Size</key><integer>9050349</integer>
+			<key>Total Time</key><integer>225515</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623333779</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:36:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5900398F45D104DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>An End Has A Start</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>End Has A Start</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/An%20End%20Has%20A%20Start.mp3</string>
+		</dict>
+		<key>18525</key>
+		<dict>
+			<key>Track ID</key><integer>18525</integer>
+			<key>Size</key><integer>8416296</integer>
+			<key>Total Time</key><integer>209475</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623333989</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:39:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CCA7AE714E5395A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blood</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/Blood.mp3</string>
+		</dict>
+		<key>18471</key>
+		<dict>
+			<key>Track ID</key><integer>18471</integer>
+			<key>Size</key><integer>9897007</integer>
+			<key>Total Time</key><integer>246700</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623334235</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:43:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7BBEC368ECB75C5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bones</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/Bones.mp3</string>
+		</dict>
+		<key>18543</key>
+		<dict>
+			<key>Track ID</key><integer>18543</integer>
+			<key>Size</key><integer>7774595</integer>
+			<key>Total Time</key><integer>320522</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57CB7432F05E08A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Papillon</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/Papillon.mp3</string>
+		</dict>
+		<key>18479</key>
+		<dict>
+			<key>Track ID</key><integer>18479</integer>
+			<key>Size</key><integer>11932824</integer>
+			<key>Total Time</key><integer>297639</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05E152A8C08CBCB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Smokers Outside the Hospital Doors</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/Smokers%20Outside%20the%20Hospital%20Doors.mp3</string>
+		</dict>
+		<key>18541</key>
+		<dict>
+			<key>Track ID</key><integer>18541</integer>
+			<key>Size</key><integer>10339683</integer>
+			<key>Total Time</key><integer>257776</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B61F47E9E05902C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Racing Rats</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Racing Rats</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/The%20Racing%20Rats.mp3</string>
+		</dict>
+		<key>18513</key>
+		<dict>
+			<key>Track ID</key><integer>18513</integer>
+			<key>Size</key><integer>6596141</integer>
+			<key>Total Time</key><integer>272953</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>922B28FE6E786A83</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Boxer</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Boxer</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/The%20Boxer.mp3</string>
+		</dict>
+		<key>18511</key>
+		<dict>
+			<key>Track ID</key><integer>18511</integer>
+			<key>Size</key><integer>10374110</integer>
+			<key>Total Time</key><integer>258638</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6F36D9459927548</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Weight of the World</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Weight of the World</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/The%20Weight%20of%20the%20World.mp3</string>
+		</dict>
+		<key>18539</key>
+		<dict>
+			<key>Track ID</key><integer>18539</integer>
+			<key>Size</key><integer>13841220</integer>
+			<key>Total Time</key><integer>345391</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623332733</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:18:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D57AC516CFB8F10</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When Anger Shows</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/When%20Anger%20Shows.mp3</string>
+		</dict>
+		<key>18489</key>
+		<dict>
+			<key>Track ID</key><integer>18489</integer>
+			<key>Size</key><integer>6092445</integer>
+			<key>Total Time</key><integer>151379</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623332884</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:21:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99650BE518B02C0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lights</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/Lights.mp3</string>
+		</dict>
+		<key>18535</key>
+		<dict>
+			<key>Track ID</key><integer>18535</integer>
+			<key>Size</key><integer>9097613</integer>
+			<key>Total Time</key><integer>226507</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623333111</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:25:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2CA9A2DF0A9923A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Munich</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/Munich.mp3</string>
+		</dict>
+		<key>18515</key>
+		<dict>
+			<key>Track ID</key><integer>18515</integer>
+			<key>Size</key><integer>7789372</integer>
+			<key>Total Time</key><integer>193802</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623333305</integer>
+			<key>Play Date UTC</key><date>2018-10-25T21:28:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9D6A403B8D9C2D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Someone Says</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Best Of Editors</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Editors</string>
+			<key>Sort Artist</key><string>Editors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Editors/The%20Best%20Of%20Editors/Someone%20Says.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132790</integer>
+			<key>Playlist Persistent ID</key><string>9F1D86C952796512</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Editors</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18515</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

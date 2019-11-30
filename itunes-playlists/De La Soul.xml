@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>46517</key>
+		<dict>
+			<key>Track ID</key><integer>46517</integer>
+			<key>Size</key><integer>13232246</integer>
+			<key>Total Time</key><integer>330135</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-09-29T18:15:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648288309</integer>
+			<key>Play Date UTC</key><date>2019-08-10T17:25:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A3DB813B723C1514</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stakes Is High</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>Stakes Is High</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Stakes%20Is%20High/16%20Stakes%20Is%20High.mp3</string>
+		</dict>
+		<key>46699</key>
+		<dict>
+			<key>Track ID</key><integer>46699</integer>
+			<key>Size</key><integer>9293367</integer>
+			<key>Total Time</key><integer>230184</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-09-29T18:13:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3648289237</integer>
+			<key>Play Date UTC</key><date>2019-08-10T17:40:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>045978E7D453C63D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Me Myself And I</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>3 Feet High and Rising</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/3%20Feet%20High%20and%20Rising/20%20Me%20Myself%20And%20I.mp3</string>
+		</dict>
+		<key>46717</key>
+		<dict>
+			<key>Track ID</key><integer>46717</integer>
+			<key>Size</key><integer>7921228</integer>
+			<key>Total Time</key><integer>196488</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-09-29T18:11:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3648289526</integer>
+			<key>Play Date UTC</key><date>2019-08-10T17:45:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6512DBD81B9138C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Magic Number</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>3 Feet High and Rising</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Name</key><string>Magic Number</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/3%20Feet%20High%20and%20Rising/02%20The%20Magic%20Number.mp3</string>
+		</dict>
+		<key>46735</key>
+		<dict>
+			<key>Track ID</key><integer>46735</integer>
+			<key>Size</key><integer>10194488</integer>
+			<key>Total Time</key><integer>253320</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-09-29T18:09:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3648289777</integer>
+			<key>Play Date UTC</key><date>2019-08-10T17:49:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>677F155491E1C395</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Eye Know</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>3 Feet High and Rising</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/3%20Feet%20High%20and%20Rising/09%20Eye%20Know.mp3</string>
+		</dict>
+		<key>46655</key>
+		<dict>
+			<key>Track ID</key><integer>46655</integer>
+			<key>Size</key><integer>7229199</integer>
+			<key>Total Time</key><integer>179184</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-09-29T18:09:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648289956</integer>
+			<key>Play Date UTC</key><date>2019-08-10T17:52:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A82BA53C343E72E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Freedom Of Speak (We Got Three Minutes)</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>3 Feet High and Rising [Bonus Disc]</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/3%20Feet%20High%20and%20Rising%20%5BBonus%20Disc%5D/01%20Freedom%20Of%20Speak%20(We%20Got%20Three%20Minutes).mp3</string>
+		</dict>
+		<key>46645</key>
+		<dict>
+			<key>Track ID</key><integer>46645</integer>
+			<key>Size</key><integer>11817973</integer>
+			<key>Total Time</key><integer>293904</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-09-29T18:12:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634144802</integer>
+			<key>Play Date UTC</key><date>2019-02-28T01:40:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9FEB5CEC632789D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Say No Go (New Keys Vocal)</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>3 Feet High and Rising [Bonus Disc]</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/3%20Feet%20High%20and%20Rising%20%5BBonus%20Disc%5D/10%20Say%20No%20Go%20(New%20Keys%20Vocal).mp3</string>
+		</dict>
+		<key>46683</key>
+		<dict>
+			<key>Track ID</key><integer>46683</integer>
+			<key>Size</key><integer>7501658</integer>
+			<key>Total Time</key><integer>185312</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-09-29T18:04:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648290158</integer>
+			<key>Play Date UTC</key><date>2019-08-10T17:55:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>239331DFEDE1A9E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rock Co.kane Flow</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>The Grind Date</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Grind Date</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/The%20Grind%20Date/12%20Rock%20Co.kane%20Flow.mp3</string>
+		</dict>
+		<key>46671</key>
+		<dict>
+			<key>Track ID</key><integer>46671</integer>
+			<key>Size</key><integer>8193374</integer>
+			<key>Total Time</key><integer>202605</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-09-29T17:59:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648290358</integer>
+			<key>Play Date UTC</key><date>2019-08-10T17:59:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9EBEE19BEAF4FC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Grind Date</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>The Grind Date</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Name</key><string>Grind Date</string>
+			<key>Sort Album</key><string>Grind Date</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/The%20Grind%20Date/05%20The%20Grind%20Date.mp3</string>
+		</dict>
+		<key>46685</key>
+		<dict>
+			<key>Track ID</key><integer>46685</integer>
+			<key>Size</key><integer>9067942</integer>
+			<key>Total Time</key><integer>224470</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-09-29T17:55:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3648290583</integer>
+			<key>Play Date UTC</key><date>2019-08-10T18:03:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29AEC0951F01ACD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>He Comes</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>The Grind Date</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Grind Date</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/The%20Grind%20Date/08%20He%20Comes.mp3</string>
+		</dict>
+		<key>46691</key>
+		<dict>
+			<key>Track ID</key><integer>46691</integer>
+			<key>Size</key><integer>9365756</integer>
+			<key>Total Time</key><integer>231915</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-09-29T18:04:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A075F8FDF7A6631</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Days of Our Lives</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>The Grind Date</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Grind Date</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/The%20Grind%20Date/09%20Days%20of%20Our%20Lives.mp3</string>
+		</dict>
+		<key>46535</key>
+		<dict>
+			<key>Track ID</key><integer>46535</integer>
+			<key>Size</key><integer>7433060</integer>
+			<key>Total Time</key><integer>185155</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-09-29T18:14:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51843ED43E4BBA30</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Down Syndrome</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>Stakes Is High</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Stakes%20Is%20High/14%20Down%20Syndrome.mp3</string>
+		</dict>
+		<key>46537</key>
+		<dict>
+			<key>Track ID</key><integer>46537</integer>
+			<key>Size</key><integer>11512348</integer>
+			<key>Total Time</key><integer>287137</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-09-29T18:08:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1978C707E76F79DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Itzsoweeze (HOT)</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>Stakes Is High</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Stakes%20Is%20High/11%20Itzsoweeze%20(HOT).mp3</string>
+		</dict>
+		<key>46755</key>
+		<dict>
+			<key>Track ID</key><integer>46755</integer>
+			<key>Size</key><integer>8572071</integer>
+			<key>Total Time</key><integer>212924</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-09-29T18:15:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFDC8AF8CD5D058F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Oodles Of O's</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>De La Soul Is Dead</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/De%20La%20Soul%20Is%20Dead/02%20Oodles%20Of%20O's.mp3</string>
+		</dict>
+		<key>46749</key>
+		<dict>
+			<key>Track ID</key><integer>46749</integer>
+			<key>Size</key><integer>12097685</integer>
+			<key>Total Time</key><integer>301583</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-09-29T18:15:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49C5B8668309704D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pease Porridge</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>De La Soul Is Dead</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/De%20La%20Soul%20Is%20Dead/04%20Pease%20Porridge.mp3</string>
+		</dict>
+		<key>46751</key>
+		<dict>
+			<key>Track ID</key><integer>46751</integer>
+			<key>Size</key><integer>9716410</integer>
+			<key>Total Time</key><integer>242050</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-09-29T18:11:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4781797AEB7820F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Roller Skating Jam Named 'Saturdays'</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>De La Soul Is Dead</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Name</key><string>Roller Skating Jam Named 'Saturdays'</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/De%20La%20Soul%20Is%20Dead/07%20A%20Roller%20Skating%20Jam%20Named%20'Saturdays'.mp3</string>
+		</dict>
+		<key>46763</key>
+		<dict>
+			<key>Track ID</key><integer>46763</integer>
+			<key>Size</key><integer>13622211</integer>
+			<key>Total Time</key><integer>339696</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-09-29T18:16:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634143940</integer>
+			<key>Play Date UTC</key><date>2019-02-28T01:25:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7954517BA615BECF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bitties In The BK Lounge</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>De La Soul Is Dead</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/De%20La%20Soul%20Is%20Dead/09%20Bitties%20In%20The%20BK%20Lounge.mp3</string>
+		</dict>
+		<key>46781</key>
+		<dict>
+			<key>Track ID</key><integer>46781</integer>
+			<key>Size</key><integer>10444674</integer>
+			<key>Total Time</key><integer>260257</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-09-29T18:15:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E1D594F2739D3D12</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Brother's A Basehead</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>De La Soul Is Dead</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/De%20La%20Soul%20Is%20Dead/11%20My%20Brother's%20A%20Basehead.mp3</string>
+		</dict>
+		<key>46543</key>
+		<dict>
+			<key>Track ID</key><integer>46543</integer>
+			<key>Size</key><integer>8420653</integer>
+			<key>Total Time</key><integer>209449</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-09-29T18:14:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>453B747ED1847A77</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Thru Ya City (feat. D.V. Alias Khrist)</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>Art Official Intelligence - Mosaic Thump</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Art%20Official%20Intelligence%20-%20Mosaic%20Thump/05%20Thru%20Ya%20City%20(feat.%20D.V.%20Alias%20Khrist).mp3</string>
+		</dict>
+		<key>46513</key>
+		<dict>
+			<key>Track ID</key><integer>46513</integer>
+			<key>Size</key><integer>8951331</integer>
+			<key>Total Time</key><integer>223111</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-09-29T18:13:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE33323813308A9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Big Brother Beat feat. Mos Def</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>Stakes Is High</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Stakes%20Is%20High/13%20Big%20Brother%20Beat%20feat.%20Mos%20Def.mp3</string>
+		</dict>
+		<key>46525</key>
+		<dict>
+			<key>Track ID</key><integer>46525</integer>
+			<key>Size</key><integer>8433040</integer>
+			<key>Total Time</key><integer>210155</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-09-29T18:00:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE8A2566B393001F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Long Island Degrees</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>Stakes Is High</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Stakes%20Is%20High/09%20Long%20Island%20Degrees.mp3</string>
+		</dict>
+		<key>46529</key>
+		<dict>
+			<key>Track ID</key><integer>46529</integer>
+			<key>Size</key><integer>10752699</integer>
+			<key>Total Time</key><integer>268146</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-09-29T18:12:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634144508</integer>
+			<key>Play Date UTC</key><date>2019-02-28T01:35:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6268F0950B2B5769</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Betta Listen</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>Stakes Is High</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Stakes%20Is%20High/10%20Betta%20Listen.mp3</string>
+		</dict>
+		<key>46597</key>
+		<dict>
+			<key>Track ID</key><integer>46597</integer>
+			<key>Size</key><integer>10269034</integer>
+			<key>Total Time</key><integer>255048</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2014-09-29T18:07:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F58164C8BDAEB73</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Breakadawn</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Composer</key><string>K. Mercer, D. Jolicouer, V. Mason, P. Houston, S. Wonder, S. Greene, W. Robinson, R. Jones</string>
+			<key>Album</key><string>Buhloone Mind State</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/Buhloone%20Mind%20State/13%20Breakadawn.mp3</string>
+		</dict>
+		<key>46619</key>
+		<dict>
+			<key>Track ID</key><integer>46619</integer>
+			<key>Size</key><integer>9861478</integer>
+			<key>Total Time</key><integer>245289</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2014-09-29T18:07:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49D24AC6CC964F00</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Simply</string>
+			<key>Artist</key><string>De La Soul</string>
+			<key>Album</key><string>AOI: Bionix</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/De%20La%20Soul/AOI_%20Bionix/04%20Simply.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132592</integer>
+			<key>Playlist Persistent ID</key><string>52CB0E2F917043F7</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>De La Soul</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46751</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46781</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46619</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

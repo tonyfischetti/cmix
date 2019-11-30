@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>6489</key>
+		<dict>
+			<key>Track ID</key><integer>6489</integer>
+			<key>Size</key><integer>5748182</integer>
+			<key>Total Time</key><integer>208378</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647168045</integer>
+			<key>Play Date UTC</key><date>2019-07-28T18:14:05Z</date>
+			<key>Persistent ID</key><string>C24E548F0E00221B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Never Known Love</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Again and Again</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>lossly: www.audiozon.co.cc; lossless: www.musiczon.co.cc </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Again%20and%20Again/01%20Never%20Known%20Love.mp3</string>
+		</dict>
+		<key>6493</key>
+		<dict>
+			<key>Track ID</key><integer>6493</integer>
+			<key>Size</key><integer>6698048</integer>
+			<key>Total Time</key><integer>219115</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647167557</integer>
+			<key>Play Date UTC</key><date>2019-07-28T18:05:57Z</date>
+			<key>Persistent ID</key><string>C3B026A9125EC7B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shyness</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Again and Again</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>lossly: www.audiozon.co.cc; lossless: www.musiczon.co.cc </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Again%20and%20Again/02%20Shyness.mp3</string>
+		</dict>
+		<key>6497</key>
+		<dict>
+			<key>Track ID</key><integer>6497</integer>
+			<key>Size</key><integer>8216883</integer>
+			<key>Total Time</key><integer>280032</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647167837</integer>
+			<key>Play Date UTC</key><date>2019-07-28T18:10:37Z</date>
+			<key>Persistent ID</key><string>89E9BAFDC3E48DD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mercy</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Again and Again</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>lossly: www.audiozon.co.cc; lossless: www.musiczon.co.cc </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Again%20and%20Again/03%20Mercy.mp3</string>
+		</dict>
+		<key>6495</key>
+		<dict>
+			<key>Track ID</key><integer>6495</integer>
+			<key>Size</key><integer>7751415</integer>
+			<key>Total Time</key><integer>248189</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647167338</integer>
+			<key>Play Date UTC</key><date>2019-07-28T18:02:18Z</date>
+			<key>Persistent ID</key><string>B8539B06E30A4318</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Night With You</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Again and Again</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>lossly: www.audiozon.co.cc; lossless: www.musiczon.co.cc </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Again%20and%20Again/04%20One%20Night%20With%20You.mp3</string>
+		</dict>
+		<key>6491</key>
+		<dict>
+			<key>Track ID</key><integer>6491</integer>
+			<key>Size</key><integer>5394646</integer>
+			<key>Total Time</key><integer>178102</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647166666</integer>
+			<key>Play Date UTC</key><date>2019-07-28T17:51:06Z</date>
+			<key>Persistent ID</key><string>B7A396E1E2CAAB91</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lover Lover</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Again and Again</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>lossly: www.audiozon.co.cc; lossless: www.musiczon.co.cc </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Again%20and%20Again/06%20Lover%20Lover.mp3</string>
+		</dict>
+		<key>6499</key>
+		<dict>
+			<key>Track ID</key><integer>6499</integer>
+			<key>Size</key><integer>6706099</integer>
+			<key>Total Time</key><integer>209110</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647167089</integer>
+			<key>Play Date UTC</key><date>2019-07-28T17:58:09Z</date>
+			<key>Persistent ID</key><string>DEF9B60820CAC7B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Walk</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Again and Again</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>lossly: www.audiozon.co.cc; lossless: www.musiczon.co.cc </string>
+			<key>Sort Name</key><string>Walk</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Again%20and%20Again/08%20The%20Walk.mp3</string>
+		</dict>
+		<key>6513</key>
+		<dict>
+			<key>Track ID</key><integer>6513</integer>
+			<key>Size</key><integer>6130736</integer>
+			<key>Total Time</key><integer>338311</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>144</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647166059</integer>
+			<key>Play Date UTC</key><date>2019-07-28T17:40:59Z</date>
+			<key>Persistent ID</key><string>61D5A0C8415CEEA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Headlong Into Night</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Play Music</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Play%20Music/10%20Headlong%20Into%20Night.mp3</string>
+		</dict>
+		<key>6531</key>
+		<dict>
+			<key>Track ID</key><integer>6531</integer>
+			<key>Size</key><integer>8638098</integer>
+			<key>Total Time</key><integer>214099</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647166880</integer>
+			<key>Play Date UTC</key><date>2019-07-28T17:54:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D14E6680C404BC10</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Memory Song</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Bleed Bleed Bleed</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Bleed%20Bleed%20Bleed/08%20Memory%20Song.mp3</string>
+		</dict>
+		<key>6515</key>
+		<dict>
+			<key>Track ID</key><integer>6515</integer>
+			<key>Size</key><integer>3405738</integer>
+			<key>Total Time</key><integer>208613</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>130</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647168254</integer>
+			<key>Play Date UTC</key><date>2019-07-28T18:17:34Z</date>
+			<key>Persistent ID</key><string>A2FE1096E15EBFBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Drugs In My Body</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Play Music</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Play%20Music/02%20Drugs%20In%20My%20Body.mp3</string>
+		</dict>
+		<key>6509</key>
+		<dict>
+			<key>Track ID</key><integer>6509</integer>
+			<key>Size</key><integer>3800734</integer>
+			<key>Total Time</key><integer>228754</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>132</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647166287</integer>
+			<key>Play Date UTC</key><date>2019-07-28T17:44:47Z</date>
+			<key>Persistent ID</key><string>1404AAF0A9DC8B8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fass</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Play Music</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Play%20Music/03%20Fass.mp3</string>
+		</dict>
+		<key>6537</key>
+		<dict>
+			<key>Track ID</key><integer>6537</integer>
+			<key>Size</key><integer>8111488</integer>
+			<key>Total Time</key><integer>200933</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647166488</integer>
+			<key>Play Date UTC</key><date>2019-07-28T17:48:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FF2433D1C78504D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Your Love Runs Still</string>
+			<key>Artist</key><string>Thieves Like Us</string>
+			<key>Album Artist</key><string>Thieves Like Us</string>
+			<key>Album</key><string>Bleed Bleed Bleed</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Thieves%20Like%20Us/Bleed%20Bleed%20Bleed/09%20Your%20Love%20Runs%20Still.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>142287</integer>
+			<key>Playlist Persistent ID</key><string>4D382760C209DF1A</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Thieves Like Us</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6537</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

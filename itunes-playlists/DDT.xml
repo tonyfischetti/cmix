@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>44973</key>
+		<dict>
+			<key>Track ID</key><integer>44973</integer>
+			<key>Size</key><integer>10545820</integer>
+			<key>Total Time</key><integer>263183</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3647331044</integer>
+			<key>Play Date UTC</key><date>2019-07-30T15:30:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A18A541AFD83241</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Onanist</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Love</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Love/08%20Onanist.mp3</string>
+		</dict>
+		<key>44981</key>
+		<dict>
+			<key>Track ID</key><integer>44981</integer>
+			<key>Size</key><integer>11542840</integer>
+			<key>Total Time</key><integer>288130</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3647331330</integer>
+			<key>Play Date UTC</key><date>2019-07-30T15:35:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-24T15:26:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4599AEB1E824E1A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Love</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Love/06%20Love.mp3</string>
+		</dict>
+		<key>45007</key>
+		<dict>
+			<key>Track ID</key><integer>45007</integer>
+			<key>Size</key><integer>10434568</integer>
+			<key>Total Time</key><integer>260649</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2013-10-19T04:13:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3646931841</integer>
+			<key>Play Date UTC</key><date>2019-07-26T00:37:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-07-30T15:35:37Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>5E0DFE5914A52650</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Shoot</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>I Received This Role</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/I%20Received%20This%20Role/04%20Don't%20Shoot.mp3</string>
+		</dict>
+		<key>45277</key>
+		<dict>
+			<key>Track ID</key><integer>45277</integer>
+			<key>Size</key><integer>10706947</integer>
+			<key>Total Time</key><integer>267206</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3647331606</integer>
+			<key>Play Date UTC</key><date>2019-07-30T15:40:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D184761BDB7A0548</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Boys Majors</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Look Foot</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Look%20Foot/08%20Boys%20Majors.mp3</string>
+		</dict>
+		<key>45293</key>
+		<dict>
+			<key>Track ID</key><integer>45293</integer>
+			<key>Size</key><integer>10677717</integer>
+			<key>Total Time</key><integer>266475</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647331871</integer>
+			<key>Play Date UTC</key><date>2019-07-30T15:44:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-30T02:10:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5631CDDE764330B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Born In The USSR</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Look Foot</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Look%20Foot/04%20Born%20In%20The%20USSR.mp3</string>
+		</dict>
+		<key>44939</key>
+		<dict>
+			<key>Track ID</key><integer>44939</integer>
+			<key>Size</key><integer>12455104</integer>
+			<key>Total Time</key><integer>311379</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647332182</integer>
+			<key>Play Date UTC</key><date>2019-07-30T15:49:42Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-08-02T00:07:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8CDB58C38A8D540</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ceiling</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Snowstorm Of August</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Snowstorm%20Of%20August/07%20Ceiling.mp3</string>
+		</dict>
+		<key>45093</key>
+		<dict>
+			<key>Track ID</key><integer>45093</integer>
+			<key>Size</key><integer>14505912</integer>
+			<key>Total Time</key><integer>362527</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647332545</integer>
+			<key>Play Date UTC</key><date>2019-07-30T15:55:45Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>3DAB17F057368BF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Easter</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Loneliness II</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Loneliness%20II/10%20Easter.mp3</string>
+		</dict>
+		<key>44971</key>
+		<dict>
+			<key>Track ID</key><integer>44971</integer>
+			<key>Size</key><integer>11898911</integer>
+			<key>Total Time</key><integer>297168</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647332842</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:00:42Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-08-02T00:13:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>883E615948CA4B50</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Far, Far</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Love</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Love/05%20Far,%20Far.mp3</string>
+		</dict>
+		<key>44795</key>
+		<dict>
+			<key>Track ID</key><integer>44795</integer>
+			<key>Size</key><integer>10356071</integer>
+			<key>Total Time</key><integer>257515</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-12-09T18:17:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3647333099</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:04:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1D916318FEC3F776</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Song of Freedom</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>The Best Of 2012</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 2012</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/The%20Best%20Of%202012/23%20Song%20of%20Freedom.mp3</string>
+		</dict>
+		<key>44771</key>
+		<dict>
+			<key>Track ID</key><integer>44771</integer>
+			<key>Size</key><integer>9901543</integer>
+			<key>Total Time</key><integer>246151</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-12-12T16:16:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3647333345</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:09:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F59B8CDEE38C357E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Captain Kolesnikov</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>The Best Of 2012</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 2012</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/The%20Best%20Of%202012/10%20Captain%20Kolesnikov.mp3</string>
+		</dict>
+		<key>45113</key>
+		<dict>
+			<key>Track ID</key><integer>45113</integer>
+			<key>Size</key><integer>11432464</integer>
+			<key>Total Time</key><integer>285022</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2013-10-19T04:15:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3647333630</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:13:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>47BE8953C55BD898</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In Last Autumn</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Spring The Actress</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Spring%20The%20Actress/02%20In%20Last%20Autumn.mp3</string>
+		</dict>
+		<key>45103</key>
+		<dict>
+			<key>Track ID</key><integer>45103</integer>
+			<key>Size</key><integer>13897344</integer>
+			<key>Total Time</key><integer>346697</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2013-10-19T04:15:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3647333977</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:19:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FBAF95C8C9DC19F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spring The Actress</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Spring The Actress</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Spring%20The%20Actress/09%20Spring%20The%20Actress.mp3</string>
+		</dict>
+		<key>45285</key>
+		<dict>
+			<key>Track ID</key><integer>45285</integer>
+			<key>Size</key><integer>13497577</integer>
+			<key>Total Time</key><integer>337031</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647334314</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:25:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-24T15:21:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E86214D0BB58C705</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dead City. Christmas</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Look Foot</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Look%20Foot/10%20Dead%20City.%20Christmas.mp3</string>
+		</dict>
+		<key>44977</key>
+		<dict>
+			<key>Track ID</key><integer>44977</integer>
+			<key>Size</key><integer>7140363</integer>
+			<key>Total Time</key><integer>178102</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647334492</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:28:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>832B9A447F8AC75C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Marina</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Love</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Love/10%20Marina.mp3</string>
+		</dict>
+		<key>45463</key>
+		<dict>
+			<key>Track ID</key><integer>45463</integer>
+			<key>Size</key><integer>9584892</integer>
+			<key>Total Time</key><integer>239568</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T04:15:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647334731</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:32:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>92417E88E36C906A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Getting The Blue</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>World Number Zero</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/World%20Number%20Zero/11%20Getting%20The%20Blue.mp3</string>
+		</dict>
+		<key>44895</key>
+		<dict>
+			<key>Track ID</key><integer>44895</integer>
+			<key>Size</key><integer>9469224</integer>
+			<key>Total Time</key><integer>236617</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T04:13:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647334968</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:36:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94C6088D5BB282DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Is Well</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Compromise</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Compromise/06%20All%20Is%20Well.mp3</string>
+		</dict>
+		<key>44757</key>
+		<dict>
+			<key>Track ID</key><integer>44757</integer>
+			<key>Size</key><integer>7498280</integer>
+			<key>Total Time</key><integer>186070</integer>
+			<key>Track Number</key><integer>27</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-12-09T18:42:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647335154</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:39:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1D1863076C367CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>War Is Often Child</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>The Best Of 2012</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 2012</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/The%20Best%20Of%202012/27%20War%20Is%20Often%20Child.mp3</string>
+		</dict>
+		<key>44883</key>
+		<dict>
+			<key>Track ID</key><integer>44883</integer>
+			<key>Size</key><integer>5439384</integer>
+			<key>Total Time</key><integer>135784</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T04:13:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647335290</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:41:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC6196A5D7B9FE78</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bashkir Honey</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Compromise</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Compromise/04%20Bashkir%20Honey.mp3</string>
+		</dict>
+		<key>44759</key>
+		<dict>
+			<key>Track ID</key><integer>44759</integer>
+			<key>Size</key><integer>9840940</integer>
+			<key>Total Time</key><integer>244636</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-12-09T17:24:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647335534</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:45:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B70ED8973F07DFD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Visiting General</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>The Best Of 2012</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 2012</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/The%20Best%20Of%202012/12%20Visiting%20General.mp3</string>
+		</dict>
+		<key>44741</key>
+		<dict>
+			<key>Track ID</key><integer>44741</integer>
+			<key>Size</key><integer>14458374</integer>
+			<key>Total Time</key><integer>360071</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-12-09T16:28:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647335894</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:51:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-24T15:13:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE477F3A029BF024</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shot Dawns</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>The Best Of 2012</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 2012</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/The%20Best%20Of%202012/01%20Shot%20Dawns.mp3</string>
+		</dict>
+		<key>45431</key>
+		<dict>
+			<key>Track ID</key><integer>45431</integer>
+			<key>Size</key><integer>7709000</integer>
+			<key>Total Time</key><integer>319373</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-12-06T17:03:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647336214</integer>
+			<key>Play Date UTC</key><date>2019-07-30T16:56:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B0972C71FF84924</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leningrad</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Whizzed</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://waptorrent.ru</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Whizzed/05%20Leningrad.mp3</string>
+		</dict>
+		<key>45235</key>
+		<dict>
+			<key>Track ID</key><integer>45235</integer>
+			<key>Size</key><integer>13947076</integer>
+			<key>Total Time</key><integer>348499</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2013-10-19T04:15:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647336562</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:02:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF9443F54107E1E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Boys Majors</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Time</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Time/05%20Boys%20Majors.mp3</string>
+		</dict>
+		<key>45573</key>
+		<dict>
+			<key>Track ID</key><integer>45573</integer>
+			<key>Size</key><integer>5725676</integer>
+			<key>Total Time</key><integer>142915</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2013-10-19T04:14:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647336705</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:05:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E5A5B5212D73856</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Shoot</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Pig On A Rainbow</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Pig%20On%20A%20Rainbow/02%20Don't%20Shoot.mp3</string>
+		</dict>
+		<key>45501</key>
+		<dict>
+			<key>Track ID</key><integer>45501</integer>
+			<key>Size</key><integer>8860040</integer>
+			<key>Total Time</key><integer>221361</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-12-19T06:54:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647336926</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:08:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A913E59EEA9C9EFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In Last Autumn (Live)</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>City With No Windows. Exit</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/City%20With%20No%20Windows.%20Exit/06%20In%20Last%20Autumn%20(Live).mp3</string>
+		</dict>
+		<key>45449</key>
+		<dict>
+			<key>Track ID</key><integer>45449</integer>
+			<key>Size</key><integer>11415503</integer>
+			<key>Total Time</key><integer>474044</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-12-06T17:04:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647337400</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:16:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0633EA1CF626381C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It All</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Whizzed</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://waptorrent.ru</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Whizzed/06%20It%20All.mp3</string>
+		</dict>
+		<key>45429</key>
+		<dict>
+			<key>Track ID</key><integer>45429</integer>
+			<key>Size</key><integer>7454839</integer>
+			<key>Total Time</key><integer>308767</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-12-11T23:16:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647337709</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:21:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49C27F7ACA46C560</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You're Not Alone (Live)</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Whizzed</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://waptorrent.ru</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Whizzed/07%20You're%20Not%20Alone%20(Live).mp3</string>
+		</dict>
+		<key>45153</key>
+		<dict>
+			<key>Track ID</key><integer>45153</integer>
+			<key>Size</key><integer>10541672</integer>
+			<key>Total Time</key><integer>262373</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2013-10-19T04:15:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647337971</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:26:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D60F77933CBCD757</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Boys Majors</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Steamshop</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>18 ìà›òà 1985 ãîä. ◊åòâ¸›òûé äåíü Ò›åòüåãî Ôåñòèâàëÿ</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Steamshop/09%20Boys%20Majors.mp3</string>
+		</dict>
+		<key>44761</key>
+		<dict>
+			<key>Track ID</key><integer>44761</integer>
+			<key>Size</key><integer>11746820</integer>
+			<key>Total Time</key><integer>292284</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-12-09T18:20:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647338263</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:31:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97068B081DD99722</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wind</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>The Best Of 2012</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 2012</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/The%20Best%20Of%202012/24%20Wind.mp3</string>
+		</dict>
+		<key>45115</key>
+		<dict>
+			<key>Track ID</key><integer>45115</integer>
+			<key>Size</key><integer>11138045</integer>
+			<key>Total Time</key><integer>277655</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2013-12-06T15:39:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647338541</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:35:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9C95D09C6ED1206</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Home</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Spring The Actress</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Spring%20The%20Actress/04%20Home.mp3</string>
+		</dict>
+		<key>44899</key>
+		<dict>
+			<key>Track ID</key><integer>44899</integer>
+			<key>Size</key><integer>8749908</integer>
+			<key>Total Time</key><integer>218618</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T04:13:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647338760</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:39:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>312F2F8C806DDD78</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Shoot</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Compromise</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Compromise/09%20Don't%20Shoot.mp3</string>
+		</dict>
+		<key>44785</key>
+		<dict>
+			<key>Track ID</key><integer>44785</integer>
+			<key>Size</key><integer>8962176</integer>
+			<key>Total Time</key><integer>222667</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-12-09T17:26:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647338982</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:43:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3ACD6698E098E48</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Whizzed</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>The Best Of 2012</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 2012</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/The%20Best%20Of%202012/14%20Whizzed.mp3</string>
+		</dict>
+		<key>45005</key>
+		<dict>
+			<key>Track ID</key><integer>45005</integer>
+			<key>Size</key><integer>13591880</integer>
+			<key>Total Time</key><integer>339644</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2013-12-06T15:31:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647339322</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:48:42Z</date>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>C6F907405A5B4BC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Got This Role</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>I Received This Role</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/I%20Received%20This%20Role/08%20I%20Got%20This%20Role.mp3</string>
+		</dict>
+		<key>45457</key>
+		<dict>
+			<key>Track ID</key><integer>45457</integer>
+			<key>Size</key><integer>18435924</integer>
+			<key>Total Time</key><integer>461035</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-12-06T15:50:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647339783</integer>
+			<key>Play Date UTC</key><date>2019-07-30T17:56:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BD79F1382655417</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blizzard</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>World Number Zero</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/World%20Number%20Zero/05%20Blizzard.mp3</string>
+		</dict>
+		<key>44821</key>
+		<dict>
+			<key>Track ID</key><integer>44821</integer>
+			<key>Size</key><integer>11870720</integer>
+			<key>Total Time</key><integer>296751</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-12-06T15:59:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647340080</integer>
+			<key>Play Date UTC</key><date>2019-07-30T18:01:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC43B78FE7AB8836</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Autumn</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Songs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Songs/09%20Autumn.mp3</string>
+		</dict>
+		<key>45001</key>
+		<dict>
+			<key>Track ID</key><integer>45001</integer>
+			<key>Size</key><integer>12507360</integer>
+			<key>Total Time</key><integer>312058</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-12-06T16:20:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647340392</integer>
+			<key>Play Date UTC</key><date>2019-07-30T18:06:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E853A6C3329C1C3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Understand Heart</string>
+			<key>Artist</key><string>DDT</string>
+			<key>Album</key><string>Missing In Action</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/DDT/Missing%20In%20Action/07%20Understand%20Heart.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132554</integer>
+			<key>Playlist Persistent ID</key><string>C09DD4526FBE8AFA</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>DDT</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>44973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45001</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

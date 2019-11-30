@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>5161</key>
+		<dict>
+			<key>Track ID</key><integer>5161</integer>
+			<key>Size</key><integer>9445910</integer>
+			<key>Total Time</key><integer>236016</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643251610</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:20:10Z</date>
+			<key>Persistent ID</key><string>CD6B2CC9C22301FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Favourite Food</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/01%20Favourite%20Food.mp3</string>
+		</dict>
+		<key>5159</key>
+		<dict>
+			<key>Track ID</key><integer>5159</integer>
+			<key>Size</key><integer>6335249</integer>
+			<key>Total Time</key><integer>158249</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643255099</integer>
+			<key>Play Date UTC</key><date>2019-06-13T11:18:19Z</date>
+			<key>Persistent ID</key><string>23DB4F481E8449A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Favourite Colour</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/02%20Favourite%20Colour.mp3</string>
+		</dict>
+		<key>5167</key>
+		<dict>
+			<key>Track ID</key><integer>5167</integer>
+			<key>Size</key><integer>8972571</integer>
+			<key>Total Time</key><integer>224182</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647424916</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:35:16Z</date>
+			<key>Persistent ID</key><string>C324ADD7F85F9063</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Breakneck Speed</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/03%20Breakneck%20Speed.mp3</string>
+		</dict>
+		<key>5163</key>
+		<dict>
+			<key>Track ID</key><integer>5163</integer>
+			<key>Size</key><integer>7555689</integer>
+			<key>Total Time</key><integer>188760</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643252735</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:38:55Z</date>
+			<key>Persistent ID</key><string>D9CEB5151563D178</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wait Up (Boots of Danger)</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/04%20Wait%20Up%20(Boots%20of%20Danger).mp3</string>
+		</dict>
+		<key>5155</key>
+		<dict>
+			<key>Track ID</key><integer>5155</integer>
+			<key>Size</key><integer>6649763</integer>
+			<key>Total Time</key><integer>166112</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643254612</integer>
+			<key>Play Date UTC</key><date>2019-06-13T11:10:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-05-14T11:07:25Z</date>
+			<key>Persistent ID</key><string>B9F5D9289C32EC2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bambi</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/05%20Bambi.mp3</string>
+		</dict>
+		<key>5153</key>
+		<dict>
+			<key>Track ID</key><integer>5153</integer>
+			<key>Size</key><integer>8697763</integer>
+			<key>Total Time</key><integer>217312</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643252266</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:31:06Z</date>
+			<key>Persistent ID</key><string>FDC43A81AC526FF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>End of a Spark</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/06%20End%20of%20a%20Spark.mp3</string>
+		</dict>
+		<key>5151</key>
+		<dict>
+			<key>Track ID</key><integer>5151</integer>
+			<key>Size</key><integer>7991412</integer>
+			<key>Total Time</key><integer>199653</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647425812</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:50:12Z</date>
+			<key>Persistent ID</key><string>BA3B30030AF6B255</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hands Reversed</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/07%20Hands%20Reversed.mp3</string>
+		</dict>
+		<key>5165</key>
+		<dict>
+			<key>Track ID</key><integer>5165</integer>
+			<key>Size</key><integer>7385371</integer>
+			<key>Total Time</key><integer>184502</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3643254290</integer>
+			<key>Play Date UTC</key><date>2019-06-13T11:04:50Z</date>
+			<key>Persistent ID</key><string>3581A8EB3B77E713</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gone</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/08%20Gone.mp3</string>
+		</dict>
+		<key>5169</key>
+		<dict>
+			<key>Track ID</key><integer>5169</integer>
+			<key>Size</key><integer>7142955</integer>
+			<key>Total Time</key><integer>178442</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3643253105</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:45:05Z</date>
+			<key>Persistent ID</key><string>EBB20F0C76585EA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Not Sick</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Composer</key><string>David Monks/Graham Wright/Greg Alsop/Josh Hook</string>
+			<key>Album</key><string>Champ</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Champ/10%20Not%20Sick.mp3</string>
+		</dict>
+		<key>5193</key>
+		<dict>
+			<key>Track ID</key><integer>5193</integer>
+			<key>Size</key><integer>3388220</integer>
+			<key>Total Time</key><integer>169299</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643253275</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:47:55Z</date>
+			<key>Persistent ID</key><string>086395175F784B66</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In A Cave</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Elephant Shell</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Elephant%20Shell/02%20In%20A%20Cave.mp3</string>
+		</dict>
+		<key>5213</key>
+		<dict>
+			<key>Track ID</key><integer>5213</integer>
+			<key>Size</key><integer>3120200</integer>
+			<key>Total Time</key><integer>155898</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643254446</integer>
+			<key>Play Date UTC</key><date>2019-06-13T11:07:26Z</date>
+			<key>Persistent ID</key><string>EA4E156A95A0B262</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Graves</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Elephant Shell</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Elephant%20Shell/03%20Graves.mp3</string>
+		</dict>
+		<key>5207</key>
+		<dict>
+			<key>Track ID</key><integer>5207</integer>
+			<key>Size</key><integer>2700149</integer>
+			<key>Total Time</key><integer>134896</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643255233</integer>
+			<key>Play Date UTC</key><date>2019-06-13T11:20:33Z</date>
+			<key>Persistent ID</key><string>CF12FF2B121F5FF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Juno</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Elephant Shell</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Elephant%20Shell/04%20Juno.mp3</string>
+		</dict>
+		<key>5203</key>
+		<dict>
+			<key>Track ID</key><integer>5203</integer>
+			<key>Size</key><integer>3190213</integer>
+			<key>Total Time</key><integer>159399</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647423990</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:19:50Z</date>
+			<key>Persistent ID</key><string>6D20BADC04BDECE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tessellate</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Elephant Shell</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Elephant%20Shell/05%20Tessellate.mp3</string>
+		</dict>
+		<key>5209</key>
+		<dict>
+			<key>Track ID</key><integer>5209</integer>
+			<key>Size</key><integer>3837014</integer>
+			<key>Total Time</key><integer>191738</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643252927</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:42:07Z</date>
+			<key>Persistent ID</key><string>53486BD124DAD149</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Your English Is Good</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Elephant Shell</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Elephant%20Shell/09%20Your%20English%20Is%20Good.mp3</string>
+		</dict>
+		<key>5201</key>
+		<dict>
+			<key>Track ID</key><integer>5201</integer>
+			<key>Size</key><integer>3570042</integer>
+			<key>Total Time</key><integer>178390</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647425615</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:46:55Z</date>
+			<key>Persistent ID</key><string>3371C0532D7C4EF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Listen To The Math</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Elephant Shell</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Elephant%20Shell/10%20Listen%20To%20The%20Math.mp3</string>
+		</dict>
+		<key>5191</key>
+		<dict>
+			<key>Track ID</key><integer>5191</integer>
+			<key>Size</key><integer>3295374</integer>
+			<key>Total Time</key><integer>119431</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>219</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647425429</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:43:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>869699D214C89B7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cheer It On</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>A Lesson In Crime EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Lesson In Crime EP</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/A%20Lesson%20In%20Crime%20EP/01%20Cheer%20It%20On.mp3</string>
+		</dict>
+		<key>5183</key>
+		<dict>
+			<key>Track ID</key><integer>5183</integer>
+			<key>Size</key><integer>3416091</integer>
+			<key>Total Time</key><integer>121782</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647425309</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:41:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73D782CDD2EDC389</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nature Of The Experiment</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>A Lesson In Crime EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Lesson In Crime EP</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/A%20Lesson%20In%20Crime%20EP/02%20Nature%20Of%20The%20Experiment.mp3</string>
+		</dict>
+		<key>5179</key>
+		<dict>
+			<key>Track ID</key><integer>5179</integer>
+			<key>Size</key><integer>4293699</integer>
+			<key>Total Time</key><integer>164466</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>207</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643251899</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:24:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>81A5268171F014BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Citizens Of Tomorrow</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>A Lesson In Crime EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Lesson In Crime EP</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/A%20Lesson%20In%20Crime%20EP/03%20Citizens%20Of%20Tomorrow.mp3</string>
+		</dict>
+		<key>5181</key>
+		<dict>
+			<key>Track ID</key><integer>5181</integer>
+			<key>Size</key><integer>4432894</integer>
+			<key>Total Time</key><integer>158746</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643252425</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:33:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5EFD2889FB2ADDA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shoulders &amp; Arms</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>A Lesson In Crime EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Lesson In Crime EP</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/A%20Lesson%20In%20Crime%20EP/04%20Shoulders%20&amp;%20Arms.mp3</string>
+		</dict>
+		<key>5185</key>
+		<dict>
+			<key>Track ID</key><integer>5185</integer>
+			<key>Size</key><integer>3471814</integer>
+			<key>Total Time</key><integer>124186</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647425188</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:39:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5437C2D860ED4821</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>If It Works</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>A Lesson In Crime EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Lesson In Crime EP</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/A%20Lesson%20In%20Crime%20EP/05%20If%20It%20Works.mp3</string>
+		</dict>
+		<key>5189</key>
+		<dict>
+			<key>Track ID</key><integer>5189</integer>
+			<key>Size</key><integer>3574966</integer>
+			<key>Total Time</key><integer>124630</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>227</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643253599</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:53:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3976A1AA979A5A01</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Be Good</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>A Lesson In Crime EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Lesson In Crime EP</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/A%20Lesson%20In%20Crime%20EP/06%20Be%20Good.mp3</string>
+		</dict>
+		<key>5173</key>
+		<dict>
+			<key>Track ID</key><integer>5173</integer>
+			<key>Size</key><integer>3821177</integer>
+			<key>Total Time</key><integer>149942</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647425064</integer>
+			<key>Play Date UTC</key><date>2019-07-31T17:37:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7B700F8F4F7DDA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Box</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Smith EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Smith%20EP/01%20Box.mp3</string>
+		</dict>
+		<key>5177</key>
+		<dict>
+			<key>Track ID</key><integer>5177</integer>
+			<key>Size</key><integer>2962841</integer>
+			<key>Total Time</key><integer>104385</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>202</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643253703</integer>
+			<key>Play Date UTC</key><date>2019-06-13T10:55:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2DE71E1652C0CD4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cut Cut Paste</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Smith EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Smith%20EP/02%20Cut%20Cut%20Paste.mp3</string>
+		</dict>
+		<key>5171</key>
+		<dict>
+			<key>Track ID</key><integer>5171</integer>
+			<key>Size</key><integer>2963508</integer>
+			<key>Total Time</key><integer>209371</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>101</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643254821</integer>
+			<key>Play Date UTC</key><date>2019-06-13T11:13:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51F9361CF50A234E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Lesson In Crime</string>
+			<key>Artist</key><string>Tokyo Police Club</string>
+			<key>Album</key><string>Smith EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Lesson In Crime</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tokyo%20Police%20Club/Smith%20EP/03%20A%20Lesson%20In%20Crime.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>142301</integer>
+			<key>Playlist Persistent ID</key><string>820B1C3A7CA6090C</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Tokyo Police Club</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5171</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>38457</key>
+		<dict>
+			<key>Track ID</key><integer>38457</integer>
+			<key>Size</key><integer>12414975</integer>
+			<key>Total Time</key><integer>386560</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85E3AF486533AB4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Play Alone</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>山西利治</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000423 0000043D 00001001 00000F79 00038287 000186E5 0000689F 00006D2E 0000EA8E 0000EA8E</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/01%20Play%20Alone.mp3</string>
+		</dict>
+		<key>38437</key>
+		<dict>
+			<key>Track ID</key><integer>38437</integer>
+			<key>Size</key><integer>6639616</integer>
+			<key>Total Time</key><integer>206080</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85FBC35266B3E665</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Sabbath</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>どぶウサギ</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000534 00000480 00000A87 00000C5E 0000EA8E 0002230E 000042CB 000049A3 00022325 00024A07</string>
+			<key>Sort Name</key><string>Sabbath</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/02%20The%20Sabbath.mp3</string>
+		</dict>
+		<key>38441</key>
+		<dict>
+			<key>Track ID</key><integer>38441</integer>
+			<key>Size</key><integer>12755195</integer>
+			<key>Total Time</key><integer>397191</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>367E4F784D819F2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Tourmente</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>九十九百太郎</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 0000031D 0000032F 00000C2E 00000C25 00041EF5 000186B7 00004D48 00004D93 00027117 0003A9C5</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/03%20La%20Tourmente.mp3</string>
+		</dict>
+		<key>38451</key>
+		<dict>
+			<key>Track ID</key><integer>38451</integer>
+			<key>Size</key><integer>6650492</integer>
+			<key>Total Time</key><integer>206419</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642619165</integer>
+			<key>Play Date UTC</key><date>2019-06-06T02:39:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33B793CC11741A5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>First Days Of Winter</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>ZUN</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000242 0000028F 00000743 00000971 00024A07 00024A07 00003ED2 000043C0 00024A1E 0001D4C0</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/04%20First%20Days%20Of%20Winter.mp3</string>
+		</dict>
+		<key>38443</key>
+		<dict>
+			<key>Track ID</key><integer>38443</integer>
+			<key>Size</key><integer>9348823</integer>
+			<key>Total Time</key><integer>290742</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3645361553</integer>
+			<key>Play Date UTC</key><date>2019-07-07T20:25:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0163358133972E19</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Nuit</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>StudioA'</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000189 000001C2 000003E7 000004A4 0003D0A7 00013897 000043BA 00003DA3 000382B5 0001FBE7</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/05%20La%20Nuit.mp3</string>
+		</dict>
+		<key>38433</key>
+		<dict>
+			<key>Track ID</key><integer>38433</integer>
+			<key>Size</key><integer>8911648</integer>
+			<key>Total Time</key><integer>277080</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA95FB718CC61FA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Better Days Ahead</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>山西利治</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 000001A9 0000024F 000009B1 00000C17 00015FBE 00015FBE 00003E2F 0000477D 00015FBE 00015FD5</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/06%20Better%20Days%20Ahead.mp3</string>
+		</dict>
+		<key>38447</key>
+		<dict>
+			<key>Track ID</key><integer>38447</integer>
+			<key>Size</key><integer>9560309</integer>
+			<key>Total Time</key><integer>297351</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73ED66142E42925C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Winter</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>柏木るざりん</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000215 0000028E 00000BF4 00000EA2 0002BF65 0002BF65 000041A0 0000571B 0003D0D5 0003D0D5</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/07%20Winter.mp3</string>
+		</dict>
+		<key>38435</key>
+		<dict>
+			<key>Track ID</key><integer>38435</integer>
+			<key>Size</key><integer>13383802</integer>
+			<key>Total Time</key><integer>416835</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647284440</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:34:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DF0EA65646EB770</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pictures</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>ZUN</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000336 000003D9 00000DC8 0000133A 0005A57E 0005A595 000042D1 00003C2C 0005A567 00030D57</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/08%20Pictures.mp3</string>
+		</dict>
+		<key>38439</key>
+		<dict>
+			<key>Track ID</key><integer>38439</integer>
+			<key>Size</key><integer>9258564</integer>
+			<key>Total Time</key><integer>287921</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9C2DAC99B148A43</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Old Dreams Are Not Innocent</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>椎名治美</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000262 00000244 000007DD 000007FD 0002E65E 00030D57 00004A1B 000041D6 0002BF20 0001ADF5</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/09%20Old%20Dreams%20Are%20Not%20Innocent.mp3</string>
+		</dict>
+		<key>38459</key>
+		<dict>
+			<key>Track ID</key><integer>38459</integer>
+			<key>Size</key><integer>7997141</integer>
+			<key>Total Time</key><integer>248502</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642616596</integer>
+			<key>Play Date UTC</key><date>2019-06-06T01:56:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6676C6D43510FB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Julia</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>樋口秀樹</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 0000035C 000005BD 00000DA6 000011EA 00030D6E 00030D6E 00004738 0000586F 00030D57 00030D6E</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/10%20Julia.mp3</string>
+		</dict>
+		<key>38453</key>
+		<dict>
+			<key>Track ID</key><integer>38453</integer>
+			<key>Size</key><integer>10649600</integer>
+			<key>Total Time</key><integer>331389</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642616927</integer>
+			<key>Play Date UTC</key><date>2019-06-06T02:02:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB838D7480B1C643</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sweetness... Of Pain</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>山西利治</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 0000021E 00000283 00000911 00000CF2 00024A35 0001FC15 00003CEE 000045F3 0003D0D5 00004E65</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/11%20Sweetness...%20Of%20Pain.mp3</string>
+		</dict>
+		<key>38449</key>
+		<dict>
+			<key>Track ID</key><integer>38449</integer>
+			<key>Size</key><integer>8480313</integer>
+			<key>Total Time</key><integer>263601</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1BD9B5AE9B0A1CC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Before The Smile</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>StudioA'</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 000002B2 0000029A 00000D11 00000D12 000138AE 00013897 00004BD6 000048E7 0003A9C5 000138AE</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/12%20Before%20The%20Smile.mp3</string>
+		</dict>
+		<key>38455</key>
+		<dict>
+			<key>Track ID</key><integer>38455</integer>
+			<key>Size</key><integer>7077888</integer>
+			<key>Total Time</key><integer>294635</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4513AE396D70D31E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>White Light</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/13%20White%20Light.mp3</string>
+		</dict>
+		<key>38445</key>
+		<dict>
+			<key>Track ID</key><integer>38445</integer>
+			<key>Size</key><integer>9076736</integer>
+			<key>Total Time</key><integer>282253</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642619447</integer>
+			<key>Play Date UTC</key><date>2019-06-06T02:44:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1ECA1B7550CB2F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Together We Fall</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>石川直人</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 000002A4 00000306 00000A8A 00000B38 0000EA77 0000EA77 00003AAD 000039F0 0000EA77 0003829E</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/14%20Together%20We%20Fall.mp3</string>
+		</dict>
+		<key>38353</key>
+		<dict>
+			<key>Track ID</key><integer>38353</integer>
+			<key>Size</key><integer>5073588</integer>
+			<key>Total Time</key><integer>191634</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>-124</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BB7E3852C632ED9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Call In Silence</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>The Grey Years Vol.1</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Grey Years Vol.1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/The%20Grey%20Years%20Vol.1/2-02%20Call%20In%20Silence.mp3</string>
+		</dict>
+		<key>38391</key>
+		<dict>
+			<key>Track ID</key><integer>38391</integer>
+			<key>Size</key><integer>6941869</integer>
+			<key>Total Time</key><integer>269479</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>-151</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53D58FA50BCD85E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Wind Will Blow</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>The Grey Years Vol.1</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Wind Will Blow</string>
+			<key>Sort Album</key><string>Grey Years Vol.1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/The%20Grey%20Years%20Vol.1/2-03%20The%20Wind%20Will%20Blow.mp3</string>
+		</dict>
+		<key>38351</key>
+		<dict>
+			<key>Track ID</key><integer>38351</integer>
+			<key>Size</key><integer>9082872</integer>
+			<key>Total Time</key><integer>358687</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>-135</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>673EC417A306E5DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Le Voyage Immobile</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>The Grey Years Vol.1</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Grey Years Vol.1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/The%20Grey%20Years%20Vol.1/2-06%20Le%20Voyage%20Immobile.mp3</string>
+		</dict>
+		<key>38369</key>
+		<dict>
+			<key>Track ID</key><integer>38369</integer>
+			<key>Size</key><integer>5987046</integer>
+			<key>Total Time</key><integer>229694</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>-164</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5EF584C24FF753A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nice Day Bad Day</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>The Grey Years Vol.1</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Grey Years Vol.1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/The%20Grey%20Years%20Vol.1/2-07%20Nice%20Day%20Bad%20Day.mp3</string>
+		</dict>
+		<key>38345</key>
+		<dict>
+			<key>Track ID</key><integer>38345</integer>
+			<key>Size</key><integer>9067819</integer>
+			<key>Total Time</key><integer>358060</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>-157</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C65BBED33BDCC33</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Some Grey Mornings</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>The Grey Years Vol.1</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Grey Years Vol.1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/The%20Grey%20Years%20Vol.1/2-10%20Some%20Grey%20Mornings.mp3</string>
+		</dict>
+		<key>38365</key>
+		<dict>
+			<key>Track ID</key><integer>38365</integer>
+			<key>Size</key><integer>5751934</integer>
+			<key>Total Time</key><integer>219898</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>-133</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87547003A42DF7CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Asylum Party</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>The Grey Years Vol.1</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Grey Years Vol.1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/The%20Grey%20Years%20Vol.1/2-11%20Asylum%20Party.mp3</string>
+		</dict>
+		<key>38411</key>
+		<dict>
+			<key>Track ID</key><integer>38411</integer>
+			<key>Size</key><integer>5951117</integer>
+			<key>Total Time</key><integer>247327</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2012-04-18T03:48:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B944F7F2902E448E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Over (Head Falls Down)</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>Mère</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Me%CC%80re/03%20It's%20Over%20(Head%20Falls%20Down).mp3</string>
+		</dict>
+		<key>38421</key>
+		<dict>
+			<key>Track ID</key><integer>38421</integer>
+			<key>Size</key><integer>7251386</integer>
+			<key>Total Time</key><integer>301505</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2012-04-18T03:48:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5A3B24E1013BC9FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1297106739</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Inner World Is Up (Jump)</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>Mère</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Me%CC%80re/11%20Inner%20World%20Is%20Up%20(Jump).mp3</string>
+		</dict>
+		<key>38491</key>
+		<dict>
+			<key>Track ID</key><integer>38491</integer>
+			<key>Size</key><integer>5507459</integer>
+			<key>Total Time</key><integer>222197</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F02480FF84DC6979</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Riviere</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album</key><string>What Will You Learn?</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/What%20Will%20You%20Learn_/03%20La%20Riviere.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131748</integer>
+			<key>Playlist Persistent ID</key><string>A5BA4441B4EB4716</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Asylum Party</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>38457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38491</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>30247</key>
+		<dict>
+			<key>Track ID</key><integer>30247</integer>
+			<key>Size</key><integer>8405522</integer>
+			<key>Total Time</key><integer>236287</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3649349435</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:10:35Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B64900182A30B00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Viento</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Viento</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/06%20Viento.m4a</string>
+		</dict>
+		<key>30253</key>
+		<dict>
+			<key>Track ID</key><integer>30253</integer>
+			<key>Size</key><integer>7998751</integer>
+			<key>Total Time</key><integer>224617</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3621857471</integer>
+			<key>Play Date UTC</key><date>2018-10-08T19:31:11Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33EBFD0BD1A9069A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Te Estoy Mirando</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Te Estoy Mirando</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/02%20Te%20Estoy%20Mirando.m4a</string>
+		</dict>
+		<key>30263</key>
+		<dict>
+			<key>Track ID</key><integer>30263</integer>
+			<key>Size</key><integer>7174035</integer>
+			<key>Total Time</key><integer>193679</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3649350084</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:21:24Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85D620C3C2DDA9F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Amanece</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Diego Herrera</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Amanece</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/09%20Amanece.m4a</string>
+		</dict>
+		<key>30257</key>
+		<dict>
+			<key>Track ID</key><integer>30257</integer>
+			<key>Size</key><integer>9971018</integer>
+			<key>Total Time</key><integer>271312</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3649349891</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:18:11Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D70B542624ECC48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Perdi Mi Ojo de Venado</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Perdi Mi Ojo de Venado</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/08%20Perdi%20Mi%20Ojo%20de%20Venado.m4a</string>
+		</dict>
+		<key>30209</key>
+		<dict>
+			<key>Track ID</key><integer>30209</integer>
+			<key>Size</key><integer>7809588</integer>
+			<key>Total Time</key><integer>218173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2017-05-24T15:56:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621885882</integer>
+			<key>Play Date UTC</key><date>2018-10-09T03:24:42Z</date>
+			<key>Release Date</key><date>1990-05-06T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1D3920F84C37D404</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Miedo</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>El Nervio del Volcan</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Miedo</string>
+			<key>Sort Album</key><string>El Nervio del Volcan</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/02%20Miedo.m4a</string>
+		</dict>
+		<key>30275</key>
+		<dict>
+			<key>Track ID</key><integer>30275</integer>
+			<key>Size</key><integer>10242756</integer>
+			<key>Total Time</key><integer>279123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-05-24T16:00:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1992-07-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F81E9057CB27F852</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No Dejes Que...</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>El Silencio</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>No Dejes Que...</string>
+			<key>Sort Album</key><string>El Silencio</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Silencio/06%20No%20Dejes%20Que....m4a</string>
+		</dict>
+		<key>30251</key>
+		<dict>
+			<key>Track ID</key><integer>30251</integer>
+			<key>Size</key><integer>6787275</integer>
+			<key>Total Time</key><integer>185747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3649349619</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:13:39Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CA810674E4B6E2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nunca Me Voy a Transformar en Ti</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Nunca Me Voy a Transformar en Ti</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/07%20Nunca%20Me%20Voy%20a%20Transformar%20en%20Ti.m4a</string>
+		</dict>
+		<key>30271</key>
+		<dict>
+			<key>Track ID</key><integer>30271</integer>
+			<key>Size</key><integer>10486319</integer>
+			<key>Total Time</key><integer>292321</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-05-24T16:00:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1992-07-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D750C67EBD4CA393</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Miércolés de Cenzia</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>El Silencio</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Miércolés de Cenzia</string>
+			<key>Sort Album</key><string>El Silencio</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Silencio/10%20Mie%CC%81rcole%CC%81s%20de%20Cenzia.m4a</string>
+		</dict>
+		<key>30261</key>
+		<dict>
+			<key>Track ID</key><integer>30261</integer>
+			<key>Size</key><integer>7578617</integer>
+			<key>Total Time</key><integer>214862</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3642919183</integer>
+			<key>Play Date UTC</key><date>2019-06-09T13:59:43Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>08A9137932104A18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sera Por Eso</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Sera Por Eso</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/05%20Sera%20Por%20Eso.m4a</string>
+		</dict>
+		<key>30245</key>
+		<dict>
+			<key>Track ID</key><integer>30245</integer>
+			<key>Size</key><integer>7135108</integer>
+			<key>Total Time</key><integer>200365</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3649350285</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:24:45Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18771E7B1735BC63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Bestia Humana</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>La Bestia Humana</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/10%20La%20Bestia%20Humana.m4a</string>
+		</dict>
+		<key>30203</key>
+		<dict>
+			<key>Track ID</key><integer>30203</integer>
+			<key>Size</key><integer>10803129</integer>
+			<key>Total Time</key><integer>288600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2017-05-24T15:56:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3621855765</integer>
+			<key>Play Date UTC</key><date>2018-10-08T19:02:45Z</date>
+			<key>Release Date</key><date>1990-05-06T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E1655C1B729358EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Afuera</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>El Nervio del Volcan</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Afuera</string>
+			<key>Sort Album</key><string>El Nervio del Volcan</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/01%20Afuera.m4a</string>
+		</dict>
+		<key>30225</key>
+		<dict>
+			<key>Track ID</key><integer>30225</integer>
+			<key>Size</key><integer>9872760</integer>
+			<key>Total Time</key><integer>282133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2017-05-24T16:01:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3649351150</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:39:10Z</date>
+			<key>Release Date</key><date>1986-08-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A00787FB8FA140F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Los Dioses Ocultos</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>El Diablito</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Los Dioses Ocultos</string>
+			<key>Sort Album</key><string>El Diablito</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/09%20Los%20Dioses%20Ocultos.m4a</string>
+		</dict>
+		<key>30227</key>
+		<dict>
+			<key>Track ID</key><integer>30227</integer>
+			<key>Size</key><integer>10317773</integer>
+			<key>Total Time</key><integer>287026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2017-05-24T16:00:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3649350793</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:33:13Z</date>
+			<key>Release Date</key><date>1986-08-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5874909E3292F77E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Antes de Que Nos Olviden</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>El Diablito</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Antes de Que Nos Olviden</string>
+			<key>Sort Album</key><string>El Diablito</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/02%20Antes%20de%20Que%20Nos%20Olviden.m4a</string>
+		</dict>
+		<key>30231</key>
+		<dict>
+			<key>Track ID</key><integer>30231</integer>
+			<key>Size</key><integer>8258648</integer>
+			<key>Total Time</key><integer>219266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2017-05-24T16:00:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3649350504</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:28:24Z</date>
+			<key>Release Date</key><date>1986-08-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>490C7011FF1C2318</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Detras de Ti</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>S. Hernandez, D. Herrera &amp; A. André</string>
+			<key>Album</key><string>El Diablito</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Detras de Ti</string>
+			<key>Sort Album</key><string>El Diablito</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/01%20Detras%20de%20Ti.m4a</string>
+		</dict>
+		<key>30201</key>
+		<dict>
+			<key>Track ID</key><integer>30201</integer>
+			<key>Size</key><integer>10549013</integer>
+			<key>Total Time</key><integer>294266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2017-05-24T15:56:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3621858809</integer>
+			<key>Play Date UTC</key><date>2018-10-08T19:53:29Z</date>
+			<key>Release Date</key><date>1990-05-06T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>818BCCD11476F14E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Aqui No Es Asi</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>A. André, Alejandro Marcovich &amp; Saúl Hernández</string>
+			<key>Album</key><string>El Nervio del Volcan</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Aqui No Es Asi</string>
+			<key>Sort Album</key><string>El Nervio del Volcan</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/03%20Aqui%20No%20Es%20Asi.m4a</string>
+		</dict>
+		<key>30233</key>
+		<dict>
+			<key>Track ID</key><integer>30233</integer>
+			<key>Size</key><integer>7661109</integer>
+			<key>Total Time</key><integer>215866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2017-05-24T16:01:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3621886793</integer>
+			<key>Play Date UTC</key><date>2018-10-09T03:39:53Z</date>
+			<key>Release Date</key><date>1986-08-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19C1880082AE22AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Celula Que Explota</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>El Diablito</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>La Celula Que Explota</string>
+			<key>Sort Album</key><string>El Diablito</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/07%20La%20Celula%20Que%20Explota.m4a</string>
+		</dict>
+		<key>30255</key>
+		<dict>
+			<key>Track ID</key><integer>30255</integer>
+			<key>Size</key><integer>7877863</integer>
+			<key>Total Time</key><integer>213282</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3642920186</integer>
+			<key>Play Date UTC</key><date>2019-06-09T14:16:26Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA72B999EDF88EC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Matenme Porque Me Muero</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Matenme Porque Me Muero</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/01%20Matenme%20Porque%20Me%20Muero.m4a</string>
+		</dict>
+		<key>30249</key>
+		<dict>
+			<key>Track ID</key><integer>30249</integer>
+			<key>Size</key><integer>9625012</integer>
+			<key>Total Time</key><integer>263259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2017-05-24T15:54:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646228493</integer>
+			<key>Play Date UTC</key><date>2019-07-17T21:14:53Z</date>
+			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74395439F586820A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cuentame Tu Vida</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Saúl Hernández</string>
+			<key>Album</key><string>Caifanes</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Cuentame Tu Vida</string>
+			<key>Sort Album</key><string>Caifanes</string>
+			<key>Sort Artist</key><string>Caifanes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/04%20Cuentame%20Tu%20Vida.m4a</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131992</integer>
+			<key>Playlist Persistent ID</key><string>23FCAF33459E9786</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Caifanes</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30249</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

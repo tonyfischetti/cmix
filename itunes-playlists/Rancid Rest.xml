@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>5245</key>
+		<dict>
+			<key>Track ID</key><integer>5245</integer>
+			<key>Size</key><integer>5820773</integer>
+			<key>Total Time</key><integer>241528</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D75B01D6E21771BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Wanna Riot (Ska Version Feat. Stubborn All-Stars)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/01%20I%20Wanna%20Riot%20(Ska%20Version%20Feat.%20Stubborn%20All-Stars).mp3</string>
+		</dict>
+		<key>5221</key>
+		<dict>
+			<key>Track ID</key><integer>5221</integer>
+			<key>Size</key><integer>3355607</integer>
+			<key>Total Time</key><integer>138814</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E30CD4CA47FD1D6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Brad Logan</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/02%20Brad%20Logan.mp3</string>
+		</dict>
+		<key>5259</key>
+		<dict>
+			<key>Track ID</key><integer>5259</integer>
+			<key>Size</key><integer>4343665</integer>
+			<key>Total Time</key><integer>179983</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7C60A9AFEFC8182</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Brothels</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Sort Name</key><string>Brothels</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/03%20The%20Brothels.mp3</string>
+		</dict>
+		<key>5251</key>
+		<dict>
+			<key>Track ID</key><integer>5251</integer>
+			<key>Size</key><integer>3953735</integer>
+			<key>Total Time</key><integer>163735</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A3E2EFBA6370EF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>If the Kids are United (Sham 69 Cover)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/04%20If%20the%20Kids%20are%20United%20(Sham%2069%20Cover).mp3</string>
+		</dict>
+		<key>5247</key>
+		<dict>
+			<key>Track ID</key><integer>5247</integer>
+			<key>Size</key><integer>2005813</integer>
+			<key>Total Time</key><integer>82573</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>562AA1A4D597EB9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kill The Lights</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/05%20Kill%20The%20Lights.mp3</string>
+		</dict>
+		<key>5261</key>
+		<dict>
+			<key>Track ID</key><integer>5261</integer>
+			<key>Size</key><integer>2170911</integer>
+			<key>Total Time</key><integer>89025</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8EC3EC39AF9FA70</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>White Knuckle Ride</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/06%20White%20Knuckle%20Ride.mp3</string>
+		</dict>
+		<key>5265</key>
+		<dict>
+			<key>Track ID</key><integer>5265</integer>
+			<key>Size</key><integer>4673435</integer>
+			<key>Total Time</key><integer>193724</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CDA07DD41BE9D6FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Wanna Riot</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/07%20I%20Wanna%20Riot.mp3</string>
+		</dict>
+		<key>5237</key>
+		<dict>
+			<key>Track ID</key><integer>5237</integer>
+			<key>Size</key><integer>4517949</integer>
+			<key>Total Time</key><integer>187245</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DEFD871745E3FAF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Brixton</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/08%20Brixton.mp3</string>
+		</dict>
+		<key>5229</key>
+		<dict>
+			<key>Track ID</key><integer>5229</integer>
+			<key>Size</key><integer>3222692</integer>
+			<key>Total Time</key><integer>133276</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>455E5E664B054FD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tattoo</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/09%20Tattoo.mp3</string>
+		</dict>
+		<key>5239</key>
+		<dict>
+			<key>Track ID</key><integer>5239</integer>
+			<key>Size</key><integer>4193194</integer>
+			<key>Total Time</key><integer>173714</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F6B1131F8411450</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lethal</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/10%20Lethal.mp3</string>
+		</dict>
+		<key>5243</key>
+		<dict>
+			<key>Track ID</key><integer>5243</integer>
+			<key>Size</key><integer>1585757</integer>
+			<key>Total Time</key><integer>65071</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>721027BD3F184E1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Life</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/11%20My%20Life.mp3</string>
+		</dict>
+		<key>5225</key>
+		<dict>
+			<key>Track ID</key><integer>5225</integer>
+			<key>Size</key><integer>3670350</integer>
+			<key>Total Time</key><integer>151928</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50000D302F7FD84E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Harder They Come (Live At Tibetan Freedom Concert 1997) (Jimmy Cliff Cover)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Sort Name</key><string>Harder They Come (Live At Tibetan Freedom Concert 1997) (Jimmy Cliff Cover)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/12%20The%20Harder%20They%20Come%20(Live%20At%20Tibetan%20Freedom%20Concert%201997)%20(Jimmy%20Cliff%20Cover).mp3</string>
+		</dict>
+		<key>5233</key>
+		<dict>
+			<key>Track ID</key><integer>5233</integer>
+			<key>Size</key><integer>4706055</integer>
+			<key>Total Time</key><integer>195082</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9DB02B440BC1B6CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Things To Come (Dance Hall Mix)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/13%20Things%20To%20Come%20(Dance%20Hall%20Mix).mp3</string>
+		</dict>
+		<key>5257</key>
+		<dict>
+			<key>Track ID</key><integer>5257</integer>
+			<key>Size</key><integer>5647050</integer>
+			<key>Total Time</key><integer>234292</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17E557FB699827A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cash, Culture and Violence (Bass Drop Mix)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/14%20Cash,%20Culture%20and%20Violence%20(Bass%20Drop%20Mix).mp3</string>
+		</dict>
+		<key>5227</key>
+		<dict>
+			<key>Track ID</key><integer>5227</integer>
+			<key>Size</key><integer>1956905</integer>
+			<key>Total Time</key><integer>80535</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5877468FD9A67894</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Endrina</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/15%20Endrina.mp3</string>
+		</dict>
+		<key>5267</key>
+		<dict>
+			<key>Track ID</key><integer>5267</integer>
+			<key>Size</key><integer>6921672</integer>
+			<key>Total Time</key><integer>287399</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>432FD65CC7186908</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Coppers (Brooklyn Mix) (Previously Unreleased)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/16%20Coppers%20(Brooklyn%20Mix)%20(Previously%20Unreleased).mp3</string>
+		</dict>
+		<key>5217</key>
+		<dict>
+			<key>Track ID</key><integer>5217</integer>
+			<key>Size</key><integer>3090414</integer>
+			<key>Total Time</key><integer>127764</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F305AE5452059D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ben Zanatto</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/17%20Ben%20Zanatto.mp3</string>
+		</dict>
+		<key>5231</key>
+		<dict>
+			<key>Track ID</key><integer>5231</integer>
+			<key>Size</key><integer>2007069</integer>
+			<key>Total Time</key><integer>82625</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0510C55DAA4E5C0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sick, Sick World</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/18%20Sick,%20Sick%20World.mp3</string>
+		</dict>
+		<key>5223</key>
+		<dict>
+			<key>Track ID</key><integer>5223</integer>
+			<key>Size</key><integer>3225225</integer>
+			<key>Total Time</key><integer>133381</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9FD733C27CF4F7D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I'm Against It (Ramones Cover)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/19%20I'm%20Against%20It%20(Ramones%20Cover).mp3</string>
+		</dict>
+		<key>5263</key>
+		<dict>
+			<key>Track ID</key><integer>5263</integer>
+			<key>Size</key><integer>2571929</integer>
+			<key>Total Time</key><integer>106161</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6400BAB0028F95E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stop</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/20%20Stop.mp3</string>
+		</dict>
+		<key>5253</key>
+		<dict>
+			<key>Track ID</key><integer>5253</integer>
+			<key>Size</key><integer>3226462</integer>
+			<key>Total Time</key><integer>133433</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C11FA30B200AF621</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dead And Gone</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/21%20Dead%20And%20Gone.mp3</string>
+		</dict>
+		<key>5241</key>
+		<dict>
+			<key>Track ID</key><integer>5241</integer>
+			<key>Size</key><integer>718705</integer>
+			<key>Total Time</key><integer>28943</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6F36D5FB05913844</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blacklisted</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/22%20Blacklisted.mp3</string>
+		</dict>
+		<key>5235</key>
+		<dict>
+			<key>Track ID</key><integer>5235</integer>
+			<key>Size</key><integer>3728636</integer>
+			<key>Total Time</key><integer>154357</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F632F869B6969B7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blast Em'</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/23%20Blast%20Em'.mp3</string>
+		</dict>
+		<key>5255</key>
+		<dict>
+			<key>Track ID</key><integer>5255</integer>
+			<key>Size</key><integer>2240921</integer>
+			<key>Total Time</key><integer>92368</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCBE82ECCB12EFFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>That's Entertainment</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/24%20That's%20Entertainment.mp3</string>
+		</dict>
+		<key>5249</key>
+		<dict>
+			<key>Track ID</key><integer>5249</integer>
+			<key>Size</key><integer>3023340</integer>
+			<key>Total Time</key><integer>124969</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8A65B3924634C77</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cheat (Clash Cover)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/25%20Cheat%20(Clash%20Cover).mp3</string>
+		</dict>
+		<key>5219</key>
+		<dict>
+			<key>Track ID</key><integer>5219</integer>
+			<key>Size</key><integer>3245319</integer>
+			<key>Total Time</key><integer>134217</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9CCEA9CA926CF883</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lars Fredrikson And Tim Armstrong - No More (Black Flag Cover)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Avenues And Alleyways</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Punxunderground Recordings</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Avenues%20And%20Alleyways/26%20Lars%20Fredrikson%20And%20Tim%20Armstrong%20-%20No%20More%20(Black%20Flag%20Cover).mp3</string>
+		</dict>
+		<key>5515</key>
+		<dict>
+			<key>Track ID</key><integer>5515</integer>
+			<key>Size</key><integer>2772288</integer>
+			<key>Total Time</key><integer>114808</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE2A96BC45530BF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Moron Bros (NOFX)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>BYO Split Series Vol 3 [UK]</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/01%20Moron%20Bros%20(NOFX).mp3</string>
+		</dict>
+		<key>5519</key>
+		<dict>
+			<key>Track ID</key><integer>5519</integer>
+			<key>Size</key><integer>2653805</integer>
+			<key>Total Time</key><integer>109871</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6583A5862156FC66</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stickin' In My Eye (NOFX)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>BYO Split Series Vol 3 [UK]</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/08%20Stickin'%20In%20My%20Eye%20(NOFX).mp3</string>
+		</dict>
+		<key>5521</key>
+		<dict>
+			<key>Track ID</key><integer>5521</integer>
+			<key>Size</key><integer>2935912</integer>
+			<key>Total Time</key><integer>121626</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>135C27E4D4500206</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bob (NOFX)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>BYO Split Series Vol 3 [UK]</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/09%20Bob%20(NOFX).mp3</string>
+		</dict>
+		<key>5511</key>
+		<dict>
+			<key>Track ID</key><integer>5511</integer>
+			<key>Size</key><integer>3996710</integer>
+			<key>Total Time</key><integer>165825</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72B2CD565324864A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Call Me White (NOFX)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>BYO Split Series Vol 3 [UK]</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/10%20Don't%20Call%20Me%20White%20(NOFX).mp3</string>
+		</dict>
+		<key>5513</key>
+		<dict>
+			<key>Track ID</key><integer>5513</integer>
+			<key>Size</key><integer>3047511</integer>
+			<key>Total Time</key><integer>126275</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F20EE2E6C9E36D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Brews (NOFX)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>BYO Split Series Vol 3 [UK]</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/11%20Brews%20(NOFX).mp3</string>
+		</dict>
+		<key>5517</key>
+		<dict>
+			<key>Track ID</key><integer>5517</integer>
+			<key>Size</key><integer>3629316</integer>
+			<key>Total Time</key><integer>150517</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6F6FF67052910712</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Vanilla Sex (NOFX)</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>BYO Split Series Vol 3 [UK]</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/12%20Vanilla%20Sex%20(NOFX).mp3</string>
+		</dict>
+		<key>5549</key>
+		<dict>
+			<key>Track ID</key><integer>5549</integer>
+			<key>Size</key><integer>1540096</integer>
+			<key>Total Time</key><integer>48091</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C37B7D57024E3F92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Intro</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/01%20Intro.mp3</string>
+		</dict>
+		<key>5561</key>
+		<dict>
+			<key>Track ID</key><integer>5561</integer>
+			<key>Size</key><integer>5292032</integer>
+			<key>Total Time</key><integer>165302</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>06B3267B5916A7AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bloodclot</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/02%20Bloodclot.mp3</string>
+		</dict>
+		<key>5527</key>
+		<dict>
+			<key>Track ID</key><integer>5527</integer>
+			<key>Size</key><integer>7995392</integer>
+			<key>Total Time</key><integer>249782</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7C820D397804B2B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hoover Street</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/03%20Hoover%20Street.mp3</string>
+		</dict>
+		<key>5565</key>
+		<dict>
+			<key>Track ID</key><integer>5565</integer>
+			<key>Size</key><integer>3633152</integer>
+			<key>Total Time</key><integer>113475</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AEC2F21BBCAE65E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black Lung</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/04%20Black%20Lung.mp3</string>
+		</dict>
+		<key>5545</key>
+		<dict>
+			<key>Track ID</key><integer>5545</integer>
+			<key>Size</key><integer>7301120</integer>
+			<key>Total Time</key><integer>228101</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5C92AA9FFB8334AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Life won't wait</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/05%20Life%20won't%20wait.mp3</string>
+		</dict>
+		<key>5543</key>
+		<dict>
+			<key>Track ID</key><integer>5543</integer>
+			<key>Size</key><integer>5484544</integer>
+			<key>Total Time</key><integer>171337</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4E4E922C66300EF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Dress</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/06%20New%20Dress.mp3</string>
+		</dict>
+		<key>5533</key>
+		<dict>
+			<key>Track ID</key><integer>5533</integer>
+			<key>Size</key><integer>2924544</integer>
+			<key>Total Time</key><integer>91350</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>166B0E03F8CAE2CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Warsaw</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/07%20Warsaw.mp3</string>
+		</dict>
+		<key>5553</key>
+		<dict>
+			<key>Track ID</key><integer>5553</integer>
+			<key>Size</key><integer>4890624</integer>
+			<key>Total Time</key><integer>152816</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>11DD0A3752FE30C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hooligans</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/08%20Hooligans.mp3</string>
+		</dict>
+		<key>5539</key>
+		<dict>
+			<key>Track ID</key><integer>5539</integer>
+			<key>Size</key><integer>7301120</integer>
+			<key>Total Time</key><integer>228101</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>747B97C1726612A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crane Fist</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/09%20Crane%20Fist.mp3</string>
+		</dict>
+		<key>5535</key>
+		<dict>
+			<key>Track ID</key><integer>5535</integer>
+			<key>Size</key><integer>4962304</integer>
+			<key>Total Time</key><integer>155010</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F78B95278B1E0FA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leicaster Square</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/10%20Leicaster%20Square.mp3</string>
+		</dict>
+		<key>5557</key>
+		<dict>
+			<key>Track ID</key><integer>5557</integer>
+			<key>Size</key><integer>5558272</integer>
+			<key>Total Time</key><integer>173662</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BF808E515E2277A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blackslide</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/11%20Blackslide.mp3</string>
+		</dict>
+		<key>5523</key>
+		<dict>
+			<key>Track ID</key><integer>5523</integer>
+			<key>Size</key><integer>5658624</integer>
+			<key>Total Time</key><integer>176796</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>459688CE993B9876</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Who Would've Thought</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/12%20Who%20Would've%20Thought.mp3</string>
+		</dict>
+		<key>5555</key>
+		<dict>
+			<key>Track ID</key><integer>5555</integer>
+			<key>Size</key><integer>6088704</integer>
+			<key>Total Time</key><integer>190223</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>59CC07AD1E881545</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cash, Culture and Violence</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/13%20Cash,%20Culture%20and%20Violence.mp3</string>
+		</dict>
+		<key>5551</key>
+		<dict>
+			<key>Track ID</key><integer>5551</integer>
+			<key>Size</key><integer>6420480</integer>
+			<key>Total Time</key><integer>200594</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C9E82C698D031B27</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cocktails</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/14%20Cocktails.mp3</string>
+		</dict>
+		<key>5537</key>
+		<dict>
+			<key>Track ID</key><integer>5537</integer>
+			<key>Size</key><integer>5087232</integer>
+			<key>Total Time</key><integer>158955</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1B5DA04410A8E442</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Wolf</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Sort Name</key><string>Wolf</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/15%20The%20Wolf.mp3</string>
+		</dict>
+		<key>5541</key>
+		<dict>
+			<key>Track ID</key><integer>5541</integer>
+			<key>Size</key><integer>5308416</integer>
+			<key>Total Time</key><integer>165851</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8D8BD6DD1D8F6C9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>1998</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/16%201998.mp3</string>
+		</dict>
+		<key>5547</key>
+		<dict>
+			<key>Track ID</key><integer>5547</integer>
+			<key>Size</key><integer>4493312</integer>
+			<key>Total Time</key><integer>140355</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>014955A534F784D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lady Liberty</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/17%20Lady%20Liberty.mp3</string>
+		</dict>
+		<key>5559</key>
+		<dict>
+			<key>Track ID</key><integer>5559</integer>
+			<key>Size</key><integer>6778880</integer>
+			<key>Total Time</key><integer>211774</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F5263AD940C6BC6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wrongful Suspicion</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/18%20Wrongful%20Suspicion.mp3</string>
+		</dict>
+		<key>5529</key>
+		<dict>
+			<key>Track ID</key><integer>5529</integer>
+			<key>Size</key><integer>4380672</integer>
+			<key>Total Time</key><integer>136881</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8AB6E2F64C5B969E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Turntable</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/19%20Turntable.mp3</string>
+		</dict>
+		<key>5563</key>
+		<dict>
+			<key>Track ID</key><integer>5563</integer>
+			<key>Size</key><integer>4917248</integer>
+			<key>Total Time</key><integer>153652</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F4421408A5BDCFC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Something in the world today</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/20%20Something%20in%20the%20world%20today.mp3</string>
+		</dict>
+		<key>5525</key>
+		<dict>
+			<key>Track ID</key><integer>5525</integer>
+			<key>Size</key><integer>7645184</integer>
+			<key>Total Time</key><integer>238889</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3633712865</integer>
+			<key>Play Date UTC</key><date>2019-02-23T01:41:05Z</date>
+			<key>Persistent ID</key><string>46D8AAE77879C422</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Corazon de Oro</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/21%20Corazon%20de%20Oro.mp3</string>
+		</dict>
+		<key>5531</key>
+		<dict>
+			<key>Track ID</key><integer>5531</integer>
+			<key>Size</key><integer>9662464</integer>
+			<key>Total Time</key><integer>301923</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>83745F4F9C223A9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Coppers</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Life Won't Wait</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Ripped by vertex-</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Life%20Won't%20Wait/22%20Coppers.mp3</string>
+		</dict>
+		<key>5493</key>
+		<dict>
+			<key>Track ID</key><integer>5493</integer>
+			<key>Size</key><integer>2906781</integer>
+			<key>Total Time</key><integer>175934</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D9751F26960FC03</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ruby Soho</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/01%20Ruby%20Soho.mp3</string>
+		</dict>
+		<key>5483</key>
+		<dict>
+			<key>Track ID</key><integer>5483</integer>
+			<key>Size</key><integer>2513904</integer>
+			<key>Total Time</key><integer>151379</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F755DC94C7AE7EE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Roots Radicals</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/02%20Roots%20Radicals.mp3</string>
+		</dict>
+		<key>5509</key>
+		<dict>
+			<key>Track ID</key><integer>5509</integer>
+			<key>Size</key><integer>1851436</integer>
+			<key>Total Time</key><integer>109975</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>036CEB279740839B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dead Bodies</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/03%20Dead%20Bodies.mp3</string>
+		</dict>
+		<key>5503</key>
+		<dict>
+			<key>Track ID</key><integer>5503</integer>
+			<key>Size</key><integer>2257695</integer>
+			<key>Total Time</key><integer>135366</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C787456EFF51EA1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Maxwell Murder</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/04%20Maxwell%20Murder.mp3</string>
+		</dict>
+		<key>5473</key>
+		<dict>
+			<key>Track ID</key><integer>5473</integer>
+			<key>Size</key><integer>2560302</integer>
+			<key>Total Time</key><integer>154279</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5AF86FBCAE10190</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Journey to the End</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/05%20Journey%20to%20the%20End.mp3</string>
+		</dict>
+		<key>5489</key>
+		<dict>
+			<key>Track ID</key><integer>5489</integer>
+			<key>Size</key><integer>3378240</integer>
+			<key>Total Time</key><integer>205400</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86FCDF7D44752C4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Olympia WA</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/06%20Olympia%20WA.mp3</string>
+		</dict>
+		<key>5467</key>
+		<dict>
+			<key>Track ID</key><integer>5467</integer>
+			<key>Size</key><integer>1775783</integer>
+			<key>Total Time</key><integer>105247</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFCDBC93BA160C89</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nihilism</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/07%20Nihilism.mp3</string>
+		</dict>
+		<key>5499</key>
+		<dict>
+			<key>Track ID</key><integer>5499</integer>
+			<key>Size</key><integer>2062927</integer>
+			<key>Total Time</key><integer>123193</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B2A3B16F2C341CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black and Blue</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/08%20Black%20and%20Blue.mp3</string>
+		</dict>
+		<key>5479</key>
+		<dict>
+			<key>Track ID</key><integer>5479</integer>
+			<key>Size</key><integer>1605675</integer>
+			<key>Total Time</key><integer>94615</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A87AFF8A4F965447</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tenderloin</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/09%20Tenderloin.mp3</string>
+		</dict>
+		<key>5469</key>
+		<dict>
+			<key>Track ID</key><integer>5469</integer>
+			<key>Size</key><integer>2196249</integer>
+			<key>Total Time</key><integer>131526</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>391D093B45D43A57</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>St Mary</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/10%20St%20Mary.mp3</string>
+		</dict>
+		<key>5487</key>
+		<dict>
+			<key>Track ID</key><integer>5487</integer>
+			<key>Size</key><integer>3538739</integer>
+			<key>Total Time</key><integer>215431</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88BCEE611D1D2A03</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Red Hot Moon</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/11%20Red%20Hot%20Moon.mp3</string>
+		</dict>
+		<key>5491</key>
+		<dict>
+			<key>Track ID</key><integer>5491</integer>
+			<key>Size</key><integer>2160310</integer>
+			<key>Total Time</key><integer>129280</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7E35766F99F13EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Wars End</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Wars End</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/12%20The%20Wars%20End.mp3</string>
+		</dict>
+		<key>5507</key>
+		<dict>
+			<key>Track ID</key><integer>5507</integer>
+			<key>Size</key><integer>3938310</integer>
+			<key>Total Time</key><integer>240404</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>71DB37B3309DED30</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fall Back Down</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/13%20Fall%20Back%20Down.mp3</string>
+		</dict>
+		<key>5497</key>
+		<dict>
+			<key>Track ID</key><integer>5497</integer>
+			<key>Size</key><integer>2721862</integer>
+			<key>Total Time</key><integer>164388</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91C26F6D3013AB73</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hyena</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/14%20Hyena.mp3</string>
+		</dict>
+		<key>5475</key>
+		<dict>
+			<key>Track ID</key><integer>5475</integer>
+			<key>Size</key><integer>1567877</integer>
+			<key>Total Time</key><integer>92264</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73235D8C19A7FCA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She's Automatic</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/15%20She's%20Automatic.mp3</string>
+		</dict>
+		<key>5477</key>
+		<dict>
+			<key>Track ID</key><integer>5477</integer>
+			<key>Size</key><integer>2788932</integer>
+			<key>Total Time</key><integer>168568</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAE0F60BF5BB4D65</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>To Have and to Have Not</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/16%20To%20Have%20and%20to%20Have%20Not.mp3</string>
+		</dict>
+		<key>5505</key>
+		<dict>
+			<key>Track ID</key><integer>5505</integer>
+			<key>Size</key><integer>2798954</integer>
+			<key>Total Time</key><integer>169195</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42364E27848CEB76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>David Courtney</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/17%20David%20Courtney.mp3</string>
+		</dict>
+		<key>5471</key>
+		<dict>
+			<key>Track ID</key><integer>5471</integer>
+			<key>Size</key><integer>2204202</integer>
+			<key>Total Time</key><integer>132022</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8396818D6D52196</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lock Step and Gone</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/18%20Lock%20Step%20and%20Gone.mp3</string>
+		</dict>
+		<key>5501</key>
+		<dict>
+			<key>Track ID</key><integer>5501</integer>
+			<key>Size</key><integer>2045786</integer>
+			<key>Total Time</key><integer>122122</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B2284975098893F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Salvation</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/19%20Salvation.mp3</string>
+		</dict>
+		<key>5481</key>
+		<dict>
+			<key>Track ID</key><integer>5481</integer>
+			<key>Size</key><integer>2893001</integer>
+			<key>Total Time</key><integer>175072</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5C5B67414E29BDA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Avenues and Alleyways</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/20%20Avenues%20and%20Alleyways.mp3</string>
+		</dict>
+		<key>5495</key>
+		<dict>
+			<key>Track ID</key><integer>5495</integer>
+			<key>Size</key><integer>2746703</integer>
+			<key>Total Time</key><integer>165929</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB577CEAE750BEB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Timebomb</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/21%20Timebomb.mp3</string>
+		</dict>
+		<key>5485</key>
+		<dict>
+			<key>Track ID</key><integer>5485</integer>
+			<key>Size</key><integer>4191167</integer>
+			<key>Total Time</key><integer>256208</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:57:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0FCFC9B89D74C74A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Radio</string>
+			<key>Artist</key><string>Rancid</string>
+			<key>Album</key><string>Live Nottingham 2003</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rancid/Live%20Nottingham%202003/22%20Radio.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137903</integer>
+			<key>Playlist Persistent ID</key><string>64A15C206228170E</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Rancid Rest</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5485</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>53423</key>
+		<dict>
+			<key>Track ID</key><integer>53423</integer>
+			<key>Size</key><integer>11616884</integer>
+			<key>Total Time</key><integer>287346</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-13T00:49:47Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D229AED14131130A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Canvas Beauty (Romance Version)</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/01%20Canvas%20Beauty%20(Romance%20Version).mp3</string>
+		</dict>
+		<key>53425</key>
+		<dict>
+			<key>Track ID</key><integer>53425</integer>
+			<key>Size</key><integer>7980180</integer>
+			<key>Total Time</key><integer>197146</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-13T00:49:48Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C1AB894974088DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Light Pours Out Of Me</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Light Pours Out Of Me</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/02%20The%20Light%20Pours%20Out%20Of%20Me.mp3</string>
+		</dict>
+		<key>53427</key>
+		<dict>
+			<key>Track ID</key><integer>53427</integer>
+			<key>Size</key><integer>13736779</integer>
+			<key>Total Time</key><integer>341002</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:14Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>83B51421A76A5BB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Confessions</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/03%20Confessions.mp3</string>
+		</dict>
+		<key>53429</key>
+		<dict>
+			<key>Track ID</key><integer>53429</integer>
+			<key>Size</key><integer>11680163</integer>
+			<key>Total Time</key><integer>289645</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-13T00:49:48Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B64B9656D6F36BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Should The World Fail To Fall</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/04%20Should%20The%20World%20Fail%20To%20Fall.mp3</string>
+		</dict>
+		<key>53431</key>
+		<dict>
+			<key>Track ID</key><integer>53431</integer>
+			<key>Size</key><integer>15108728</integer>
+			<key>Total Time</key><integer>375301</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:27Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB2E60025D6FB66B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Never Man</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/05%20Never%20Man.mp3</string>
+		</dict>
+		<key>53433</key>
+		<dict>
+			<key>Track ID</key><integer>53433</integer>
+			<key>Size</key><integer>14115030</integer>
+			<key>Total Time</key><integer>350458</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:20Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F9F0F0C8163C28B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>God Sends</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/06%20God%20Sends.mp3</string>
+		</dict>
+		<key>53435</key>
+		<dict>
+			<key>Track ID</key><integer>53435</integer>
+			<key>Size</key><integer>10762743</integer>
+			<key>Total Time</key><integer>266710</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-13T00:49:48Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-12T22:57:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69E9E845265F6B2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blue Heart</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/07%20Blue%20Heart.mp3</string>
+		</dict>
+		<key>53437</key>
+		<dict>
+			<key>Track ID</key><integer>53437</integer>
+			<key>Size</key><integer>15646596</integer>
+			<key>Total Time</key><integer>388806</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-13T00:49:49Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC7EA3919810DE45</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Answer Is Clear (Album Version)</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Answer Is Clear (Album Version)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/08%20The%20Answer%20Is%20Clear%20(Album%20Version).mp3</string>
+		</dict>
+		<key>53439</key>
+		<dict>
+			<key>Track ID</key><integer>53439</integer>
+			<key>Size</key><integer>9552751</integer>
+			<key>Total Time</key><integer>236538</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-13T00:49:49Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC275771052D5D63</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Final Solution</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/09%20Final%20Solution.mp3</string>
+		</dict>
+		<key>53441</key>
+		<dict>
+			<key>Track ID</key><integer>53441</integer>
+			<key>Size</key><integer>13443158</integer>
+			<key>Total Time</key><integer>333662</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2018-11-12T21:32:55Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2637EEBD71731C38</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jemal</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Should The World Fail To Fall</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Should%20The%20World%20Fail%20To%20Fall/10%20Jemal.mp3</string>
+		</dict>
+		<key>53455</key>
+		<dict>
+			<key>Track ID</key><integer>53455</integer>
+			<key>Size</key><integer>9502052</integer>
+			<key>Total Time</key><integer>235781</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2018-11-12T22:45:20Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3646797404</integer>
+			<key>Play Date UTC</key><date>2019-07-24T11:16:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-12T10:51:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF8C84240776F18F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blind Sublime</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Love Hysteria</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Love%20Hysteria/07%20Blind%20Sublime.mp3</string>
+		</dict>
+		<key>53457</key>
+		<dict>
+			<key>Track ID</key><integer>53457</integer>
+			<key>Size</key><integer>15969975</integer>
+			<key>Total Time</key><integer>397479</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2018-11-12T22:45:20Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3AF895C27C21A41E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Last Two Weeks</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Love Hysteria</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Love%20Hysteria/08%20My%20Last%20Two%20Weeks.mp3</string>
+		</dict>
+		<key>53459</key>
+		<dict>
+			<key>Track ID</key><integer>53459</integer>
+			<key>Size</key><integer>9209327</integer>
+			<key>Total Time</key><integer>228466</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2018-11-13T00:48:16Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B4F010099D193256</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fun Time</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Love Hysteria</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Love%20Hysteria/09%20Fun%20Time.mp3</string>
+		</dict>
+		<key>53461</key>
+		<dict>
+			<key>Track ID</key><integer>53461</integer>
+			<key>Size</key><integer>10686989</integer>
+			<key>Total Time</key><integer>265404</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2018-11-12T22:45:20Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>197BBDD8568C0BAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I've Got A Miniature Secret Camera</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Love Hysteria</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Love%20Hysteria/10%20I've%20Got%20A%20Miniature%20Secret%20Camera.mp3</string>
+		</dict>
+		<key>53463</key>
+		<dict>
+			<key>Track ID</key><integer>53463</integer>
+			<key>Size</key><integer>14351241</integer>
+			<key>Total Time</key><integer>356963</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2018-11-12T22:45:20Z</date>
+			<key>Date Added</key><date>2018-11-12T22:44:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6DAFBB1CF95FCBCE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fun Time (Cabaret Mix)</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Love Hysteria</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Love%20Hysteria/11%20Fun%20Time%20(Cabaret%20Mix).mp3</string>
+		</dict>
+		<key>53487</key>
+		<dict>
+			<key>Track ID</key><integer>53487</integer>
+			<key>Size</key><integer>10650564</integer>
+			<key>Total Time</key><integer>266004</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:00Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DCE70E3477D5AEA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Keep Me From Harm</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/01%20Keep%20Me%20From%20Harm.mp3</string>
+		</dict>
+		<key>53489</key>
+		<dict>
+			<key>Track ID</key><integer>53489</integer>
+			<key>Size</key><integer>11539772</integer>
+			<key>Total Time</key><integer>288235</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:09Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67AEE9DC5052FC52</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kill The Hate</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/02%20Kill%20The%20Hate.mp3</string>
+		</dict>
+		<key>53491</key>
+		<dict>
+			<key>Track ID</key><integer>53491</integer>
+			<key>Size</key><integer>13203250</integer>
+			<key>Total Time</key><integer>329822</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:23Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A88B734CFB92622F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You're So Close</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/03%20You're%20So%20Close.mp3</string>
+		</dict>
+		<key>53493</key>
+		<dict>
+			<key>Track ID</key><integer>53493</integer>
+			<key>Size</key><integer>16614841</integer>
+			<key>Total Time</key><integer>415111</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:22Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36CD62B0F1A3D086</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Sweetest Drop</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Sweetest Drop</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/04%20The%20Sweetest%20Drop.mp3</string>
+		</dict>
+		<key>53495</key>
+		<dict>
+			<key>Track ID</key><integer>53495</integer>
+			<key>Size</key><integer>10513682</integer>
+			<key>Total Time</key><integer>262582</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:24Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4906A3E8EA6C461D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Low Room</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/05%20Low%20Room.mp3</string>
+		</dict>
+		<key>53497</key>
+		<dict>
+			<key>Track ID</key><integer>53497</integer>
+			<key>Size</key><integer>8546139</integer>
+			<key>Total Time</key><integer>213394</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:17Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AEDFE5AED8507628</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Let Me Love You</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/06%20Let%20Me%20Love%20You.mp3</string>
+		</dict>
+		<key>53499</key>
+		<dict>
+			<key>Track ID</key><integer>53499</integer>
+			<key>Size</key><integer>13843772</integer>
+			<key>Total Time</key><integer>345835</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:32:52Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3ECAE8829A558318</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Our Secret Garden</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/07%20Our%20Secret%20Garden.mp3</string>
+		</dict>
+		<key>53501</key>
+		<dict>
+			<key>Track ID</key><integer>53501</integer>
+			<key>Size</key><integer>14627446</integer>
+			<key>Total Time</key><integer>365426</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:10Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D2D149BCFD76C00</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dream Gone By</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/08%20Dream%20Gone%20By.mp3</string>
+		</dict>
+		<key>53503</key>
+		<dict>
+			<key>Track ID</key><integer>53503</integer>
+			<key>Size</key><integer>13275348</integer>
+			<key>Total Time</key><integer>331624</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-12T21:33:11Z</date>
+			<key>Date Added</key><date>2018-11-12T22:45:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B874FC26A4E7760D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hit Song</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Holy Smoke</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Holy%20Smoke/09%20Hit%20Song.mp3</string>
+		</dict>
+		<key>53505</key>
+		<dict>
+			<key>Track ID</key><integer>53505</integer>
+			<key>Size</key><integer>13415508</integer>
+			<key>Total Time</key><integer>334445</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:06Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A812046F5DB939CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mirror To My Woman's Mind</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/01%20Mirror%20To%20My%20Woman's%20Mind.mp3</string>
+		</dict>
+		<key>53507</key>
+		<dict>
+			<key>Track ID</key><integer>53507</integer>
+			<key>Size</key><integer>11122864</integer>
+			<key>Total Time</key><integer>277368</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:06Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A067E5570E0F0E44</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Subway</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/02%20Subway.mp3</string>
+		</dict>
+		<key>53509</key>
+		<dict>
+			<key>Track ID</key><integer>53509</integer>
+			<key>Size</key><integer>10586263</integer>
+			<key>Total Time</key><integer>263941</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:07Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BFDAA89FB687F1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gliding Like A Whale</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/03%20Gliding%20Like%20A%20Whale.mp3</string>
+		</dict>
+		<key>53511</key>
+		<dict>
+			<key>Track ID</key><integer>53511</integer>
+			<key>Size</key><integer>11843230</integer>
+			<key>Total Time</key><integer>295392</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:07Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A256D30C8A9DA17</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Disappearing</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/04%20Disappearing.mp3</string>
+		</dict>
+		<key>53513</key>
+		<dict>
+			<key>Track ID</key><integer>53513</integer>
+			<key>Size</key><integer>8975360</integer>
+			<key>Total Time</key><integer>223634</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:07Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88F30144ABCC00D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mercy Rain</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/05%20Mercy%20Rain.mp3</string>
+		</dict>
+		<key>53515</key>
+		<dict>
+			<key>Track ID</key><integer>53515</integer>
+			<key>Size</key><integer>10902598</integer>
+			<key>Total Time</key><integer>271856</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:08Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB79090D1016B961</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I'll Fall With Your Knife</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/06%20I'll%20Fall%20With%20Your%20Knife.mp3</string>
+		</dict>
+		<key>53517</key>
+		<dict>
+			<key>Track ID</key><integer>53517</integer>
+			<key>Size</key><integer>10587995</integer>
+			<key>Total Time</key><integer>263993</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:08Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B9A09C4B11DEAA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Scarlet Thing In You</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Scarlet Thing In You</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/07%20The%20Scarlet%20Thing%20In%20You.mp3</string>
+		</dict>
+		<key>53519</key>
+		<dict>
+			<key>Track ID</key><integer>53519</integer>
+			<key>Size</key><integer>11425636</integer>
+			<key>Total Time</key><integer>284943</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:08Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6CBEDEF67994634B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sails Wave Goodbye</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/08%20Sails%20Wave%20Goodbye.mp3</string>
+		</dict>
+		<key>53521</key>
+		<dict>
+			<key>Track ID</key><integer>53521</integer>
+			<key>Size</key><integer>9159117</integer>
+			<key>Total Time</key><integer>228231</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:09Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAE769125C282B02</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wild Birds Flock To Me</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/09%20Wild%20Birds%20Flock%20To%20Me.mp3</string>
+		</dict>
+		<key>53523</key>
+		<dict>
+			<key>Track ID</key><integer>53523</integer>
+			<key>Size</key><integer>14213106</integer>
+			<key>Total Time</key><integer>354690</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:09Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BAF9FD9F16A661E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Huuvola</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/10%20Huuvola.mp3</string>
+		</dict>
+		<key>53525</key>
+		<dict>
+			<key>Track ID</key><integer>53525</integer>
+			<key>Size</key><integer>14743458</integer>
+			<key>Total Time</key><integer>367960</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:09Z</date>
+			<key>Date Added</key><date>2018-11-12T22:46:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CEEF672CB428D05F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cascade</string>
+			<key>Artist</key><string>Peter Murphy</string>
+			<key>Album</key><string>Cascade</string>
+			<key>Genre</key><string>Gothic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Murphy/Cascade/11%20Cascade.mp3</string>
+		</dict>
+		<key>53527</key>
+		<dict>
+			<key>Track ID</key><integer>53527</integer>
+			<key>Size</key><integer>9166767</integer>
+			<key>Total Time</key><integer>294008</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:26:12Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BA039A18EA76EB82</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Double Dare</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/01%20Double%20Dare%201.mp3</string>
+		</dict>
+		<key>53529</key>
+		<dict>
+			<key>Track ID</key><integer>53529</integer>
+			<key>Size</key><integer>7342409</integer>
+			<key>Total Time</key><integer>302184</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:25:20Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>68A175E1524502D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In the Flat Field</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/02%20In%20the%20Flat%20Field%201.mp3</string>
+		</dict>
+		<key>53531</key>
+		<dict>
+			<key>Track ID</key><integer>53531</integer>
+			<key>Size</key><integer>6679045</integer>
+			<key>Total Time</key><integer>233769</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:25:47Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>228</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BEAAF453F65C47D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Passion of Lovers</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Passion of Lovers</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/03%20The%20Passion%20of%20Lovers%201.mp3</string>
+		</dict>
+		<key>53533</key>
+		<dict>
+			<key>Track ID</key><integer>53533</integer>
+			<key>Size</key><integer>16812358</integer>
+			<key>Total Time</key><integer>576156</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:47:56Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>463DB44B2B89FF5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bela Lugosi's Dead</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/04%20Bela%20Lugosi's%20Dead%201.mp3</string>
+		</dict>
+		<key>53535</key>
+		<dict>
+			<key>Track ID</key><integer>53535</integer>
+			<key>Size</key><integer>8165413</integer>
+			<key>Total Time</key><integer>251663</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:32:09Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>731AB8D262CFE514</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Sanity Assassin</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Sanity Assassin</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/05%20The%20Sanity%20Assassin%201.mp3</string>
+		</dict>
+		<key>53537</key>
+		<dict>
+			<key>Track ID</key><integer>53537</integer>
+			<key>Size</key><integer>6883260</integer>
+			<key>Total Time</key><integer>237035</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T21:46:51Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F0EA10D88FAAC484</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She's in Parties</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/06%20She's%20in%20Parties%201.mp3</string>
+		</dict>
+		<key>53539</key>
+		<dict>
+			<key>Track ID</key><integer>53539</integer>
+			<key>Size</key><integer>4846196</integer>
+			<key>Total Time</key><integer>191973</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T21:37:57Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>185627539675D267</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Silent Hedges</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/07%20Silent%20Hedges%201.mp3</string>
+		</dict>
+		<key>53541</key>
+		<dict>
+			<key>Track ID</key><integer>53541</integer>
+			<key>Size</key><integer>8964140</integer>
+			<key>Total Time</key><integer>288731</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:03:05Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D7557CD7EB1B7345</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hollow Hills</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/08%20Hollow%20Hills%201.mp3</string>
+		</dict>
+		<key>53543</key>
+		<dict>
+			<key>Track ID</key><integer>53543</integer>
+			<key>Size</key><integer>6940391</integer>
+			<key>Total Time</key><integer>277864</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:25:36Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>476EDF95324283E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mask</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/09%20Mask%201.mp3</string>
+		</dict>
+		<key>53545</key>
+		<dict>
+			<key>Track ID</key><integer>53545</integer>
+			<key>Size</key><integer>5658823</integer>
+			<key>Total Time</key><integer>217991</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:32:20Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>207</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D78E7BBE81936A43</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kick in the Eye</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/10%20Kick%20in%20the%20Eye.mp3</string>
+		</dict>
+		<key>53547</key>
+		<dict>
+			<key>Track ID</key><integer>53547</integer>
+			<key>Size</key><integer>6087202</integer>
+			<key>Total Time</key><integer>195004</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:19:20Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E4291C499DFAE3AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ziggy Stardust</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/11%20Ziggy%20Stardust%201.mp3</string>
+		</dict>
+		<key>53549</key>
+		<dict>
+			<key>Track ID</key><integer>53549</integer>
+			<key>Size</key><integer>6086702</integer>
+			<key>Total Time</key><integer>233430</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T21:55:52Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D69AEC2E05056E32</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dark Entries</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/12%20Dark%20Entries%201.mp3</string>
+		</dict>
+		<key>53551</key>
+		<dict>
+			<key>Track ID</key><integer>53551</integer>
+			<key>Size</key><integer>7860857</integer>
+			<key>Total Time</key><integer>264724</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:05:07Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>237</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0D31E4ED560732DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Terror Couple Kill Colonel</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/13%20Terror%20Couple%20Kill%20Colonel.mp3</string>
+		</dict>
+		<key>53553</key>
+		<dict>
+			<key>Track ID</key><integer>53553</integer>
+			<key>Size</key><integer>6406613</integer>
+			<key>Total Time</key><integer>226586</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T21:59:20Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>226</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>70D221F3B1F509EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spirit</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/14%20Spirit.mp3</string>
+		</dict>
+		<key>53555</key>
+		<dict>
+			<key>Track ID</key><integer>53555</integer>
+			<key>Size</key><integer>15578166</integer>
+			<key>Total Time</key><integer>563931</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T22:38:59Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>19CC770236EB1879</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Burning from the Inside</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/15%20Burning%20from%20the%20Inside.mp3</string>
+		</dict>
+		<key>53557</key>
+		<dict>
+			<key>Track ID</key><integer>53557</integer>
+			<key>Size</key><integer>5420274</integer>
+			<key>Total Time</key><integer>194742</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-11-12T21:51:24Z</date>
+			<key>Date Added</key><date>2018-11-13T00:54:48Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E4533032C7A90077</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crowds</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>Crackle</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/Crackle/16%20Crowds%201.mp3</string>
+		</dict>
+		<key>53561</key>
+		<dict>
+			<key>Track ID</key><integer>53561</integer>
+			<key>Size</key><integer>11774998</integer>
+			<key>Total Time</key><integer>294269</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:40:03Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-13T23:39:49Z</date>
+			<key>Persistent ID</key><string>8E0B65748A25BBFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Double Dare</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/02%20Double%20Dare.mp3</string>
+		</dict>
+		<key>53563</key>
+		<dict>
+			<key>Track ID</key><integer>53563</integer>
+			<key>Size</key><integer>12018459</integer>
+			<key>Total Time</key><integer>300355</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:32:26Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B4DBBF7CC1198EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In The Flat Field</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/03%20In%20The%20Flat%20Field.mp3</string>
+		</dict>
+		<key>53565</key>
+		<dict>
+			<key>Track ID</key><integer>53565</integer>
+			<key>Size</key><integer>9938068</integer>
+			<key>Total Time</key><integer>248346</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:37:42Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EFF5C36E0E4283F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>God In An Alcove</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/04%20God%20In%20An%20Alcove.mp3</string>
+		</dict>
+		<key>53567</key>
+		<dict>
+			<key>Track ID</key><integer>53567</integer>
+			<key>Size</key><integer>5314394</integer>
+			<key>Total Time</key><integer>132754</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T21:49:33Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>64056FF507562E53</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dive</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/05%20Dive%201.mp3</string>
+		</dict>
+		<key>53569</key>
+		<dict>
+			<key>Track ID</key><integer>53569</integer>
+			<key>Size</key><integer>10800108</integer>
+			<key>Total Time</key><integer>269897</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:43:25Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F8EBC5D9F51A55FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spy In The Cab</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/06%20Spy%20In%20The%20Cab%201.mp3</string>
+		</dict>
+		<key>53571</key>
+		<dict>
+			<key>Track ID</key><integer>53571</integer>
+			<key>Size</key><integer>8600598</integer>
+			<key>Total Time</key><integer>214909</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:00:11Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8FC882014AEE5721</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Small Talk Stinks</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/07%20Small%20Talk%20Stinks%201.mp3</string>
+		</dict>
+		<key>53573</key>
+		<dict>
+			<key>Track ID</key><integer>53573</integer>
+			<key>Size</key><integer>8472076</integer>
+			<key>Total Time</key><integer>211696</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:32:46Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6B4A3BDEA215108F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>St. Vitus Dance</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/08%20St.%20Vitus%20Dance%201.mp3</string>
+		</dict>
+		<key>53575</key>
+		<dict>
+			<key>Track ID</key><integer>53575</integer>
+			<key>Size</key><integer>8983031</integer>
+			<key>Total Time</key><integer>224470</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:37:21Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>861194607749D93F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stigmata Martyr</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/09%20Stigmata%20Martyr%201.mp3</string>
+		</dict>
+		<key>53577</key>
+		<dict>
+			<key>Track ID</key><integer>53577</integer>
+			<key>Size</key><integer>17051733</integer>
+			<key>Total Time</key><integer>426187</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:36:59Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B8EFA6371D2B7612</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nerves</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/10%20Nerves.mp3</string>
+		</dict>
+		<key>53579</key>
+		<dict>
+			<key>Track ID</key><integer>53579</integer>
+			<key>Size</key><integer>5213039</integer>
+			<key>Total Time</key><integer>130220</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:43:02Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>41B694FF6056F718</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Telegram Sam</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/11%20Telegram%20Sam%201.mp3</string>
+		</dict>
+		<key>53581</key>
+		<dict>
+			<key>Track ID</key><integer>53581</integer>
+			<key>Size</key><integer>13303684</integer>
+			<key>Total Time</key><integer>332486</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:44:59Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9B546398D0312620</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rosegarden Funeral Of Sores</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/12%20Rosegarden%20Funeral%20Of%20Sores%201.mp3</string>
+		</dict>
+		<key>53583</key>
+		<dict>
+			<key>Track ID</key><integer>53583</integer>
+			<key>Size</key><integer>10365431</integer>
+			<key>Total Time</key><integer>259030</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:02:52Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E3569A2437C5DBF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Terror Couple Kill Colonel</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/13%20Terror%20Couple%20Kill%20Colonel%201.mp3</string>
+		</dict>
+		<key>53585</key>
+		<dict>
+			<key>Track ID</key><integer>53585</integer>
+			<key>Size</key><integer>3708386</integer>
+			<key>Total Time</key><integer>92604</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T21:56:10Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9C24BDAB290821EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Scopes</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/14%20Scopes%201.mp3</string>
+		</dict>
+		<key>53587</key>
+		<dict>
+			<key>Track ID</key><integer>53587</integer>
+			<key>Size</key><integer>3391782</integer>
+			<key>Total Time</key><integer>84688</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T21:56:10Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>00A7D83CDC14B63B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Untitled</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/15%20Untitled%201.mp3</string>
+		</dict>
+		<key>53589</key>
+		<dict>
+			<key>Track ID</key><integer>53589</integer>
+			<key>Size</key><integer>9905676</integer>
+			<key>Total Time</key><integer>247536</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:39:41Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A72A3E6684196862</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>God In An Alcove</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/16%20God%20In%20An%20Alcove.mp3</string>
+		</dict>
+		<key>53591</key>
+		<dict>
+			<key>Track ID</key><integer>53591</integer>
+			<key>Size</key><integer>7708255</integer>
+			<key>Total Time</key><integer>192600</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:28:16Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D4E66BEEBC1D60EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crowds</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/17%20Crowds.mp3</string>
+		</dict>
+		<key>53593</key>
+		<dict>
+			<key>Track ID</key><integer>53593</integer>
+			<key>Size</key><integer>10887127</integer>
+			<key>Total Time</key><integer>272169</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-11-12T22:25:40Z</date>
+			<key>Date Added</key><date>2018-11-13T00:55:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E66F2593AB914807</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Terror Couple Kill Colonel [Remix]</string>
+			<key>Artist</key><string>Bauhaus</string>
+			<key>Album</key><string>In The Flat Field</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bauhaus/In%20The%20Flat%20Field/18%20Terror%20Couple%20Kill%20Colonel%20%5BRemix%5D.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137644</integer>
+			<key>Playlist Persistent ID</key><string>3813FD3EBEE7F92C</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Peter Murphy Audit</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>53423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>53593</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

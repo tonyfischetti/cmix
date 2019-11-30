@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>13917</key>
+		<dict>
+			<key>Track ID</key><integer>13917</integer>
+			<key>Size</key><integer>4214808</integer>
+			<key>Total Time</key><integer>175516</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CABF2137202B65E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mardy Bum</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Whatever People Say I Am, That's What I'm Not</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Whatever%20People%20Say%20I%20Am,%20That's%20What%20I'm%20Not/09%20Mardy%20Bum.mp3</string>
+		</dict>
+		<key>13913</key>
+		<dict>
+			<key>Track ID</key><integer>13913</integer>
+			<key>Size</key><integer>6451130</integer>
+			<key>Total Time</key><integer>268695</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C4F839151DEFC1D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Perhaps Vampires Is a Bit Strong But...</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Whatever People Say I Am, That's What I'm Not</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Whatever%20People%20Say%20I%20Am,%20That's%20What%20I'm%20Not/10%20Perhaps%20Vampires%20Is%20a%20Bit%20Strong%20But....mp3</string>
+		</dict>
+		<key>13905</key>
+		<dict>
+			<key>Track ID</key><integer>13905</integer>
+			<key>Size</key><integer>3451225</integer>
+			<key>Total Time</key><integer>143699</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4CA323FBF44E3B2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Red Light Indicates Doors Are Secured</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Whatever People Say I Am, That's What I'm Not</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Whatever%20People%20Say%20I%20Am,%20That's%20What%20I'm%20Not/08%20Red%20Light%20Indicates%20Doors%20Are%20Secured.mp3</string>
+		</dict>
+		<key>32415</key>
+		<dict>
+			<key>Track ID</key><integer>32415</integer>
+			<key>Size</key><integer>6126674</integer>
+			<key>Total Time</key><integer>220264</integer>
+			<key>Track Number</key><integer>126</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:28:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FFF9540B4A8728A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Know I'm No Good</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Indie/Rock Playlist: December 2007</string>
+			<key>Album</key><string>Indie/Rock Playlist: December 2007</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Indie/Rock Playlist</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Indie_Rock%20Playlist_%20December%202007/Indie_Rock%20Playlist_%20December%202007/126%20You%20Know%20I'm%20No%20Good.mp3</string>
+		</dict>
+		<key>13909</key>
+		<dict>
+			<key>Track ID</key><integer>13909</integer>
+			<key>Size</key><integer>4804145</integer>
+			<key>Total Time</key><integer>200071</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4BAFE65093A5BFE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When the Sun Goes Down</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Whatever People Say I Am, That's What I'm Not</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Whatever%20People%20Say%20I%20Am,%20That's%20What%20I'm%20Not/11%20When%20the%20Sun%20Goes%20Down.mp3</string>
+		</dict>
+		<key>13881</key>
+		<dict>
+			<key>Track ID</key><integer>13881</integer>
+			<key>Size</key><integer>8881171</integer>
+			<key>Total Time</key><integer>220734</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42F591CB9A7E6B44</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pretty Visitors</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Alex Turner/Arctic Monkeys</string>
+			<key>Album</key><string>Humbug</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Humbug/09%20Pretty%20Visitors.mp3</string>
+		</dict>
+		<key>13949</key>
+		<dict>
+			<key>Track ID</key><integer>13949</integer>
+			<key>Size</key><integer>6131712</integer>
+			<key>Total Time</key><integer>191555</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>61C20300A25D1902</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Is A Laserquest</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Suck It And See</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>From guvera.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Suck%20It%20And%20See/10%20Love%20Is%20A%20Laserquest.mp3</string>
+		</dict>
+		<key>13965</key>
+		<dict>
+			<key>Track ID</key><integer>13965</integer>
+			<key>Size</key><integer>5212160</integer>
+			<key>Total Time</key><integer>162873</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>690103F6ED33CD7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Reckless Serenade</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Suck It And See</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>From guvera.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Suck%20It%20And%20See/08%20Reckless%20Serenade.mp3</string>
+		</dict>
+		<key>13957</key>
+		<dict>
+			<key>Track ID</key><integer>13957</integer>
+			<key>Size</key><integer>7237632</integer>
+			<key>Total Time</key><integer>226115</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>689D67D4C76ED853</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Suck It And See</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Suck It And See</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>From guvera.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Suck%20It%20And%20See/11%20Suck%20It%20And%20See.mp3</string>
+		</dict>
+		<key>13959</key>
+		<dict>
+			<key>Track ID</key><integer>13959</integer>
+			<key>Size</key><integer>6889472</integer>
+			<key>Total Time</key><integer>215248</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8322F4345FDE7F02</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black Treacle</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Suck It And See</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>From guvera.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Suck%20It%20And%20See/02%20Black%20Treacle.mp3</string>
+		</dict>
+		<key>13955</key>
+		<dict>
+			<key>Track ID</key><integer>13955</integer>
+			<key>Size</key><integer>6529024</integer>
+			<key>Total Time</key><integer>203990</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9EDCAB2ACB22F570</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Piledriver Waltz</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Suck It And See</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>From guvera.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Suck%20It%20And%20See/09%20Piledriver%20Waltz.mp3</string>
+		</dict>
+		<key>13923</key>
+		<dict>
+			<key>Track ID</key><integer>13923</integer>
+			<key>Size</key><integer>4244610</integer>
+			<key>Total Time</key><integer>171676</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9261A41F603D8713</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Brianstorm</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Alex Turner</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/01%20Brianstorm.mp3</string>
+		</dict>
+		<key>22115</key>
+		<dict>
+			<key>Track ID</key><integer>22115</integer>
+			<key>Size</key><integer>8562506</integer>
+			<key>Total Time</key><integer>251010</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:29:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1BE28C4B6B50FA6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>505</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Indie/Rock Playlist: February 2008</string>
+			<key>Album</key><string>Indie/Rock Playlist: February 2008</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Indie/Rock Playlist</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Indie_Rock%20Playlist_%20February%202008/Indie_Rock%20Playlist_%20February%202008/01%20505.mp3</string>
+		</dict>
+		<key>23305</key>
+		<dict>
+			<key>Track ID</key><integer>23305</integer>
+			<key>Size</key><integer>3983902</integer>
+			<key>Total Time</key><integer>146285</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:30:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6FF4BC02E1E938BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dancing Shoes</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Indie/Rock Playlist: January 2007</string>
+			<key>Album</key><string>Indie/Rock Playlist: January 2007</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Indie/Rock Playlist</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Indie_Rock%20Playlist_%20January%202007/Indie_Rock%20Playlist_%20January%202007/29%20Dancing%20Shoes.mp3</string>
+		</dict>
+		<key>46151</key>
+		<dict>
+			<key>Track ID</key><integer>46151</integer>
+			<key>Size</key><integer>6704777</integer>
+			<key>Total Time</key><integer>216973</integer>
+			<key>Track Number</key><integer>88</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:31:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C73AEC9DC8B9577</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The View From The Afternoon</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Indie/Rock Playlist: July 2006</string>
+			<key>Album</key><string>Indie/Rock Playlist: July 2006</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>View From The Afternoon</string>
+			<key>Sort Artist</key><string>Indie/Rock Playlist</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Indie_Rock%20Playlist_%20July%202006/Indie_Rock%20Playlist_%20July%202006/88%20The%20View%20From%20The%20Afternoon.mp3</string>
+		</dict>
+		<key>42081</key>
+		<dict>
+			<key>Track ID</key><integer>42081</integer>
+			<key>Size</key><integer>5468773</integer>
+			<key>Total Time</key><integer>172382</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:31:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7608779F2FF3711B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fluorescent Adolescent</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Indie/Rock Playlist: July 2007</string>
+			<key>Album</key><string>Indie/Rock Playlist: July 2007</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Indie/Rock Playlist</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Indie_Rock%20Playlist_%20July%202007/Indie_Rock%20Playlist_%20July%202007/30%20Fluorescent%20Adolescent.mp3</string>
+		</dict>
+		<key>21629</key>
+		<dict>
+			<key>Track ID</key><integer>21629</integer>
+			<key>Size</key><integer>7123661</integer>
+			<key>Total Time</key><integer>205296</integer>
+			<key>Track Number</key><integer>102</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:32:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72B709E9E235A418</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Temptation Greets You Like Your Naughty Friend</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Indie/Rock Playlist: June 2007</string>
+			<key>Album</key><string>Indie/Rock Playlist: June 2007</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Indie/Rock Playlist</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Indie_Rock%20Playlist_%20June%202007/Indie_Rock%20Playlist_%20June%202007/102%20Temptation%20Greets%20You%20Like%20Your%20Naughty%20Friend.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131728</integer>
+			<key>Playlist Persistent ID</key><string>0FF209F0B93F2352</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Arctic Monkeys</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13917</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13909</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13923</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21629</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

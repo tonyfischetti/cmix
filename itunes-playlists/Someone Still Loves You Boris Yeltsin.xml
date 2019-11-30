@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>30399</key>
+		<dict>
+			<key>Track ID</key><integer>30399</integer>
+			<key>Size</key><integer>8151525</integer>
+			<key>Total Time</key><integer>201120</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C1968C4BEA3AFE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Travel Song</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Broom</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Broom/04%20Travel%20Song.mp3</string>
+		</dict>
+		<key>30405</key>
+		<dict>
+			<key>Track ID</key><integer>30405</integer>
+			<key>Size</key><integer>5948325</integer>
+			<key>Total Time</key><integer>146040</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F356BF6967C4B1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Oregon Girl</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Broom</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Broom/05%20Oregon%20Girl.mp3</string>
+		</dict>
+		<key>30403</key>
+		<dict>
+			<key>Track ID</key><integer>30403</integer>
+			<key>Size</key><integer>4006238</integer>
+			<key>Total Time</key><integer>97488</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5B945E2EAB0273A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Yr Broom</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Broom</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Broom/07%20Yr%20Broom.mp3</string>
+		</dict>
+		<key>30313</key>
+		<dict>
+			<key>Track ID</key><integer>30313</integer>
+			<key>Size</key><integer>10865851</integer>
+			<key>Total Time</key><integer>267240</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B62625718EFC94F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Back in the Saddle</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Let it Sway</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Let%20it%20Sway/01%20Back%20in%20the%20Saddle.mp3</string>
+		</dict>
+		<key>30321</key>
+		<dict>
+			<key>Track ID</key><integer>30321</integer>
+			<key>Size</key><integer>7608565</integer>
+			<key>Total Time</key><integer>185808</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7560A95617D0A050</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sink/Let it Sway</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Let it Sway</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Let%20it%20Sway/02%20Sink_Let%20it%20Sway.mp3</string>
+		</dict>
+		<key>30319</key>
+		<dict>
+			<key>Track ID</key><integer>30319</integer>
+			<key>Size</key><integer>7568249</integer>
+			<key>Total Time</key><integer>184800</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0802C24AFA332EFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Hail Dracula!</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Let it Sway</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Let%20it%20Sway/08%20All%20Hail%20Dracula!.mp3</string>
+		</dict>
+		<key>30327</key>
+		<dict>
+			<key>Track ID</key><integer>30327</integer>
+			<key>Size</key><integer>6171435</integer>
+			<key>Total Time</key><integer>149880</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3793C1B314F0A09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Animalkind</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Let it Sway</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Let%20it%20Sway/10%20Animalkind.mp3</string>
+		</dict>
+		<key>30329</key>
+		<dict>
+			<key>Track ID</key><integer>30329</integer>
+			<key>Size</key><integer>5653043</integer>
+			<key>Total Time</key><integer>136920</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>185EAD49EEF41ABF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cardinal Rules</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Let it Sway</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Let%20it%20Sway/14%20Cardinal%20Rules.mp3</string>
+		</dict>
+		<key>30435</key>
+		<dict>
+			<key>Track ID</key><integer>30435</integer>
+			<key>Size</key><integer>5722993</integer>
+			<key>Total Time</key><integer>140352</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F6E02E31D8C9458</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dead Right</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Pershing</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Pershing/03%20Dead%20Right.mp3</string>
+		</dict>
+		<key>30433</key>
+		<dict>
+			<key>Track ID</key><integer>30433</integer>
+			<key>Size</key><integer>8362983</integer>
+			<key>Total Time</key><integer>206352</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6343C93169118160</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>HEERS</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Pershing</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Pershing/10%20HEERS.mp3</string>
+		</dict>
+		<key>30423</key>
+		<dict>
+			<key>Track ID</key><integer>30423</integer>
+			<key>Size</key><integer>7814857</integer>
+			<key>Total Time</key><integer>192648</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>269A332F2B581E60</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Could Write A Book</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Pershing</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Pershing/08%20You%20Could%20Write%20A%20Book.mp3</string>
+		</dict>
+		<key>30373</key>
+		<dict>
+			<key>Track ID</key><integer>30373</integer>
+			<key>Size</key><integer>5448981</integer>
+			<key>Total Time</key><integer>134640</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ED22F14168E24452</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Let's Get Tired</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Tape Club</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Tape%20Club/02%20Let's%20Get%20Tired.mp3</string>
+		</dict>
+		<key>30367</key>
+		<dict>
+			<key>Track ID</key><integer>30367</integer>
+			<key>Size</key><integer>3233294</integer>
+			<key>Total Time</key><integer>79248</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F560E8435A563D21</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spinning Sea</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Tape Club</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Tape%20Club/06%20Spinning%20Sea.mp3</string>
+		</dict>
+		<key>30351</key>
+		<dict>
+			<key>Track ID</key><integer>30351</integer>
+			<key>Size</key><integer>6332191</integer>
+			<key>Total Time</key><integer>156720</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B11D313767746B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Yellow Missing Signs</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Tape Club</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Tape%20Club/23%20Yellow%20Missing%20Signs.mp3</string>
+		</dict>
+		<key>30415</key>
+		<dict>
+			<key>Track ID</key><integer>30415</integer>
+			<key>Size</key><integer>6864455</integer>
+			<key>Total Time</key><integer>168888</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>364C2CD60356239A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Think I Wanna Die</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Pershing</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Pershing/07%20Think%20I%20Wanna%20Die.mp3</string>
+		</dict>
+		<key>30429</key>
+		<dict>
+			<key>Track ID</key><integer>30429</integer>
+			<key>Size</key><integer>10484601</integer>
+			<key>Total Time</key><integer>259392</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF93D644C2664519</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Modern Mystery</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Pershing</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Pershing/05%20Modern%20Mystery.mp3</string>
+		</dict>
+		<key>30315</key>
+		<dict>
+			<key>Track ID</key><integer>30315</integer>
+			<key>Size</key><integer>7420389</integer>
+			<key>Total Time</key><integer>181104</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C63599DFD55F570</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everlyn</string>
+			<key>Artist</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Album</key><string>Let it Sway</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Someone%20Still%20Loves%20You%20Boris%20Yeltsin/Let%20it%20Sway/06%20Everlyn.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138415</integer>
+			<key>Playlist Persistent ID</key><string>C8D10968C00DAD04</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Someone Still Loves You Boris Yeltsin</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30315</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>17041</key>
+		<dict>
+			<key>Track ID</key><integer>17041</integer>
+			<key>Size</key><integer>3329879</integer>
+			<key>Total Time</key><integer>136019</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640838572</integer>
+			<key>Play Date UTC</key><date>2019-05-16T12:02:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1576DCCEFD16BB94</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wolves</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Mair/Chris Gavin/Lamar Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/01%20Wolves.mp3</string>
+		</dict>
+		<key>17019</key>
+		<dict>
+			<key>Track ID</key><integer>17019</integer>
+			<key>Size</key><integer>4858355</integer>
+			<key>Total Time</key><integer>199706</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640838776</integer>
+			<key>Play Date UTC</key><date>2019-05-16T12:06:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC9B8CCDF3DE9FDA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I'm A African</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Mair/Chris Gavin/Lamar Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/02%20I'm%20A%20African.mp3</string>
+		</dict>
+		<key>17037</key>
+		<dict>
+			<key>Track ID</key><integer>17037</integer>
+			<key>Size</key><integer>7415639</integer>
+			<key>Total Time</key><integer>306259</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-27T14:42:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B4915921D899D15</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>"They" Schools</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Mair/Chris Gavin/Lamar Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/03%20_They_%20Schools.mp3</string>
+		</dict>
+		<key>17013</key>
+		<dict>
+			<key>Track ID</key><integer>17013</integer>
+			<key>Size</key><integer>5200037</integer>
+			<key>Total Time</key><integer>213942</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-24T14:18:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>408C56519606ECDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hip-Hop</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Mair/Chris Gavin/Lamar Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/04%20Hip-Hop.mp3</string>
+		</dict>
+		<key>17021</key>
+		<dict>
+			<key>Track ID</key><integer>17021</integer>
+			<key>Size</key><integer>5359906</integer>
+			<key>Total Time</key><integer>220604</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-24T14:20:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EBF455373AA41434</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Police State</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Mair/G. Gavin/Lamar Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/05%20Police%20State.mp3</string>
+		</dict>
+		<key>17015</key>
+		<dict>
+			<key>Track ID</key><integer>17015</integer>
+			<key>Size</key><integer>4466519</integer>
+			<key>Total Time</key><integer>183379</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-24T14:23:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A262260EC392A99</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Behind Enemy Lines</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>Alan Mair/Chris Gavin/Laura Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/06%20Behind%20Enemy%20Lines.mp3</string>
+		</dict>
+		<key>17039</key>
+		<dict>
+			<key>Track ID</key><integer>17039</integer>
+			<key>Size</key><integer>8620615</integer>
+			<key>Total Time</key><integer>356466</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60722A1BB68AD122</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Psychology</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>Chris Gavin/L. Dechalus/Lamar Alford</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/12%20Psychology.mp3</string>
+		</dict>
+		<key>17035</key>
+		<dict>
+			<key>Track ID</key><integer>17035</integer>
+			<key>Size</key><integer>6575541</integer>
+			<key>Total Time</key><integer>271255</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-24T14:40:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-20T03:16:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BAC5CD8A5E69536</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Animal In Man</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>Chris Gavin/Lamar Alford</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/14%20Animal%20In%20Man.mp3</string>
+		</dict>
+		<key>17009</key>
+		<dict>
+			<key>Track ID</key><integer>17009</integer>
+			<key>Size</key><integer>5721650</integer>
+			<key>Total Time</key><integer>235676</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3643084949</integer>
+			<key>Play Date UTC</key><date>2019-06-11T12:02:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>680CA41D899793E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Bigger Than Hip-Hop</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>Chris Gavin/K West/Lamar Alford</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/16%20It's%20Bigger%20Than%20Hip-Hop.mp3</string>
+		</dict>
+		<key>17027</key>
+		<dict>
+			<key>Track ID</key><integer>17027</integer>
+			<key>Size</key><integer>6430718</integer>
+			<key>Total Time</key><integer>265221</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-24T14:51:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A7FF6D32D07E2BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bonus Track 2</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/18%20Bonus%20Track%202.mp3</string>
+		</dict>
+		<key>17025</key>
+		<dict>
+			<key>Track ID</key><integer>17025</integer>
+			<key>Size</key><integer>3147857</integer>
+			<key>Total Time</key><integer>154122</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43CD355973256A1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Be Healthy</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Mair/Chris Gavin/Lamar Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/10%20Be%20Healthy.mp3</string>
+		</dict>
+		<key>17031</key>
+		<dict>
+			<key>Track ID</key><integer>17031</integer>
+			<key>Size</key><integer>6633219</integer>
+			<key>Total Time</key><integer>273658</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3643084532</integer>
+			<key>Play Date UTC</key><date>2019-06-11T11:55:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B50E288452BA2DE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Want Freedom</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Mair/Chris Gavin/Lamar Alford/V. Williams</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Let's%20Get%20Free/09%20We%20Want%20Freedom.mp3</string>
+		</dict>
+		<key>17005</key>
+		<dict>
+			<key>Track ID</key><integer>17005</integer>
+			<key>Size</key><integer>5868550</integer>
+			<key>Total Time</key><integer>240352</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79166FE248001F68</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Have a Dream, Too</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>M15/Stic</string>
+			<key>Album</key><string>RBG: Revolutionary But Gangsta</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>C4</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/RBG_%20Revolutionary%20But%20Gangsta/03%20I%20Have%20a%20Dream,%20Too.mp3</string>
+		</dict>
+		<key>16987</key>
+		<dict>
+			<key>Track ID</key><integer>16987</integer>
+			<key>Size</key><integer>6157138</integer>
+			<key>Total Time</key><integer>252316</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3647767394</integer>
+			<key>Play Date UTC</key><date>2019-08-04T16:43:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF7AE53FFE5E671B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hell Yeah (Pimp the System)</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>M15/Stic</string>
+			<key>Album</key><string>RBG: Revolutionary But Gangsta</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>C4</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/RBG_%20Revolutionary%20But%20Gangsta/05%20Hell%20Yeah%20(Pimp%20the%20System).mp3</string>
+		</dict>
+		<key>16997</key>
+		<dict>
+			<key>Track ID</key><integer>16997</integer>
+			<key>Size</key><integer>4209516</integer>
+			<key>Total Time</key><integer>171572</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3647767563</integer>
+			<key>Play Date UTC</key><date>2019-08-04T16:46:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>424934BA28E7717A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Radio Freq</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>M15/Stic</string>
+			<key>Album</key><string>RBG: Revolutionary But Gangsta</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>C4</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/RBG_%20Revolutionary%20But%20Gangsta/07%20Radio%20Freq.mp3</string>
+		</dict>
+		<key>17063</key>
+		<dict>
+			<key>Track ID</key><integer>17063</integer>
+			<key>Size</key><integer>5215388</integer>
+			<key>Total Time</key><integer>129358</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3647767693</integer>
+			<key>Play Date UTC</key><date>2019-08-04T16:48:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>954F1D45E4FA3110</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>That's War!</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Turn Off The Radio (The Mixtape Volume 1)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Turn%20Off%20The%20Radio%20(The%20Mixtape%20Volume%201)/03%20That's%20War!.mp3</string>
+		</dict>
+		<key>17065</key>
+		<dict>
+			<key>Track ID</key><integer>17065</integer>
+			<key>Size</key><integer>3551917</integer>
+			<key>Total Time</key><integer>87771</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3647767780</integer>
+			<key>Play Date UTC</key><date>2019-08-04T16:49:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66D6ED6E05C1D3E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>B.I.G. Respect</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Turn Off The Radio (The Mixtape Volume 1)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Turn%20Off%20The%20Radio%20(The%20Mixtape%20Volume%201)/05%20B.I.G.%20Respect.mp3</string>
+		</dict>
+		<key>17057</key>
+		<dict>
+			<key>Track ID</key><integer>17057</integer>
+			<key>Size</key><integer>6521545</integer>
+			<key>Total Time</key><integer>162011</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3647767942</integer>
+			<key>Play Date UTC</key><date>2019-08-04T16:52:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9883716EF8EB1047</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Food, Clothes + Shelter Pt.2</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Turn Off The Radio (The Mixtape Volume 1)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Turn%20Off%20The%20Radio%20(The%20Mixtape%20Volume%201)/07%20Food,%20Clothes%20+%20Shelter%20Pt.2.mp3</string>
+		</dict>
+		<key>17045</key>
+		<dict>
+			<key>Track ID</key><integer>17045</integer>
+			<key>Size</key><integer>10450347</integer>
+			<key>Total Time</key><integer>260231</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647768203</integer>
+			<key>Play Date UTC</key><date>2019-08-04T16:56:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C06FD8EED8F615EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Soulja Life Mentality</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Turn Off The Radio (The Mixtape Volume 1)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Turn%20Off%20The%20Radio%20(The%20Mixtape%20Volume%201)/08%20Soulja%20Life%20Mentality.mp3</string>
+		</dict>
+		<key>17051</key>
+		<dict>
+			<key>Track ID</key><integer>17051</integer>
+			<key>Size</key><integer>9146284</integer>
+			<key>Total Time</key><integer>227631</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647768430</integer>
+			<key>Play Date UTC</key><date>2019-08-04T17:00:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>384EF7D6870BB5E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Get Up</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Turn Off The Radio (The Mixtape Volume 1)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Turn%20Off%20The%20Radio%20(The%20Mixtape%20Volume%201)/09%20Get%20Up.mp3</string>
+		</dict>
+		<key>17003</key>
+		<dict>
+			<key>Track ID</key><integer>17003</integer>
+			<key>Size</key><integer>1873408</integer>
+			<key>Total Time</key><integer>74684</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647768505</integer>
+			<key>Play Date UTC</key><date>2019-08-04T17:01:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-20T03:33:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>028400A135D4A6A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Forget Where U Came From</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>M15/Stic</string>
+			<key>Album</key><string>RBG: Revolutionary But Gangsta</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>C4</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/RBG_%20Revolutionary%20But%20Gangsta/01%20Don't%20Forget%20Where%20U%20Came%20From.mp3</string>
+		</dict>
+		<key>17089</key>
+		<dict>
+			<key>Track ID</key><integer>17089</integer>
+			<key>Size</key><integer>4106863</integer>
+			<key>Total Time</key><integer>205296</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>156</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3612985165</integer>
+			<key>Play Date UTC</key><date>2018-06-28T02:59:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-26T20:48:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2DACF5C79B1F1F8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Early Feat. Sticman</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>C. Gavin/F. Sotti/L. Alford</string>
+			<key>Album</key><string>Confidential</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>CR</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Confidential/02%20Early%20Feat.%20Sticman.mp3</string>
+		</dict>
+		<key>17079</key>
+		<dict>
+			<key>Track ID</key><integer>17079</integer>
+			<key>Size</key><integer>6010943</integer>
+			<key>Total Time</key><integer>232986</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-01-22T20:13:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640837278</integer>
+			<key>Play Date UTC</key><date>2019-05-16T11:41:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>590910212EC8C0DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love You Cant Borrow Feat. Q-Tip</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>C. Wilson/E. Butler/F. Sotti/K. Fareed/L. Alford</string>
+			<key>Album</key><string>Confidential</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>CR</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Confidential/06%20Love%20You%20Cant%20Borrow%20Feat.%20Q-Tip.mp3</string>
+		</dict>
+		<key>17099</key>
+		<dict>
+			<key>Track ID</key><integer>17099</integer>
+			<key>Size</key><integer>4626691</integer>
+			<key>Total Time</key><integer>182204</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3643084714</integer>
+			<key>Play Date UTC</key><date>2019-06-11T11:58:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B5D443B2C74FF73</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>5 Elements</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Polanco/L. Alford</string>
+			<key>Album</key><string>Confidential</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>CR</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Confidential/07%205%20Elements.mp3</string>
+		</dict>
+		<key>17095</key>
+		<dict>
+			<key>Track ID</key><integer>17095</integer>
+			<key>Size</key><integer>7214174</integer>
+			<key>Total Time</key><integer>279092</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640837739</integer>
+			<key>Play Date UTC</key><date>2019-05-16T11:48:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D684665E74E21E0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Comrades Call Feat. Styles P,</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Aguilar/C. Sanford/D. Styles/L. Alford</string>
+			<key>Album</key><string>Confidential</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>CR</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Confidential/09%20Comrades%20Call%20Feat.%20Styles%20P,.mp3</string>
+		</dict>
+		<key>17091</key>
+		<dict>
+			<key>Track ID</key><integer>17091</integer>
+			<key>Size</key><integer>5885540</integer>
+			<key>Total Time</key><integer>227056</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640837967</integer>
+			<key>Play Date UTC</key><date>2019-05-16T11:52:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>06F3CE2C3F84D71F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Been Through Feat. Ghostface,</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>A. Winbush/D. Coles/F. Sotti/L. Alford/R. Donaldson</string>
+			<key>Album</key><string>Confidential</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>CR</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Confidential/12%20Been%20Through%20Feat.%20Ghostface,.mp3</string>
+		</dict>
+		<key>16931</key>
+		<dict>
+			<key>Track ID</key><integer>16931</integer>
+			<key>Size</key><integer>1936620</integer>
+			<key>Total Time</key><integer>118595</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640838117</integer>
+			<key>Play Date UTC</key><date>2019-05-16T11:55:17Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>275CF682627AC5C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fuck the Law</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Turn Off The Radio: The Mixtape, Vol. 2</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Turn%20Off%20The%20Radio_%20The%20Mixtape,%20Vol.%202/02%20Fuck%20the%20Law.mp3</string>
+		</dict>
+		<key>16937</key>
+		<dict>
+			<key>Track ID</key><integer>16937</integer>
+			<key>Size</key><integer>3316158</integer>
+			<key>Total Time</key><integer>204826</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3612986410</integer>
+			<key>Play Date UTC</key><date>2018-06-28T03:20:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B0F706221064E74</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Coming of Age</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Turn Off The Radio: The Mixtape, Vol. 2</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Turn%20Off%20The%20Radio_%20The%20Mixtape,%20Vol.%202/03%20Coming%20of%20Age.mp3</string>
+		</dict>
+		<key>17147</key>
+		<dict>
+			<key>Track ID</key><integer>17147</integer>
+			<key>Size</key><integer>4125812</integer>
+			<key>Total Time</key><integer>191007</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>158</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3612986601</integer>
+			<key>Play Date UTC</key><date>2018-06-28T03:23:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D2FF200E13F301A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>NYPD (Feat. Johnny Polygon)</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>Dead Prez</string>
+			<key>Album</key><string>Pulse Of The People (Turn Off The Radio Vol. 3)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Pulse%20Of%20The%20People%20(Turn%20Off%20The%20Radio%20Vol.%203)/07%20NYPD%20(Feat.%20Johnny%20Polygon).mp3</string>
+		</dict>
+		<key>17157</key>
+		<dict>
+			<key>Track ID</key><integer>17157</integer>
+			<key>Size</key><integer>5640961</integer>
+			<key>Total Time</key><integer>234031</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>181</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3612986835</integer>
+			<key>Play Date UTC</key><date>2018-06-28T03:27:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA3CD2E835876BF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Summer Time</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>Dead Prez</string>
+			<key>Album</key><string>Pulse Of The People (Turn Off The Radio Vol. 3)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Pulse%20Of%20The%20People%20(Turn%20Off%20The%20Radio%20Vol.%203)/08%20Summer%20Time.mp3</string>
+		</dict>
+		<key>17155</key>
+		<dict>
+			<key>Track ID</key><integer>17155</integer>
+			<key>Size</key><integer>4047997</integer>
+			<key>Total Time</key><integer>212871</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>139</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3643085162</integer>
+			<key>Play Date UTC</key><date>2019-06-11T12:06:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EC2709207F7B91F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Refuse To Lose (Feat. Chuck D &amp; Avery Storm)</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>Dead Prez</string>
+			<key>Album</key><string>Pulse Of The People (Turn Off The Radio Vol. 3)</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Pulse%20Of%20The%20People%20(Turn%20Off%20The%20Radio%20Vol.%203)/09%20Refuse%20To%20Lose%20(Feat.%20Chuck%20D%20&amp;%20Avery%20Storm).mp3</string>
+		</dict>
+		<key>17131</key>
+		<dict>
+			<key>Track ID</key><integer>17131</integer>
+			<key>Size</key><integer>5924230</integer>
+			<key>Total Time</key><integer>245394</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-05-16T11:56:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>137720C91EABFA80</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Like A Window</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Can't Sell Dope Forever</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>FEFE2003</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Can't%20Sell%20Dope%20Forever/04%20Like%20A%20Window.mp3</string>
+		</dict>
+		<key>17121</key>
+		<dict>
+			<key>Track ID</key><integer>17121</integer>
+			<key>Size</key><integer>6378138</integer>
+			<key>Total Time</key><integer>264306</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-11-19T18:28:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647768800</integer>
+			<key>Play Date UTC</key><date>2019-08-04T17:06:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B1F3F1154CD7956</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fork In The Road</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>Can't Sell Dope Forever</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>FEFE2003</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Prez/Can't%20Sell%20Dope%20Forever/10%20Fork%20In%20The%20Road.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132633</integer>
+			<key>Playlist Persistent ID</key><string>FA6F59C4FCAFC6BF</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Dead Prez</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>17041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17037</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16931</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17121</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>44687</key>
+		<dict>
+			<key>Track ID</key><integer>44687</integer>
+			<key>Size</key><integer>4007329</integer>
+			<key>Total Time</key><integer>198060</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-26T02:49:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24E8A2E6669569CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wires And Waves</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>Take Offs And Landings</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Take%20Offs%20And%20Landings/03%20Wires%20And%20Waves.mp3</string>
+		</dict>
+		<key>44695</key>
+		<dict>
+			<key>Track ID</key><integer>44695</integer>
+			<key>Size</key><integer>8278875</integer>
+			<key>Total Time</key><integer>411637</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-26T02:49:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E5942D276D9FF7D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Picture Of Success</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>Take Offs And Landings</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Take%20Offs%20And%20Landings/04%20Picture%20Of%20Success.mp3</string>
+		</dict>
+		<key>44659</key>
+		<dict>
+			<key>Track ID</key><integer>44659</integer>
+			<key>Size</key><integer>4468070</integer>
+			<key>Total Time</key><integer>279118</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-03-01T13:47:27Z</date>
+			<key>Persistent ID</key><string>0776F2CE97D62CE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Better Son/Daughter</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Execution Of All Things</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Better Son/Daughter</string>
+			<key>Sort Album</key><string>Execution Of All Things</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/The%20Execution%20Of%20All%20Things/06%20A%20Better%20Son_Daughter.mp3</string>
+		</dict>
+		<key>44677</key>
+		<dict>
+			<key>Track ID</key><integer>44677</integer>
+			<key>Size</key><integer>3214192</integer>
+			<key>Total Time</key><integer>200751</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9621818547D9AAE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hail To Whatever You Found In The Sunlight That Surrounds You</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Execution Of All Things</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Execution Of All Things</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/The%20Execution%20Of%20All%20Things/07%20Hail%20To%20Whatever%20You%20Found%20In%20The%20Sunlight%20That%20Surrounds%20You.mp3</string>
+		</dict>
+		<key>44631</key>
+		<dict>
+			<key>Track ID</key><integer>44631</integer>
+			<key>Size</key><integer>11416822</integer>
+			<key>Total Time</key><integer>285361</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8DA2C21A30E5C562</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dreamworld</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album Artist</key><string>Rilo Kiley</string>
+			<key>Composer</key><string>Blake Sennett/Morgan Nagler</string>
+			<key>Album</key><string>Under The Blacklight</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000000 00000210 000009B4 0000000000BFFA3C 00000000 00AE0B1A 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Under%20The%20Blacklight/06%20Dreamworld.mp3</string>
+		</dict>
+		<key>44621</key>
+		<dict>
+			<key>Track ID</key><integer>44621</integer>
+			<key>Size</key><integer>8732480</integer>
+			<key>Total Time</key><integer>218253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634276132</integer>
+			<key>Play Date UTC</key><date>2019-03-01T14:08:52Z</date>
+			<key>Persistent ID</key><string>5CB44A2D3D535573</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Breakin' Up</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album Artist</key><string>Rilo Kiley</string>
+			<key>Composer</key><string>Blake Sennett/Jenny Lewis</string>
+			<key>Album</key><string>Under The Blacklight</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000000 00000210 00000960 000000000092D210 00000000 00851564 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Under%20The%20Blacklight/04%20Breakin'%20Up.mp3</string>
+		</dict>
+		<key>44685</key>
+		<dict>
+			<key>Track ID</key><integer>44685</integer>
+			<key>Size</key><integer>2392958</integer>
+			<key>Total Time</key><integer>117342</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-26T02:49:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634275576</integer>
+			<key>Play Date UTC</key><date>2019-03-01T13:59:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E167CFCB64F40F38</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bulletproof</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>Take Offs And Landings</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Take%20Offs%20And%20Landings/06%20Bulletproof.mp3</string>
+		</dict>
+		<key>44683</key>
+		<dict>
+			<key>Track ID</key><integer>44683</integer>
+			<key>Size</key><integer>6287297</integer>
+			<key>Total Time</key><integer>312058</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-26T02:49:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98CA4E837C7BCB73</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Plane Crash in C</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>Take Offs And Landings</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Take%20Offs%20And%20Landings/07%20Plane%20Crash%20in%20C.mp3</string>
+		</dict>
+		<key>44665</key>
+		<dict>
+			<key>Track ID</key><integer>44665</integer>
+			<key>Size</key><integer>3819680</integer>
+			<key>Total Time</key><integer>238602</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3622FA79DEBADBDA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Execution Of All Things</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Execution Of All Things</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Execution Of All Things</string>
+			<key>Sort Album</key><string>Execution Of All Things</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/The%20Execution%20Of%20All%20Things/03%20The%20Execution%20Of%20All%20Things.mp3</string>
+		</dict>
+		<key>44661</key>
+		<dict>
+			<key>Track ID</key><integer>44661</integer>
+			<key>Size</key><integer>6742846</integer>
+			<key>Total Time</key><integer>337005</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634275913</integer>
+			<key>Play Date UTC</key><date>2019-03-01T14:05:13Z</date>
+			<key>Persistent ID</key><string>0C8DA042B454E29F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Slumbering Heart</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Execution Of All Things</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Execution Of All Things</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/The%20Execution%20Of%20All%20Things/08%20My%20Slumbering%20Heart.mp3</string>
+		</dict>
+		<key>44655</key>
+		<dict>
+			<key>Track ID</key><integer>44655</integer>
+			<key>Size</key><integer>5380407</integer>
+			<key>Total Time</key><integer>268904</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634275116</integer>
+			<key>Play Date UTC</key><date>2019-03-01T13:51:56Z</date>
+			<key>Persistent ID</key><string>29A33678DF9F39E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's A Hit</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>More Adventurous</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 000024F5 00000C87 0000E2C8 00006E24 00036ACB 0003DC78 00008540 00008732 0003868D 0001740A</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/More%20Adventurous/01%20It's%20A%20Hit.mp3</string>
+		</dict>
+		<key>44643</key>
+		<dict>
+			<key>Track ID</key><integer>44643</integer>
+			<key>Size</key><integer>4326640</integer>
+			<key>Total Time</key><integer>216215</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>620810A2C344E4FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love and War (11/11/46)</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>More Adventurous</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 0000367D 00000A4C 00016311 00009DED 000296F5 0001F4EB 00008CD2 00008D15 00000D78 00006F53</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/More%20Adventurous/09%20Love%20and%20War%20(11_11_46).mp3</string>
+		</dict>
+		<key>44697</key>
+		<dict>
+			<key>Track ID</key><integer>44697</integer>
+			<key>Size</key><integer>6910582</integer>
+			<key>Total Time</key><integer>343222</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-26T02:49:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634275459</integer>
+			<key>Play Date UTC</key><date>2019-03-01T13:57:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22B01C55FAA89F40</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Science vs. Romance</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>Take Offs And Landings</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Take%20Offs%20And%20Landings/02%20Science%20vs.%20Romance.mp3</string>
+		</dict>
+		<key>44671</key>
+		<dict>
+			<key>Track ID</key><integer>44671</integer>
+			<key>Size</key><integer>4306140</integer>
+			<key>Total Time</key><integer>215170</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E88B0EF5DFD8882C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Capturing Moods</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Execution Of All Things</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Execution Of All Things</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/The%20Execution%20Of%20All%20Things/05%20Capturing%20Moods.mp3</string>
+		</dict>
+		<key>44707</key>
+		<dict>
+			<key>Track ID</key><integer>44707</integer>
+			<key>Size</key><integer>4365732</integer>
+			<key>Total Time</key><integer>215980</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-26T02:49:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBDF62D57072CD7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Salute MY Shorts!</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>Take Offs And Landings</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/Take%20Offs%20And%20Landings/15%20Salute%20MY%20Shorts!.mp3</string>
+		</dict>
+		<key>44709</key>
+		<dict>
+			<key>Track ID</key><integer>44709</integer>
+			<key>Size</key><integer>6536140</integer>
+			<key>Total Time</key><integer>162612</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2014-06-20T14:59:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3652401452B4BA56</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Frug</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Intial Friend</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Intial Friend</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/The%20Intial%20Friend/01%20Frug.mp3</string>
+		</dict>
+		<key>44719</key>
+		<dict>
+			<key>Track ID</key><integer>44719</integer>
+			<key>Size</key><integer>5536174</integer>
+			<key>Total Time</key><integer>137613</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2014-06-20T14:59:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50B7396E8F43D15E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Always</string>
+			<key>Artist</key><string>Rilo Kiley</string>
+			<key>Album</key><string>The Intial Friend</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Intial Friend</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Rilo%20Kiley/The%20Intial%20Friend/03%20Always.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138091</integer>
+			<key>Playlist Persistent ID</key><string>BA123A157C05ABF3</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Rilo Kiley</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>44687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44719</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

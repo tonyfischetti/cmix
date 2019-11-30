@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>39461</key>
+		<dict>
+			<key>Track ID</key><integer>39461</integer>
+			<key>Size</key><integer>7747377</integer>
+			<key>Total Time</key><integer>191582</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3648303245</integer>
+			<key>Play Date UTC</key><date>2019-08-10T21:34:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-06-17T20:49:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2F2F358271567E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Steve Biko (Stir It Up)</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Midnight Marauders</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Midnight%20Marauders/02%20Steve%20Biko%20(Stir%20It%20Up).mp3</string>
+		</dict>
+		<key>39443</key>
+		<dict>
+			<key>Track ID</key><integer>39443</integer>
+			<key>Size</key><integer>9132912</integer>
+			<key>Total Time</key><integer>226220</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3648303470</integer>
+			<key>Play Date UTC</key><date>2019-08-10T21:37:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>237D173B11B87A66</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Award Tour</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Midnight Marauders</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Midnight%20Marauders/03%20Award%20Tour.mp3</string>
+		</dict>
+		<key>39457</key>
+		<dict>
+			<key>Track ID</key><integer>39457</integer>
+			<key>Size</key><integer>9919720</integer>
+			<key>Total Time</key><integer>245890</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647780298</integer>
+			<key>Play Date UTC</key><date>2019-08-04T20:18:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-02T02:14:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17C054542550ADD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sucka Nigga</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Midnight Marauders</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Midnight%20Marauders/05%20Sucka%20Nigga.mp3</string>
+		</dict>
+		<key>39463</key>
+		<dict>
+			<key>Track ID</key><integer>39463</integer>
+			<key>Size</key><integer>10456798</integer>
+			<key>Total Time</key><integer>259317</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-10-15T15:19:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647780557</integer>
+			<key>Play Date UTC</key><date>2019-08-04T20:22:37Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-02-08T23:34:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB1D65303F685020</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Can Get Down</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Midnight Marauders</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Midnight%20Marauders/07%20We%20Can%20Get%20Down.mp3</string>
+		</dict>
+		<key>39467</key>
+		<dict>
+			<key>Track ID</key><integer>39467</integer>
+			<key>Size</key><integer>9830904</integer>
+			<key>Total Time</key><integer>243670</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3648303747</integer>
+			<key>Play Date UTC</key><date>2019-08-10T21:42:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-06-17T20:59:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49D3C66FDBC6F68E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Electric Relaxation</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Midnight Marauders</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Midnight%20Marauders/08%20Electric%20Relaxation.mp3</string>
+		</dict>
+		<key>39459</key>
+		<dict>
+			<key>Track ID</key><integer>39459</integer>
+			<key>Size</key><integer>8509108</integer>
+			<key>Total Time</key><integer>210625</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3648303955</integer>
+			<key>Play Date UTC</key><date>2019-08-10T21:45:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>559AB191CCE918F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Oh My God</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Midnight Marauders</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Midnight%20Marauders/10%20Oh%20My%20God.mp3</string>
+		</dict>
+		<key>39447</key>
+		<dict>
+			<key>Track ID</key><integer>39447</integer>
+			<key>Size</key><integer>7936504</integer>
+			<key>Total Time</key><integer>196310</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3648304151</integer>
+			<key>Play Date UTC</key><date>2019-08-10T21:49:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0DBD79C39A0C9362</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Clap Your Hands</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Midnight Marauders</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Midnight%20Marauders/09%20Clap%20Your%20Hands.mp3</string>
+		</dict>
+		<key>39387</key>
+		<dict>
+			<key>Track ID</key><integer>39387</integer>
+			<key>Size</key><integer>8747094</integer>
+			<key>Total Time</key><integer>217547</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-10-15T15:15:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3648304369</integer>
+			<key>Play Date UTC</key><date>2019-08-10T21:52:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BECB98A65C91A051</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Buggin' Out</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/02%20Buggin'%20Out.mp3</string>
+		</dict>
+		<key>39393</key>
+		<dict>
+			<key>Track ID</key><integer>39393</integer>
+			<key>Size</key><integer>9384482</integer>
+			<key>Total Time</key><integer>233482</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-10-15T15:19:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3648304602</integer>
+			<key>Play Date UTC</key><date>2019-08-10T21:56:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22186BE1174A77E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show Business</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/06%20Show%20Business.mp3</string>
+		</dict>
+		<key>39395</key>
+		<dict>
+			<key>Track ID</key><integer>39395</integer>
+			<key>Size</key><integer>8722016</integer>
+			<key>Total Time</key><integer>216920</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3648304868</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:01:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54A205FCA5204FDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Check The Rhime</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/09%20Check%20The%20Rhime.mp3</string>
+		</dict>
+		<key>39401</key>
+		<dict>
+			<key>Track ID</key><integer>39401</integer>
+			<key>Size</key><integer>10028139</integer>
+			<key>Total Time</key><integer>249573</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-10-15T15:17:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3648305115</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:05:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6970125FC30E904</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jazz (We've Got)</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/11%20Jazz%20(We've%20Got).mp3</string>
+		</dict>
+		<key>39379</key>
+		<dict>
+			<key>Track ID</key><integer>39379</integer>
+			<key>Size</key><integer>10104416</integer>
+			<key>Total Time</key><integer>251480</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-10-15T15:15:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3648305367</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:09:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19078F709471B805</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Scenario</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/14%20Scenario.mp3</string>
+		</dict>
+		<key>39381</key>
+		<dict>
+			<key>Track ID</key><integer>39381</integer>
+			<key>Size</key><integer>5364759</integer>
+			<key>Total Time</key><integer>132989</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-10-15T15:15:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3648305499</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:11:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-28T01:40:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29B5B5BB85155CB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Skypager</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Low End Theory</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Low End Theory</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Low%20End%20Theory/12%20Skypager.mp3</string>
+		</dict>
+		<key>39407</key>
+		<dict>
+			<key>Track ID</key><integer>39407</integer>
+			<key>Size</key><integer>8081691</integer>
+			<key>Total Time</key><integer>200542</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648305700</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:15:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CAB9B437FEF864A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Motivators</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Beats, Rhymes and Life</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Beats,%20Rhymes%20and%20Life/03%20Motivators.mp3</string>
+		</dict>
+		<key>39417</key>
+		<dict>
+			<key>Track ID</key><integer>39417</integer>
+			<key>Size</key><integer>11186069</integer>
+			<key>Total Time</key><integer>278151</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-10-15T15:16:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648305978</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:19:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0AB5A1B620417449</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jam</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Beats, Rhymes and Life</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Beats,%20Rhymes%20and%20Life/04%20Jam.mp3</string>
+		</dict>
+		<key>39431</key>
+		<dict>
+			<key>Track ID</key><integer>39431</integer>
+			<key>Size</key><integer>9489169</integer>
+			<key>Total Time</key><integer>235728</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648306214</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:23:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99D48FBCA8F33C1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mind Power</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>Beats, Rhymes and Life</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/Beats,%20Rhymes%20and%20Life/08%20Mind%20Power.mp3</string>
+		</dict>
+		<key>39489</key>
+		<dict>
+			<key>Track ID</key><integer>39489</integer>
+			<key>Size</key><integer>9960282</integer>
+			<key>Total Time</key><integer>244896</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648306461</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:27:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6863DE4B17F43286</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Footprints</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>People's Instinctive Travels and Paths of Rhythm</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/People's%20Instinctive%20Travels%20and%20Paths%20of%20Rhythm/04%20Footprints.mp3</string>
+		</dict>
+		<key>39471</key>
+		<dict>
+			<key>Track ID</key><integer>39471</integer>
+			<key>Size</key><integer>9924826</integer>
+			<key>Total Time</key><integer>244008</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648306703</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:31:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34A408CA3FA10E62</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rhythm (Devoted to The Art of Moving Butts)</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>People's Instinctive Travels and Paths of Rhythm</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/People's%20Instinctive%20Travels%20and%20Paths%20of%20Rhythm/10%20Rhythm%20(Devoted%20to%20The%20Art%20of%20Moving%20Butts).mp3</string>
+		</dict>
+		<key>39473</key>
+		<dict>
+			<key>Track ID</key><integer>39473</integer>
+			<key>Size</key><integer>9748141</integer>
+			<key>Total Time</key><integer>239592</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648306943</integer>
+			<key>Play Date UTC</key><date>2019-08-10T22:35:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2ADABDC3D7D92DDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Go Ahead In The Rain</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>People's Instinctive Travels and Paths of Rhythm</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/People's%20Instinctive%20Travels%20and%20Paths%20of%20Rhythm/13%20Go%20Ahead%20In%20The%20Rain.mp3</string>
+		</dict>
+		<key>39533</key>
+		<dict>
+			<key>Track ID</key><integer>39533</integer>
+			<key>Size</key><integer>8106027</integer>
+			<key>Total Time</key><integer>202004</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-10-15T15:19:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF2E0EC70FF500A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Steppin' It Up (feat. Busta Rhymes &amp; Redman)</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Love Movement</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Love Movement</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Love%20Movement/04%20Steppin'%20It%20Up%20(feat.%20Busta%20Rhymes%20&amp;%20Redman).mp3</string>
+		</dict>
+		<key>39499</key>
+		<dict>
+			<key>Track ID</key><integer>39499</integer>
+			<key>Size</key><integer>6377705</integer>
+			<key>Total Time</key><integer>158798</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-10-15T15:19:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BB2D45C52D4712E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Busta's Lament</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Love Movement</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Love Movement</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Love%20Movement/11%20Busta's%20Lament.mp3</string>
+		</dict>
+		<key>39531</key>
+		<dict>
+			<key>Track ID</key><integer>39531</integer>
+			<key>Size</key><integer>10426715</integer>
+			<key>Total Time</key><integer>260022</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-10-15T15:18:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A94BFA7ED9EF70E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rock Rock Y'All (feat. Punchline, Wordsworth, Jane Doe &amp; Mos Def)</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Love Movement</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Love Movement</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Love%20Movement/15%20Rock%20Rock%20Y'All%20(feat.%20Punchline,%20Wordsworth,%20Jane%20Doe%20&amp;%20Mos%20Def).mp3</string>
+		</dict>
+		<key>39535</key>
+		<dict>
+			<key>Track ID</key><integer>39535</integer>
+			<key>Size</key><integer>6659814</integer>
+			<key>Total Time</key><integer>165851</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-10-15T15:19:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C9E42A811E3A7BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hot Sex</string>
+			<key>Artist</key><string>A Tribe Called Quest</string>
+			<key>Album Artist</key><string>A Tribe Called Quest</string>
+			<key>Album</key><string>The Love Movement</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.etalonhiphopblog.com</string>
+			<key>Sort Album</key><string>Love Movement</string>
+			<key>Sort Artist</key><string>Tribe Called Quest</string>
+			<key>Sort Album Artist</key><string>Tribe Called Quest</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A%20Tribe%20Called%20Quest/The%20Love%20Movement/18%20Hot%20Sex.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131555</integer>
+			<key>Playlist Persistent ID</key><string>636B40A430AB4B70</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>A Tribe Called Quest</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>39461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39535</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

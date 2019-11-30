@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>42417</key>
+		<dict>
+			<key>Track ID</key><integer>42417</integer>
+			<key>Size</key><integer>4503013</integer>
+			<key>Total Time</key><integer>183693</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619730248</integer>
+			<key>Play Date UTC</key><date>2018-09-14T04:37:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E91B5E6162F3E1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Accidents Will Happen</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/01%20Accidents%20Will%20Happen.mp3</string>
+		</dict>
+		<key>42401</key>
+		<dict>
+			<key>Track ID</key><integer>42401</integer>
+			<key>Size</key><integer>3408378</integer>
+			<key>Total Time</key><integer>138083</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619721921</integer>
+			<key>Play Date UTC</key><date>2018-09-14T02:18:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C30BC690837F1B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Senior Service</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/02%20Senior%20Service.mp3</string>
+		</dict>
+		<key>42407</key>
+		<dict>
+			<key>Track ID</key><integer>42407</integer>
+			<key>Size</key><integer>4415242</integer>
+			<key>Total Time</key><integer>180035</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644155424</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:23:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5486E3BE8A57C7F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Oliver's Army</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/03%20Oliver's%20Army.mp3</string>
+		</dict>
+		<key>42423</key>
+		<dict>
+			<key>Track ID</key><integer>42423</integer>
+			<key>Size</key><integer>4329978</integer>
+			<key>Total Time</key><integer>176483</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644158815</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:20:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A06D411C04B15BE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Big Boys</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/04%20Big%20Boys.mp3</string>
+		</dict>
+		<key>42405</key>
+		<dict>
+			<key>Track ID</key><integer>42405</integer>
+			<key>Size</key><integer>4001462</integer>
+			<key>Total Time</key><integer>162795</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644151067</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:11:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B4FA3092B1BF375</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Green Shirt</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/05%20Green%20Shirt.mp3</string>
+		</dict>
+		<key>42413</key>
+		<dict>
+			<key>Track ID</key><integer>42413</integer>
+			<key>Size</key><integer>4931212</integer>
+			<key>Total Time</key><integer>201534</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644154858</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:14:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B69FDD8E385046BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Party Girl</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/06%20Party%20Girl.mp3</string>
+		</dict>
+		<key>42421</key>
+		<dict>
+			<key>Track ID</key><integer>42421</integer>
+			<key>Size</key><integer>4758177</integer>
+			<key>Total Time</key><integer>194324</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644153391</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:49:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67109A1FCA0A78DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Goon Squad</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/07%20Goon%20Squad.mp3</string>
+		</dict>
+		<key>42409</key>
+		<dict>
+			<key>Track ID</key><integer>42409</integer>
+			<key>Size</key><integer>5279163</integer>
+			<key>Total Time</key><integer>216032</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619724669</integer>
+			<key>Play Date UTC</key><date>2018-09-14T03:04:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FAAF3832C28C99B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Busy Bodies</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/08%20Busy%20Bodies.mp3</string>
+		</dict>
+		<key>42425</key>
+		<dict>
+			<key>Track ID</key><integer>42425</integer>
+			<key>Size</key><integer>4911150</integer>
+			<key>Total Time</key><integer>200698</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619722122</integer>
+			<key>Play Date UTC</key><date>2018-09-14T02:22:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E789DBFAE0383F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sunday's Best</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/09%20Sunday's%20Best.mp3</string>
+		</dict>
+		<key>42419</key>
+		<dict>
+			<key>Track ID</key><integer>42419</integer>
+			<key>Size</key><integer>4168856</integer>
+			<key>Total Time</key><integer>169769</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619724838</integer>
+			<key>Play Date UTC</key><date>2018-09-14T03:07:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD9CD7363898E944</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Moods For Moderns</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/10%20Moods%20For%20Moderns.mp3</string>
+		</dict>
+		<key>42403</key>
+		<dict>
+			<key>Track ID</key><integer>42403</integer>
+			<key>Size</key><integer>4344399</integer>
+			<key>Total Time</key><integer>177084</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634016519</integer>
+			<key>Play Date UTC</key><date>2019-02-26T14:01:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A28FBB229C3D4AC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Chemistry Class</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/11%20Chemistry%20Class.mp3</string>
+		</dict>
+		<key>42411</key>
+		<dict>
+			<key>Track ID</key><integer>42411</integer>
+			<key>Size</key><integer>4678557</integer>
+			<key>Total Time</key><integer>191007</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>557BFBB8498C454E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Two Little Hitlers</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/12%20Two%20Little%20Hitlers.mp3</string>
+		</dict>
+		<key>42415</key>
+		<dict>
+			<key>Track ID</key><integer>42415</integer>
+			<key>Size</key><integer>5194166</integer>
+			<key>Total Time</key><integer>212480</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644155636</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:27:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-26T14:37:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29D0E54F6857CEC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>(What's So Funny 'Bout) Peace, Love And Understanding?</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Armed Forces</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Armed%20Forces/13%20(What's%20So%20Funny%20'Bout)%20Peace,%20Love%20And%20Understanding_.mp3</string>
+		</dict>
+		<key>42807</key>
+		<dict>
+			<key>Track ID</key><integer>42807</integer>
+			<key>Size</key><integer>4615866</integer>
+			<key>Total Time</key><integer>187898</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644153059</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:44:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-15T02:09:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E13D98458705FD9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Hope You're Happy Now</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Blood &amp; Chocolate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Blood%20&amp;%20Chocolate/02%20I%20Hope%20You're%20Happy%20Now.mp3</string>
+		</dict>
+		<key>42811</key>
+		<dict>
+			<key>Track ID</key><integer>42811</integer>
+			<key>Size</key><integer>9363042</integer>
+			<key>Total Time</key><integer>385697</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644155244</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:20:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E1DACDBE0358EFA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tokyo Storm Warning</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Blood &amp; Chocolate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Blood%20&amp;%20Chocolate/03%20Tokyo%20Storm%20Warning.mp3</string>
+		</dict>
+		<key>42795</key>
+		<dict>
+			<key>Track ID</key><integer>42795</integer>
+			<key>Size</key><integer>9756123</integer>
+			<key>Total Time</key><integer>402076</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644156431</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:40:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B18110949596CC45</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Want You</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Blood &amp; Chocolate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Blood%20&amp;%20Chocolate/05%20I%20Want%20You.mp3</string>
+		</dict>
+		<key>42801</key>
+		<dict>
+			<key>Track ID</key><integer>42801</integer>
+			<key>Size</key><integer>8551781</integer>
+			<key>Total Time</key><integer>351895</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644151795</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:23:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54E59C18225A7FAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Battered Old Bird</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Blood &amp; Chocolate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Blood%20&amp;%20Chocolate/08%20Battered%20Old%20Bird.mp3</string>
+		</dict>
+		<key>42809</key>
+		<dict>
+			<key>Track ID</key><integer>42809</integer>
+			<key>Size</key><integer>6338058</integer>
+			<key>Total Time</key><integer>259657</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644156691</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:44:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>512613465B468F1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crimes Of Paris</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Blood &amp; Chocolate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Blood%20&amp;%20Chocolate/09%20Crimes%20Of%20Paris.mp3</string>
+		</dict>
+		<key>42799</key>
+		<dict>
+			<key>Track ID</key><integer>42799</integer>
+			<key>Size</key><integer>5304864</integer>
+			<key>Total Time</key><integer>216607</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644152011</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:26:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8EBD2054E2BBB8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Next Time Round</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Blood &amp; Chocolate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Blood%20&amp;%20Chocolate/11%20Next%20Time%20Round.mp3</string>
+		</dict>
+		<key>42693</key>
+		<dict>
+			<key>Track ID</key><integer>42693</integer>
+			<key>Size</key><integer>5024608</integer>
+			<key>Total Time</key><integer>205322</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644157350</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:55:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36D16DD4AED18DE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pony St.</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Brutal Youth</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Brutal%20Youth/01%20Pony%20St..mp3</string>
+		</dict>
+		<key>42683</key>
+		<dict>
+			<key>Track ID</key><integer>42683</integer>
+			<key>Size</key><integer>6514846</integer>
+			<key>Total Time</key><integer>267415</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644158247</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:10:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B99A9A244558481B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>This Is Hell</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Brutal Youth</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Brutal%20Youth/04%20This%20Is%20Hell.mp3</string>
+		</dict>
+		<key>42669</key>
+		<dict>
+			<key>Track ID</key><integer>42669</integer>
+			<key>Size</key><integer>7470925</integer>
+			<key>Total Time</key><integer>307252</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA0D15C474E3B7F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sulky Girl</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Brutal Youth</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Brutal%20Youth/09%20Sulky%20Girl.mp3</string>
+		</dict>
+		<key>42515</key>
+		<dict>
+			<key>Track ID</key><integer>42515</integer>
+			<key>Size</key><integer>3425162</integer>
+			<key>Total Time</key><integer>138318</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3644153197</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:46:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E0675F75CBDB95A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Man Called Uncle</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Get Happy</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Get%20Happy/07%20Man%20Called%20Uncle.mp3</string>
+		</dict>
+		<key>42519</key>
+		<dict>
+			<key>Track ID</key><integer>42519</integer>
+			<key>Size</key><integer>3325476</integer>
+			<key>Total Time</key><integer>134164</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3644150904</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:08:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C0AAE7812FF5EC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Amsterdam</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Get Happy</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Get%20Happy/09%20New%20Amsterdam.mp3</string>
+		</dict>
+		<key>42503</key>
+		<dict>
+			<key>Track ID</key><integer>42503</integer>
+			<key>Size</key><integer>3652739</integer>
+			<key>Total Time</key><integer>147800</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619720677</integer>
+			<key>Play Date UTC</key><date>2018-09-14T01:57:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CB6FB4134A87461</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>High Fidelity</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Get Happy</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Get%20Happy/10%20High%20Fidelity.mp3</string>
+		</dict>
+		<key>42501</key>
+		<dict>
+			<key>Track ID</key><integer>42501</integer>
+			<key>Size</key><integer>3188820</integer>
+			<key>Total Time</key><integer>128470</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619721589</integer>
+			<key>Play Date UTC</key><date>2018-09-14T02:13:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF2972F9ACF352C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Can't Stand Up For Falling Down</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Get Happy</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Get%20Happy/11%20I%20Can't%20Stand%20Up%20For%20Falling%20Down.mp3</string>
+		</dict>
+		<key>42753</key>
+		<dict>
+			<key>Track ID</key><integer>42753</integer>
+			<key>Size</key><integer>5060879</integer>
+			<key>Total Time</key><integer>206132</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644158639</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:17:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>993408D89B2A15C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alison</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>My Aim Is True</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/My%20Aim%20Is%20True/05%20Alison.mp3</string>
+		</dict>
+		<key>42745</key>
+		<dict>
+			<key>Track ID</key><integer>42745</integer>
+			<key>Size</key><integer>3249662</integer>
+			<key>Total Time</key><integer>130664</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644155767</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:29:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4586DF0DA8E6E401</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sneaky Feelings</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>My Aim Is True</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/My%20Aim%20Is%20True/06%20Sneaky%20Feelings.mp3</string>
+		</dict>
+		<key>42747</key>
+		<dict>
+			<key>Track ID</key><integer>42747</integer>
+			<key>Size</key><integer>4811993</integer>
+			<key>Total Time</key><integer>195761</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644157777</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:02:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>276724DAA8EF3832</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Less Than Zero</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>My Aim Is True</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/My%20Aim%20Is%20True/08%20Less%20Than%20Zero.mp3</string>
+		</dict>
+		<key>42743</key>
+		<dict>
+			<key>Track ID</key><integer>42743</integer>
+			<key>Size</key><integer>5529407</integer>
+			<key>Total Time</key><integer>225645</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3644154657</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:10:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD7BD29B1603EA09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Watching the Detectives</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>My Aim is True</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/My%20Aim%20is%20True/13%20Watching%20the%20Detectives.mp3</string>
+		</dict>
+		<key>42371</key>
+		<dict>
+			<key>Track ID</key><integer>42371</integer>
+			<key>Size</key><integer>5746829</integer>
+			<key>Total Time</key><integer>227317</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644157577</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:59:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B64077A42520FBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Beat</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>This Years Model</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Beat</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/This%20Years%20Model/03%20The%20Beat.mp3</string>
+		</dict>
+		<key>42363</key>
+		<dict>
+			<key>Track ID</key><integer>42363</integer>
+			<key>Size</key><integer>4828992</integer>
+			<key>Total Time</key><integer>189074</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644151256</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:14:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E827A0A0BF9EBC41</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>(I Don't Want To Go To) Chelsea</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>This Years Model</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/This%20Years%20Model/08%20(I%20Don't%20Want%20To%20Go%20To)%20Chelsea.mp3</string>
+		</dict>
+		<key>42357</key>
+		<dict>
+			<key>Track ID</key><integer>42357</integer>
+			<key>Size</key><integer>4991995</integer>
+			<key>Total Time</key><integer>195866</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644157973</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:06:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-15T02:12:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34CEA5F0F701592E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pump It Up</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>This Years Model</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/This%20Years%20Model/04%20Pump%20It%20Up.mp3</string>
+		</dict>
+		<key>42759</key>
+		<dict>
+			<key>Track ID</key><integer>42759</integer>
+			<key>Size</key><integer>4207013</integer>
+			<key>Total Time</key><integer>170553</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3644152700</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:38:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B37431599FEAFBC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>(The Angels Wanna Wear My) Red Shoes</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>My Aim Is True</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Angels Wanna Wear My) Red Shoes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/My%20Aim%20Is%20True/07%20(The%20Angels%20Wanna%20Wear%20My)%20Red%20Shoes.mp3</string>
+		</dict>
+		<key>42327</key>
+		<dict>
+			<key>Track ID</key><integer>42327</integer>
+			<key>Size</key><integer>7319273</integer>
+			<key>Total Time</key><integer>247170</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644159062</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:24:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0FEE014510323471</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Other End Of The Telescope</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>All This Useless Beauty</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Other End Of The Telescope</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/All%20This%20Useless%20Beauty/01%20The%20Other%20End%20Of%20The%20Telescope.mp3</string>
+		</dict>
+		<key>42825</key>
+		<dict>
+			<key>Track ID</key><integer>42825</integer>
+			<key>Size</key><integer>11645446</integer>
+			<key>Total Time</key><integer>189492</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619724453</integer>
+			<key>Play Date UTC</key><date>2018-09-14T03:00:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>295E394C8CBFC47F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Veronica</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Composer</key><string>Cait O'Riordan/Declan MacManus/Paul McCartney</string>
+			<key>Album</key><string>Spike</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Spike/04%20Veronica.mp3</string>
+		</dict>
+		<key>42855</key>
+		<dict>
+			<key>Track ID</key><integer>42855</integer>
+			<key>Size</key><integer>9778630</integer>
+			<key>Total Time</key><integer>222798</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644152234</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:30:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20606E6D9DCBDDD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Clubland</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Composer</key><string>Elvis Costello</string>
+			<key>Album</key><string>Trust</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Trust/01%20Clubland.mp3</string>
+		</dict>
+		<key>42397</key>
+		<dict>
+			<key>Track ID</key><integer>42397</integer>
+			<key>Size</key><integer>5223736</integer>
+			<key>Total Time</key><integer>185025</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644158432</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:13:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4E3A6EE4264BA29</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Worthless Thing</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Goodbye Cruel World</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Goodbye%20Cruel%20World/05%20Worthless%20Thing.mp3</string>
+		</dict>
+		<key>42387</key>
+		<dict>
+			<key>Track ID</key><integer>42387</integer>
+			<key>Size</key><integer>5762888</integer>
+			<key>Total Time</key><integer>207490</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CE6D07C0F7392CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Field</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Goodbye Cruel World</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Goodbye%20Cruel%20World/06%20Love%20Field.mp3</string>
+		</dict>
+		<key>42391</key>
+		<dict>
+			<key>Track ID</key><integer>42391</integer>
+			<key>Size</key><integer>4530963</integer>
+			<key>Total Time</key><integer>156160</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3619729797</integer>
+			<key>Play Date UTC</key><date>2018-09-14T04:29:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B4DC5E1C238E634B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Comedians</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Goodbye Cruel World</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Comedians</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Goodbye%20Cruel%20World/08%20The%20Comedians.mp3</string>
+		</dict>
+		<key>42383</key>
+		<dict>
+			<key>Track ID</key><integer>42383</integer>
+			<key>Size</key><integer>5820582</integer>
+			<key>Total Time</key><integer>209893</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644159272</integer>
+			<key>Play Date UTC</key><date>2019-06-23T22:27:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3961549FEFC11767</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Joe Porterhouse</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Goodbye Cruel World</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Goodbye%20Cruel%20World/09%20Joe%20Porterhouse.mp3</string>
+		</dict>
+		<key>42321</key>
+		<dict>
+			<key>Track ID</key><integer>42321</integer>
+			<key>Size</key><integer>8487228</integer>
+			<key>Total Time</key><integer>295836</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644152530</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:35:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A9D193D29D0DE46F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Bowed Down</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>All This Useless Beauty</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/All%20This%20Useless%20Beauty/10%20You%20Bowed%20Down.mp3</string>
+		</dict>
+		<key>42921</key>
+		<dict>
+			<key>Track ID</key><integer>42921</integer>
+			<key>Size</key><integer>5474829</integer>
+			<key>Total Time</key><integer>170893</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644152871</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:41:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE78BDF6B8B4A76F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Name Of This Thing Is Not Love</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>The Delivery Man</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Name Of This Thing Is Not Love</string>
+			<key>Sort Album</key><string>Delivery Man</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/The%20Delivery%20Man/09%20The%20Name%20Of%20This%20Thing%20Is%20Not%20Love.mp3</string>
+		</dict>
+		<key>42469</key>
+		<dict>
+			<key>Track ID</key><integer>42469</integer>
+			<key>Size</key><integer>7647512</integer>
+			<key>Total Time</key><integer>187402</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644151443</integer>
+			<key>Play Date UTC</key><date>2019-06-23T20:17:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5A3AA49B96DBA92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Radio Radio</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Ten Bloody Marys &amp; Ten How's Your Fathers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Ten%20Bloody%20Marys%20&amp;%20Ten%20How's%20Your%20Fathers/16%20Radio%20Radio.mp3</string>
+		</dict>
+		<key>42859</key>
+		<dict>
+			<key>Track ID</key><integer>42859</integer>
+			<key>Size</key><integer>10057632</integer>
+			<key>Total Time</key><integer>229773</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644156920</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:48:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB7D5F164D85E985</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>White Knuckles</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Composer</key><string>Elvis Costello</string>
+			<key>Album</key><string>Trust</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Trust/11%20White%20Knuckles.mp3</string>
+		</dict>
+		<key>42631</key>
+		<dict>
+			<key>Track ID</key><integer>42631</integer>
+			<key>Size</key><integer>8925009</integer>
+			<key>Total Time</key><integer>224470</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3644157145</integer>
+			<key>Play Date UTC</key><date>2019-06-23T21:52:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C196B85D8AE3862</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Brilliant Mistake</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>King Of America</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/King%20Of%20America/01%20Brilliant%20Mistake.mp3</string>
+		</dict>
+		<key>42695</key>
+		<dict>
+			<key>Track ID</key><integer>42695</integer>
+			<key>Size</key><integer>7204957</integer>
+			<key>Total Time</key><integer>184241</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2013-10-19T04:20:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619722532</integer>
+			<key>Play Date UTC</key><date>2018-09-14T02:28:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2CCF959C759391C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mouth Almighty</string>
+			<key>Artist</key><string>Elvis Costello</string>
+			<key>Album</key><string>Punch The Clock</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elvis%20Costello/Punch%20The%20Clock/10%20Mouth%20Almighty.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132856</integer>
+			<key>Playlist Persistent ID</key><string>BAA831E1EC73B996</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Elvis Costello</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>42417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42807</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42921</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>42695</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

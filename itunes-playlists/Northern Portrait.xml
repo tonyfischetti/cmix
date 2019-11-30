@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>7275</key>
+		<dict>
+			<key>Track ID</key><integer>7275</integer>
+			<key>Size</key><integer>5183011</integer>
+			<key>Total Time</key><integer>143046</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>286</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3643693617</integer>
+			<key>Play Date UTC</key><date>2019-06-18T13:06:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC7C32AB6958A83B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Quiet Night in Copenhagen</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Ta!</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 243995742</string>
+			<key>Sort Name</key><string>Quiet Night in Copenhagen</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Ta!/01%20A%20Quiet%20Night%20in%20Copenhagen.mp3</string>
+		</dict>
+		<key>7271</key>
+		<dict>
+			<key>Track ID</key><integer>7271</integer>
+			<key>Size</key><integer>7098379</integer>
+			<key>Total Time</key><integer>209841</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3643693837</integer>
+			<key>Play Date UTC</key><date>2019-06-18T13:10:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB867DA761645734</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Give You Two Seconds to Entertain Me</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Ta!</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 243995743</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Ta!/02%20I%20Give%20You%20Two%20Seconds%20to%20Entertain%20Me.mp3</string>
+		</dict>
+		<key>7281</key>
+		<dict>
+			<key>Track ID</key><integer>7281</integer>
+			<key>Size</key><integer>9057412</integer>
+			<key>Total Time</key><integer>255242</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>282</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3643694092</integer>
+			<key>Play Date UTC</key><date>2019-06-18T13:14:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60F175F856491D44</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Feel Even Better</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Ta!</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 243995744</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Ta!/03%20I%20Feel%20Even%20Better.mp3</string>
+		</dict>
+		<key>7273</key>
+		<dict>
+			<key>Track ID</key><integer>7273</integer>
+			<key>Size</key><integer>5808007</integer>
+			<key>Total Time</key><integer>153051</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>300</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643694245</integer>
+			<key>Play Date UTC</key><date>2019-06-18T13:17:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B8FC9BC2D5E1CF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In an Empty Hotel</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Ta!</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 243995747</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Ta!/06%20In%20an%20Empty%20Hotel.mp3</string>
+		</dict>
+		<key>7291</key>
+		<dict>
+			<key>Track ID</key><integer>7291</integer>
+			<key>Size</key><integer>7211683</integer>
+			<key>Total Time</key><integer>209580</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3643694870</integer>
+			<key>Play Date UTC</key><date>2019-06-18T13:27:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05976DCA45ED50E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Happy Nice Day</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Ta!</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 243995748</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Ta!/07%20Happy%20Nice%20Day.mp3</string>
+		</dict>
+		<key>7277</key>
+		<dict>
+			<key>Track ID</key><integer>7277</integer>
+			<key>Size</key><integer>5590980</integer>
+			<key>Total Time</key><integer>156368</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>283</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3640493490</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:11:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E896E64619AA2D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Young and Hopefuls</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Ta!</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 243995749</string>
+			<key>Sort Name</key><string>Young and Hopefuls</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Ta!/08%20The%20Young%20and%20Hopefuls.mp3</string>
+		</dict>
+		<key>7297</key>
+		<dict>
+			<key>Track ID</key><integer>7297</integer>
+			<key>Size</key><integer>6560251</integer>
+			<key>Total Time</key><integer>182778</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3648744652</integer>
+			<key>Play Date UTC</key><date>2019-08-16T00:10:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1C2BF4DB2823091</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Greetings from Paris</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Ta!</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 243995754</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Ta!/13%20Greetings%20from%20Paris.mp3</string>
+		</dict>
+		<key>7319</key>
+		<dict>
+			<key>Track ID</key><integer>7319</integer>
+			<key>Size</key><integer>6498825</integer>
+			<key>Total Time</key><integer>192156</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>260</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3640493865</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:17:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C636BBB69D116DC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Münchhausen in Me</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465527</string>
+			<key>Sort Name</key><string>Münchhausen in Me</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/01%20The%20Mu%CC%88nchhausen%20in%20Me.mp3</string>
+		</dict>
+		<key>7305</key>
+		<dict>
+			<key>Track ID</key><integer>7305</integer>
+			<key>Size</key><integer>6047226</integer>
+			<key>Total Time</key><integer>177031</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3640494042</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:20:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BEA89AF95CEF550</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When Goodness Falls</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465528</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/02%20When%20Goodness%20Falls.mp3</string>
+		</dict>
+		<key>7303</key>
+		<dict>
+			<key>Track ID</key><integer>7303</integer>
+			<key>Size</key><integer>7268607</integer>
+			<key>Total Time</key><integer>225436</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3640494267</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:24:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4807ACB8056A83C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crazy</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465529</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/03%20Crazy.mp3</string>
+		</dict>
+		<key>7301</key>
+		<dict>
+			<key>Track ID</key><integer>7301</integer>
+			<key>Size</key><integer>7815269</integer>
+			<key>Total Time</key><integer>226429</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3648744878</integer>
+			<key>Play Date UTC</key><date>2019-08-16T00:14:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>048382401A59025B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Operation Worked But the Patient Died</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465530</string>
+			<key>Sort Name</key><string>Operation Worked But the Patient Died</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/04%20The%20Operation%20Worked%20But%20the%20Patient%20Died.mp3</string>
+		</dict>
+		<key>7311</key>
+		<dict>
+			<key>Track ID</key><integer>7311</integer>
+			<key>Size</key><integer>8376187</integer>
+			<key>Total Time</key><integer>241057</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3640494735</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:32:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B3233B348CB5525</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Life Returns to Normal</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465532</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/06%20Life%20Returns%20to%20Normal.mp3</string>
+		</dict>
+		<key>7309</key>
+		<dict>
+			<key>Track ID</key><integer>7309</integer>
+			<key>Size</key><integer>7398013</integer>
+			<key>Total Time</key><integer>207777</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3640494942</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:35:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4E2DC3936C8E17C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Murder Weapon</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465533</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/07%20Murder%20Weapon.mp3</string>
+		</dict>
+		<key>7317</key>
+		<dict>
+			<key>Track ID</key><integer>7317</integer>
+			<key>Size</key><integer>6722723</integer>
+			<key>Total Time</key><integer>180558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>286</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3648745059</integer>
+			<key>Play Date UTC</key><date>2019-08-16T00:17:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18D76BE94FE3FC88</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>What Happens Next?</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465534</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/08%20What%20Happens%20Next_.mp3</string>
+		</dict>
+		<key>7313</key>
+		<dict>
+			<key>Track ID</key><integer>7313</integer>
+			<key>Size</key><integer>10364678</integer>
+			<key>Total Time</key><integer>329795</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640495453</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:44:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99546D125FDE2944</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>That's When My Headaches Begin</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465535</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/09%20That's%20When%20My%20Headaches%20Begin.mp3</string>
+		</dict>
+		<key>7315</key>
+		<dict>
+			<key>Track ID</key><integer>7315</integer>
+			<key>Size</key><integer>7096957</integer>
+			<key>Total Time</key><integer>206759</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-14T06:52:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640495659</integer>
+			<key>Play Date UTC</key><date>2019-05-12T12:47:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18FABBD1D47AFA9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Favourite Moment</string>
+			<key>Artist</key><string>Northern Portrait</string>
+			<key>Album Artist</key><string>Northern Portrait</string>
+			<key>Album</key><string>Criminal Art Lovers</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214465536</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Northern%20Portrait/Criminal%20Art%20Lovers/10%20New%20Favourite%20Moment.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137502</integer>
+			<key>Playlist Persistent ID</key><string>08042A69F1882558</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Northern Portrait</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7315</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

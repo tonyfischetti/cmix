@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>26481</key>
+		<dict>
+			<key>Track ID</key><integer>26481</integer>
+			<key>Size</key><integer>12174671</integer>
+			<key>Total Time</key><integer>354951</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>272</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5805E71364E5BBC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spaces</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Davos</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 261719815</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Davos/12%20Spaces.mp3</string>
+		</dict>
+		<key>26435</key>
+		<dict>
+			<key>Track ID</key><integer>26435</integer>
+			<key>Size</key><integer>6009325</integer>
+			<key>Total Time</key><integer>184032</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>260</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8639F1CF2902C908</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Amnesia</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Danz</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291330973</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Danz/01%20Amnesia.mp3</string>
+		</dict>
+		<key>26447</key>
+		<dict>
+			<key>Track ID</key><integer>26447</integer>
+			<key>Size</key><integer>7821601</integer>
+			<key>Total Time</key><integer>234893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0C598664684CE3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nebraskaland</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Danz</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291330970</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Danz/02%20Nebraskaland.mp3</string>
+		</dict>
+		<key>26465</key>
+		<dict>
+			<key>Track ID</key><integer>26465</integer>
+			<key>Size</key><integer>8379876</integer>
+			<key>Total Time</key><integer>251350</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3629317280</integer>
+			<key>Play Date UTC</key><date>2019-01-03T04:41:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>537FEA6050129D73</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Technology</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885679</string>
+			<key>Sort Name</key><string>Technology</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/01%20The%20Technology.mp3</string>
+		</dict>
+		<key>26461</key>
+		<dict>
+			<key>Track ID</key><integer>26461</integer>
+			<key>Size</key><integer>6451484</integer>
+			<key>Total Time</key><integer>198791</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2E42FFEED502CDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Emily</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885673</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/02%20Emily.mp3</string>
+		</dict>
+		<key>26457</key>
+		<dict>
+			<key>Track ID</key><integer>26457</integer>
+			<key>Size</key><integer>5593070</integer>
+			<key>Total Time</key><integer>164101</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A3E1C20C8E5FD587</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Livin' in the Moment</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885675</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/03%20Livin'%20in%20the%20Moment.mp3</string>
+		</dict>
+		<key>26473</key>
+		<dict>
+			<key>Track ID</key><integer>26473</integer>
+			<key>Size</key><integer>2538562</integer>
+			<key>Total Time</key><integer>81031</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>474B62B921A8B90D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cloud City</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885676</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/04%20Cloud%20City.mp3</string>
+		</dict>
+		<key>26469</key>
+		<dict>
+			<key>Track ID</key><integer>26469</integer>
+			<key>Size</key><integer>6711723</integer>
+			<key>Total Time</key><integer>212349</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05ABA28D1BBEFDFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Big Blue Eyes</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885678</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/05%20Big%20Blue%20Eyes.mp3</string>
+		</dict>
+		<key>26467</key>
+		<dict>
+			<key>Track ID</key><integer>26467</integer>
+			<key>Size</key><integer>3008532</integer>
+			<key>Total Time</key><integer>90148</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E06392D0C4BA159</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Planet of Dreams</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885674</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/06%20Planet%20of%20Dreams.mp3</string>
+		</dict>
+		<key>26471</key>
+		<dict>
+			<key>Track ID</key><integer>26471</integer>
+			<key>Size</key><integer>5870591</integer>
+			<key>Total Time</key><integer>195239</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>238</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E989604B5777D3D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Outerspace Radio Theme</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885681</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/07%20Outerspace%20Radio%20Theme.mp3</string>
+		</dict>
+		<key>26455</key>
+		<dict>
+			<key>Track ID</key><integer>26455</integer>
+			<key>Size</key><integer>6786201</integer>
+			<key>Total Time</key><integer>217939</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0AB8DCF13EC615CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Redwoods</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885682</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/08%20Redwoods.mp3</string>
+		</dict>
+		<key>21399</key>
+		<dict>
+			<key>Track ID</key><integer>21399</integer>
+			<key>Size</key><integer>4450350</integer>
+			<key>Total Time</key><integer>141322</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B523344319E95D9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Alone in Tokyo</string>
+			<key>Artist</key><string>Computer Magic feat. Har Mar Superstar</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885672</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic%20feat.%20Har%20Mar%20Superstar/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/09%20All%20Alone%20in%20Tokyo.mp3</string>
+		</dict>
+		<key>26463</key>
+		<dict>
+			<key>Track ID</key><integer>26463</integer>
+			<key>Size</key><integer>7689898</integer>
+			<key>Total Time</key><integer>228048</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C44F835211F9F7BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Addition (Tangent of Love)</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885680</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/10%20Addition%20(Tangent%20of%20Love).mp3</string>
+		</dict>
+		<key>26459</key>
+		<dict>
+			<key>Track ID</key><integer>26459</integer>
+			<key>Size</key><integer>9025265</integer>
+			<key>Total Time</key><integer>265377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-02T00:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B60641B63C17941</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Midnight Spaceflight Disco</string>
+			<key>Artist</key><string>Computer Magic</string>
+			<key>Album</key><string>Super Rare: A Compilation of Early Tracks, Japan Exclusives and Rarities</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 291885677</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Computer%20Magic/Super%20Rare_%20A%20Compilation%20of%20Early%20Tracks,%20Japan%20Exclusives%20and%20Rarities/11%20Midnight%20Spaceflight%20Disco.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132260</integer>
+			<key>Playlist Persistent ID</key><string>BA9464B11FA13982</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Computer Magic Audit</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>26481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26459</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,3176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>22999</key>
+		<dict>
+			<key>Track ID</key><integer>22999</integer>
+			<key>Size</key><integer>1705812</integer>
+			<key>Total Time</key><integer>106318</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCA203F06D7BAB38</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Choking Victim</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album Artist</key><string>Choking Victim</string>
+			<key>Composer</key><string>Scott Stergin</string>
+			<key>Album</key><string>Crack Rock Steady Demo</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/Crack%20Rock%20Steady%20Demo/01%20Choking%20Victim.mp3</string>
+		</dict>
+		<key>23013</key>
+		<dict>
+			<key>Track ID</key><integer>23013</integer>
+			<key>Size</key><integer>2568908</integer>
+			<key>Total Time</key><integer>160261</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0717F5D336907328</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Apple Pie &amp; Police State</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album Artist</key><string>Choking Victim</string>
+			<key>Composer</key><string>Sashca/Sturgan</string>
+			<key>Album</key><string>Crack Rock Steady Demo</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/Crack%20Rock%20Steady%20Demo/04%20Apple%20Pie%20&amp;%20Police%20State.mp3</string>
+		</dict>
+		<key>23039</key>
+		<dict>
+			<key>Track ID</key><integer>23039</integer>
+			<key>Size</key><integer>2701219</integer>
+			<key>Total Time</key><integer>166373</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3632907154</integer>
+			<key>Play Date UTC</key><date>2019-02-13T17:52:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>503A9500AC1B3D21</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Infested</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>Squattas paradise 7''</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/Squattas%20paradise%207''/01%20Infested.mp3</string>
+		</dict>
+		<key>23033</key>
+		<dict>
+			<key>Track ID</key><integer>23033</integer>
+			<key>Size</key><integer>3374678</integer>
+			<key>Total Time</key><integer>208561</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>968754C3F878BEFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Born to Die</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>Squattas paradise 7''</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/Squattas%20paradise%207''/03%20Born%20to%20Die.mp3</string>
+		</dict>
+		<key>23065</key>
+		<dict>
+			<key>Track ID</key><integer>23065</integer>
+			<key>Size</key><integer>3852311</integer>
+			<key>Total Time</key><integer>160078</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3632907330</integer>
+			<key>Play Date UTC</key><date>2019-02-13T17:55:30Z</date>
+			<key>Persistent ID</key><string>D329E8FEFE672D1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>500 Channels</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/01%20500%20Channels.mp3</string>
+		</dict>
+		<key>23043</key>
+		<dict>
+			<key>Track ID</key><integer>23043</integer>
+			<key>Size</key><integer>3017856</integer>
+			<key>Total Time</key><integer>125309</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3632907520</integer>
+			<key>Play Date UTC</key><date>2019-02-13T17:58:40Z</date>
+			<key>Persistent ID</key><string>8D67ED1B60B069F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In Hell</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/02%20In%20Hell.mp3</string>
+		</dict>
+		<key>23055</key>
+		<dict>
+			<key>Track ID</key><integer>23055</integer>
+			<key>Size</key><integer>4438499</integer>
+			<key>Total Time</key><integer>184502</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DBD4E128593E1E2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crack Rock Steady</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/03%20Crack%20Rock%20Steady.mp3</string>
+		</dict>
+		<key>23051</key>
+		<dict>
+			<key>Track ID</key><integer>23051</integer>
+			<key>Size</key><integer>4172050</integer>
+			<key>Total Time</key><integer>173400</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EEC1B539933EDA92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Suicide (A Better Way)</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/04%20Suicide%20(A%20Better%20Way).mp3</string>
+		</dict>
+		<key>23059</key>
+		<dict>
+			<key>Track ID</key><integer>23059</integer>
+			<key>Size</key><integer>4062336</integer>
+			<key>Total Time</key><integer>168829</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BE4056169E0213FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In My Grave</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/05%20In%20My%20Grave.mp3</string>
+		</dict>
+		<key>23045</key>
+		<dict>
+			<key>Track ID</key><integer>23045</integer>
+			<key>Size</key><integer>3585862</integer>
+			<key>Total Time</key><integer>148976</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F27C77C21659A2CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fucked Reality</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/06%20Fucked%20Reality.mp3</string>
+		</dict>
+		<key>23053</key>
+		<dict>
+			<key>Track ID</key><integer>23053</integer>
+			<key>Size</key><integer>5115593</integer>
+			<key>Total Time</key><integer>212715</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>41F2495557643FD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Money</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/07%20Money.mp3</string>
+		</dict>
+		<key>23057</key>
+		<dict>
+			<key>Track ID</key><integer>23057</integer>
+			<key>Size</key><integer>4093683</integer>
+			<key>Total Time</key><integer>170135</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>118ECCA475EF6DF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hate Yer State</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/08%20Hate%20Yer%20State.mp3</string>
+		</dict>
+		<key>23063</key>
+		<dict>
+			<key>Track ID</key><integer>23063</integer>
+			<key>Size</key><integer>3355776</integer>
+			<key>Total Time</key><integer>139389</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3E0FAB533319C408</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fuck America</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/09%20Fuck%20America.mp3</string>
+		</dict>
+		<key>23061</key>
+		<dict>
+			<key>Track ID</key><integer>23061</integer>
+			<key>Size</key><integer>4167663</integer>
+			<key>Total Time</key><integer>173217</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633669134</integer>
+			<key>Play Date UTC</key><date>2019-02-22T13:32:14Z</date>
+			<key>Persistent ID</key><string>D15EDA6CA92C2EC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>War Story</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/10%20War%20Story.mp3</string>
+		</dict>
+		<key>23041</key>
+		<dict>
+			<key>Track ID</key><integer>23041</integer>
+			<key>Size</key><integer>3669873</integer>
+			<key>Total Time</key><integer>152476</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>09279293594B3421</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Five-Finger Discount</string>
+			<key>Artist</key><string>Choking Victim</string>
+			<key>Album</key><string>No Gods / No Managers</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Choking%20Victim/No%20Gods%20_%20No%20Managers/11%20Five-Finger%20Discount.mp3</string>
+		</dict>
+		<key>27591</key>
+		<dict>
+			<key>Track ID</key><integer>27591</integer>
+			<key>Size</key><integer>3866334</integer>
+			<key>Total Time</key><integer>191921</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82FC681EF545C027</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heroin or Suicide</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Shoot The Kids At School</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Shoot%20The%20Kids%20At%20School/Heroin%20or%20Suicide.mp3</string>
+		</dict>
+		<key>27561</key>
+		<dict>
+			<key>Track ID</key><integer>27561</integer>
+			<key>Size</key><integer>3425093</integer>
+			<key>Total Time</key><integer>142706</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>043962CBE7CC602F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Homeo-apathy</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/01%20Homeo-apathy.mp3</string>
+		</dict>
+		<key>27557</key>
+		<dict>
+			<key>Track ID</key><integer>27557</integer>
+			<key>Size</key><integer>4314092</integer>
+			<key>Total Time</key><integer>179748</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DF3A6929B3F471BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nazi White Trash</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/02%20Nazi%20White%20Trash.mp3</string>
+		</dict>
+		<key>27549</key>
+		<dict>
+			<key>Track ID</key><integer>27549</integer>
+			<key>Size</key><integer>4760473</integer>
+			<key>Total Time</key><integer>198347</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>436844C03CF1F7E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Atheist Anthem</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/03%20Atheist%20Anthem.mp3</string>
+		</dict>
+		<key>27559</key>
+		<dict>
+			<key>Track ID</key><integer>27559</integer>
+			<key>Size</key><integer>3585813</integer>
+			<key>Total Time</key><integer>148976</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>50C5126F771FA343</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Good, The Bad &amp; The Leftover Crack</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>Good, The Bad &amp; The Leftover Crack</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/04%20The%20Good,%20The%20Bad%20&amp;%20The%20Leftover%20Crack.mp3</string>
+		</dict>
+		<key>27565</key>
+		<dict>
+			<key>Track ID</key><integer>27565</integer>
+			<key>Size</key><integer>3821318</integer>
+			<key>Total Time</key><integer>159216</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F1141E538EDDEBDA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gay Rude Boys Unite</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/05%20Gay%20Rude%20Boys%20Unite.mp3</string>
+		</dict>
+		<key>27551</key>
+		<dict>
+			<key>Track ID</key><integer>27551</integer>
+			<key>Size</key><integer>1417008</integer>
+			<key>Total Time</key><integer>59036</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E64C5249C90E7EE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>NC</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/06%20NC.mp3</string>
+		</dict>
+		<key>27567</key>
+		<dict>
+			<key>Track ID</key><integer>27567</integer>
+			<key>Size</key><integer>2035797</integer>
+			<key>Total Time</key><integer>84819</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>745BFD57BCC159F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Interlude</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/07%20Interlude.mp3</string>
+		</dict>
+		<key>27555</key>
+		<dict>
+			<key>Track ID</key><integer>27555</integer>
+			<key>Size</key><integer>4334154</integer>
+			<key>Total Time</key><integer>180584</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4F5FD9393A52D661</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stop The Insanity</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/08%20Stop%20The%20Insanity.mp3</string>
+		</dict>
+		<key>27569</key>
+		<dict>
+			<key>Track ID</key><integer>27569</integer>
+			<key>Size</key><integer>3623206</integer>
+			<key>Total Time</key><integer>150961</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B38D53946890ACD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crack City Rockers</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/09%20Crack%20City%20Rockers.mp3</string>
+		</dict>
+		<key>27563</key>
+		<dict>
+			<key>Track ID</key><integer>27563</integer>
+			<key>Size</key><integer>3013194</integer>
+			<key>Total Time</key><integer>125544</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>09399CBCE8614076</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Burning In Water</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/10%20Burning%20In%20Water.mp3</string>
+		</dict>
+		<key>27571</key>
+		<dict>
+			<key>Track ID</key><integer>27571</integer>
+			<key>Size</key><integer>1709789</integer>
+			<key>Total Time</key><integer>71235</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>329754724B4A2EEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>With The Sickness</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/11%20With%20The%20Sickness.mp3</string>
+		</dict>
+		<key>27553</key>
+		<dict>
+			<key>Track ID</key><integer>27553</integer>
+			<key>Size</key><integer>6763542</integer>
+			<key>Total Time</key><integer>281808</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9B3EA10E85AFD65A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Born To Die</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/12%20Born%20To%20Die.mp3</string>
+		</dict>
+		<key>27547</key>
+		<dict>
+			<key>Track ID</key><integer>27547</integer>
+			<key>Size</key><integer>4969870</integer>
+			<key>Total Time</key><integer>207072</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>52370C4DCF0CC1B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rock Steady Beat</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Mediocre Generica</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Mediocre%20Generica/13%20Rock%20Steady%20Beat.mp3</string>
+		</dict>
+		<key>27595</key>
+		<dict>
+			<key>Track ID</key><integer>27595</integer>
+			<key>Size</key><integer>6252173</integer>
+			<key>Total Time</key><integer>255059</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B4E5290506FB844</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Clear Channel (Fuck Off!)</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/01%20Clear%20Channel%20(Fuck%20Off!).mp3</string>
+		</dict>
+		<key>27605</key>
+		<dict>
+			<key>Track ID</key><integer>27605</integer>
+			<key>Size</key><integer>6790700</integer>
+			<key>Total Time</key><integer>277498</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7C3AE5CAF290333</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Life Is Pain</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/02%20Life%20Is%20Pain.mp3</string>
+		</dict>
+		<key>27601</key>
+		<dict>
+			<key>Track ID</key><integer>27601</integer>
+			<key>Size</key><integer>4815221</integer>
+			<key>Total Time</key><integer>195186</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F2ADAA8F321F32E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Burn Them Prisons</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/03%20Burn%20Them%20Prisons.mp3</string>
+		</dict>
+		<key>27599</key>
+		<dict>
+			<key>Track ID</key><integer>27599</integer>
+			<key>Size</key><integer>4022766</integer>
+			<key>Total Time</key><integer>162168</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642781453</integer>
+			<key>Play Date UTC</key><date>2019-06-07T23:44:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CD8C917F52216E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gang Control</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/04%20Gang%20Control.mp3</string>
+		</dict>
+		<key>27593</key>
+		<dict>
+			<key>Track ID</key><integer>27593</integer>
+			<key>Size</key><integer>5897940</integer>
+			<key>Total Time</key><integer>240300</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE7CD6157B6F89FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Super Tuesday</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/05%20Super%20Tuesday.mp3</string>
+		</dict>
+		<key>27611</key>
+		<dict>
+			<key>Track ID</key><integer>27611</integer>
+			<key>Size</key><integer>3371376</integer>
+			<key>Total Time</key><integer>135026</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>46B3CB9397D544DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Via Sin Dios</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/06%20Via%20Sin%20Dios.mp3</string>
+		</dict>
+		<key>27617</key>
+		<dict>
+			<key>Track ID</key><integer>27617</integer>
+			<key>Size</key><integer>4970718</integer>
+			<key>Total Time</key><integer>201665</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>321D1D32773DEBD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Feed The Children (Book Of Lies)</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/07%20Feed%20The%20Children%20(Book%20Of%20Lies).mp3</string>
+		</dict>
+		<key>27607</key>
+		<dict>
+			<key>Track ID</key><integer>27607</integer>
+			<key>Size</key><integer>5398896</integer>
+			<key>Total Time</key><integer>219506</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B2BAFB8F199DEA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Dead Cop</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/08%20One%20Dead%20Cop.mp3</string>
+		</dict>
+		<key>27613</key>
+		<dict>
+			<key>Track ID</key><integer>27613</integer>
+			<key>Size</key><integer>4793277</integer>
+			<key>Total Time</key><integer>194272</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A821ECC4146F94F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ya Can't Go Home</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/09%20Ya%20Can't%20Go%20Home.mp3</string>
+		</dict>
+		<key>27597</key>
+		<dict>
+			<key>Track ID</key><integer>27597</integer>
+			<key>Size</key><integer>8173752</integer>
+			<key>Total Time</key><integer>335124</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E58B8A7F882EBD3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Soon We'll Be Dead w/ World Inferno</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/11%20Soon%20We'll%20Be%20Dead%20w_%20World%20Inferno.mp3</string>
+		</dict>
+		<key>27615</key>
+		<dict>
+			<key>Track ID</key><integer>27615</integer>
+			<key>Size</key><integer>4667272</integer>
+			<key>Total Time</key><integer>189022</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F816EF9469375A7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gringos Son Puercos Feos</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/12%20Gringos%20Son%20Puercos%20Feos.mp3</string>
+		</dict>
+		<key>35581</key>
+		<dict>
+			<key>Track ID</key><integer>35581</integer>
+			<key>Size</key><integer>3832124</integer>
+			<key>Total Time</key><integer>191190</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9973F90F3236ABA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gang Control (feat. Popeye &amp; Skwert)</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/02%20Gang%20Control%20(feat.%20Popeye%20&amp;%20Skwert).mp3</string>
+		</dict>
+		<key>35595</key>
+		<dict>
+			<key>Track ID</key><integer>35595</integer>
+			<key>Size</key><integer>4304940</integer>
+			<key>Total Time</key><integer>214831</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4DB6DD2A2EE1AC0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>War Returns</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/11%20War%20Returns.mp3</string>
+		</dict>
+		<key>35587</key>
+		<dict>
+			<key>Track ID</key><integer>35587</integer>
+			<key>Size</key><integer>5821624</integer>
+			<key>Total Time</key><integer>248450</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D2BB1051FA67ECBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>So You Wanna Be a Cop (feat. Stza)</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/12%20So%20You%20Wanna%20Be%20a%20Cop%20(feat.%20Stza).mp3</string>
+		</dict>
+		<key>35577</key>
+		<dict>
+			<key>Track ID</key><integer>35577</integer>
+			<key>Size</key><integer>10962761</integer>
+			<key>Total Time</key><integer>273475</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CCF564BF407DEB42</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Whole World Is Watching</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Whole World Is Watching</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/01%20The%20Whole%20World%20Is%20Watching.mp3</string>
+		</dict>
+		<key>35571</key>
+		<dict>
+			<key>Track ID</key><integer>35571</integer>
+			<key>Size</key><integer>6650459</integer>
+			<key>Total Time</key><integer>165668</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6486EBCD9F370327</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>School Is Bullshit</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/02%20School%20Is%20Bullshit.mp3</string>
+		</dict>
+		<key>35561</key>
+		<dict>
+			<key>Track ID</key><integer>35561</integer>
+			<key>Size</key><integer>8456036</integer>
+			<key>Total Time</key><integer>210808</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A4F6D2D82590789</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gimme Heroin</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/05%20Gimme%20Heroin.mp3</string>
+		</dict>
+		<key>48449</key>
+		<dict>
+			<key>Track ID</key><integer>48449</integer>
+			<key>Size</key><integer>960843</integer>
+			<key>Total Time</key><integer>135915</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5245367D1FDB4C65</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In Decay</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/01%20In%20Decay.mp3</string>
+		</dict>
+		<key>48445</key>
+		<dict>
+			<key>Track ID</key><integer>48445</integer>
+			<key>Size</key><integer>819072</integer>
+			<key>Total Time</key><integer>115043</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633671074</integer>
+			<key>Play Date UTC</key><date>2019-02-22T14:04:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73C2FC26BA2B994D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rent For Sale</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/02%20Rent%20For%20Sale.mp3</string>
+		</dict>
+		<key>48463</key>
+		<dict>
+			<key>Track ID</key><integer>48463</integer>
+			<key>Size</key><integer>954478</integer>
+			<key>Total Time</key><integer>135000</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-22T14:04:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4527FFF9DC1B8140</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You're Late</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/03%20You're%20Late.mp3</string>
+		</dict>
+		<key>48461</key>
+		<dict>
+			<key>Track ID</key><integer>48461</integer>
+			<key>Size</key><integer>1428034</integer>
+			<key>Total Time</key><integer>202971</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642781882</integer>
+			<key>Play Date UTC</key><date>2019-06-07T23:51:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>652A1E7096511392</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All 41</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/04%20All%2041.mp3</string>
+		</dict>
+		<key>48465</key>
+		<dict>
+			<key>Track ID</key><integer>48465</integer>
+			<key>Size</key><integer>1185074</integer>
+			<key>Total Time</key><integer>168097</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A58CBD11724FFF4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>East Coast Rising</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/05%20East%20Coast%20Rising.mp3</string>
+		</dict>
+		<key>48459</key>
+		<dict>
+			<key>Track ID</key><integer>48459</integer>
+			<key>Size</key><integer>886410</integer>
+			<key>Total Time</key><integer>125231</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642781578</integer>
+			<key>Play Date UTC</key><date>2019-06-07T23:46:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1EF526198DA8D322</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sunday Bombs</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/06%20Sunday%20Bombs.mp3</string>
+		</dict>
+		<key>48467</key>
+		<dict>
+			<key>Track ID</key><integer>48467</integer>
+			<key>Size</key><integer>767568</integer>
+			<key>Total Time</key><integer>108173</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E26D98A2021E0E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Off the Scope</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/07%20Off%20the%20Scope.mp3</string>
+		</dict>
+		<key>48453</key>
+		<dict>
+			<key>Track ID</key><integer>48453</integer>
+			<key>Size</key><integer>1155948</integer>
+			<key>Total Time</key><integer>163918</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>163CEEEEE1E66AFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Set-Up</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/08%20Set-Up.mp3</string>
+		</dict>
+		<key>48443</key>
+		<dict>
+			<key>Track ID</key><integer>48443</integer>
+			<key>Size</key><integer>927349</integer>
+			<key>Total Time</key><integer>131108</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>31C75FEAF706DC60</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kings In Disguise</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/09%20Kings%20In%20Disguise.mp3</string>
+		</dict>
+		<key>48447</key>
+		<dict>
+			<key>Track ID</key><integer>48447</integer>
+			<key>Size</key><integer>1828077</integer>
+			<key>Total Time</key><integer>259186</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70621BEB572F9EB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Moonwalk Mafia</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/10%20Moonwalk%20Mafia.mp3</string>
+		</dict>
+		<key>48469</key>
+		<dict>
+			<key>Track ID</key><integer>48469</integer>
+			<key>Size</key><integer>873494</integer>
+			<key>Total Time</key><integer>123376</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22EA261309A818E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rallying Point</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/11%20Rallying%20Point.mp3</string>
+		</dict>
+		<key>48455</key>
+		<dict>
+			<key>Track ID</key><integer>48455</integer>
+			<key>Size</key><integer>713672</integer>
+			<key>Total Time</key><integer>99970</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B79C23D5BDB11B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crack Squad</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/12%20Crack%20Squad.mp3</string>
+		</dict>
+		<key>48451</key>
+		<dict>
+			<key>Track ID</key><integer>48451</integer>
+			<key>Size</key><integer>1066041</integer>
+			<key>Total Time</key><integer>151013</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E326E93FBA73508F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Start It Up</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/13%20Start%20It%20Up.mp3</string>
+		</dict>
+		<key>48457</key>
+		<dict>
+			<key>Track ID</key><integer>48457</integer>
+			<key>Size</key><integer>877684</integer>
+			<key>Total Time</key><integer>123977</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:25:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7C4128AC491394A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Killing Is Contagious</string>
+			<key>Artist</key><string>INDK</string>
+			<key>Album</key><string>Kill Whitey!</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/INDK/Kill%20Whitey!/14%20Killing%20Is%20Contagious.mp3</string>
+		</dict>
+		<key>27609</key>
+		<dict>
+			<key>Track ID</key><integer>27609</integer>
+			<key>Size</key><integer>3703730</integer>
+			<key>Total Time</key><integer>148845</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2019-07-01T01:52:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>632E992D8988E5B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rock The 40 Oz.</string>
+			<key>Artist</key><string>Leftover Crack</string>
+			<key>Album</key><string>Fuck World Trade</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leftover%20Crack/Fuck%20World%20Trade/10%20Rock%20The%2040%20Oz..mp3</string>
+		</dict>
+		<key>43755</key>
+		<dict>
+			<key>Track ID</key><integer>43755</integer>
+			<key>Size</key><integer>3393291</integer>
+			<key>Total Time</key><integer>137978</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56E8FA8897B07C99</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dumpster to the Grave</string>
+			<key>Artist</key><string>Star Fucking Hipsters</string>
+			<key>Album</key><string>From the Dumpster to the Grave</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Star%20Fucking%20Hipsters/From%20the%20Dumpster%20to%20the%20Grave/02%20Dumpster%20to%20the%20Grave.mp3</string>
+		</dict>
+		<key>43775</key>
+		<dict>
+			<key>Track ID</key><integer>43775</integer>
+			<key>Size</key><integer>4027729</integer>
+			<key>Total Time</key><integer>161671</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4690F9869FE2E0CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Death is Never Out of Fashion</string>
+			<key>Artist</key><string>Star Fucking Hipsters</string>
+			<key>Album</key><string>From the Dumpster to the Grave</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Star%20Fucking%20Hipsters/From%20the%20Dumpster%20to%20the%20Grave/04%20Death%20is%20Never%20Out%20of%20Fashion.mp3</string>
+		</dict>
+		<key>43757</key>
+		<dict>
+			<key>Track ID</key><integer>43757</integer>
+			<key>Size</key><integer>3795817</integer>
+			<key>Total Time</key><integer>153051</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>868EE6F83CDD4FEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Otra Vez (w/Blackbird Raum)</string>
+			<key>Artist</key><string>Star Fucking Hipsters</string>
+			<key>Album</key><string>From the Dumpster to the Grave</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Star%20Fucking%20Hipsters/From%20the%20Dumpster%20to%20the%20Grave/07%20Otra%20Vez%20(w_Blackbird%20Raum).mp3</string>
+		</dict>
+		<key>43759</key>
+		<dict>
+			<key>Track ID</key><integer>43759</integer>
+			<key>Size</key><integer>3551089</integer>
+			<key>Total Time</key><integer>141635</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>92D5F7423F966B25</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ana Ng</string>
+			<key>Artist</key><string>Star Fucking Hipsters</string>
+			<key>Album</key><string>From the Dumpster to the Grave</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Star%20Fucking%20Hipsters/From%20the%20Dumpster%20to%20the%20Grave/10%20Ana%20Ng.mp3</string>
+		</dict>
+		<key>43801</key>
+		<dict>
+			<key>Track ID</key><integer>43801</integer>
+			<key>Size</key><integer>4797145</integer>
+			<key>Total Time</key><integer>185103</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9DDB8E61BC2DCCAB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>3,000 Miles</string>
+			<key>Artist</key><string>Star Fucking Hipsters</string>
+			<key>Album Artist</key><string>Star Fucking Hipsters</string>
+			<key>Composer</key><string>Star Fucking Hipsters</string>
+			<key>Album</key><string>Never Rest In Peace</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>culture-revolution.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Star%20Fucking%20Hipsters/Never%20Rest%20In%20Peace/02%203,000%20Miles.mp3</string>
+		</dict>
+		<key>35619</key>
+		<dict>
+			<key>Track ID</key><integer>35619</integer>
+			<key>Size</key><integer>1548317</integer>
+			<key>Total Time</key><integer>29126</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>515E7C13C3750E8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stevie Dinner</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/01%20Stevie%20Dinner.mp3</string>
+		</dict>
+		<key>35615</key>
+		<dict>
+			<key>Track ID</key><integer>35615</integer>
+			<key>Size</key><integer>8541862</integer>
+			<key>Total Time</key><integer>203964</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B00073B9310A8EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everything’s A Song (To Me)</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/02%20Everything_s%20A%20Song%20(To%20Me).mp3</string>
+		</dict>
+		<key>35627</key>
+		<dict>
+			<key>Track ID</key><integer>35627</integer>
+			<key>Size</key><integer>7879386</integer>
+			<key>Total Time</key><integer>187402</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A9F8D3DC89B5A732</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shelter From The Spoon</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/03%20Shelter%20From%20The%20Spoon.mp3</string>
+		</dict>
+		<key>35621</key>
+		<dict>
+			<key>Track ID</key><integer>35621</integer>
+			<key>Size</key><integer>10714190</integer>
+			<key>Total Time</key><integer>258272</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5CC8AC1F05FB8046</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Poets Were My Heroes</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/04%20Poets%20Were%20My%20Heroes.mp3</string>
+		</dict>
+		<key>35629</key>
+		<dict>
+			<key>Track ID</key><integer>35629</integer>
+			<key>Size</key><integer>5877356</integer>
+			<key>Total Time</key><integer>137351</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A982F03658E3126</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>March Of The Asylum</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/05%20March%20Of%20The%20Asylum.mp3</string>
+		</dict>
+		<key>35613</key>
+		<dict>
+			<key>Track ID</key><integer>35613</integer>
+			<key>Size</key><integer>8956672</integer>
+			<key>Total Time</key><integer>214334</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9879E30D9BA6DD67</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Quemar Las Fronteras</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/06%20Quemar%20Las%20Fronteras.mp3</string>
+		</dict>
+		<key>35611</key>
+		<dict>
+			<key>Track ID</key><integer>35611</integer>
+			<key>Size</key><integer>12167621</integer>
+			<key>Total Time</key><integer>294608</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C1A4B967B4646B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Divide By</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/07%20Divide%20By.mp3</string>
+		</dict>
+		<key>35605</key>
+		<dict>
+			<key>Track ID</key><integer>35605</integer>
+			<key>Size</key><integer>8488550</integer>
+			<key>Total Time</key><integer>202631</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D5AC71CC65CD854E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Orphan’s Holiday</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/08%20Orphan_s%20Holiday.mp3</string>
+		</dict>
+		<key>35609</key>
+		<dict>
+			<key>Track ID</key><integer>35609</integer>
+			<key>Size</key><integer>8067434</integer>
+			<key>Total Time</key><integer>192104</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2FBE991D31BBD32F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Touch</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/09%20Touch.mp3</string>
+		</dict>
+		<key>35631</key>
+		<dict>
+			<key>Track ID</key><integer>35631</integer>
+			<key>Size</key><integer>9637925</integer>
+			<key>Total Time</key><integer>231366</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB6280360767702B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Patiently</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/10%20Patiently.mp3</string>
+		</dict>
+		<key>35623</key>
+		<dict>
+			<key>Track ID</key><integer>35623</integer>
+			<key>Size</key><integer>5561802</integer>
+			<key>Total Time</key><integer>129462</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29F09D87E5D92A6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Life’s A Long Revenge</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/11%20Life_s%20A%20Long%20Revenge.mp3</string>
+		</dict>
+		<key>35617</key>
+		<dict>
+			<key>Track ID</key><integer>35617</integer>
+			<key>Size</key><integer>10822899</integer>
+			<key>Total Time</key><integer>260989</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A494EB46319C8EBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Another Way (Outside The Walls Of Eden)</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/12%20Another%20Way%20(Outside%20The%20Walls%20Of%20Eden).mp3</string>
+		</dict>
+		<key>35625</key>
+		<dict>
+			<key>Track ID</key><integer>35625</integer>
+			<key>Size</key><integer>15432943</integer>
+			<key>Total Time</key><integer>376241</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C1C9462D5DDF643B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Born To December</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/13%20Born%20To%20December.mp3</string>
+		</dict>
+		<key>35607</key>
+		<dict>
+			<key>Track ID</key><integer>35607</integer>
+			<key>Size</key><integer>8619151</integer>
+			<key>Total Time</key><integer>205897</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1AF8C416F0601CF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Care Of Me</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Poets Were My Heroes</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Poets%20Were%20My%20Heroes/14%20Care%20Of%20Me.mp3</string>
+		</dict>
+		<key>35559</key>
+		<dict>
+			<key>Track ID</key><integer>35559</integer>
+			<key>Size</key><integer>7015796</integer>
+			<key>Total Time</key><integer>262373</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF59CCC300CD8798</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Anti-Life Is The Antidote</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Tha Suicide Singles</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>culture-revolution.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Tha%20Suicide%20Singles/01%20Anti-Life%20Is%20The%20Antidote.mp3</string>
+		</dict>
+		<key>35553</key>
+		<dict>
+			<key>Track ID</key><integer>35553</integer>
+			<key>Size</key><integer>5312597</integer>
+			<key>Total Time</key><integer>189675</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D58E0EC1BB7D6004</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gang Control</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Tha Suicide Singles</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>culture-revolution.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Tha%20Suicide%20Singles/02%20Gang%20Control.mp3</string>
+		</dict>
+		<key>35555</key>
+		<dict>
+			<key>Track ID</key><integer>35555</integer>
+			<key>Size</key><integer>8020324</integer>
+			<key>Total Time</key><integer>284604</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C9C1C22964AEB5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Our Job Is To Die</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Tha Suicide Singles</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>culture-revolution.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Tha%20Suicide%20Singles/03%20Our%20Job%20Is%20To%20Die.mp3</string>
+		</dict>
+		<key>35557</key>
+		<dict>
+			<key>Track ID</key><integer>35557</integer>
+			<key>Size</key><integer>9780235</integer>
+			<key>Total Time</key><integer>338468</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>115F8C9F47D92EEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Urban Tribes/ When I Grow Up</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>Tha Suicide Singles</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>culture-revolution.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/Tha%20Suicide%20Singles/04%20Urban%20Tribes_%20When%20I%20Grow%20Up.mp3</string>
+		</dict>
+		<key>35601</key>
+		<dict>
+			<key>Track ID</key><integer>35601</integer>
+			<key>Size</key><integer>8450573</integer>
+			<key>Total Time</key><integer>422112</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FE7A8971C007A458</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It'll Get Better &amp; So You Wanna Be a Cop</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/01%20It'll%20Get%20Better%20&amp;%20So%20You%20Wanna%20Be%20a%20Cop.mp3</string>
+		</dict>
+		<key>35581</key>
+		<dict>
+			<key>Track ID</key><integer>35581</integer>
+			<key>Size</key><integer>3832124</integer>
+			<key>Total Time</key><integer>191190</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9973F90F3236ABA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gang Control (feat. Popeye &amp; Skwert)</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/02%20Gang%20Control%20(feat.%20Popeye%20&amp;%20Skwert).mp3</string>
+		</dict>
+		<key>35579</key>
+		<dict>
+			<key>Track ID</key><integer>35579</integer>
+			<key>Size</key><integer>2531226</integer>
+			<key>Total Time</key><integer>126145</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0EA66AC71B065145</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>This Is No Time Ta Sleep</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/03%20This%20Is%20No%20Time%20Ta%20Sleep.mp3</string>
+		</dict>
+		<key>35593</key>
+		<dict>
+			<key>Track ID</key><integer>35593</integer>
+			<key>Size</key><integer>3400058</integer>
+			<key>Total Time</key><integer>169586</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>12DD5BCFCAFB5213</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Summerburst</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/04%20Summerburst.mp3</string>
+		</dict>
+		<key>35591</key>
+		<dict>
+			<key>Track ID</key><integer>35591</integer>
+			<key>Size</key><integer>6309577</integer>
+			<key>Total Time</key><integer>315062</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3C58B453D384A751</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Return tha Bomb (feat. Spade &amp; Loon)</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/05%20Return%20tha%20Bomb%20(feat.%20Spade%20&amp;%20Loon).mp3</string>
+		</dict>
+		<key>35603</key>
+		<dict>
+			<key>Track ID</key><integer>35603</integer>
+			<key>Size</key><integer>3228173</integer>
+			<key>Total Time</key><integer>160992</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8FE1B61BC59A8811</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Circle N</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/06%20Circle%20N.mp3</string>
+		</dict>
+		<key>35597</key>
+		<dict>
+			<key>Track ID</key><integer>35597</integer>
+			<key>Size</key><integer>3961691</integer>
+			<key>Total Time</key><integer>197668</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F5440C98A6617CC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Long Live Revolution Rock</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/07%20Long%20Live%20Revolution%20Rock.mp3</string>
+		</dict>
+		<key>35585</key>
+		<dict>
+			<key>Track ID</key><integer>35585</integer>
+			<key>Size</key><integer>4867095</integer>
+			<key>Total Time</key><integer>242938</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AF96996235AFE4CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Extraordinary</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/08%20Extraordinary.mp3</string>
+		</dict>
+		<key>35599</key>
+		<dict>
+			<key>Track ID</key><integer>35599</integer>
+			<key>Size</key><integer>3963258</integer>
+			<key>Total Time</key><integer>197746</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0EE5866EA9B02E5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Say Something True</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/09%20Say%20Something%20True.mp3</string>
+		</dict>
+		<key>35589</key>
+		<dict>
+			<key>Track ID</key><integer>35589</integer>
+			<key>Size</key><integer>2281495</integer>
+			<key>Total Time</key><integer>113658</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9CAA7458CB91D544</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The War Is Over</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>War Is Over</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/10%20The%20War%20Is%20Over.mp3</string>
+		</dict>
+		<key>35595</key>
+		<dict>
+			<key>Track ID</key><integer>35595</integer>
+			<key>Size</key><integer>4304940</integer>
+			<key>Total Time</key><integer>214831</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4DB6DD2A2EE1AC0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>War Returns</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/11%20War%20Returns.mp3</string>
+		</dict>
+		<key>35587</key>
+		<dict>
+			<key>Track ID</key><integer>35587</integer>
+			<key>Size</key><integer>5821624</integer>
+			<key>Total Time</key><integer>248450</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D2BB1051FA67ECBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>So You Wanna Be a Cop (feat. Stza)</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/12%20So%20You%20Wanna%20Be%20a%20Cop%20(feat.%20Stza).mp3</string>
+		</dict>
+		<key>35583</key>
+		<dict>
+			<key>Track ID</key><integer>35583</integer>
+			<key>Size</key><integer>20508800</integer>
+			<key>Total Time</key><integer>1025018</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D62D06C12D438C17</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Divide By</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>This Is No Time Ta Sleep</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/This%20Is%20No%20Time%20Ta%20Sleep/13%20Divide%20By.mp3</string>
+		</dict>
+		<key>35577</key>
+		<dict>
+			<key>Track ID</key><integer>35577</integer>
+			<key>Size</key><integer>10962761</integer>
+			<key>Total Time</key><integer>273475</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CCF564BF407DEB42</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Whole World Is Watching</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Whole World Is Watching</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/01%20The%20Whole%20World%20Is%20Watching.mp3</string>
+		</dict>
+		<key>35571</key>
+		<dict>
+			<key>Track ID</key><integer>35571</integer>
+			<key>Size</key><integer>6650459</integer>
+			<key>Total Time</key><integer>165668</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6486EBCD9F370327</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>School Is Bullshit</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/02%20School%20Is%20Bullshit.mp3</string>
+		</dict>
+		<key>35567</key>
+		<dict>
+			<key>Track ID</key><integer>35567</integer>
+			<key>Size</key><integer>11463251</integer>
+			<key>Total Time</key><integer>285988</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ABE96930BB0E9D4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tolerate!</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/03%20Tolerate!.mp3</string>
+		</dict>
+		<key>35569</key>
+		<dict>
+			<key>Track ID</key><integer>35569</integer>
+			<key>Size</key><integer>5995300</integer>
+			<key>Total Time</key><integer>149289</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1876E2653B9E0E74</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beyond A.D</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/04%20Beyond%20A.D.mp3</string>
+		</dict>
+		<key>35561</key>
+		<dict>
+			<key>Track ID</key><integer>35561</integer>
+			<key>Size</key><integer>8456036</integer>
+			<key>Total Time</key><integer>210808</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A4F6D2D82590789</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gimme Heroin</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/05%20Gimme%20Heroin.mp3</string>
+		</dict>
+		<key>35575</key>
+		<dict>
+			<key>Track ID</key><integer>35575</integer>
+			<key>Size</key><integer>11471621</integer>
+			<key>Total Time</key><integer>286197</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C2286D211568EA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Just Don't Believe</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/06%20We%20Just%20Don't%20Believe.mp3</string>
+		</dict>
+		<key>35573</key>
+		<dict>
+			<key>Track ID</key><integer>35573</integer>
+			<key>Size</key><integer>5657813</integer>
+			<key>Total Time</key><integer>140852</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D13F8BF5B143B01</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>O Where In The World Is AB</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/07%20O%20Where%20In%20The%20World%20Is%20AB.mp3</string>
+		</dict>
+		<key>35563</key>
+		<dict>
+			<key>Track ID</key><integer>35563</integer>
+			<key>Size</key><integer>7659823</integer>
+			<key>Total Time</key><integer>190902</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F54AEC4975B392BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Paternacide</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/08%20Paternacide.mp3</string>
+		</dict>
+		<key>35565</key>
+		<dict>
+			<key>Track ID</key><integer>35565</integer>
+			<key>Size</key><integer>13606355</integer>
+			<key>Total Time</key><integer>339565</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3808B95479FA0AF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Urban Tribes / When I Grow Up</string>
+			<key>Artist</key><string>Morning Glory</string>
+			<key>Album</key><string>The Whole World Is Watching</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Whole World Is Watching</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morning%20Glory/The%20Whole%20World%20Is%20Watching/09%20Urban%20Tribes%20_%20When%20I%20Grow%20Up.mp3</string>
+		</dict>
+		<key>50225</key>
+		<dict>
+			<key>Track ID</key><integer>50225</integer>
+			<key>Size</key><integer>2489111</integer>
+			<key>Total Time</key><integer>64574</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>292</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>061A8FB24C60923C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Samurais Of The Sea</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492577</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/01%20Samurais%20Of%20The%20Sea.mp3</string>
+		</dict>
+		<key>50233</key>
+		<dict>
+			<key>Track ID</key><integer>50233</integer>
+			<key>Size</key><integer>2703837</integer>
+			<key>Total Time</key><integer>75415</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB9ECDC27112D427</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Life Sucks</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492572</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/02%20Life%20Sucks.mp3</string>
+		</dict>
+		<key>50221</key>
+		<dict>
+			<key>Track ID</key><integer>50221</integer>
+			<key>Size</key><integer>11890956</integer>
+			<key>Total Time</key><integer>334994</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>280</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D888AAC7CBD23C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wilkes Booth Style</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492574</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/03%20Wilkes%20Booth%20Style.mp3</string>
+		</dict>
+		<key>50217</key>
+		<dict>
+			<key>Track ID</key><integer>50217</integer>
+			<key>Size</key><integer>10083409</integer>
+			<key>Total Time</key><integer>295967</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6880AD9AD34FBC20</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Knowledge Is Power</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492571</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/04%20Knowledge%20Is%20Power.mp3</string>
+		</dict>
+		<key>50227</key>
+		<dict>
+			<key>Track ID</key><integer>50227</integer>
+			<key>Size</key><integer>6075999</integer>
+			<key>Total Time</key><integer>173191</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6090A752D2D7B84A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Skate Or Die</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492575</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/05%20Skate%20Or%20Die.mp3</string>
+		</dict>
+		<key>50213</key>
+		<dict>
+			<key>Track ID</key><integer>50213</integer>
+			<key>Size</key><integer>8255345</integer>
+			<key>Total Time</key><integer>237061</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6DF437C8F3A55703</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pierce The Gates</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492576</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/06%20Pierce%20The%20Gates.mp3</string>
+		</dict>
+		<key>50219</key>
+		<dict>
+			<key>Track ID</key><integer>50219</integer>
+			<key>Size</key><integer>10339291</integer>
+			<key>Total Time</key><integer>310151</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D01E2F828399F48</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Homelife Is A Drag</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492569</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/07%20Homelife%20Is%20A%20Drag.mp3</string>
+		</dict>
+		<key>50211</key>
+		<dict>
+			<key>Track ID</key><integer>50211</integer>
+			<key>Size</key><integer>6512417</integer>
+			<key>Total Time</key><integer>182935</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>279</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F2DA1D78FBCAA60</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Lucky Few</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492579</string>
+			<key>Sort Name</key><string>Lucky Few</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/08%20The%20Lucky%20Few.mp3</string>
+		</dict>
+		<key>50231</key>
+		<dict>
+			<key>Track ID</key><integer>50231</integer>
+			<key>Size</key><integer>4832708</integer>
+			<key>Total Time</key><integer>126798</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>296</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F49BF5D8A453F82</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pure Evil</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492568</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/09%20Pure%20Evil.mp3</string>
+		</dict>
+		<key>50223</key>
+		<dict>
+			<key>Track ID</key><integer>50223</integer>
+			<key>Size</key><integer>9214745</integer>
+			<key>Total Time</key><integer>273920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:24:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>362E5A437F39E91A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Better Tomorrow</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492570</string>
+			<key>Sort Name</key><string>Better Tomorrow</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/10%20A%20Better%20Tomorrow.mp3</string>
+		</dict>
+		<key>50229</key>
+		<dict>
+			<key>Track ID</key><integer>50229</integer>
+			<key>Size</key><integer>10883216</integer>
+			<key>Total Time</key><integer>321854</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:25:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23CED24E8D5D8CF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gasoline</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492573</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/11%20Gasoline.mp3</string>
+		</dict>
+		<key>50215</key>
+		<dict>
+			<key>Track ID</key><integer>50215</integer>
+			<key>Size</key><integer>16697488</integer>
+			<key>Total Time</key><integer>1179297</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-04-03T06:25:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>112</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>156CD0FD854F20E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Run Your Pockets</string>
+			<key>Artist</key><string>No Cash</string>
+			<key>Album Artist</key><string>No Cash</string>
+			<key>Album</key><string>Run Your Pockets</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 254492578</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/No%20Cash/Run%20Your%20Pockets/12%20Run%20Your%20Pockets.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132289</integer>
+			<key>Playlist Persistent ID</key><string>93C9E0882F054C80</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Crack Rock Steady</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>22999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23033</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43775</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>50215</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

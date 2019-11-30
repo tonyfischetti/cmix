@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>10045</key>
+		<dict>
+			<key>Track ID</key><integer>10045</integer>
+			<key>Size</key><integer>2573159</integer>
+			<key>Total Time</key><integer>97854</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T05:18:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C8FB4684F04665C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gumdrops</string>
+			<key>Artist</key><string>The Smittens</string>
+			<key>Album</key><string>The Coolest Thing About Love</string>
+			<key>Genre</key><string>Twee</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Coolest Thing About Love</string>
+			<key>Sort Artist</key><string>Smittens</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Smittens/The%20Coolest%20Thing%20About%20Love/13%20Gumdrops.mp3</string>
+		</dict>
+		<key>10013</key>
+		<dict>
+			<key>Track ID</key><integer>10013</integer>
+			<key>Size</key><integer>4913179</integer>
+			<key>Total Time</key><integer>168150</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T05:18:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1FE8FD3CD4FD766C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Doomed, Lo-Fi And In Love</string>
+			<key>Artist</key><string>The Smittens</string>
+			<key>Album Artist</key><string>The Smittens</string>
+			<key>Album</key><string>Gentlefication Now!</string>
+			<key>Genre</key><string>Twee</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Smittens</string>
+			<key>Sort Album Artist</key><string>Smittens</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Smittens/Gentlefication%20Now!/08%20Doomed,%20Lo-Fi%20And%20In%20Love.mp3</string>
+		</dict>
+		<key>23913</key>
+		<dict>
+			<key>Track ID</key><integer>23913</integer>
+			<key>Size</key><integer>6851987</integer>
+			<key>Total Time</key><integer>169090</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:23:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4BB1197ACA1347D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Boy Who Sailed Around the World</string>
+			<key>Artist</key><string>Go Sailor</string>
+			<key>Album</key><string>Go Sailor</string>
+			<key>Genre</key><string>Twee</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Boy Who Sailed Around the World</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Go%20Sailor/Go%20Sailor/10%20The%20Boy%20Who%20Sailed%20Around%20the%20World.mp3</string>
+		</dict>
+		<key>10051</key>
+		<dict>
+			<key>Track ID</key><integer>10051</integer>
+			<key>Size</key><integer>4644815</integer>
+			<key>Total Time</key><integer>144901</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T05:18:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9365FDB1A596D3B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Hundred Roses</string>
+			<key>Artist</key><string>The Smittens</string>
+			<key>Album</key><string>The Coolest Thing About Love</string>
+			<key>Genre</key><string>Twee</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Coolest Thing About Love</string>
+			<key>Sort Artist</key><string>Smittens</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Smittens/The%20Coolest%20Thing%20About%20Love/09%20One%20Hundred%20Roses.mp3</string>
+		</dict>
+		<key>11815</key>
+		<dict>
+			<key>Track ID</key><integer>11815</integer>
+			<key>Size</key><integer>6782760</integer>
+			<key>Total Time</key><integer>150177</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E1C3AF917B8B7FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Puzzle Pieces</string>
+			<key>Artist</key><string>Tiger Trap</string>
+			<key>Album</key><string>Tiger Trap</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>1993 K.  Produced by Calvin Johnson</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tiger%20Trap/Tiger%20Trap/01%20Puzzle%20Pieces.mp3</string>
+		</dict>
+		<key>11827</key>
+		<dict>
+			<key>Track ID</key><integer>11827</integer>
+			<key>Size</key><integer>7945458</integer>
+			<key>Total Time</key><integer>196388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2013-10-19T05:22:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1438885C6606069</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sour Grass</string>
+			<key>Artist</key><string>Tiger Trap</string>
+			<key>Album</key><string>Sour Grass</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>1993 K.  Produced by Pat Maley</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Tiger%20Trap/Sour%20Grass/01%20Sour%20Grass.mp3</string>
+		</dict>
+		<key>8403</key>
+		<dict>
+			<key>Track ID</key><integer>8403</integer>
+			<key>Size</key><integer>6560622</integer>
+			<key>Total Time</key><integer>163056</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:02:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>01452A17234D1418</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Picture Perfect</string>
+			<key>Artist</key><string>Strawberry Whiplash</string>
+			<key>Album</key><string>Picture Perfect EP</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Strawberry%20Whiplash/Picture%20Perfect%20EP/01%20Picture%20Perfect.mp3</string>
+		</dict>
+		<key>47211</key>
+		<dict>
+			<key>Track ID</key><integer>47211</integer>
+			<key>Size</key><integer>2689861</integer>
+			<key>Total Time</key><integer>111960</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-09-13T17:21:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FB2414011839BC8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dayplanner</string>
+			<key>Artist</key><string>Free Loan Investments</string>
+			<key>Album Artist</key><string>Free Loan Investments</string>
+			<key>Composer</key><string>Free Loan Investments</string>
+			<key>Album</key><string>Ever Been To Mexico?</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>00000B8B 00000AE9 000039F5 00003B55 0001119E 0001119E 00007D70 00007BAC 00015FBE 00015FA7</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Free%20Loan%20Investments/Ever%20Been%20To%20Mexico_/02%20Dayplanner.mp3</string>
+		</dict>
+		<key>47209</key>
+		<dict>
+			<key>Track ID</key><integer>47209</integer>
+			<key>Size</key><integer>3670393</integer>
+			<key>Total Time</key><integer>152816</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-09-13T17:21:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>16F82CD9D95FBA2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In The Park</string>
+			<key>Artist</key><string>Free Loan Investments</string>
+			<key>Album Artist</key><string>Free Loan Investments</string>
+			<key>Composer</key><string>Free Loan Investments</string>
+			<key>Album</key><string>Ever Been To Mexico?</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>00000680 00000694 0000230E 000023DF 000222F7 000222F7 00006ABD 00006AE8 00013880 00013880</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Free%20Loan%20Investments/Ever%20Been%20To%20Mexico_/01%20In%20The%20Park.mp3</string>
+		</dict>
+		<key>47213</key>
+		<dict>
+			<key>Track ID</key><integer>47213</integer>
+			<key>Size</key><integer>2424666</integer>
+			<key>Total Time</key><integer>100911</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-09-13T17:21:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1747D837015B503C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kick His Balls Out</string>
+			<key>Artist</key><string>Free Loan Investments</string>
+			<key>Album Artist</key><string>Free Loan Investments</string>
+			<key>Composer</key><string>Free Loan Investments</string>
+			<key>Album</key><string>Ever Been To Mexico?</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>0000045E 0000047B 000011EF 000011AF 000138C5 000138C5 0000545C 0000578D 00009C6E 0000EA8E</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Free%20Loan%20Investments/Ever%20Been%20To%20Mexico_/03%20Kick%20His%20Balls%20Out.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>142328</integer>
+			<key>Playlist Persistent ID</key><string>0452762316848AC2</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Twee</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47213</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

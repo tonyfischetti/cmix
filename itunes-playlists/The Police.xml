@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>47769</key>
+		<dict>
+			<key>Track ID</key><integer>47769</integer>
+			<key>Size</key><integer>10292357</integer>
+			<key>Total Time</key><integer>193750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2013-12-22T20:29:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2985BBAEA4395D29</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Roxanne</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Outlandos d'Amour</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Outlandos%20d'Amour/1-03%20Roxanne.mp3</string>
+		</dict>
+		<key>47779</key>
+		<dict>
+			<key>Track ID</key><integer>47779</integer>
+			<key>Size</key><integer>9741726</integer>
+			<key>Total Time</key><integer>179983</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2013-12-22T20:29:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624690221</integer>
+			<key>Play Date UTC</key><date>2018-11-10T15:23:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8568F91849C3EB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Can't Stand Losing You</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Outlandos d'Amour</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Outlandos%20d'Amour/1-06%20Can't%20Stand%20Losing%20You.mp3</string>
+		</dict>
+		<key>47719</key>
+		<dict>
+			<key>Track ID</key><integer>47719</integer>
+			<key>Size</key><integer>12567471</integer>
+			<key>Total Time</key><integer>291160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-12-22T20:29:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624690040</integer>
+			<key>Play Date UTC</key><date>2018-11-10T15:20:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-10T15:23:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE91454A5035058C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Message in a Bottle</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Reggatta de Blanc</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Reggatta%20de%20Blanc/1-01%20Message%20in%20a%20Bottle.mp3</string>
+		</dict>
+		<key>47723</key>
+		<dict>
+			<key>Track ID</key><integer>47723</integer>
+			<key>Size</key><integer>13020957</integer>
+			<key>Total Time</key><integer>302497</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-12-22T20:29:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624690657</integer>
+			<key>Play Date UTC</key><date>2018-11-10T15:30:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2DB1C5A519A805D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Walking on the Moon</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Reggatta de Blanc</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Reggatta%20de%20Blanc/1-06%20Walking%20on%20the%20Moon.mp3</string>
+		</dict>
+		<key>47683</key>
+		<dict>
+			<key>Track ID</key><integer>47683</integer>
+			<key>Size</key><integer>10231816</integer>
+			<key>Total Time</key><integer>244297</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-12-22T20:28:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624689740</integer>
+			<key>Play Date UTC</key><date>2018-11-10T15:15:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AAAB72D53B85D0D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Stand So Close to Me</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Zenyatta Mondatta</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Zenyatta%20Mondatta/1-01%20Don't%20Stand%20So%20Close%20to%20Me.mp3</string>
+		</dict>
+		<key>47689</key>
+		<dict>
+			<key>Track ID</key><integer>47689</integer>
+			<key>Size</key><integer>10444972</integer>
+			<key>Total Time</key><integer>249626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-12-22T20:28:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF6CD160A6F12643</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>De Do Do Do, De Da Da Da</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Zenyatta Mondatta</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Zenyatta%20Mondatta/1-07%20De%20Do%20Do%20Do,%20De%20Da%20Da%20Da.mp3</string>
+		</dict>
+		<key>47697</key>
+		<dict>
+			<key>Track ID</key><integer>47697</integer>
+			<key>Size</key><integer>12247648</integer>
+			<key>Total Time</key><integer>260649</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-12-22T20:28:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AFC49C2666FB9E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Every Little Thing She Does Is Magic</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Ghost in the Machine</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Ghost%20in%20the%20Machine/1-02%20Every%20Little%20Thing%20She%20Does%20Is%20Magic.mp3</string>
+		</dict>
+		<key>47709</key>
+		<dict>
+			<key>Track ID</key><integer>47709</integer>
+			<key>Size</key><integer>10792059</integer>
+			<key>Total Time</key><integer>224261</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-12-22T20:28:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A4BB2F5BD19DB9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Invisible Sun</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Ghost in the Machine</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Ghost%20in%20the%20Machine/1-03%20Invisible%20Sun.mp3</string>
+		</dict>
+		<key>47715</key>
+		<dict>
+			<key>Track ID</key><integer>47715</integer>
+			<key>Size</key><integer>8986507</integer>
+			<key>Total Time</key><integer>179121</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-12-22T20:28:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624689189</integer>
+			<key>Play Date UTC</key><date>2018-11-10T15:06:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07F04A6CA33945D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spirits in the Material World</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Ghost in the Machine</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Ghost%20in%20the%20Machine/1-01%20Spirits%20in%20the%20Material%20World.mp3</string>
+		</dict>
+		<key>47755</key>
+		<dict>
+			<key>Track ID</key><integer>47755</integer>
+			<key>Size</key><integer>10617272</integer>
+			<key>Total Time</key><integer>253988</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-12-22T20:14:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ED2BFA831265D687</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Every Breath You Take</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album</key><string>Synchronicity</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Synchronicity/1-07%20Every%20Breath%20You%20Take.mp3</string>
+		</dict>
+		<key>47761</key>
+		<dict>
+			<key>Track ID</key><integer>47761</integer>
+			<key>Size</key><integer>12421792</integer>
+			<key>Total Time</key><integer>299102</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-12-22T20:14:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3624740832</integer>
+			<key>Play Date UTC</key><date>2018-11-11T05:27:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6298CD8F4276E17F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>King of Pain</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album</key><string>Synchronicity</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Synchronicity/1-08%20King%20of%20Pain.mp3</string>
+		</dict>
+		<key>47743</key>
+		<dict>
+			<key>Track ID</key><integer>47743</integer>
+			<key>Size</key><integer>13009053</integer>
+			<key>Total Time</key><integer>313782</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-12-22T20:14:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3624741146</integer>
+			<key>Play Date UTC</key><date>2018-11-11T05:32:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CAC681824861F916</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wrapped Around Your Finger</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album</key><string>Synchronicity</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Synchronicity/1-09%20Wrapped%20Around%20Your%20Finger.mp3</string>
+		</dict>
+		<key>47745</key>
+		<dict>
+			<key>Track ID</key><integer>47745</integer>
+			<key>Size</key><integer>12555547</integer>
+			<key>Total Time</key><integer>302445</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-12-22T20:14:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624691575</integer>
+			<key>Play Date UTC</key><date>2018-11-10T15:46:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C7454FC1F820451</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Synchronicity II</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album</key><string>Synchronicity</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Synchronicity/1-06%20Synchronicity%20II.mp3</string>
+		</dict>
+		<key>47735</key>
+		<dict>
+			<key>Track ID</key><integer>47735</integer>
+			<key>Size</key><integer>11181935</integer>
+			<key>Total Time</key><integer>256522</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-12-22T20:29:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36E642A2D8D6A337</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bring on the Night</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Reggatta de Blanc</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Reggatta%20de%20Blanc/1-04%20Bring%20on%20the%20Night.mp3</string>
+		</dict>
+		<key>47733</key>
+		<dict>
+			<key>Track ID</key><integer>47733</integer>
+			<key>Size</key><integer>7271904</integer>
+			<key>Total Time</key><integer>158772</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-12-22T20:29:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>708603C502835AB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Contact</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Reggatta de Blanc</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Reggatta%20de%20Blanc/1-09%20Contact.mp3</string>
+		</dict>
+		<key>47685</key>
+		<dict>
+			<key>Track ID</key><integer>47685</integer>
+			<key>Size</key><integer>9182831</integer>
+			<key>Total Time</key><integer>218070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-12-22T20:28:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F94C17639AD81883</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When the World Is Running Down, You Make the Best of What's Still Around</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Zenyatta Mondatta</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Zenyatta%20Mondatta/1-03%20When%20the%20World%20Is%20Running%20Down,%20You%20Make%20the%20Best%20of%20What's%20Still%20Around.mp3</string>
+		</dict>
+		<key>47681</key>
+		<dict>
+			<key>Track ID</key><integer>47681</integer>
+			<key>Size</key><integer>6329111</integer>
+			<key>Total Time</key><integer>146729</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-12-22T20:28:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624688962</integer>
+			<key>Play Date UTC</key><date>2018-11-10T15:02:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F05C7F967556080</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Canary in a Coalmine</string>
+			<key>Artist</key><string>The Police</string>
+			<key>Album Artist</key><string>The Police</string>
+			<key>Album</key><string>Zenyatta Mondatta</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Police</string>
+			<key>Sort Album Artist</key><string>Police</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Police/Zenyatta%20Mondatta/1-04%20Canary%20in%20a%20Coalmine.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>141858</integer>
+			<key>Playlist Persistent ID</key><string>620BB63D67826898</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Police</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47681</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

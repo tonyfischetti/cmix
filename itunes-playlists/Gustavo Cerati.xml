@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>19981</key>
+		<dict>
+			<key>Track ID</key><integer>19981</integer>
+			<key>Size</key><integer>8111365</integer>
+			<key>Total Time</key><integer>231946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3613413292</integer>
+			<key>Play Date UTC</key><date>2018-07-03T01:54:52Z</date>
+			<key>Release Date</key><date>2006-03-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE1F191845DDE05A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crimen</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Crimen</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/12%20Crimen.m4a</string>
+		</dict>
+		<key>20047</key>
+		<dict>
+			<key>Track ID</key><integer>20047</integer>
+			<key>Size</key><integer>10127150</integer>
+			<key>Total Time</key><integer>273800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617639208</integer>
+			<key>Play Date UTC</key><date>2018-08-20T23:46:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-18T22:36:19Z</date>
+			<key>Release Date</key><date>1999-06-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C3FD23AFEDFEB30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Puente</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Bocanada</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Puente</string>
+			<key>Sort Album</key><string>Bocanada</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/04%20Puente.m4a</string>
+		</dict>
+		<key>19995</key>
+		<dict>
+			<key>Track ID</key><integer>19995</integer>
+			<key>Size</key><integer>8317384</integer>
+			<key>Total Time</key><integer>233714</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3617639442</integer>
+			<key>Play Date UTC</key><date>2018-08-20T23:50:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-18T22:36:28Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75C03B0137E49984</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Adios</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Adios</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/05%20Adios.m4a</string>
+		</dict>
+		<key>20077</key>
+		<dict>
+			<key>Track ID</key><integer>20077</integer>
+			<key>Size</key><integer>7285926</integer>
+			<key>Total Time</key><integer>204854</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-03-02T04:40:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617639647</integer>
+			<key>Play Date UTC</key><date>2018-08-20T23:54:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-18T22:36:32Z</date>
+			<key>Release Date</key><date>2009-07-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>71B4BE1FDE25A82F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Deja Vu</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Fuerza Natural</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Deja Vu</string>
+			<key>Sort Album</key><string>Fuerza Natural</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Fuerza%20Natural/02%20Deja%20Vu.m4a</string>
+		</dict>
+		<key>20001</key>
+		<dict>
+			<key>Track ID</key><integer>20001</integer>
+			<key>Size</key><integer>7850108</integer>
+			<key>Total Time</key><integer>224067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617639871</integer>
+			<key>Play Date UTC</key><date>2018-08-20T23:57:51Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-18T22:36:52Z</date>
+			<key>Release Date</key><date>1993-11-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7EB1EFA7E10AA2F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Te Llevo Para Que Me Lleves</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Amor Amarillo</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Te Llevo Para Que Me Lleves</string>
+			<key>Sort Album</key><string>Amor Amarillo</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/03%20Te%20Llevo%20Para%20Que%20Me%20Lleves.m4a</string>
+		</dict>
+		<key>19973</key>
+		<dict>
+			<key>Track ID</key><integer>19973</integer>
+			<key>Size</key><integer>11234671</integer>
+			<key>Total Time</key><integer>308882</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3617640179</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:02:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-18T22:36:57Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61C0A6BA7ABF38E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lago en el Cielo</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Lago en el Cielo</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/07%20Lago%20en%20el%20Cielo.m4a</string>
+		</dict>
+		<key>20067</key>
+		<dict>
+			<key>Track ID</key><integer>20067</integer>
+			<key>Size</key><integer>9740940</integer>
+			<key>Total Time</key><integer>268752</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-03-02T04:40:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3617640448</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:07:28Z</date>
+			<key>Release Date</key><date>2009-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D9B413A2230585F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Magia</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Fuerza Natural</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Magia</string>
+			<key>Sort Album</key><string>Fuerza Natural</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Fuerza%20Natural/03%20Magia.m4a</string>
+		</dict>
+		<key>20109</key>
+		<dict>
+			<key>Track ID</key><integer>20109</integer>
+			<key>Size</key><integer>11834622</integer>
+			<key>Total Time</key><integer>305572</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617640754</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:12:34Z</date>
+			<key>Release Date</key><date>2002-11-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A19C621DDD810C33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cosas Imposibles</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Siempre Es Hoy</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Cosas Imposibles</string>
+			<key>Sort Album</key><string>Siempre Es Hoy</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Siempre%20Es%20Hoy/01%20Cosas%20Imposibles.m4a</string>
+		</dict>
+		<key>20085</key>
+		<dict>
+			<key>Track ID</key><integer>20085</integer>
+			<key>Size</key><integer>9032937</integer>
+			<key>Total Time</key><integer>234250</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617640988</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:16:28Z</date>
+			<key>Release Date</key><date>2002-11-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA26E05C1774A352</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Karaoke</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Siempre Es Hoy</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Karaoke</string>
+			<key>Sort Album</key><string>Siempre Es Hoy</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Siempre%20Es%20Hoy/08%20Karaoke.m4a</string>
+		</dict>
+		<key>19999</key>
+		<dict>
+			<key>Track ID</key><integer>19999</integer>
+			<key>Size</key><integer>9810676</integer>
+			<key>Total Time</key><integer>280543</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617641269</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:21:09Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C68AA01B9648B055</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Otra Piel</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Otra Piel</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/09%20Otra%20Piel.m4a</string>
+		</dict>
+		<key>19977</key>
+		<dict>
+			<key>Track ID</key><integer>19977</integer>
+			<key>Size</key><integer>7865653</integer>
+			<key>Total Time</key><integer>217060</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3617641486</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:24:46Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53C1055AE7D123A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Me Quedo Aquí</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Me Quedo Aquí</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/06%20Me%20Quedo%20Aqui%CC%81.m4a</string>
+		</dict>
+		<key>19979</key>
+		<dict>
+			<key>Track ID</key><integer>19979</integer>
+			<key>Size</key><integer>7613928</integer>
+			<key>Total Time</key><integer>209221</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3617641695</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:28:15Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B996C7FF28180723</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Al Fin Sucede</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Al Fin Sucede</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/01%20Al%20Fin%20Sucede.m4a</string>
+		</dict>
+		<key>19991</key>
+		<dict>
+			<key>Track ID</key><integer>19991</integer>
+			<key>Size</key><integer>8912088</integer>
+			<key>Total Time</key><integer>251588</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3617641947</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:32:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-24T04:11:41Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>80EFE0E76FA31C2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Excepcion</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>La Excepcion</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/02%20La%20Excepcion.m4a</string>
+		</dict>
+		<key>19987</key>
+		<dict>
+			<key>Track ID</key><integer>19987</integer>
+			<key>Size</key><integer>8804318</integer>
+			<key>Total Time</key><integer>249565</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617642196</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:36:36Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C87D39E1DA8E5444</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Caravana</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Caravana</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/04%20Caravana.m4a</string>
+		</dict>
+		<key>19975</key>
+		<dict>
+			<key>Track ID</key><integer>19975</integer>
+			<key>Size</key><integer>9855865</integer>
+			<key>Total Time</key><integer>246336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617642442</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:40:42Z</date>
+			<key>Release Date</key><date>2006-04-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B714ECB39C29972B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jugo de Luna</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Ahí Vamos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Jugo de Luna</string>
+			<key>Sort Album</key><string>Ahí Vamos</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/13%20Jugo%20de%20Luna.m4a</string>
+		</dict>
+		<key>20007</key>
+		<dict>
+			<key>Track ID</key><integer>20007</integer>
+			<key>Size</key><integer>9256625</integer>
+			<key>Total Time</key><integer>265630</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617642708</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:45:08Z</date>
+			<key>Release Date</key><date>1993-11-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>305F4E360D81FCC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lisa</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Amor Amarillo</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Lisa</string>
+			<key>Sort Album</key><string>Amor Amarillo</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/02%20Lisa.m4a</string>
+		</dict>
+		<key>20009</key>
+		<dict>
+			<key>Track ID</key><integer>20009</integer>
+			<key>Size</key><integer>11770372</integer>
+			<key>Total Time</key><integer>307863</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617643016</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:50:16Z</date>
+			<key>Release Date</key><date>1993-11-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0703E1DA4650FD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cabeza de Medusa</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Amor Amarillo</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Cabeza de Medusa</string>
+			<key>Sort Album</key><string>Amor Amarillo</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/05%20Cabeza%20de%20Medusa.m4a</string>
+		</dict>
+		<key>20017</key>
+		<dict>
+			<key>Track ID</key><integer>20017</integer>
+			<key>Size</key><integer>9894522</integer>
+			<key>Total Time</key><integer>284496</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617643300</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:55:00Z</date>
+			<key>Release Date</key><date>1993-11-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99AFE01B88A88F86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Av. Alcorta</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Amor Amarillo</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Av. Alcorta</string>
+			<key>Sort Album</key><string>Amor Amarillo</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/06%20Av.%20Alcorta.m4a</string>
+		</dict>
+		<key>20015</key>
+		<dict>
+			<key>Track ID</key><integer>20015</integer>
+			<key>Size</key><integer>9197678</integer>
+			<key>Total Time</key><integer>263058</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617643563</integer>
+			<key>Play Date UTC</key><date>2018-08-21T00:59:23Z</date>
+			<key>Release Date</key><date>1993-11-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>803FBB3F5596432B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rombos (Un Cuarto Lleno de Rombos)</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Amor Amarillo</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Rombos (Un Cuarto Lleno de Rombos)</string>
+			<key>Sort Album</key><string>Amor Amarillo</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/08%20Rombos%20(Un%20Cuarto%20Lleno%20de%20Rombos).m4a</string>
+		</dict>
+		<key>20005</key>
+		<dict>
+			<key>Track ID</key><integer>20005</integer>
+			<key>Size</key><integer>9778920</integer>
+			<key>Total Time</key><integer>281950</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617643845</integer>
+			<key>Play Date UTC</key><date>2018-08-21T01:04:05Z</date>
+			<key>Release Date</key><date>1993-11-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF0C209833291B38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ahora Es Nunca</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Amor Amarillo</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Ahora Es Nunca</string>
+			<key>Sort Album</key><string>Amor Amarillo</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/09%20Ahora%20Es%20Nunca.m4a</string>
+		</dict>
+		<key>20045</key>
+		<dict>
+			<key>Track ID</key><integer>20045</integer>
+			<key>Size</key><integer>11627140</integer>
+			<key>Total Time</key><integer>317733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3617644163</integer>
+			<key>Play Date UTC</key><date>2018-08-21T01:09:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-24T03:54:52Z</date>
+			<key>Release Date</key><date>1999-06-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8274B9575C9E8A4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Perdónar Es Divíno</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati &amp; Flavio Etcheto</string>
+			<key>Album</key><string>Bocanada</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Perdónar Es Divíno</string>
+			<key>Sort Album</key><string>Bocanada</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/07%20Perdo%CC%81nar%20Es%20Divi%CC%81no.m4a</string>
+		</dict>
+		<key>20039</key>
+		<dict>
+			<key>Track ID</key><integer>20039</integer>
+			<key>Size</key><integer>11669967</integer>
+			<key>Total Time</key><integer>331133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-02T04:42:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3617644494</integer>
+			<key>Play Date UTC</key><date>2018-08-21T01:14:54Z</date>
+			<key>Release Date</key><date>1999-06-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFF923E2360860BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Paseo Inmoral</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati &amp; Juan Francisco Bochatón</string>
+			<key>Album</key><string>Bocanada</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Paseo Inmoral</string>
+			<key>Sort Album</key><string>Bocanada</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/11%20Paseo%20Inmoral.m4a</string>
+		</dict>
+		<key>20023</key>
+		<dict>
+			<key>Track ID</key><integer>20023</integer>
+			<key>Size</key><integer>10523099</integer>
+			<key>Total Time</key><integer>288266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3615752891</integer>
+			<key>Play Date UTC</key><date>2018-07-30T03:48:11Z</date>
+			<key>Release Date</key><date>1999-06-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C1ED2CF0EE9C224</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tabú</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Bocanada</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Tabú</string>
+			<key>Sort Album</key><string>Bocanada</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/01%20Tabu%CC%81.m4a</string>
+		</dict>
+		<key>20035</key>
+		<dict>
+			<key>Track ID</key><integer>20035</integer>
+			<key>Size</key><integer>9592731</integer>
+			<key>Total Time</key><integer>251960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613412813</integer>
+			<key>Play Date UTC</key><date>2018-07-03T01:46:53Z</date>
+			<key>Release Date</key><date>1999-06-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>484E1614B9478E8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Engaña</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati</string>
+			<key>Album</key><string>Bocanada</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Engaña</string>
+			<key>Sort Album</key><string>Bocanada</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/02%20Engan%CC%83a.m4a</string>
+		</dict>
+		<key>20031</key>
+		<dict>
+			<key>Track ID</key><integer>20031</integer>
+			<key>Size</key><integer>8998583</integer>
+			<key>Total Time</key><integer>246666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-02T04:41:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613413060</integer>
+			<key>Play Date UTC</key><date>2018-07-03T01:51:00Z</date>
+			<key>Release Date</key><date>1999-06-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BE7E7A42D9A2FA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bocanada</string>
+			<key>Artist</key><string>Gustavo Cerati</string>
+			<key>Album Artist</key><string>Gustavo Cerati</string>
+			<key>Composer</key><string>Gustavo Cerati &amp; Eduardo Chaijale</string>
+			<key>Album</key><string>Bocanada</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Bocanada</string>
+			<key>Sort Album</key><string>Bocanada</string>
+			<key>Sort Artist</key><string>Gustavo Cerati</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/03%20Bocanada.m4a</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>133388</integer>
+			<key>Playlist Persistent ID</key><string>E652BEB9650AAC1F</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Gustavo Cerati</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20001</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20031</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

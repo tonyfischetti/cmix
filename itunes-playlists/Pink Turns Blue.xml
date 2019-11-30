@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>18783</key>
+		<dict>
+			<key>Track ID</key><integer>18783</integer>
+			<key>Size</key><integer>8075868</integer>
+			<key>Total Time</key><integer>336822</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CECA81F9BB7B7F52</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Coldly Stare Out</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>If Two Worlds Kiss</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/If%20Two%20Worlds%20Kiss/01%20I%20Coldly%20Stare%20Out.mp3</string>
+		</dict>
+		<key>18777</key>
+		<dict>
+			<key>Track ID</key><integer>18777</integer>
+			<key>Size</key><integer>5313330</integer>
+			<key>Total Time</key><integer>221544</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642367236</integer>
+			<key>Play Date UTC</key><date>2019-06-03T04:40:36Z</date>
+			<key>Persistent ID</key><string>7FDCF57513F9BAF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Walking On Both Sides</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>If Two Worlds Kiss</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/If%20Two%20Worlds%20Kiss/03%20Walking%20On%20Both%20Sides.mp3</string>
+		</dict>
+		<key>18791</key>
+		<dict>
+			<key>Track ID</key><integer>18791</integer>
+			<key>Size</key><integer>4701102</integer>
+			<key>Total Time</key><integer>195996</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-06-03T04:40:46Z</date>
+			<key>Persistent ID</key><string>8849AB4C648F9BF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Missing You</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>If Two Worlds Kiss</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/If%20Two%20Worlds%20Kiss/08%20Missing%20You.mp3</string>
+		</dict>
+		<key>18801</key>
+		<dict>
+			<key>Track ID</key><integer>18801</integer>
+			<key>Size</key><integer>13071881</integer>
+			<key>Total Time</key><integer>325773</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6989EFB2A76AAA77</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kiss Of Death</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>Storm</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.NewAlbumReleases.net</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/Storm/09%20Kiss%20Of%20Death.mp3</string>
+		</dict>
+		<key>18737</key>
+		<dict>
+			<key>Track ID</key><integer>18737</integer>
+			<key>Size</key><integer>5654949</integer>
+			<key>Total Time</key><integer>233221</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CBF10DAF10482E05</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Michelle</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/1-02%20Michelle.mp3</string>
+		</dict>
+		<key>18689</key>
+		<dict>
+			<key>Track ID</key><integer>18689</integer>
+			<key>Size</key><integer>11177667</integer>
+			<key>Total Time</key><integer>463333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADC75A3F90855229</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Your Master Is Calling</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/1-07%20Your%20Master%20Is%20Calling.mp3</string>
+		</dict>
+		<key>18719</key>
+		<dict>
+			<key>Track ID</key><integer>18719</integer>
+			<key>Size</key><integer>6472476</integer>
+			<key>Total Time</key><integer>267284</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA8375E83DE1EE02</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Let Go</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/1-16%20Let%20Go.mp3</string>
+		</dict>
+		<key>18739</key>
+		<dict>
+			<key>Track ID</key><integer>18739</integer>
+			<key>Size</key><integer>1075285</integer>
+			<key>Total Time</key><integer>66690</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7A9B323A95AD26C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Walk Away</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/1-17%20Walk%20Away.mp3</string>
+		</dict>
+		<key>18773</key>
+		<dict>
+			<key>Track ID</key><integer>18773</integer>
+			<key>Size</key><integer>6379408</integer>
+			<key>Total Time</key><integer>266031</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2A2AB47EFDBC4681</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>After All</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>If Two Worlds Kiss</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/If%20Two%20Worlds%20Kiss/02%20After%20All.mp3</string>
+		</dict>
+		<key>18787</key>
+		<dict>
+			<key>Track ID</key><integer>18787</integer>
+			<key>Size</key><integer>5719604</integer>
+			<key>Total Time</key><integer>238497</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DF5A2E509FC88ABB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Moment Sometimes</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>If Two Worlds Kiss</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Moment Sometimes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/If%20Two%20Worlds%20Kiss/09%20A%20Moment%20Sometimes.mp3</string>
+		</dict>
+		<key>18789</key>
+		<dict>
+			<key>Track ID</key><integer>18789</integer>
+			<key>Size</key><integer>5157456</integer>
+			<key>Total Time</key><integer>214726</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>00FB12EFD0BCEAD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When The Hammer Comes Down</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>If Two Worlds Kiss</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/If%20Two%20Worlds%20Kiss/10%20When%20The%20Hammer%20Comes%20Down.mp3</string>
+		</dict>
+		<key>18731</key>
+		<dict>
+			<key>Track ID</key><integer>18731</integer>
+			<key>Size</key><integer>7142687</integer>
+			<key>Total Time</key><integer>295209</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32BBD316A1C37B10</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Where God Went Wrong</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/1-04%20Where%20God%20Went%20Wrong.mp3</string>
+		</dict>
+		<key>18699</key>
+		<dict>
+			<key>Track ID</key><integer>18699</integer>
+			<key>Size</key><integer>6183469</integer>
+			<key>Total Time</key><integer>255242</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>37EDC66D3B75D253</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bounce Up And Down</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/1-13%20Bounce%20Up%20And%20Down.mp3</string>
+		</dict>
+		<key>18741</key>
+		<dict>
+			<key>Track ID</key><integer>18741</integer>
+			<key>Size</key><integer>6064992</integer>
+			<key>Total Time</key><integer>250305</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>915F1F8A320198A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Girls In Trouble</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/2-03%20Girls%20In%20Trouble.mp3</string>
+		</dict>
+		<key>18721</key>
+		<dict>
+			<key>Track ID</key><integer>18721</integer>
+			<key>Size</key><integer>7341465</integer>
+			<key>Total Time</key><integer>303490</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2479C331A07E602F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Escape With Romeo - 15 - Collapse One Day</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>The Best Of Pink Turns Blue</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/The%20Best%20Of%20Pink%20Turns%20Blue/2-15%20Escape%20With%20Romeo%20-%2015%20-%20Collapse%20One%20Day.mp3</string>
+		</dict>
+		<key>18771</key>
+		<dict>
+			<key>Track ID</key><integer>18771</integer>
+			<key>Size</key><integer>5549086</integer>
+			<key>Total Time</key><integer>251924</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:54:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>176</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E624EFEBB72C7C73</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Can't Be Love</string>
+			<key>Artist</key><string>Pink Turns Blue</string>
+			<key>Album Artist</key><string>Pink Turns Blue</string>
+			<key>Album</key><string>Ghost</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Lbl:strobelight C:strob028</string>
+			<key>Sort Artist</key><string>Pink Turns Blue</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pink%20Turns%20Blue/Ghost/01%20Can't%20Be%20Love.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137798</integer>
+			<key>Playlist Persistent ID</key><string>C1FFB524D672ADF5</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Pink Turns Blue</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18771</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

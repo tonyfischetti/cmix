@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>31327</key>
+		<dict>
+			<key>Track ID</key><integer>31327</integer>
+			<key>Size</key><integer>5973812</integer>
+			<key>Total Time</key><integer>248032</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD5508EB9EA5451F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beautiful Day</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/01%20Beautiful%20Day.mp3</string>
+		</dict>
+		<key>31315</key>
+		<dict>
+			<key>Track ID</key><integer>31315</integer>
+			<key>Size</key><integer>6554157</integer>
+			<key>Total Time</key><integer>272248</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CBB6AEFF8977AB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stuck In A Moment You Can't Get Out Of</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/02%20Stuck%20In%20A%20Moment%20You%20Can't%20Get%20Out%20Of.mp3</string>
+		</dict>
+		<key>31313</key>
+		<dict>
+			<key>Track ID</key><integer>31313</integer>
+			<key>Size</key><integer>5479931</integer>
+			<key>Total Time</key><integer>227082</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1110FD1463A568F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Elevation</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/03%20Elevation.mp3</string>
+		</dict>
+		<key>31329</key>
+		<dict>
+			<key>Track ID</key><integer>31329</integer>
+			<key>Size</key><integer>7126917</integer>
+			<key>Total Time</key><integer>295706</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CAAF1ECF39241037</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Walk On</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/04%20Walk%20On.mp3</string>
+		</dict>
+		<key>31319</key>
+		<dict>
+			<key>Track ID</key><integer>31319</integer>
+			<key>Size</key><integer>6422664</integer>
+			<key>Total Time</key><integer>266762</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E91006392CA262A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kite</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/05%20Kite.mp3</string>
+		</dict>
+		<key>31331</key>
+		<dict>
+			<key>Track ID</key><integer>31331</integer>
+			<key>Size</key><integer>5281449</integer>
+			<key>Total Time</key><integer>219141</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D14936B2250EF627</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In A Little While</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/06%20In%20A%20Little%20While.mp3</string>
+		</dict>
+		<key>31323</key>
+		<dict>
+			<key>Track ID</key><integer>31323</integer>
+			<key>Size</key><integer>5461121</integer>
+			<key>Total Time</key><integer>226298</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38CBEB70D76AF7D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wild Honey</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/07%20Wild%20Honey.mp3</string>
+		</dict>
+		<key>31325</key>
+		<dict>
+			<key>Track ID</key><integer>31325</integer>
+			<key>Size</key><integer>6924101</integer>
+			<key>Total Time</key><integer>287686</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F5D358C2CBCE4AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Peace On Earth</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/08%20Peace%20On%20Earth.mp3</string>
+		</dict>
+		<key>31317</key>
+		<dict>
+			<key>Track ID</key><integer>31317</integer>
+			<key>Size</key><integer>6204199</integer>
+			<key>Total Time</key><integer>257645</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05587C36AC06666D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When I Look At The World</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/09%20When%20I%20Look%20At%20The%20World.mp3</string>
+		</dict>
+		<key>31333</key>
+		<dict>
+			<key>Track ID</key><integer>31333</integer>
+			<key>Size</key><integer>7943848</integer>
+			<key>Total Time</key><integer>330240</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB872204D24286AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New York</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/10%20New%20York.mp3</string>
+		</dict>
+		<key>31321</key>
+		<dict>
+			<key>Track ID</key><integer>31321</integer>
+			<key>Size</key><integer>7947603</integer>
+			<key>Total Time</key><integer>330396</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CE283187F8F32A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Grace</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/All%20That%20You%20Can't%20Leave%20Behind/11%20Grace.mp3</string>
+		</dict>
+		<key>31293</key>
+		<dict>
+			<key>Track ID</key><integer>31293</integer>
+			<key>Size</key><integer>5530262</integer>
+			<key>Total Time</key><integer>230243</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>04237D978E2C092F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pride (In The Name Of Love)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/01%20Pride%20(In%20The%20Name%20Of%20Love).mp3</string>
+		</dict>
+		<key>31305</key>
+		<dict>
+			<key>Track ID</key><integer>31305</integer>
+			<key>Size</key><integer>6218628</integer>
+			<key>Total Time</key><integer>258925</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4195C9574B4947B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Year's Day</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/02%20New%20Year's%20Day.mp3</string>
+		</dict>
+		<key>31311</key>
+		<dict>
+			<key>Track ID</key><integer>31311</integer>
+			<key>Size</key><integer>7180984</integer>
+			<key>Total Time</key><integer>299023</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>91CEFE055D08D7E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>With Or Without You</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/03%20With%20Or%20Without%20You.mp3</string>
+		</dict>
+		<key>31289</key>
+		<dict>
+			<key>Track ID</key><integer>31289</integer>
+			<key>Size</key><integer>6742150</integer>
+			<key>Total Time</key><integer>280737</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3102D24A94886423</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Still Haven't Found What I'm Looking For</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/04%20I%20Still%20Haven't%20Found%20What%20I'm%20Looking%20For.mp3</string>
+		</dict>
+		<key>31287</key>
+		<dict>
+			<key>Track ID</key><integer>31287</integer>
+			<key>Size</key><integer>6776609</integer>
+			<key>Total Time</key><integer>282174</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647340726</integer>
+			<key>Play Date UTC</key><date>2019-07-30T18:12:06Z</date>
+			<key>Persistent ID</key><string>3F3EDFC04CD84986</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sunday Bloody Sunday</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/05%20Sunday%20Bloody%20Sunday.mp3</string>
+		</dict>
+		<key>31303</key>
+		<dict>
+			<key>Track ID</key><integer>31303</integer>
+			<key>Size</key><integer>6633677</integer>
+			<key>Total Time</key><integer>276218</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>693EE376A0B22D71</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Where The Streets Have No Name</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/07%20Where%20The%20Streets%20Have%20No%20Name.mp3</string>
+		</dict>
+		<key>31307</key>
+		<dict>
+			<key>Track ID</key><integer>31307</integer>
+			<key>Size</key><integer>5242483</integer>
+			<key>Total Time</key><integer>218253</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>93212FABF62DBC79</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Will Follow</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/08%20I%20Will%20Follow.mp3</string>
+		</dict>
+		<key>31309</key>
+		<dict>
+			<key>Track ID</key><integer>31309</integer>
+			<key>Size</key><integer>7088827</integer>
+			<key>Total Time</key><integer>295183</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6F354B1745F336BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Unforgettable Fire</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Unforgettable Fire</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/09%20The%20Unforgettable%20Fire.mp3</string>
+		</dict>
+		<key>31295</key>
+		<dict>
+			<key>Track ID</key><integer>31295</integer>
+			<key>Size</key><integer>4397389</integer>
+			<key>Total Time</key><integer>183040</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>00B8DBDCF76C40B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sweetest Thing (The Single Mix)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/10%20Sweetest%20Thing%20(The%20Single%20Mix).mp3</string>
+		</dict>
+		<key>31301</key>
+		<dict>
+			<key>Track ID</key><integer>31301</integer>
+			<key>Size</key><integer>4320250</integer>
+			<key>Total Time</key><integer>179826</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B99DE527ECBC66B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Desire</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>The Best Of 1980-1990</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best Of 1980-1990</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/The%20Best%20Of%201980-1990/11%20Desire.mp3</string>
+		</dict>
+		<key>31343</key>
+		<dict>
+			<key>Track ID</key><integer>31343</integer>
+			<key>Size</key><integer>6134511</integer>
+			<key>Total Time</key><integer>194168</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2DA2E414B1A14B92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Vertigo</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>How To Dismantle An Atomic Bomb</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>UberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/How%20To%20Dismantle%20An%20Atomic%20Bomb/01%20Vertigo.mp3</string>
+		</dict>
+		<key>31345</key>
+		<dict>
+			<key>Track ID</key><integer>31345</integer>
+			<key>Size</key><integer>6640591</integer>
+			<key>Total Time</key><integer>237975</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>165AD478D005FD8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Miracle Drug</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>How To Dismantle An Atomic Bomb</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>UberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/How%20To%20Dismantle%20An%20Atomic%20Bomb/02%20Miracle%20Drug.mp3</string>
+		</dict>
+		<key>31347</key>
+		<dict>
+			<key>Track ID</key><integer>31347</integer>
+			<key>Size</key><integer>8602878</integer>
+			<key>Total Time</key><integer>308950</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>99895DCBC9AB04DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sometimes You Can't Make It On Your Own</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>How To Dismantle An Atomic Bomb</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>UberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/How%20To%20Dismantle%20An%20Atomic%20Bomb/03%20Sometimes%20You%20Can't%20Make%20It%20On%20Your%20Own.mp3</string>
+		</dict>
+		<key>31339</key>
+		<dict>
+			<key>Track ID</key><integer>31339</integer>
+			<key>Size</key><integer>8876007</integer>
+			<key>Total Time</key><integer>290664</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>49A91A9740A71D29</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love And Peace Or Else</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>How To Dismantle An Atomic Bomb</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>UberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/How%20To%20Dismantle%20An%20Atomic%20Bomb/04%20Love%20And%20Peace%20Or%20Else.mp3</string>
+		</dict>
+		<key>31355</key>
+		<dict>
+			<key>Track ID</key><integer>31355</integer>
+			<key>Size</key><integer>10244456</integer>
+			<key>Total Time</key><integer>347924</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>235</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CCF24E86B0DC46E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>City Of Blinding Lights</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>How To Dismantle An Atomic Bomb</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>UberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/How%20To%20Dismantle%20An%20Atomic%20Bomb/05%20City%20Of%20Blinding%20Lights.mp3</string>
+		</dict>
+		<key>31251</key>
+		<dict>
+			<key>Track ID</key><integer>31251</integer>
+			<key>Size</key><integer>6924550</integer>
+			<key>Total Time</key><integer>282697</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18BFF9B4491FDE87</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Gloria</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>Under A Blood Red Sky</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>The Home Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/Under%20A%20Blood%20Red%20Sky/Gloria.mp3</string>
+		</dict>
+		<key>31259</key>
+		<dict>
+			<key>Track ID</key><integer>31259</integer>
+			<key>Size</key><integer>7995649</integer>
+			<key>Total Time</key><integer>327392</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6468446D02EE6A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sunday Bloody Sunday</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>Under A Blood Red Sky</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>The Home Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/U2/Under%20A%20Blood%20Red%20Sky/Sunday%20Bloody%20Sunday.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>142341</integer>
+			<key>Playlist Persistent ID</key><string>053F0B641F78FEAE</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>U2</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>31327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31259</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

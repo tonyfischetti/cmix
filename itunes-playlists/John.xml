@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>16589</key>
+		<dict>
+			<key>Track ID</key><integer>16589</integer>
+			<key>Size</key><integer>5010264</integer>
+			<key>Total Time</key><integer>161697</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-17T11:18:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A3B202162EFC8D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Paint It Blue</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature / Expert Alterations</string>
+			<key>Album</key><string>Literature / Expert Alterations split 7"</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://squareofoppositionrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature%20_%20Expert%20Alterations/Literature%20_%20Expert%20Alterations%20split%207_/01%20Paint%20It%20Blue.mp3</string>
+		</dict>
+		<key>18853</key>
+		<dict>
+			<key>Track ID</key><integer>18853</integer>
+			<key>Size</key><integer>5589880</integer>
+			<key>Total Time</key><integer>157178</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>279</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16A64DD9D143AA66</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wonderful</string>
+			<key>Artist</key><string>The Hermit Crabs</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Sort Artist</key><string>Hermit Crabs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/01%20Wonderful.mp3</string>
+		</dict>
+		<key>18893</key>
+		<dict>
+			<key>Track ID</key><integer>18893</integer>
+			<key>Size</key><integer>3002112</integer>
+			<key>Total Time</key><integer>90801</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>40C4BB0EB1442655</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No Fun</string>
+			<key>Artist</key><string>The Prams</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Sort Artist</key><string>Prams</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/02%20No%20Fun.mp3</string>
+		</dict>
+		<key>16591</key>
+		<dict>
+			<key>Track ID</key><integer>16591</integer>
+			<key>Size</key><integer>5118434</integer>
+			<key>Total Time</key><integer>162298</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-17T11:18:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD5D16D057504670</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Portable Head</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature / Expert Alterations</string>
+			<key>Album</key><string>Literature / Expert Alterations split 7"</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://squareofoppositionrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature%20_%20Expert%20Alterations/Literature%20_%20Expert%20Alterations%20split%207_/02%20Portable%20Head.mp3</string>
+		</dict>
+		<key>16587</key>
+		<dict>
+			<key>Track ID</key><integer>16587</integer>
+			<key>Size</key><integer>4866280</integer>
+			<key>Total Time</key><integer>156003</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-17T11:18:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>47A7E7A175B4EA06</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dear Thomas</string>
+			<key>Artist</key><string>Expert Alterations</string>
+			<key>Album Artist</key><string>Literature / Expert Alterations</string>
+			<key>Album</key><string>Literature / Expert Alterations split 7"</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://squareofoppositionrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature%20_%20Expert%20Alterations/Literature%20_%20Expert%20Alterations%20split%207_/03%20Dear%20Thomas.mp3</string>
+		</dict>
+		<key>18857</key>
+		<dict>
+			<key>Track ID</key><integer>18857</integer>
+			<key>Size</key><integer>7111495</integer>
+			<key>Total Time</key><integer>213864</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75A867587FEE07F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Old Days</string>
+			<key>Artist</key><string>Featherfin (feat. Deerful)</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/03%20Old%20Days.mp3</string>
+		</dict>
+		<key>18875</key>
+		<dict>
+			<key>Track ID</key><integer>18875</integer>
+			<key>Size</key><integer>5785152</integer>
+			<key>Total Time</key><integer>158040</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>287</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA3A63A733C8B32F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Moon Singer</string>
+			<key>Artist</key><string>Bodyheat</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/04%20Moon%20Singer.mp3</string>
+		</dict>
+		<key>16585</key>
+		<dict>
+			<key>Track ID</key><integer>16585</integer>
+			<key>Size</key><integer>5379449</integer>
+			<key>Total Time</key><integer>175934</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-17T11:18:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>978E64841103A4C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nowhere Slowly</string>
+			<key>Artist</key><string>Expert Alterations</string>
+			<key>Album Artist</key><string>Literature / Expert Alterations</string>
+			<key>Album</key><string>Literature / Expert Alterations split 7"</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://squareofoppositionrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature%20_%20Expert%20Alterations/Literature%20_%20Expert%20Alterations%20split%207_/04%20Nowhere%20Slowly.mp3</string>
+		</dict>
+		<key>18865</key>
+		<dict>
+			<key>Track ID</key><integer>18865</integer>
+			<key>Size</key><integer>8457676</integer>
+			<key>Total Time</key><integer>232150</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>288</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86E8B5E5287D934D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You And Only You</string>
+			<key>Artist</key><string>Emma Kupa</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/05%20You%20And%20Only%20You.mp3</string>
+		</dict>
+		<key>18887</key>
+		<dict>
+			<key>Track ID</key><integer>18887</integer>
+			<key>Size</key><integer>6110766</integer>
+			<key>Total Time</key><integer>179539</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD3595751A5F1E8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Winter Pageant</string>
+			<key>Artist</key><string>Saturday Looks Good To Me</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/06%20Winter%20Pageant.mp3</string>
+		</dict>
+		<key>18869</key>
+		<dict>
+			<key>Track ID</key><integer>18869</integer>
+			<key>Size</key><integer>5858882</integer>
+			<key>Total Time</key><integer>181577</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD94FB696C1AF2BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Best Days</string>
+			<key>Artist</key><string>Marc Elston</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Sort Name</key><string>Best Days</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/07%20The%20Best%20Days.mp3</string>
+		</dict>
+		<key>18861</key>
+		<dict>
+			<key>Track ID</key><integer>18861</integer>
+			<key>Size</key><integer>6195895</integer>
+			<key>Total Time</key><integer>200124</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F5D98A172E8D7DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tracks And Tunnels</string>
+			<key>Artist</key><string>LAKE</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/08%20Tracks%20And%20Tunnels.mp3</string>
+		</dict>
+		<key>18891</key>
+		<dict>
+			<key>Track ID</key><integer>18891</integer>
+			<key>Size</key><integer>8329555</integer>
+			<key>Total Time</key><integer>231262</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0688044C8D22182C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Selfish</string>
+			<key>Artist</key><string>Fireflies</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/09%20Selfish.mp3</string>
+		</dict>
+		<key>18883</key>
+		<dict>
+			<key>Track ID</key><integer>18883</integer>
+			<key>Size</key><integer>6402926</integer>
+			<key>Total Time</key><integer>198008</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA680B5AD5D008D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Together Forever in Love</string>
+			<key>Artist</key><string>The Smittens</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Sort Artist</key><string>Smittens</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/10%20Together%20Forever%20in%20Love.mp3</string>
+		</dict>
+		<key>18871</key>
+		<dict>
+			<key>Track ID</key><integer>18871</integer>
+			<key>Size</key><integer>8517453</integer>
+			<key>Total Time</key><integer>254223</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>264</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D61B3EDC6E04F14D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hello Rain</string>
+			<key>Artist</key><string>John Girgus and The Legendary House Cats</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/11%20Hello%20Rain.mp3</string>
+		</dict>
+		<key>18885</key>
+		<dict>
+			<key>Track ID</key><integer>18885</integer>
+			<key>Size</key><integer>5975572</integer>
+			<key>Total Time</key><integer>172800</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>272</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09D1EFBB25816684</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Love You More</string>
+			<key>Artist</key><string>The Royal Landscaping Society</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Sort Artist</key><string>Royal Landscaping Society</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/12%20I%20Love%20You%20More.mp3</string>
+		</dict>
+		<key>18855</key>
+		<dict>
+			<key>Track ID</key><integer>18855</integer>
+			<key>Size</key><integer>3779483</integer>
+			<key>Total Time</key><integer>104620</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>281</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D439079512DF5222</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Love</string>
+			<key>Artist</key><string>Gabardine</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/13%20It's%20Love.mp3</string>
+		</dict>
+		<key>18877</key>
+		<dict>
+			<key>Track ID</key><integer>18877</integer>
+			<key>Size</key><integer>4885915</integer>
+			<key>Total Time</key><integer>135627</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>282</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB9095A9AF876835</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alaska</string>
+			<key>Artist</key><string>Boyracer</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/14%20Alaska.mp3</string>
+		</dict>
+		<key>18863</key>
+		<dict>
+			<key>Track ID</key><integer>18863</integer>
+			<key>Size</key><integer>5923760</integer>
+			<key>Total Time</key><integer>173871</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5322724A132BA1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Long Distance</string>
+			<key>Artist</key><string>Band á Part</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/15%20Long%20Distance.mp3</string>
+		</dict>
+		<key>18881</key>
+		<dict>
+			<key>Track ID</key><integer>18881</integer>
+			<key>Size</key><integer>6896205</integer>
+			<key>Total Time</key><integer>202422</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F35FC78E76B353D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>He'll Never Have to Know</string>
+			<key>Artist</key><string>Seapony</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/16%20He'll%20Never%20Have%20to%20Know.mp3</string>
+		</dict>
+		<key>18873</key>
+		<dict>
+			<key>Track ID</key><integer>18873</integer>
+			<key>Size</key><integer>6884634</integer>
+			<key>Total Time</key><integer>198112</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3DC42FC3BF09E49E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>C.K.M.</string>
+			<key>Artist</key><string>The Very Most (feat. Sarah Robostein)</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Sort Artist</key><string>Very Most (feat. Sarah Robostein)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/17%20C.K.M..mp3</string>
+		</dict>
+		<key>18879</key>
+		<dict>
+			<key>Track ID</key><integer>18879</integer>
+			<key>Size</key><integer>4962042</integer>
+			<key>Total Time</key><integer>150047</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1153294EEDE2476</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fine Day For Sailing</string>
+			<key>Artist</key><string>Tomiji</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/18%20Fine%20Day%20For%20Sailing.mp3</string>
+		</dict>
+		<key>18867</key>
+		<dict>
+			<key>Track ID</key><integer>18867</integer>
+			<key>Size</key><integer>5625077</integer>
+			<key>Total Time</key><integer>158484</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>278</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94552100147A0D20</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Puzzle Pieces</string>
+			<key>Artist</key><string>Tangible Excitement</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/19%20Puzzle%20Pieces.mp3</string>
+		</dict>
+		<key>18859</key>
+		<dict>
+			<key>Track ID</key><integer>18859</integer>
+			<key>Size</key><integer>6087998</integer>
+			<key>Total Time</key><integer>184790</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7122962AAF5DE82E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Words And Smiles</string>
+			<key>Artist</key><string>Transmittens</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/20%20Words%20And%20Smiles.mp3</string>
+		</dict>
+		<key>18889</key>
+		<dict>
+			<key>Track ID</key><integer>18889</integer>
+			<key>Size</key><integer>9396927</integer>
+			<key>Total Time</key><integer>282984</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-02-19T05:57:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5EA7BD6433E6853E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Broken Heart</string>
+			<key>Artist</key><string>Rocketship</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Constant and True — A Tribute to the Songs of Rose Melberg</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://februaryrecords.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Constant%20and%20True%20%E2%80%94%20A%20Tribute%20to%20the%20Songs%20of%20Rose%20Melberg/21%20My%20Broken%20Heart.mp3</string>
+		</dict>
+		<key>19971</key>
+		<dict>
+			<key>Track ID</key><integer>19971</integer>
+			<key>Size</key><integer>5687453</integer>
+			<key>Total Time</key><integer>153437</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-03-15T23:02:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7681F6260AD2A418</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ariana</string>
+			<key>Artist</key><string>MERCURY GIRLS</string>
+			<key>Album Artist</key><string>MERCURY GIRLS</string>
+			<key>Album</key><string>Ariana</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Comments</key><string>Visit http://mercurygirls.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/MERCURY%20GIRLS/Ariana/01%20Ariana.m4a</string>
+		</dict>
+		<key>19967</key>
+		<dict>
+			<key>Track ID</key><integer>19967</integer>
+			<key>Size</key><integer>4503317</integer>
+			<key>Total Time</key><integer>130377</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-15T23:02:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13CE5F9BE7AA8BB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Golden (demo)</string>
+			<key>Artist</key><string>MERCURY GIRLS</string>
+			<key>Album Artist</key><string>MERCURY GIRLS</string>
+			<key>Album</key><string>Demos</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://mercurygirls.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/MERCURY%20GIRLS/Demos/01%20Golden%20(demo).mp3</string>
+		</dict>
+		<key>11513</key>
+		<dict>
+			<key>Track ID</key><integer>11513</integer>
+			<key>Size</key><integer>5675661</integer>
+			<key>Total Time</key><integer>139253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B29BEBF1477A50A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Seconds</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Seconds</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/01%20Seconds.m4a</string>
+		</dict>
+		<key>11497</key>
+		<dict>
+			<key>Track ID</key><integer>11497</integer>
+			<key>Size</key><integer>5360649</integer>
+			<key>Total Time</key><integer>137052</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0686CAD5B0DBBA70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Girl, the Gold Watch, and Everything</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Girl, the Gold Watch, and Everything</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/01%20The%20Girl,%20the%20Gold%20Watch,%20and%20Everything.m4a</string>
+		</dict>
+		<key>7931</key>
+		<dict>
+			<key>Track ID</key><integer>7931</integer>
+			<key>Size</key><integer>3455615</integer>
+			<key>Total Time</key><integer>88000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-15T23:01:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-05-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D38F49EB95B32FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Venetian Blinds</string>
+			<key>Artist</key><string>Expert Alterations</string>
+			<key>Album Artist</key><string>Expert Alterations</string>
+			<key>Album</key><string>Expert Alterations - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Venetian Blinds</string>
+			<key>Sort Album</key><string>Expert Alterations - EP</string>
+			<key>Sort Artist</key><string>Expert Alterations</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Expert%20Alterations/Expert%20Alterations%20-%20EP/01%20Venetian%20Blinds.m4a</string>
+		</dict>
+		<key>7937</key>
+		<dict>
+			<key>Track ID</key><integer>7937</integer>
+			<key>Size</key><integer>4388408</integer>
+			<key>Total Time</key><integer>116000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-15T23:01:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-04-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>793B901FD3C9DF47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Bell</string>
+			<key>Artist</key><string>Expert Alterations</string>
+			<key>Album Artist</key><string>Expert Alterations</string>
+			<key>Album</key><string>Expert Alterations - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Bell</string>
+			<key>Sort Album</key><string>Expert Alterations - EP</string>
+			<key>Sort Artist</key><string>Expert Alterations</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Expert%20Alterations/Expert%20Alterations%20-%20EP/02%20A%20Bell.m4a</string>
+		</dict>
+		<key>19969</key>
+		<dict>
+			<key>Track ID</key><integer>19969</integer>
+			<key>Size</key><integer>7312994</integer>
+			<key>Total Time</key><integer>206788</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-03-15T23:02:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19B81DD3DBAFA236</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All That Heaven Allows</string>
+			<key>Artist</key><string>MERCURY GIRLS</string>
+			<key>Album Artist</key><string>MERCURY GIRLS</string>
+			<key>Album</key><string>Ariana</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Comments</key><string>Visit http://mercurygirls.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/MERCURY%20GIRLS/Ariana/02%20All%20That%20Heaven%20Allows.m4a</string>
+		</dict>
+		<key>19965</key>
+		<dict>
+			<key>Track ID</key><integer>19965</integer>
+			<key>Size</key><integer>4874608</integer>
+			<key>Total Time</key><integer>147670</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-15T23:02:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA8A2E5CE9978F29</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>July 22nd (demo)</string>
+			<key>Artist</key><string>MERCURY GIRLS</string>
+			<key>Album Artist</key><string>MERCURY GIRLS</string>
+			<key>Album</key><string>Demos</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Visit http://mercurygirls.bandcamp.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/MERCURY%20GIRLS/Demos/02%20July%2022nd%20(demo).mp3</string>
+		</dict>
+		<key>11519</key>
+		<dict>
+			<key>Track ID</key><integer>11519</integer>
+			<key>Size</key><integer>6250440</integer>
+			<key>Total Time</key><integer>148333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA19FF03355120AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lily</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Lily</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/02%20Lily.m4a</string>
+		</dict>
+		<key>11495</key>
+		<dict>
+			<key>Track ID</key><integer>11495</integer>
+			<key>Size</key><integer>5561544</integer>
+			<key>Total Time</key><integer>144971</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07A132E689B623FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The English Softhearts</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>English Softhearts</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/02%20The%20English%20Softhearts.m4a</string>
+		</dict>
+		<key>11481</key>
+		<dict>
+			<key>Track ID</key><integer>11481</integer>
+			<key>Size</key><integer>4382294</integer>
+			<key>Total Time</key><integer>112606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE470D740930CCA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blasé</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Blasé</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/03%20Blase%CC%81.m4a</string>
+		</dict>
+		<key>7933</key>
+		<dict>
+			<key>Track ID</key><integer>7933</integer>
+			<key>Size</key><integer>6058617</integer>
+			<key>Total Time</key><integer>168000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-15T23:01:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-05-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADB052C118E1EA41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Midnight Garden</string>
+			<key>Artist</key><string>Expert Alterations</string>
+			<key>Album Artist</key><string>Expert Alterations</string>
+			<key>Album</key><string>Expert Alterations - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Midnight Garden</string>
+			<key>Sort Album</key><string>Expert Alterations - EP</string>
+			<key>Sort Artist</key><string>Expert Alterations</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Expert%20Alterations/Expert%20Alterations%20-%20EP/03%20Midnight%20Garden.m4a</string>
+		</dict>
+		<key>11517</key>
+		<dict>
+			<key>Track ID</key><integer>11517</integer>
+			<key>Size</key><integer>5166866</integer>
+			<key>Total Time</key><integer>120920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE7C2605FD8A8ADA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Push-Up Bra</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Push-Up Bra</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/03%20Push-Up%20Bra.m4a</string>
+		</dict>
+		<key>11521</key>
+		<dict>
+			<key>Track ID</key><integer>11521</integer>
+			<key>Size</key><integer>5682170</integer>
+			<key>Total Time</key><integer>127200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FBC6F2DABC6323F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Criminal Kids</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Criminal Kids</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/04%20Criminal%20Kids.m4a</string>
+		</dict>
+		<key>11485</key>
+		<dict>
+			<key>Track ID</key><integer>11485</integer>
+			<key>Size</key><integer>5440953</integer>
+			<key>Total Time</key><integer>135336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B250F0775DA59AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tie-Dye (Your Life)</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Tie-Dye (Your Life)</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/04%20Tie-Dye%20(Your%20Life).m4a</string>
+		</dict>
+		<key>11501</key>
+		<dict>
+			<key>Track ID</key><integer>11501</integer>
+			<key>Size</key><integer>5675384</integer>
+			<key>Total Time</key><integer>133506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB4A86933992CA4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Arab Spring</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Arab Spring</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/05%20Arab%20Spring.m4a</string>
+		</dict>
+		<key>11487</key>
+		<dict>
+			<key>Track ID</key><integer>11487</integer>
+			<key>Size</key><integer>5789260</integer>
+			<key>Total Time</key><integer>148520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F54B8575A73E1271</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Court / Date</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Court / Date</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/05%20Court%20_%20Date.m4a</string>
+		</dict>
+		<key>7935</key>
+		<dict>
+			<key>Track ID</key><integer>7935</integer>
+			<key>Size</key><integer>6832025</integer>
+			<key>Total Time</key><integer>190000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-15T23:01:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-05-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02C16C04DF5EF76A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Three Signs</string>
+			<key>Artist</key><string>Expert Alterations</string>
+			<key>Album Artist</key><string>Expert Alterations</string>
+			<key>Album</key><string>Expert Alterations - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Three Signs</string>
+			<key>Sort Album</key><string>Expert Alterations - EP</string>
+			<key>Sort Artist</key><string>Expert Alterations</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Expert%20Alterations/Expert%20Alterations%20-%20EP/05%20Three%20Signs.m4a</string>
+		</dict>
+		<key>11505</key>
+		<dict>
+			<key>Track ID</key><integer>11505</integer>
+			<key>Size</key><integer>2628743</integer>
+			<key>Total Time</key><integer>47693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0B39ADE1564AFC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mother Bird</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Mother Bird</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/06%20Mother%20Bird.m4a</string>
+		</dict>
+		<key>11479</key>
+		<dict>
+			<key>Track ID</key><integer>11479</integer>
+			<key>Size</key><integer>7510418</integer>
+			<key>Total Time</key><integer>197882</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A55236A92D026D0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Jacket</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>New Jacket</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/06%20New%20Jacket.m4a</string>
+		</dict>
+		<key>11491</key>
+		<dict>
+			<key>Track ID</key><integer>11491</integer>
+			<key>Size</key><integer>7516852</integer>
+			<key>Total Time</key><integer>197485</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6CF8DE4435F1FE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Chime Hours</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Chime Hours</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/07%20Chime%20Hours.m4a</string>
+		</dict>
+		<key>11523</key>
+		<dict>
+			<key>Track ID</key><integer>11523</integer>
+			<key>Size</key><integer>6689451</integer>
+			<key>Total Time</key><integer>171080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D47A15BCC17C49F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Grifted</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Grifted</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/07%20Grifted.m4a</string>
+		</dict>
+		<key>11477</key>
+		<dict>
+			<key>Track ID</key><integer>11477</integer>
+			<key>Size</key><integer>5666528</integer>
+			<key>Total Time</key><integer>144884</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F942F3709AF4ACC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Chorus</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Chorus</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/08%20Chorus.m4a</string>
+		</dict>
+		<key>11509</key>
+		<dict>
+			<key>Track ID</key><integer>11509</integer>
+			<key>Size</key><integer>4963028</integer>
+			<key>Total Time</key><integer>116133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>390AC3581A1EF210</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rooney</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Rooney</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/08%20Rooney.m4a</string>
+		</dict>
+		<key>11483</key>
+		<dict>
+			<key>Track ID</key><integer>11483</integer>
+			<key>Size</key><integer>6379052</integer>
+			<key>Total Time</key><integer>164986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2DA510591B4258FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jimmy</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Jimmy</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/09%20Jimmy.m4a</string>
+		</dict>
+		<key>11507</key>
+		<dict>
+			<key>Track ID</key><integer>11507</integer>
+			<key>Size</key><integer>6065334</integer>
+			<key>Total Time</key><integer>146720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B9EC39A2B126A26</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>O.J.</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>O.J.</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/09%20O.J..m4a</string>
+		</dict>
+		<key>11493</key>
+		<dict>
+			<key>Track ID</key><integer>11493</integer>
+			<key>Size</key><integer>5931910</integer>
+			<key>Total Time</key><integer>151244</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB5308026DC98D25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dance Shoes</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Dance Shoes</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/10%20Dance%20Shoes.m4a</string>
+		</dict>
+		<key>11499</key>
+		<dict>
+			<key>Track ID</key><integer>11499</integer>
+			<key>Size</key><integer>5900600</integer>
+			<key>Total Time</key><integer>144653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78BAD981A47B7291</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Esquire, Esquire</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Esquire, Esquire</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/10%20Esquire,%20Esquire.m4a</string>
+		</dict>
+		<key>11515</key>
+		<dict>
+			<key>Track ID</key><integer>11515</integer>
+			<key>Size</key><integer>4876705</integer>
+			<key>Total Time</key><integer>116786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8FE8BB4196FF301</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Am Right Here</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>I Am Right Here</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/11%20I%20Am%20Right%20Here.m4a</string>
+		</dict>
+		<key>11489</key>
+		<dict>
+			<key>Track ID</key><integer>11489</integer>
+			<key>Size</key><integer>6923615</integer>
+			<key>Total Time</key><integer>188510</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D9119B0D0364260</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kites</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Chorus</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Kites</string>
+			<key>Sort Album</key><string>Chorus</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Chorus/11%20Kites.m4a</string>
+		</dict>
+		<key>11503</key>
+		<dict>
+			<key>Track ID</key><integer>11503</integer>
+			<key>Size</key><integer>4802913</integer>
+			<key>Total Time</key><integer>111466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>391D2F627F0CDB13</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cincinnati</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>Cincinnati</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/12%20Cincinnati.m4a</string>
+		</dict>
+		<key>11511</key>
+		<dict>
+			<key>Track ID</key><integer>11511</integer>
+			<key>Size</key><integer>5642325</integer>
+			<key>Total Time</key><integer>139480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-03-15T23:00:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B617F0F41D8A2058</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Cruel</string>
+			<key>Artist</key><string>Literature</string>
+			<key>Album Artist</key><string>Literature</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>It's Cruel</string>
+			<key>Sort Album</key><string>Anthology</string>
+			<key>Sort Artist</key><string>Literature</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Literature/Anthology/13%20It's%20Cruel.m4a</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>136827</integer>
+			<key>Playlist Persistent ID</key><string>41A6E90E97CA4CEA</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>John</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18873</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19967</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7931</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7935</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11511</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

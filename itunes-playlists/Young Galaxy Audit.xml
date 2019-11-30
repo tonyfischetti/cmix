@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>17561</key>
+		<dict>
+			<key>Track ID</key><integer>17561</integer>
+			<key>Size</key><integer>9412949</integer>
+			<key>Total Time</key><integer>265691</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>282</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2853C225177DE3C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Little Wave</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Falsework</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 260632951</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Falsework/08%20Little%20Wave.mp3</string>
+		</dict>
+		<key>17565</key>
+		<dict>
+			<key>Track ID</key><integer>17565</integer>
+			<key>Size</key><integer>6595238</integer>
+			<key>Total Time</key><integer>193227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>271</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2DD807330488F37</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lean into My Love</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Falsework</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 260632952</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Falsework/09%20Lean%20into%20My%20Love.mp3</string>
+		</dict>
+		<key>17563</key>
+		<dict>
+			<key>Track ID</key><integer>17563</integer>
+			<key>Size</key><integer>8228855</integer>
+			<key>Total Time</key><integer>243617</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15B83FD2F82F223E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pressure</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Falsework</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 260632949</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Falsework/10%20Pressure.mp3</string>
+		</dict>
+		<key>17537</key>
+		<dict>
+			<key>Track ID</key><integer>17537</integer>
+			<key>Size</key><integer>8922905</integer>
+			<key>Total Time</key><integer>235885</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>301</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3614377135</integer>
+			<key>Play Date UTC</key><date>2018-07-14T05:38:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B758FAEFE162B03</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pretty Boy</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406958</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/01%20Pretty%20Boy.mp3</string>
+		</dict>
+		<key>17541</key>
+		<dict>
+			<key>Track ID</key><integer>17541</integer>
+			<key>Size</key><integer>9239324</integer>
+			<key>Total Time</key><integer>263915</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>278</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6E6C0B25DA11CD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fall for You</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406959</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/02%20Fall%20for%20You.mp3</string>
+		</dict>
+		<key>17549</key>
+		<dict>
+			<key>Track ID</key><integer>17549</integer>
+			<key>Size</key><integer>9048597</integer>
+			<key>Total Time</key><integer>252786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D752365A89BC4213</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Summer</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406960</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/03%20New%20Summer.mp3</string>
+		</dict>
+		<key>17533</key>
+		<dict>
+			<key>Track ID</key><integer>17533</integer>
+			<key>Size</key><integer>6076764</integer>
+			<key>Total Time</key><integer>178207</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>473CB070E08E1EA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fever</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406961</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/04%20Fever.mp3</string>
+		</dict>
+		<key>17535</key>
+		<dict>
+			<key>Track ID</key><integer>17535</integer>
+			<key>Size</key><integer>9379195</integer>
+			<key>Total Time</key><integer>277707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC0BF15ACCAB800E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hard to Tell</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406962</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/05%20Hard%20to%20Tell.mp3</string>
+		</dict>
+		<key>17545</key>
+		<dict>
+			<key>Track ID</key><integer>17545</integer>
+			<key>Size</key><integer>8041476</integer>
+			<key>Total Time</key><integer>237113</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F70EF40127D1CC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>What We Want</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406963</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/06%20What%20We%20Want.mp3</string>
+		</dict>
+		<key>17547</key>
+		<dict>
+			<key>Track ID</key><integer>17547</integer>
+			<key>Size</key><integer>8435097</integer>
+			<key>Total Time</key><integer>250070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DFE9B27D36FB4C4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Out the Gate Backwards</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406964</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/07%20Out%20the%20Gate%20Backwards.mp3</string>
+		</dict>
+		<key>17531</key>
+		<dict>
+			<key>Track ID</key><integer>17531</integer>
+			<key>Size</key><integer>9632982</integer>
+			<key>Total Time</key><integer>269113</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E6D8260B3617041</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In Fire</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406965</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/08%20In%20Fire.mp3</string>
+		</dict>
+		<key>17539</key>
+		<dict>
+			<key>Track ID</key><integer>17539</integer>
+			<key>Size</key><integer>6830223</integer>
+			<key>Total Time</key><integer>193645</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>280</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE76190385858FC0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Privileged Poor</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406966</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/09%20Privileged%20Poor.mp3</string>
+		</dict>
+		<key>17543</key>
+		<dict>
+			<key>Track ID</key><integer>17543</integer>
+			<key>Size</key><integer>8110429</integer>
+			<key>Total Time</key><integer>235363</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-03-02T06:58:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57C59C2C2FEF664B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sleepwalk With Me</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Ultramarine</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 237406967</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Ultramarine/10%20Sleepwalk%20With%20Me.mp3</string>
+		</dict>
+		<key>17605</key>
+		<dict>
+			<key>Track ID</key><integer>17605</integer>
+			<key>Size</key><integer>1124781</integer>
+			<key>Total Time</key><integer>32417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>226</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5828E069BF3B76C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nth</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917275</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/01%20Nth.mp3</string>
+		</dict>
+		<key>17601</key>
+		<dict>
+			<key>Track ID</key><integer>17601</integer>
+			<key>Size</key><integer>6535420</integer>
+			<key>Total Time</key><integer>219715</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23F2A003EB4DE0E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Angels Are Surely Weeping (Featuring Hanna)</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917276</string>
+			<key>Sort Name</key><string>Angels Are Surely Weeping (Featuring Hanna)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/02%20The%20Angels%20Are%20Surely%20Weeping%20(Featuring%20Hanna).mp3</string>
+		</dict>
+		<key>17595</key>
+		<dict>
+			<key>Track ID</key><integer>17595</integer>
+			<key>Size</key><integer>6097627</integer>
+			<key>Total Time</key><integer>203859</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>45EAD88C94AA9B9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blown Minded</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917277</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/03%20Blown%20Minded.mp3</string>
+		</dict>
+		<key>17609</key>
+		<dict>
+			<key>Track ID</key><integer>17609</integer>
+			<key>Size</key><integer>8516181</integer>
+			<key>Total Time</key><integer>276767</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D85ED644F2E7506F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Have Everything</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917278</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/04%20We%20Have%20Everything.mp3</string>
+		</dict>
+		<key>17603</key>
+		<dict>
+			<key>Track ID</key><integer>17603</integer>
+			<key>Size</key><integer>8770422</integer>
+			<key>Total Time</key><integer>305475</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3048B5A9D25C47EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>For Dear Life</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917279</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/05%20For%20Dear%20Life.mp3</string>
+		</dict>
+		<key>17593</key>
+		<dict>
+			<key>Track ID</key><integer>17593</integer>
+			<key>Size</key><integer>6480782</integer>
+			<key>Total Time</key><integer>216816</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6934A5868D2A12B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Peripheral Visionaries</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917280</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/06%20Peripheral%20Visionaries.mp3</string>
+		</dict>
+		<key>17611</key>
+		<dict>
+			<key>Track ID</key><integer>17611</integer>
+			<key>Size</key><integer>5306494</integer>
+			<key>Total Time</key><integer>189753</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6DD3AC400C470EAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>High And Goodbye</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917281</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/07%20High%20And%20Goodbye.mp3</string>
+		</dict>
+		<key>17599</key>
+		<dict>
+			<key>Track ID</key><integer>17599</integer>
+			<key>Size</key><integer>7557530</integer>
+			<key>Total Time</key><integer>259004</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>226</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E73497DD3DF1075</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Phantoms</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917282</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/08%20Phantoms.mp3</string>
+		</dict>
+		<key>17597</key>
+		<dict>
+			<key>Track ID</key><integer>17597</integer>
+			<key>Size</key><integer>6830334</integer>
+			<key>Total Time</key><integer>227604</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78FF818D2F4431A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cover Your Tracks</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917283</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/09%20Cover%20Your%20Tracks.mp3</string>
+		</dict>
+		<key>17607</key>
+		<dict>
+			<key>Track ID</key><integer>17607</integer>
+			<key>Size</key><integer>8591422</integer>
+			<key>Total Time</key><integer>298187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:01:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>598BBD5B57D18EFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>B.S.E</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917284</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/10%20B.S.E.mp3</string>
+		</dict>
+		<key>17613</key>
+		<dict>
+			<key>Track ID</key><integer>17613</integer>
+			<key>Size</key><integer>8502506</integer>
+			<key>Total Time</key><integer>283846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-03-02T07:02:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51AEE8FB32CC8830</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shapeshifting</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Shapeshifting</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220917285</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Shapeshifting/11%20Shapeshifting.mp3</string>
+		</dict>
+		<key>17527</key>
+		<dict>
+			<key>Track ID</key><integer>17527</integer>
+			<key>Size</key><integer>9530834</integer>
+			<key>Total Time</key><integer>296594</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B760CB768B47ED1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Long Live The Fallen World</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270257</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/01%20Long%20Live%20The%20Fallen%20World.mp3</string>
+		</dict>
+		<key>17529</key>
+		<dict>
+			<key>Track ID</key><integer>17529</integer>
+			<key>Size</key><integer>7538271</integer>
+			<key>Total Time</key><integer>221857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F3E1EB029D9F885</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Oh Sister</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270259</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/02%20Oh%20Sister.mp3</string>
+		</dict>
+		<key>17519</key>
+		<dict>
+			<key>Track ID</key><integer>17519</integer>
+			<key>Size</key><integer>9554819</integer>
+			<key>Total Time</key><integer>271751</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AB7678B57AFCF43</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Destroyer</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270261</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/03%20Destroyer.mp3</string>
+		</dict>
+		<key>17507</key>
+		<dict>
+			<key>Track ID</key><integer>17507</integer>
+			<key>Size</key><integer>4600696</integer>
+			<key>Total Time</key><integer>142315</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7D79999D5314B15</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pathos</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270263</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/04%20Pathos.mp3</string>
+		</dict>
+		<key>17509</key>
+		<dict>
+			<key>Track ID</key><integer>17509</integer>
+			<key>Size</key><integer>11722093</integer>
+			<key>Total Time</key><integer>345051</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55C39D74DC67EBB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Light Years</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270265</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/05%20Light%20Years.mp3</string>
+		</dict>
+		<key>17521</key>
+		<dict>
+			<key>Track ID</key><integer>17521</integer>
+			<key>Size</key><integer>8526555</integer>
+			<key>Total Time</key><integer>265586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>292A74D48217A657</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Disposable Times</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270267</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/06%20Disposable%20Times.mp3</string>
+		</dict>
+		<key>17525</key>
+		<dict>
+			<key>Track ID</key><integer>17525</integer>
+			<key>Size</key><integer>8230984</integer>
+			<key>Total Time</key><integer>270341</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>236</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>963224FFCEE72207</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dreams</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270269</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/07%20Dreams.mp3</string>
+		</dict>
+		<key>17523</key>
+		<dict>
+			<key>Track ID</key><integer>17523</integer>
+			<key>Size</key><integer>8018831</integer>
+			<key>Total Time</key><integer>231575</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7CCC7AD76F35E572</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Queen Drum</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270271</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/08%20Queen%20Drum.mp3</string>
+		</dict>
+		<key>17513</key>
+		<dict>
+			<key>Track ID</key><integer>17513</integer>
+			<key>Size</key><integer>9170853</integer>
+			<key>Total Time</key><integer>287947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11B85002163FE891</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Smoke And Mirror Show</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270273</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/09%20Smoke%20And%20Mirror%20Show.mp3</string>
+		</dict>
+		<key>17511</key>
+		<dict>
+			<key>Track ID</key><integer>17511</integer>
+			<key>Size</key><integer>9308420</integer>
+			<key>Total Time</key><integer>313756</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F95C468EE7A7E3D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Firestruck</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270275</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/10%20Firestruck.mp3</string>
+		</dict>
+		<key>17517</key>
+		<dict>
+			<key>Track ID</key><integer>17517</integer>
+			<key>Size</key><integer>8770194</integer>
+			<key>Total Time</key><integer>256078</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33D8F4B111AE837F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Invisible Republic</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270276</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/11%20Invisible%20Republic.mp3</string>
+		</dict>
+		<key>17515</key>
+		<dict>
+			<key>Track ID</key><integer>17515</integer>
+			<key>Size</key><integer>8497121</integer>
+			<key>Total Time</key><integer>259918</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-03-02T09:31:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7121BE4DC2A81FBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Flux</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Album</key><string>Invisible Republic</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 217270277</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Invisible%20Republic/12%20Flux.mp3</string>
+		</dict>
+		<key>17581</key>
+		<dict>
+			<key>Track ID</key><integer>17581</integer>
+			<key>Size</key><integer>7041068</integer>
+			<key>Total Time</key><integer>212114</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-02T07:04:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8237592305FE3F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lost In The Call</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Composer</key><string>Catherine McCandless</string>
+			<key>Album</key><string>Young Galaxy</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282936967</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Young%20Galaxy/08%20Lost%20In%20The%20Call.mp3</string>
+		</dict>
+		<key>17589</key>
+		<dict>
+			<key>Track ID</key><integer>17589</integer>
+			<key>Size</key><integer>7935343</integer>
+			<key>Total Time</key><integer>240509</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-02T07:04:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C37CFC82959C70EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Come And See</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Composer</key><string>Catherine McCandless</string>
+			<key>Album</key><string>Young Galaxy</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282936975</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Young%20Galaxy/09%20Come%20And%20See.mp3</string>
+		</dict>
+		<key>17591</key>
+		<dict>
+			<key>Track ID</key><integer>17591</integer>
+			<key>Size</key><integer>7528101</integer>
+			<key>Total Time</key><integer>234031</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-02T07:04:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3E146589D6726C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Embers</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Composer</key><string>Catherine McCandless</string>
+			<key>Album</key><string>Young Galaxy</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282936976</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Young%20Galaxy/10%20Embers.mp3</string>
+		</dict>
+		<key>17575</key>
+		<dict>
+			<key>Track ID</key><integer>17575</integer>
+			<key>Size</key><integer>11017273</integer>
+			<key>Total Time</key><integer>330475</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-02T07:04:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF77587125CCA185</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Alchemy Between Us</string>
+			<key>Artist</key><string>Young Galaxy</string>
+			<key>Album Artist</key><string>Young Galaxy</string>
+			<key>Composer</key><string>Stephen Ramsay</string>
+			<key>Album</key><string>Young Galaxy</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282936971</string>
+			<key>Sort Name</key><string>Alchemy Between Us</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Young%20Galaxy/Young%20Galaxy/11%20The%20Alchemy%20Between%20Us.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>143029</integer>
+			<key>Playlist Persistent ID</key><string>8B77B6038E56C3BD</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Young Galaxy Audit</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>17561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17575</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

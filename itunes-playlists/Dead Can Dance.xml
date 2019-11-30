@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>51195</key>
+		<dict>
+			<key>Track ID</key><integer>51195</integer>
+			<key>Size</key><integer>18379597</integer>
+			<key>Total Time</key><integer>457038</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3647893998</integer>
+			<key>Play Date UTC</key><date>2019-08-06T03:53:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA5A2E1A95AEFEA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Children of the Sun</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Anastasis</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Anastasis/01%20Children%20of%20the%20Sun.mp3</string>
+		</dict>
+		<key>51197</key>
+		<dict>
+			<key>Track ID</key><integer>51197</integer>
+			<key>Size</key><integer>16036924</integer>
+			<key>Total Time</key><integer>398471</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3647894397</integer>
+			<key>Play Date UTC</key><date>2019-08-06T03:59:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>317228675B659EA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Amnesia</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Anastasis</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Anastasis/04%20Amnesia.mp3</string>
+		</dict>
+		<key>51203</key>
+		<dict>
+			<key>Track ID</key><integer>51203</integer>
+			<key>Size</key><integer>13978473</integer>
+			<key>Total Time</key><integer>347010</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3647139736</integer>
+			<key>Play Date UTC</key><date>2019-07-28T10:22:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07D173C3CE570CB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Opium</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Anastasis</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Anastasis/06%20Opium.mp3</string>
+		</dict>
+		<key>51347</key>
+		<dict>
+			<key>Track ID</key><integer>51347</integer>
+			<key>Size</key><integer>8917009</integer>
+			<key>Total Time</key><integer>222876</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3647138581</integer>
+			<key>Play Date UTC</key><date>2019-07-28T10:03:01Z</date>
+			<key>Persistent ID</key><string>C9B606CA8071D869</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Trial</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album Artist</key><string>Dead Can Dance</string>
+			<key>Composer</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Dead Can Dance</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Trial</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Dead%20Can%20Dance/02%20The%20Trial.mp3</string>
+		</dict>
+		<key>51337</key>
+		<dict>
+			<key>Track ID</key><integer>51337</integer>
+			<key>Size</key><integer>9099866</integer>
+			<key>Total Time</key><integer>227448</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3647141396</integer>
+			<key>Play Date UTC</key><date>2019-07-28T10:49:56Z</date>
+			<key>Persistent ID</key><string>BD29F7C7EED72C3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fortune</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album Artist</key><string>Dead Can Dance</string>
+			<key>Composer</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Dead Can Dance</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Dead%20Can%20Dance/04%20Fortune.mp3</string>
+		</dict>
+		<key>51341</key>
+		<dict>
+			<key>Track ID</key><integer>51341</integer>
+			<key>Size</key><integer>9755017</integer>
+			<key>Total Time</key><integer>243826</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3647141891</integer>
+			<key>Play Date UTC</key><date>2019-07-28T10:58:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-06T03:41:26Z</date>
+			<key>Persistent ID</key><string>91D088ED6AA1AA10</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Passage in Time</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album Artist</key><string>Dead Can Dance</string>
+			<key>Composer</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Dead Can Dance</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Passage in Time</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Dead%20Can%20Dance/08%20A%20Passage%20in%20Time.mp3</string>
+		</dict>
+		<key>51219</key>
+		<dict>
+			<key>Track ID</key><integer>51219</integer>
+			<key>Size</key><integer>7085015</integer>
+			<key>Total Time</key><integer>254354</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3647895206</integer>
+			<key>Play Date UTC</key><date>2019-08-06T04:13:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24735ABB44E8A411</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Enigma Of The Absolute</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Memento</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 6</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Memento/06%20Enigma%20Of%20The%20Absolute.mp3</string>
+		</dict>
+		<key>51227</key>
+		<dict>
+			<key>Track ID</key><integer>51227</integer>
+			<key>Size</key><integer>8781804</integer>
+			<key>Total Time</key><integer>326347</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3647894952</integer>
+			<key>Play Date UTC</key><date>2019-08-06T04:09:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F667FE206FD86EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Carnival Is Over</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Memento</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 4</string>
+			<key>Sort Name</key><string>Carnival Is Over</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Memento/04%20The%20Carnival%20Is%20Over.mp3</string>
+		</dict>
+		<key>51217</key>
+		<dict>
+			<key>Track ID</key><integer>51217</integer>
+			<key>Size</key><integer>7145211</integer>
+			<key>Total Time</key><integer>252604</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-01-03T00:23:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3647893543</integer>
+			<key>Play Date UTC</key><date>2019-08-06T03:45:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D7FFEE57F34D162</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In the Kingdom of the Blind, the One-Eyed Are Kings</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Memento</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 8</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Memento/08%20In%20the%20Kingdom%20of%20the%20Blind,%20the%20One-Eyed%20Are%20Kings.mp3</string>
+		</dict>
+		<key>51263</key>
+		<dict>
+			<key>Track ID</key><integer>51263</integer>
+			<key>Size</key><integer>12654515</integer>
+			<key>Total Time</key><integer>251245</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2014-01-03T00:29:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3647141169</integer>
+			<key>Play Date UTC</key><date>2019-07-28T10:46:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2EEF7ED03C1C2909</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In Power We Entrust (The Love Advocated)</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Garden Of The Arcane Delights</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Garden%20Of%20The%20Arcane%20Delights/02%20In%20Power%20We%20Entrust%20(The%20Love%20Advocated).mp3</string>
+		</dict>
+		<key>51261</key>
+		<dict>
+			<key>Track ID</key><integer>51261</integer>
+			<key>Size</key><integer>11775726</integer>
+			<key>Total Time</key><integer>229276</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2014-01-03T00:29:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3647894626</integer>
+			<key>Play Date UTC</key><date>2019-08-06T04:03:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B87A2081158B7480</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Arcane</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Garden Of The Arcane Delights</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Arcane</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Garden%20Of%20The%20Arcane%20Delights/03%20The%20Arcane.mp3</string>
+		</dict>
+		<key>51105</key>
+		<dict>
+			<key>Track ID</key><integer>51105</integer>
+			<key>Size</key><integer>22252561</integer>
+			<key>Total Time</key><integer>555102</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2014-01-03T00:40:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3647139389</integer>
+			<key>Play Date UTC</key><date>2019-07-28T10:16:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2164C3C5D2B0E86</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>How Fortunate the Man with None</string>
+			<key>Artist</key><string>Dead Can Dance</string>
+			<key>Album</key><string>Into the Labyrinth</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Into%20the%20Labyrinth/11%20How%20Fortunate%20the%20Man%20with%20None.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132618</integer>
+			<key>Playlist Persistent ID</key><string>E246C1FC4BF5CED0</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Dead Can Dance</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>51195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51105</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

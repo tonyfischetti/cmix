@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>30667</key>
+		<dict>
+			<key>Track ID</key><integer>30667</integer>
+			<key>Size</key><integer>5200421</integer>
+			<key>Total Time</key><integer>207986</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3647149604</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:06:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D31292F4F8267730</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Feel No Way</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Mama Africa</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/08%20Feel%20No%20Way.mp3</string>
+		</dict>
+		<key>30545</key>
+		<dict>
+			<key>Track ID</key><integer>30545</integer>
+			<key>Size</key><integer>8383039</integer>
+			<key>Total Time</key><integer>348630</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-03-14T15:03:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647150792</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:26:32Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-07-18T11:36:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6766FBFE3A35A76E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bush Doctor</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Captured Live</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Captured%20Live/2-05%20Bush%20Doctor.mp3</string>
+		</dict>
+		<key>30493</key>
+		<dict>
+			<key>Track ID</key><integer>30493</integer>
+			<key>Size</key><integer>7164930</integer>
+			<key>Total Time</key><integer>297848</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3647150223</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:17:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-01T23:51:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>996EAB648675CD04</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fight Apartheid</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>No Nuclear War</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/03%20Fight%20Apartheid.mp3</string>
+		</dict>
+		<key>30673</key>
+		<dict>
+			<key>Track ID</key><integer>30673</integer>
+			<key>Size</key><integer>8556430</integer>
+			<key>Total Time</key><integer>347820</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647149396</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:03:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-01T21:58:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B03B2BD360EC393</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Not Gonna Give Up</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Mama Africa</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/03%20Not%20Gonna%20Give%20Up.mp3</string>
+		</dict>
+		<key>30503</key>
+		<dict>
+			<key>Track ID</key><integer>30503</integer>
+			<key>Size</key><integer>6395675</integer>
+			<key>Total Time</key><integer>265795</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646282070</integer>
+			<key>Play Date UTC</key><date>2019-07-18T12:07:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A31180B68F707BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Come Together</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>No Nuclear War</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/08%20Come%20Together.mp3</string>
+		</dict>
+		<key>30527</key>
+		<dict>
+			<key>Track ID</key><integer>30527</integer>
+			<key>Size</key><integer>3528704</integer>
+			<key>Total Time</key><integer>146964</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613068153</integer>
+			<key>Play Date UTC</key><date>2018-06-29T02:02:33Z</date>
+			<key>Persistent ID</key><string>AD4A28AC8773486E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Watcha Gonna Do</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Legalize It</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Legalize%20It/03%20Watcha%20Gonna%20Do.mp3</string>
+		</dict>
+		<key>30499</key>
+		<dict>
+			<key>Track ID</key><integer>30499</integer>
+			<key>Size</key><integer>5619529</integer>
+			<key>Total Time</key><integer>233456</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3647151521</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:38:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8720DCF4D41D14D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lessons In My Life</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>No Nuclear War</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/06%20Lessons%20In%20My%20Life.mp3</string>
+		</dict>
+		<key>30505</key>
+		<dict>
+			<key>Track ID</key><integer>30505</integer>
+			<key>Size</key><integer>6954903</integer>
+			<key>Total Time</key><integer>289097</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3647152074</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:47:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67B83E5C9A42CC81</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nah Goa Jail</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>No Nuclear War</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/02%20Nah%20Goa%20Jail.mp3</string>
+		</dict>
+		<key>30665</key>
+		<dict>
+			<key>Track ID</key><integer>30665</integer>
+			<key>Size</key><integer>8669899</integer>
+			<key>Total Time</key><integer>352548</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3647152426</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:53:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66C69F6DCBC6212D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Glasshouse</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Mama Africa</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/02%20Glasshouse.mp3</string>
+		</dict>
+		<key>30529</key>
+		<dict>
+			<key>Track ID</key><integer>30529</integer>
+			<key>Size</key><integer>5615616</integer>
+			<key>Total Time</key><integer>233952</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647151287</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:34:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-29T02:18:04Z</date>
+			<key>Persistent ID</key><string>6BB3B79C0D7AF269</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Burial</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Legalize It</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Legalize%20It/02%20Burial.mp3</string>
+		</dict>
+		<key>30671</key>
+		<dict>
+			<key>Track ID</key><integer>30671</integer>
+			<key>Size</key><integer>6552725</integer>
+			<key>Total Time</key><integer>264333</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647151785</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:43:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4BFF8A072E93A3AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Maga Dog</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Mama Africa</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/09%20Maga%20Dog.mp3</string>
+		</dict>
+		<key>30551</key>
+		<dict>
+			<key>Track ID</key><integer>30551</integer>
+			<key>Size</key><integer>6293399</integer>
+			<key>Total Time</key><integer>261537</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-03-14T15:02:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3647151053</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:30:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6DE26392F242818</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Coming in Hot</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Captured Live</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Captured%20Live/1-04%20Coming%20in%20Hot.mp3</string>
+		</dict>
+		<key>30645</key>
+		<dict>
+			<key>Track ID</key><integer>30645</integer>
+			<key>Size</key><integer>9473611</integer>
+			<key>Total Time</key><integer>220656</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647150443</integer>
+			<key>Play Date UTC</key><date>2019-07-28T13:20:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-23T01:18:08Z</date>
+			<key>Release Date</key><date>1977-01-01T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9D646E7485580D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>African</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Equal Rights</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Equal%20Rights/06%20African.mp3</string>
+		</dict>
+		<key>30655</key>
+		<dict>
+			<key>Track ID</key><integer>30655</integer>
+			<key>Size</key><integer>11303234</integer>
+			<key>Total Time</key><integer>266396</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-18T11:36:47Z</date>
+			<key>Release Date</key><date>1977-01-01T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33B2AC33FE1B8F5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Am That I Am</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Equal Rights</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Equal%20Rights/03%20I%20Am%20That%20I%20Am.mp3</string>
+		</dict>
+		<key>30613</key>
+		<dict>
+			<key>Track ID</key><integer>30613</integer>
+			<key>Size</key><integer>8652616</integer>
+			<key>Total Time</key><integer>201142</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613069878</integer>
+			<key>Play Date UTC</key><date>2018-06-29T02:31:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-18T11:40:56Z</date>
+			<key>Release Date</key><date>1979-01-01T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BB473B03C0914C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fight On</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Mystic Man</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mystic%20Man/05%20Fight%20On.mp3</string>
+		</dict>
+		<key>30543</key>
+		<dict>
+			<key>Track ID</key><integer>30543</integer>
+			<key>Size</key><integer>8159856</integer>
+			<key>Total Time</key><integer>339330</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-03-14T15:03:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647148502</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:48:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-07-18T11:36:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>580DA3393B12CDBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Glass House (live)</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Captured Live</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Captured%20Live/2-02%20Glass%20House%20(live).mp3</string>
+		</dict>
+		<key>30531</key>
+		<dict>
+			<key>Track ID</key><integer>30531</integer>
+			<key>Size</key><integer>7023207</integer>
+			<key>Total Time</key><integer>291944</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2014-03-14T15:02:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647148908</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:55:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-29T02:11:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F0F000C772EB3363</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pick Myself Up</string>
+			<key>Artist</key><string>Peter Tosh</string>
+			<key>Album Artist</key><string>Peter Tosh</string>
+			<key>Album</key><string>Captured Live</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Captured%20Live/1-02%20Pick%20Myself%20Up.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137715</integer>
+			<key>Playlist Persistent ID</key><string>9A3DEBC071F5C659</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Peter Tosh</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30531</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

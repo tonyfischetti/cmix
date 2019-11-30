@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>33211</key>
+		<dict>
+			<key>Track ID</key><integer>33211</integer>
+			<key>Size</key><integer>17867812</integer>
+			<key>Total Time</key><integer>1773583</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3649349195</integer>
+			<key>Play Date UTC</key><date>2019-08-23T00:06:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4442AAD802B8150C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 14</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit14</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/15%20Unit%2014.mp3</string>
+		</dict>
+		<key>33231</key>
+		<dict>
+			<key>Track ID</key><integer>33231</integer>
+			<key>Size</key><integer>18223600</integer>
+			<key>Total Time</key><integer>1809162</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3649442805</integer>
+			<key>Play Date UTC</key><date>2019-08-24T02:06:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A57560AB9F356562</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 15</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit15</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/16%20Unit%2015.mp3</string>
+		</dict>
+		<key>33255</key>
+		<dict>
+			<key>Track ID</key><integer>33255</integer>
+			<key>Size</key><integer>18410114</integer>
+			<key>Total Time</key><integer>1827813</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>253CA59D44A4B244</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 16</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit16</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/17%20Unit%2016.mp3</string>
+		</dict>
+		<key>33233</key>
+		<dict>
+			<key>Track ID</key><integer>33233</integer>
+			<key>Size</key><integer>18188857</integer>
+			<key>Total Time</key><integer>1805688</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F3B62EF3C7AD095</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 17</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit17</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/18%20Unit%2017.mp3</string>
+		</dict>
+		<key>33257</key>
+		<dict>
+			<key>Track ID</key><integer>33257</integer>
+			<key>Size</key><integer>18444857</integer>
+			<key>Total Time</key><integer>1831288</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>732D4B3DE8258C5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 18</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit18</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/19%20Unit%2018.mp3</string>
+		</dict>
+		<key>33209</key>
+		<dict>
+			<key>Track ID</key><integer>33209</integer>
+			<key>Size</key><integer>18528971</integer>
+			<key>Total Time</key><integer>1839699</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>262E2B9F8D5774B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 19</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit19</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/20%20Unit%2019.mp3</string>
+		</dict>
+		<key>33235</key>
+		<dict>
+			<key>Track ID</key><integer>33235</integer>
+			<key>Size</key><integer>18468890</integer>
+			<key>Total Time</key><integer>1833691</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A050D520C6A35144</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 20</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit20</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/21%20Unit%2020.mp3</string>
+		</dict>
+		<key>33265</key>
+		<dict>
+			<key>Track ID</key><integer>33265</integer>
+			<key>Size</key><integer>18356563</integer>
+			<key>Total Time</key><integer>1822458</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CBC7877FA14674A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 21</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit21</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/22%20Unit%2021.mp3</string>
+		</dict>
+		<key>33227</key>
+		<dict>
+			<key>Track ID</key><integer>33227</integer>
+			<key>Size</key><integer>18467845</integer>
+			<key>Total Time</key><integer>1833586</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C00563B555D52E09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 22</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit22</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/23%20Unit%2022.mp3</string>
+		</dict>
+		<key>33241</key>
+		<dict>
+			<key>Track ID</key><integer>33241</integer>
+			<key>Size</key><integer>18468890</integer>
+			<key>Total Time</key><integer>1833691</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB873FE3B2264EE8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 23</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit23</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/24%20Unit%2023.mp3</string>
+		</dict>
+		<key>33219</key>
+		<dict>
+			<key>Track ID</key><integer>33219</integer>
+			<key>Size</key><integer>18416906</integer>
+			<key>Total Time</key><integer>1828493</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-05T18:25:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6CBB70D13A2B0410</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 24</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit24</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/25%20Unit%2024.mp3</string>
+		</dict>
+		<key>33221</key>
+		<dict>
+			<key>Track ID</key><integer>33221</integer>
+			<key>Size</key><integer>18491355</integer>
+			<key>Total Time</key><integer>1835937</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8A10992F94FFFA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 25</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit25</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/26%20Unit%2025.mp3</string>
+		</dict>
+		<key>33263</key>
+		<dict>
+			<key>Track ID</key><integer>33263</integer>
+			<key>Size</key><integer>18875355</integer>
+			<key>Total Time</key><integer>1874337</integer>
+			<key>Track Number</key><integer>27</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>168BA4B23F027719</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 26</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit26</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/27%20Unit%2026.mp3</string>
+		</dict>
+		<key>33247</key>
+		<dict>
+			<key>Track ID</key><integer>33247</integer>
+			<key>Size</key><integer>18391306</integer>
+			<key>Total Time</key><integer>1825933</integer>
+			<key>Track Number</key><integer>28</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CE99730C80AD10F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 27</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit27</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/28%20Unit%2027.mp3</string>
+		</dict>
+		<key>33261</key>
+		<dict>
+			<key>Track ID</key><integer>33261</integer>
+			<key>Size</key><integer>18448253</integer>
+			<key>Total Time</key><integer>1831627</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D0AD2FE89B82EE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 28</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit28</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/29%20Unit%2028.mp3</string>
+		</dict>
+		<key>33253</key>
+		<dict>
+			<key>Track ID</key><integer>33253</integer>
+			<key>Size</key><integer>18287600</integer>
+			<key>Total Time</key><integer>1815562</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50A2F67178B7AC14</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 29</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit29</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/30%20Unit%2029.mp3</string>
+		</dict>
+		<key>33237</key>
+		<dict>
+			<key>Track ID</key><integer>33237</integer>
+			<key>Size</key><integer>18207927</integer>
+			<key>Total Time</key><integer>1807595</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-06-19T00:56:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFD453334B5EF5BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 30</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 1, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442319875_Greek1_Unit30</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%201,%20Units%201-30/31%20Unit%2030.mp3</string>
+		</dict>
+		<key>54171</key>
+		<dict>
+			<key>Track ID</key><integer>54171</integer>
+			<key>Size</key><integer>18480830</integer>
+			<key>Total Time</key><integer>1834893</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:50Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>016237E31A5B2960</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 1</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit01</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/02%20Unit%201.mp3</string>
+		</dict>
+		<key>54173</key>
+		<dict>
+			<key>Track ID</key><integer>54173</integer>
+			<key>Size</key><integer>18011671</integer>
+			<key>Total Time</key><integer>1787977</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:50Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C321BD69C87EEE13</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 2</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit02</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/03%20Unit%202.mp3</string>
+		</dict>
+		<key>54175</key>
+		<dict>
+			<key>Track ID</key><integer>54175</integer>
+			<key>Size</key><integer>18052683</integer>
+			<key>Total Time</key><integer>1792078</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:52Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99562DAAFD16EC83</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 3</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit03</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/04%20Unit%203.mp3</string>
+		</dict>
+		<key>54177</key>
+		<dict>
+			<key>Track ID</key><integer>54177</integer>
+			<key>Size</key><integer>17446642</integer>
+			<key>Total Time</key><integer>1731474</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:52Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4FF96F106F00DC64</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 4</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit04</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/05%20Unit%204.mp3</string>
+		</dict>
+		<key>54179</key>
+		<dict>
+			<key>Track ID</key><integer>54179</integer>
+			<key>Size</key><integer>17930169</integer>
+			<key>Total Time</key><integer>1779826</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:52Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2DF8A8C8A4CF37BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 5</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit05</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/06%20Unit%205.mp3</string>
+		</dict>
+		<key>54181</key>
+		<dict>
+			<key>Track ID</key><integer>54181</integer>
+			<key>Size</key><integer>17636030</integer>
+			<key>Total Time</key><integer>1750413</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:54Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>496466EC9BE9211E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 6</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit06</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/07%20Unit%206.mp3</string>
+		</dict>
+		<key>54183</key>
+		<dict>
+			<key>Track ID</key><integer>54183</integer>
+			<key>Size</key><integer>17546430</integer>
+			<key>Total Time</key><integer>1741453</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:54Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7297B5CD2A885B5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 7</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit07</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/08%20Unit%207.mp3</string>
+		</dict>
+		<key>54185</key>
+		<dict>
+			<key>Track ID</key><integer>54185</integer>
+			<key>Size</key><integer>17306626</integer>
+			<key>Total Time</key><integer>1717472</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:56Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>942BCE7158C43503</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 8</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit08</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/09%20Unit%208.mp3</string>
+		</dict>
+		<key>54187</key>
+		<dict>
+			<key>Track ID</key><integer>54187</integer>
+			<key>Size</key><integer>17310022</integer>
+			<key>Total Time</key><integer>1717812</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:56Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2101EA7BF34E93A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 9</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit09</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/10%20Unit%209.mp3</string>
+		</dict>
+		<key>54189</key>
+		<dict>
+			<key>Track ID</key><integer>54189</integer>
+			<key>Size</key><integer>17484782</integer>
+			<key>Total Time</key><integer>1735288</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:58Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28A2425E3E45298B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 10</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit10</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/11%20Unit%2010.mp3</string>
+		</dict>
+		<key>54191</key>
+		<dict>
+			<key>Track ID</key><integer>54191</integer>
+			<key>Size</key><integer>16662448</integer>
+			<key>Total Time</key><integer>1653054</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:58Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB321FE7B49D794D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 11</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit11</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/12%20Unit%2011.mp3</string>
+		</dict>
+		<key>54193</key>
+		<dict>
+			<key>Track ID</key><integer>54193</integer>
+			<key>Size</key><integer>17477207</integer>
+			<key>Total Time</key><integer>1734530</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:01:58Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4617720FE689EAEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 12</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit12</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/13%20Unit%2012.mp3</string>
+		</dict>
+		<key>54195</key>
+		<dict>
+			<key>Track ID</key><integer>54195</integer>
+			<key>Size</key><integer>17074660</integer>
+			<key>Total Time</key><integer>1694275</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:00Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C451320FB28E8870</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 13</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit13</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/14%20Unit%2013.mp3</string>
+		</dict>
+		<key>54197</key>
+		<dict>
+			<key>Track ID</key><integer>54197</integer>
+			<key>Size</key><integer>17630807</integer>
+			<key>Total Time</key><integer>1749890</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:00Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D33E50A273E7B447</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 14</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit14</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/15%20Unit%2014.mp3</string>
+		</dict>
+		<key>54199</key>
+		<dict>
+			<key>Track ID</key><integer>54199</integer>
+			<key>Size</key><integer>17782317</integer>
+			<key>Total Time</key><integer>1765041</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:00Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79ABA0426214057D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 15</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit15</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/16%20Unit%2015.mp3</string>
+		</dict>
+		<key>54201</key>
+		<dict>
+			<key>Track ID</key><integer>54201</integer>
+			<key>Size</key><integer>17119852</integer>
+			<key>Total Time</key><integer>1698795</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:04Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F902CD31CFB91641</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 16</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit16</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/17%20Unit%2016.mp3</string>
+		</dict>
+		<key>54203</key>
+		<dict>
+			<key>Track ID</key><integer>54203</integer>
+			<key>Size</key><integer>17190905</integer>
+			<key>Total Time</key><integer>1705900</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:04Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A3D1390FC2EE749A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 17</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit17</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/18%20Unit%2017.mp3</string>
+		</dict>
+		<key>54205</key>
+		<dict>
+			<key>Track ID</key><integer>54205</integer>
+			<key>Size</key><integer>17730594</integer>
+			<key>Total Time</key><integer>1759869</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:04Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4BFA611ABABC54C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 18</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit18</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/19%20Unit%2018.mp3</string>
+		</dict>
+		<key>54207</key>
+		<dict>
+			<key>Track ID</key><integer>54207</integer>
+			<key>Size</key><integer>17280505</integer>
+			<key>Total Time</key><integer>1714860</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:06Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>988EF5E43143A3D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 19</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit19</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/20%20Unit%2019.mp3</string>
+		</dict>
+		<key>54209</key>
+		<dict>
+			<key>Track ID</key><integer>54209</integer>
+			<key>Size</key><integer>17648047</integer>
+			<key>Total Time</key><integer>1751614</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:08Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B9EE668FB653FAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 20</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit20</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/21%20Unit%2020.mp3</string>
+		</dict>
+		<key>54211</key>
+		<dict>
+			<key>Track ID</key><integer>54211</integer>
+			<key>Size</key><integer>17940619</integer>
+			<key>Total Time</key><integer>1780871</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:08Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E1B7F9A978502C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 21</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit21</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/22%20Unit%2021.mp3</string>
+		</dict>
+		<key>54213</key>
+		<dict>
+			<key>Track ID</key><integer>54213</integer>
+			<key>Size</key><integer>18236586</integer>
+			<key>Total Time</key><integer>1810468</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:10Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8EC329D28F29A18A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 22</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit22</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/23%20Unit%2022.mp3</string>
+		</dict>
+		<key>54215</key>
+		<dict>
+			<key>Track ID</key><integer>54215</integer>
+			<key>Size</key><integer>17690366</integer>
+			<key>Total Time</key><integer>1755846</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:10Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>04356FC9A298003C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 23</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit23</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/24%20Unit%2023.mp3</string>
+		</dict>
+		<key>54217</key>
+		<dict>
+			<key>Track ID</key><integer>54217</integer>
+			<key>Size</key><integer>17121158</integer>
+			<key>Total Time</key><integer>1698925</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:10Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F9C58D4A5E0AB8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 24</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit24</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/25%20Unit%2024.mp3</string>
+		</dict>
+		<key>54219</key>
+		<dict>
+			<key>Track ID</key><integer>54219</integer>
+			<key>Size</key><integer>16792276</integer>
+			<key>Total Time</key><integer>1666037</integer>
+			<key>Track Number</key><integer>26</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:12Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C48060509883F8B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 25</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit25</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/26%20Unit%2025.mp3</string>
+		</dict>
+		<key>54221</key>
+		<dict>
+			<key>Track ID</key><integer>54221</integer>
+			<key>Size</key><integer>17011182</integer>
+			<key>Total Time</key><integer>1687928</integer>
+			<key>Track Number</key><integer>27</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:12Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D6441769904BFF2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 26</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit26</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/27%20Unit%2026.mp3</string>
+		</dict>
+		<key>54223</key>
+		<dict>
+			<key>Track ID</key><integer>54223</integer>
+			<key>Size</key><integer>17563672</integer>
+			<key>Total Time</key><integer>1743177</integer>
+			<key>Track Number</key><integer>28</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:12Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F8E40351D966BFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 27</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit27</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/28%20Unit%2027.mp3</string>
+		</dict>
+		<key>54225</key>
+		<dict>
+			<key>Track ID</key><integer>54225</integer>
+			<key>Size</key><integer>16794888</integer>
+			<key>Total Time</key><integer>1666298</integer>
+			<key>Track Number</key><integer>29</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:14Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>209CB2D2C040AE2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 28</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit28</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/29%20Unit%2028.mp3</string>
+		</dict>
+		<key>54227</key>
+		<dict>
+			<key>Track ID</key><integer>54227</integer>
+			<key>Size</key><integer>16595313</integer>
+			<key>Total Time</key><integer>1646341</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:14Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7764884233D5751</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 29</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit29</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/30%20Unit%2029.mp3</string>
+		</dict>
+		<key>54229</key>
+		<dict>
+			<key>Track ID</key><integer>54229</integer>
+			<key>Size</key><integer>16988717</integer>
+			<key>Total Time</key><integer>1685681</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-06-19T01:02:14Z</date>
+			<key>Date Added</key><date>2019-08-11T23:11:36Z</date>
+			<key>Bit Rate</key><integer>80</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5526155A18F9D770</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Unit 30</string>
+			<key>Artist</key><string>Pimsleur</string>
+			<key>Album</key><string>Greek (Modern) Phase 2, Units 1-30</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 9781442320246_Greek2_Unit30</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Greek%20(Modern)%20Phase%202,%20Units%201-30/31%20Unit%2030.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137735</integer>
+			<key>Playlist Persistent ID</key><string>5AB26F0B9E2CDCB4</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Pimsleur Greek</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54229</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

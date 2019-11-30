@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>7593</key>
+		<dict>
+			<key>Track ID</key><integer>7593</integer>
+			<key>Size</key><integer>4749880</integer>
+			<key>Total Time</key><integer>180140</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606847655</integer>
+			<key>Play Date UTC</key><date>2018-04-18T02:07:35Z</date>
+			<key>Persistent ID</key><string>274E45694C9AE569</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>California Girls</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Distortion</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Distortion/02%20California%20Girls.mp3</string>
+		</dict>
+		<key>7651</key>
+		<dict>
+			<key>Track ID</key><integer>7651</integer>
+			<key>Size</key><integer>7137490</integer>
+			<key>Total Time</key><integer>220238</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1940D679EBDF3622</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Don't Believe You</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merrit</string>
+			<key>Album</key><string>I</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No synths</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Sort Album Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/I/02%20I%20Don't%20Believe%20You.mp3</string>
+		</dict>
+		<key>7659</key>
+		<dict>
+			<key>Track ID</key><integer>7659</integer>
+			<key>Size</key><integer>5056757</integer>
+			<key>Total Time</key><integer>153573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606117057</integer>
+			<key>Play Date UTC</key><date>2018-04-09T15:10:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9DB5939CE273B94F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Don't Really Love You Anymore</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merrit</string>
+			<key>Album</key><string>I</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No synths</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Sort Album Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/I/03%20I%20Don't%20Really%20Love%20You%20Anymore.mp3</string>
+		</dict>
+		<key>7655</key>
+		<dict>
+			<key>Track ID</key><integer>7655</integer>
+			<key>Size</key><integer>8466322</integer>
+			<key>Total Time</key><integer>264254</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606848251</integer>
+			<key>Play Date UTC</key><date>2018-04-18T02:17:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B0D038C22F8AD55</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Thought You Were My Boyfriend</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merrit</string>
+			<key>Album</key><string>I</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No synths</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Sort Album Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/I/05%20I%20Thought%20You%20Were%20My%20Boyfriend.mp3</string>
+		</dict>
+		<key>7657</key>
+		<dict>
+			<key>Track ID</key><integer>7657</integer>
+			<key>Size</key><integer>6113616</integer>
+			<key>Total Time</key><integer>196466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AA75652A9B830599</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Wish I Had An Evil Twin</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merrit</string>
+			<key>Album</key><string>I</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No synths</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Sort Album Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/I/07%20I%20Wish%20I%20Had%20An%20Evil%20Twin.mp3</string>
+		</dict>
+		<key>7661</key>
+		<dict>
+			<key>Track ID</key><integer>7661</integer>
+			<key>Size</key><integer>5850681</integer>
+			<key>Total Time</key><integer>177893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>259</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>46CF8284EC86402B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>If There's Such A Thing As Love</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merrit</string>
+			<key>Album</key><string>I</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No synths</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Sort Album Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/I/08%20If%20There's%20Such%20A%20Thing%20As%20Love.mp3</string>
+		</dict>
+		<key>7647</key>
+		<dict>
+			<key>Track ID</key><integer>7647</integer>
+			<key>Size</key><integer>3857915</integer>
+			<key>Total Time</key><integer>122880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8741DCCD3AF2E8BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In An Operetta</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merrit</string>
+			<key>Album</key><string>I</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No synths</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Sort Album Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/I/10%20In%20An%20Operetta.mp3</string>
+		</dict>
+		<key>7837</key>
+		<dict>
+			<key>Track ID</key><integer>7837</integer>
+			<key>Size</key><integer>6432866</integer>
+			<key>Total Time</key><integer>194403</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87882EB94BF85ADF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Must Be Out Of Your Mind</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Realism</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Realism/01%20You%20Must%20Be%20Out%20Of%20Your%20Mind.mp3</string>
+		</dict>
+		<key>7827</key>
+		<dict>
+			<key>Track ID</key><integer>7827</integer>
+			<key>Size</key><integer>4335363</integer>
+			<key>Total Time</key><integer>132545</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6E74F95300A64EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Painted Flower</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Realism</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Realism/11%20Painted%20Flower.mp3</string>
+		</dict>
+		<key>7779</key>
+		<dict>
+			<key>Track ID</key><integer>7779</integer>
+			<key>Size</key><integer>3419311</integer>
+			<key>Total Time</key><integer>200385</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>BPM</key><integer>999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>136</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>84EA2597C8B30A40</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>100,000 Fireflies</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Merit</string>
+			<key>Album</key><string>The Wayward Bus / Distant Plastic Trees</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Wayward Bus / Distant Plastic Trees</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/The%20Wayward%20Bus%20_%20Distant%20Plastic%20Trees/21%20100,000%20Fireflies.mp3</string>
+		</dict>
+		<key>7665</key>
+		<dict>
+			<key>Track ID</key><integer>7665</integer>
+			<key>Size</key><integer>2313717</integer>
+			<key>Total Time</key><integer>94824</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D49EF2D8E0BDBD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Absolutely Cuckoo</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-01%20Absolutely%20Cuckoo.mp3</string>
+		</dict>
+		<key>7697</key>
+		<dict>
+			<key>Track ID</key><integer>7697</integer>
+			<key>Size</key><integer>6194477</integer>
+			<key>Total Time</key><integer>256522</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-18T02:10:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6EC8EB4AABD6CE27</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Don't Believe In The Sun</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-02%20I%20Don't%20Believe%20In%20The%20Sun.mp3</string>
+		</dict>
+		<key>7679</key>
+		<dict>
+			<key>Track ID</key><integer>7679</integer>
+			<key>Size</key><integer>4026516</integer>
+			<key>Total Time</key><integer>166191</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>221253A10929D782</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All My Little Words</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-03%20All%20My%20Little%20Words.mp3</string>
+		</dict>
+		<key>7693</key>
+		<dict>
+			<key>Track ID</key><integer>7693</integer>
+			<key>Size</key><integer>3920575</integer>
+			<key>Total Time</key><integer>161776</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E43328A4B89F8C62</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Chicken With Its Head Cut Off</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Chicken With Its Head Cut Off</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-04%20A%20Chicken%20With%20Its%20Head%20Cut%20Off.mp3</string>
+		</dict>
+		<key>7677</key>
+		<dict>
+			<key>Track ID</key><integer>7677</integer>
+			<key>Size</key><integer>1606524</integer>
+			<key>Total Time</key><integer>65358</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F4577BC76A43677</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Reno Dakota</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-05%20Reno%20Dakota.mp3</string>
+		</dict>
+		<key>7699</key>
+		<dict>
+			<key>Track ID</key><integer>7699</integer>
+			<key>Size</key><integer>3461653</integer>
+			<key>Total Time</key><integer>142654</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7E5C65F4E44DB4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Don't Want To Get Over You</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-06%20I%20Don't%20Want%20To%20Get%20Over%20You.mp3</string>
+		</dict>
+		<key>7707</key>
+		<dict>
+			<key>Track ID</key><integer>7707</integer>
+			<key>Size</key><integer>4072918</integer>
+			<key>Total Time</key><integer>168124</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3806D85E11BDD9E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Come Back From San Francisco</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-07%20Come%20Back%20From%20San%20Francisco.mp3</string>
+		</dict>
+		<key>7673</key>
+		<dict>
+			<key>Track ID</key><integer>7673</integer>
+			<key>Size</key><integer>5399532</integer>
+			<key>Total Time</key><integer>223399</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23A6C26D49A9B76D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Luckiest Guy On The Lower East Side</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Luckiest Guy On The Lower East Side</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-08%20The%20Luckiest%20Guy%20On%20The%20Lower%20East%20Side.mp3</string>
+		</dict>
+		<key>7695</key>
+		<dict>
+			<key>Track ID</key><integer>7695</integer>
+			<key>Size</key><integer>3704904</integer>
+			<key>Total Time</key><integer>152790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5ACA2F1CEB87A37</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Think I Need A New Heart</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-11%20I%20Think%20I%20Need%20A%20New%20Heart.mp3</string>
+		</dict>
+		<key>7687</key>
+		<dict>
+			<key>Track ID</key><integer>7687</integer>
+			<key>Size</key><integer>3937489</integer>
+			<key>Total Time</key><integer>162481</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E5DAA6AEE88D570</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Book Of Love</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Book Of Love</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-12%20The%20Book%20Of%20Love.mp3</string>
+		</dict>
+		<key>7691</key>
+		<dict>
+			<key>Track ID</key><integer>7691</integer>
+			<key>Size</key><integer>3734372</integer>
+			<key>Total Time</key><integer>154017</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-18T02:07:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2C3FA83E53DD831</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fido, Your Leash Is Too Long</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-13%20Fido,%20Your%20Leash%20Is%20Too%20Long.mp3</string>
+		</dict>
+		<key>7681</key>
+		<dict>
+			<key>Track ID</key><integer>7681</integer>
+			<key>Size</key><integer>4198302</integer>
+			<key>Total Time</key><integer>173348</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-18T02:10:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F32E4A1D5D2D10CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The One You Really Love</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>One You Really Love</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-15%20The%20One%20You%20Really%20Love.mp3</string>
+		</dict>
+		<key>7669</key>
+		<dict>
+			<key>Track ID</key><integer>7669</integer>
+			<key>Size</key><integer>4276660</integer>
+			<key>Total Time</key><integer>176613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E96758AFB295A02</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Parades Go By</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-17%20Parades%20Go%20By.mp3</string>
+		</dict>
+		<key>7709</key>
+		<dict>
+			<key>Track ID</key><integer>7709</integer>
+			<key>Size</key><integer>2694278</integer>
+			<key>Total Time</key><integer>110680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13A3B0FEC13617D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Pretty Girl Is Like ...</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Pretty Girl Is Like ...</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-19%20A%20Pretty%20Girl%20Is%20Like%20....mp3</string>
+		</dict>
+		<key>7701</key>
+		<dict>
+			<key>Track ID</key><integer>7701</integer>
+			<key>Size</key><integer>3576390</integer>
+			<key>Total Time</key><integer>147435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F5AE848F9CDD07B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nothing Matters When We're Dancing</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-21%20Nothing%20Matters%20When%20We're%20Dancing.mp3</string>
+		</dict>
+		<key>7683</key>
+		<dict>
+			<key>Track ID</key><integer>7683</integer>
+			<key>Size</key><integer>7223275</integer>
+			<key>Total Time</key><integer>299389</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC6820AFCC7D2EBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sweet-Lovin' Man</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-22%20Sweet-Lovin'%20Man.mp3</string>
+		</dict>
+		<key>7919</key>
+		<dict>
+			<key>Track ID</key><integer>7919</integer>
+			<key>Size</key><integer>3801533</integer>
+			<key>Total Time</key><integer>158302</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>2FAA382F51F8A4D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When My Boy Walks Down The Street</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 2</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%202/2-03%20When%20My%20Boy%20Walks%20Down%20The%20Street.mp3</string>
+		</dict>
+		<key>7887</key>
+		<dict>
+			<key>Track ID</key><integer>7887</integer>
+			<key>Size</key><integer>2908755</integer>
+			<key>Total Time</key><integer>121103</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>12A2F3752A97650B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Only Friend</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 2</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%202/2-11%20My%20Only%20Friend.mp3</string>
+		</dict>
+		<key>7901</key>
+		<dict>
+			<key>Track ID</key><integer>7901</integer>
+			<key>Size</key><integer>2720048</integer>
+			<key>Total Time</key><integer>113240</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606848364</integer>
+			<key>Play Date UTC</key><date>2018-04-18T02:19:24Z</date>
+			<key>Persistent ID</key><string>5658E90E476ED2E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Washington, D.C.</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 2</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%202/2-14%20Washington,%20D.C..mp3</string>
+		</dict>
+		<key>7885</key>
+		<dict>
+			<key>Track ID</key><integer>7885</integer>
+			<key>Size</key><integer>5214019</integer>
+			<key>Total Time</key><integer>217155</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>60DEB1E5AF3B7DA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Long-Forgotten Fairytale</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 2</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%202/2-15%20Long-Forgotten%20Fairytale.mp3</string>
+		</dict>
+		<key>7859</key>
+		<dict>
+			<key>Track ID</key><integer>7859</integer>
+			<key>Size</key><integer>5203356</integer>
+			<key>Total Time</key><integer>216711</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>94D894789C0AA5E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Busby Berkeley Dreams</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Meritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 3</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%203/3-03%20Busby%20Berkeley%20Dreams.mp3</string>
+		</dict>
+		<key>7847</key>
+		<dict>
+			<key>Track ID</key><integer>7847</integer>
+			<key>Size</key><integer>3311889</integer>
+			<key>Total Time</key><integer>137900</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606848502</integer>
+			<key>Play Date UTC</key><date>2018-04-18T02:21:42Z</date>
+			<key>Persistent ID</key><string>E79056F34F837E38</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Night You Can't Remember</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Meritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 3</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Night You Can't Remember</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%203/3-19%20The%20Night%20You%20Can't%20Remember.mp3</string>
+		</dict>
+		<key>7711</key>
+		<dict>
+			<key>Track ID</key><integer>7711</integer>
+			<key>Size</key><integer>5734928</integer>
+			<key>Total Time</key><integer>132702</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFEB0D5A1B511516</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Andrew in Drag</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/02%20Andrew%20in%20Drag.mp3</string>
+		</dict>
+		<key>7717</key>
+		<dict>
+			<key>Track ID</key><integer>7717</integer>
+			<key>Size</key><integer>6034822</integer>
+			<key>Total Time</key><integer>140199</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF78AF8F5DBE6CBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Your Girlfriend's Face</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/03%20Your%20Girlfriend's%20Face.mp3</string>
+		</dict>
+		<key>7731</key>
+		<dict>
+			<key>Track ID</key><integer>7731</integer>
+			<key>Size</key><integer>5569843</integer>
+			<key>Total Time</key><integer>128574</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>396A83516CEC2E28</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Don't Like Your Tone</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/13%20I%20Don't%20Like%20Your%20Tone.mp3</string>
+		</dict>
+		<key>7615</key>
+		<dict>
+			<key>Track ID</key><integer>7615</integer>
+			<key>Size</key><integer>8329088</integer>
+			<key>Total Time</key><integer>204930</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21D10982D290DCB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Dreaming Moon</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>Get Lost</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Dreaming Moon</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Get%20Lost/13%20The%20Dreaming%20Moon.mp3</string>
+		</dict>
+		<key>7829</key>
+		<dict>
+			<key>Track ID</key><integer>7829</integer>
+			<key>Size</key><integer>4575472</integer>
+			<key>Total Time</key><integer>144796</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>236</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>40D6EDBAFF6F2AF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everything Is One Big Christmas Tree</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Realism</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Realism/06%20Everything%20Is%20One%20Big%20Christmas%20Tree.mp3</string>
+		</dict>
+		<key>7813</key>
+		<dict>
+			<key>Track ID</key><integer>7813</integer>
+			<key>Size</key><integer>4488140</integer>
+			<key>Total Time</key><integer>139467</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E3F10123428B7D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Dolls' Tea Party</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Realism</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Dolls' Tea Party</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Realism/05%20The%20Dolls'%20Tea%20Party.mp3</string>
+		</dict>
+		<key>7721</key>
+		<dict>
+			<key>Track ID</key><integer>7721</integer>
+			<key>Size</key><integer>6355591</integer>
+			<key>Total Time</key><integer>148218</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>46C3C2C04D8B6C6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Quick!</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/14%20Quick!.mp3</string>
+		</dict>
+		<key>7631</key>
+		<dict>
+			<key>Track ID</key><integer>7631</integer>
+			<key>Size</key><integer>6045987</integer>
+			<key>Total Time</key><integer>147853</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D01078183F30805</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>With Whom To Dance?</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>Get Lost</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Get%20Lost/04%20With%20Whom%20To%20Dance_.mp3</string>
+		</dict>
+		<key>7633</key>
+		<dict>
+			<key>Track ID</key><integer>7633</integer>
+			<key>Size</key><integer>7332260</integer>
+			<key>Total Time</key><integer>180009</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38CB8C41C3BE02D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You And Me And The Moon</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>Get Lost</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Get%20Lost/05%20You%20And%20Me%20And%20The%20Moon.mp3</string>
+		</dict>
+		<key>7611</key>
+		<dict>
+			<key>Track ID</key><integer>7611</integer>
+			<key>Size</key><integer>7417945</integer>
+			<key>Total Time</key><integer>182151</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>960CAD377FBFD7F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Save A Secret For The Moon</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>Get Lost</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Get%20Lost/07%20Save%20A%20Secret%20For%20The%20Moon.mp3</string>
+		</dict>
+		<key>7625</key>
+		<dict>
+			<key>Track ID</key><integer>7625</integer>
+			<key>Size</key><integer>8826451</integer>
+			<key>Total Time</key><integer>217364</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F29A9DB887C471E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Why I Cry</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>Get Lost</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Get%20Lost/08%20Why%20I%20Cry.mp3</string>
+		</dict>
+		<key>7623</key>
+		<dict>
+			<key>Track ID</key><integer>7623</integer>
+			<key>Size</key><integer>8079367</integer>
+			<key>Total Time</key><integer>198687</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7BBBFD29F897C96</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All The Umbrellas In London</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>Get Lost</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Get%20Lost/12%20All%20The%20Umbrellas%20In%20London.mp3</string>
+		</dict>
+		<key>7757</key>
+		<dict>
+			<key>Track ID</key><integer>7757</integer>
+			<key>Size</key><integer>3713751</integer>
+			<key>Total Time</key><integer>185573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FED40C84F8E71DA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lonely Highway</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>The Charm Of The Highway Strip</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Charm Of The Highway Strip</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/The%20Charm%20Of%20The%20Highway%20Strip/01%20Lonely%20Highway.mp3</string>
+		</dict>
+		<key>7745</key>
+		<dict>
+			<key>Track ID</key><integer>7745</integer>
+			<key>Size</key><integer>4517279</integer>
+			<key>Total Time</key><integer>225750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-18T02:12:59Z</date>
+			<key>Persistent ID</key><string>A9C84832F6F815F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Born On A Train</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>The Charm Of The Highway Strip</string>
+			<key>Genre</key><string>Alternative &amp; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Charm Of The Highway Strip</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/The%20Charm%20Of%20The%20Highway%20Strip/03%20Born%20On%20A%20Train.mp3</string>
+		</dict>
+		<key>7609</key>
+		<dict>
+			<key>Track ID</key><integer>7609</integer>
+			<key>Size</key><integer>4785244</integer>
+			<key>Total Time</key><integer>180009</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>699F20D7CDB53147</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Too Drunk To Dream</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Distortion</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Distortion/08%20Too%20Drunk%20To%20Dream.mp3</string>
+		</dict>
+		<key>7599</key>
+		<dict>
+			<key>Track ID</key><integer>7599</integer>
+			<key>Size</key><integer>4873684</integer>
+			<key>Total Time</key><integer>178155</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>51187EE566D7277C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Nun's Litany</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Distortion</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Nun's Litany</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Distortion/11%20The%20Nun's%20Litany.mp3</string>
+		</dict>
+		<key>7557</key>
+		<dict>
+			<key>Track ID</key><integer>7557</integer>
+			<key>Size</key><integer>530432</integer>
+			<key>Total Time</key><integer>22047</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>472CBE64051A9EAB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>BBC Radiophonic Workshop</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Holiday</string>
+			<key>Genre</key><string>Lo-Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Holiday/01%20BBC%20Radiophonic%20Workshop.mp3</string>
+		</dict>
+		<key>7581</key>
+		<dict>
+			<key>Track ID</key><integer>7581</integer>
+			<key>Size</key><integer>3008512</integer>
+			<key>Total Time</key><integer>125492</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>340E14407EFA0A41</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Deep Sea Diving Suit</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Holiday</string>
+			<key>Genre</key><string>Lo-Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Holiday/03%20Deep%20Sea%20Diving%20Suit.mp3</string>
+		</dict>
+		<key>7575</key>
+		<dict>
+			<key>Track ID</key><integer>7575</integer>
+			<key>Size</key><integer>3874816</integer>
+			<key>Total Time</key><integer>161645</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>15AAAFB41129721F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Strange Powers</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Holiday</string>
+			<key>Genre</key><string>Lo-Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Holiday/04%20Strange%20Powers.mp3</string>
+		</dict>
+		<key>7567</key>
+		<dict>
+			<key>Track ID</key><integer>7567</integer>
+			<key>Size</key><integer>3180544</integer>
+			<key>Total Time</key><integer>132702</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7481D38D6CEDD075</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sad Little Moon</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Holiday</string>
+			<key>Genre</key><string>Lo-Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Holiday/09%20Sad%20Little%20Moon.mp3</string>
+		</dict>
+		<key>7725</key>
+		<dict>
+			<key>Track ID</key><integer>7725</integer>
+			<key>Size</key><integer>5455946</integer>
+			<key>Total Time</key><integer>125727</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>454718137FBB81D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>God Wants Us to Wait</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/01%20God%20Wants%20Us%20to%20Wait.mp3</string>
+		</dict>
+		<key>7727</key>
+		<dict>
+			<key>Track ID</key><integer>7727</integer>
+			<key>Size</key><integer>6182155</integer>
+			<key>Total Time</key><integer>143882</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C0205246CAA566B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Machine in Your Hand</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Machine in Your Hand</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/08%20The%20Machine%20in%20Your%20Hand.mp3</string>
+		</dict>
+		<key>7703</key>
+		<dict>
+			<key>Track ID</key><integer>7703</integer>
+			<key>Size</key><integer>1449168</integer>
+			<key>Total Time</key><integer>58801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>453945E6AFD7AF1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Boa Constrictor</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-18%20Boa%20Constrictor.mp3</string>
+		</dict>
+		<key>7793</key>
+		<dict>
+			<key>Track ID</key><integer>7793</integer>
+			<key>Size</key><integer>2641875</integer>
+			<key>Total Time</key><integer>163657</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>BPM</key><integer>999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>129</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-18T02:13:05Z</date>
+			<key>Persistent ID</key><string>D14050441514DB0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>When You Were My Baby</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Merit</string>
+			<key>Album</key><string>The Wayward Bus / Distant Plastic Trees</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Wayward Bus / Distant Plastic Trees</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/The%20Wayward%20Bus%20_%20Distant%20Plastic%20Trees/01%20When%20You%20Were%20My%20Baby.mp3</string>
+		</dict>
+		<key>7791</key>
+		<dict>
+			<key>Track ID</key><integer>7791</integer>
+			<key>Size</key><integer>2247533</integer>
+			<key>Total Time</key><integer>132545</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>BPM</key><integer>999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>135</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C30D5982828CA181</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Saddest Story Ever Told</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Merit</string>
+			<key>Album</key><string>The Wayward Bus / Distant Plastic Trees</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Saddest Story Ever Told</string>
+			<key>Sort Album</key><string>Wayward Bus / Distant Plastic Trees</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/The%20Wayward%20Bus%20_%20Distant%20Plastic%20Trees/02%20The%20Saddest%20Story%20Ever%20Told.mp3</string>
+		</dict>
+		<key>7781</key>
+		<dict>
+			<key>Track ID</key><integer>7781</integer>
+			<key>Size</key><integer>2832669</integer>
+			<key>Total Time</key><integer>152528</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>BPM</key><integer>999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>148</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C822015BA4967659</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Candy</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Merit</string>
+			<key>Album</key><string>The Wayward Bus / Distant Plastic Trees</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Wayward Bus / Distant Plastic Trees</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/The%20Wayward%20Bus%20_%20Distant%20Plastic%20Trees/04%20Candy.mp3</string>
+		</dict>
+		<key>7685</key>
+		<dict>
+			<key>Track ID</key><integer>7685</integer>
+			<key>Size</key><integer>1748866</integer>
+			<key>Total Time</key><integer>71288</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C463D897D1323296</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Cactus Where Your Heart Should Be</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Cactus Where Your Heart Should Be</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-10%20The%20Cactus%20Where%20Your%20Heart%20Should%20Be.mp3</string>
+		</dict>
+		<key>7675</key>
+		<dict>
+			<key>Track ID</key><integer>7675</integer>
+			<key>Size</key><integer>3526860</integer>
+			<key>Total Time</key><integer>145371</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C85283AA5E4DD57</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Let's Pretend We're Bunny Rabbits</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-09%20Let's%20Pretend%20We're%20Bunny%20Rabbits.mp3</string>
+		</dict>
+		<key>7911</key>
+		<dict>
+			<key>Track ID</key><integer>7911</integer>
+			<key>Size</key><integer>4093048</integer>
+			<key>Total Time</key><integer>170448</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606847828</integer>
+			<key>Play Date UTC</key><date>2018-04-18T02:10:28Z</date>
+			<key>Persistent ID</key><string>11D178FD22233D3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Epitaph For My Heart</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 2</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%202/2-18%20Epitaph%20For%20My%20Heart.mp3</string>
+		</dict>
+		<key>7909</key>
+		<dict>
+			<key>Track ID</key><integer>7909</integer>
+			<key>Size</key><integer>3309373</integer>
+			<key>Total Time</key><integer>137795</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>2BC5C29A6D6F5344</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You're My Only Home</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 2</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%202/2-09%20You're%20My%20Only%20Home.mp3</string>
+		</dict>
+		<key>7775</key>
+		<dict>
+			<key>Track ID</key><integer>7775</integer>
+			<key>Size</key><integer>2871990</integer>
+			<key>Total Time</key><integer>172826</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>BPM</key><integer>999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>132</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E98EB775B369C30F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lovers From The Moon</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Merit</string>
+			<key>Album</key><string>The Wayward Bus / Distant Plastic Trees</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Wayward Bus / Distant Plastic Trees</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/The%20Wayward%20Bus%20_%20Distant%20Plastic%20Trees/03%20Lovers%20From%20The%20Moon.mp3</string>
+		</dict>
+		<key>7861</key>
+		<dict>
+			<key>Track ID</key><integer>7861</integer>
+			<key>Size</key><integer>4587088</integer>
+			<key>Total Time</key><integer>191033</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>790FB34ACF7DBFFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Death Of Ferdinand De Saussure</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Meritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 3</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Death Of Ferdinand De Saussure</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%203/3-06%20The%20Death%20Of%20Ferdinand%20De%20Saussure.mp3</string>
+		</dict>
+		<key>7863</key>
+		<dict>
+			<key>Track ID</key><integer>7863</integer>
+			<key>Size</key><integer>3081786</integer>
+			<key>Total Time</key><integer>128313</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606847966</integer>
+			<key>Play Date UTC</key><date>2018-04-18T02:12:46Z</date>
+			<key>Persistent ID</key><string>83A618B7251007A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Meaningless</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Meritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 3</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%203/3-12%20Meaningless.mp3</string>
+		</dict>
+		<key>7875</key>
+		<dict>
+			<key>Track ID</key><integer>7875</integer>
+			<key>Size</key><integer>2557682</integer>
+			<key>Total Time</key><integer>106475</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>4CB67FD7AE71A326</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Is Like A Bottle Of Gin</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Meritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 3</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%203/3-13%20Love%20Is%20Like%20A%20Bottle%20Of%20Gin.mp3</string>
+		</dict>
+		<key>7871</key>
+		<dict>
+			<key>Track ID</key><integer>7871</integer>
+			<key>Size</key><integer>4461065</integer>
+			<key>Total Time</key><integer>185782</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>6E455A1410EDAAD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Can't Touch You Anymore</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Meritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 3</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%203/3-16%20I%20Can't%20Touch%20You%20Anymore.mp3</string>
+		</dict>
+		<key>7607</key>
+		<dict>
+			<key>Track ID</key><integer>7607</integer>
+			<key>Size</key><integer>5215239</integer>
+			<key>Total Time</key><integer>181342</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3C5EB2671B93210E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Three-Way</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Distortion</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Distortion/01%20Three-Way.mp3</string>
+		</dict>
+		<key>7849</key>
+		<dict>
+			<key>Track ID</key><integer>7849</integer>
+			<key>Size</key><integer>3358270</integer>
+			<key>Total Time</key><integer>139833</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Persistent ID</key><string>406F0A7C3F5A7E9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Yeah! Oh, Yeah!</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephen Meritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 3</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%203/3-10%20Yeah!%20Oh,%20Yeah!.mp3</string>
+		</dict>
+		<key>7689</key>
+		<dict>
+			<key>Track ID</key><integer>7689</integer>
+			<key>Size</key><integer>1448546</integer>
+			<key>Total Time</key><integer>58775</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6477A3EBE3DEF088</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>How Fucking Romantic</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>69 Love Songs, Vol. 1</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/69%20Love%20Songs,%20Vol.%201/1-14%20How%20Fucking%20Romantic.mp3</string>
+		</dict>
+		<key>7737</key>
+		<dict>
+			<key>Track ID</key><integer>7737</integer>
+			<key>Size</key><integer>5266825</integer>
+			<key>Total Time</key><integer>120999</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5D2BEEA0F147BF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Goin' Back to the Country</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/09%20Goin'%20Back%20to%20the%20Country.mp3</string>
+		</dict>
+		<key>7831</key>
+		<dict>
+			<key>Track ID</key><integer>7831</integer>
+			<key>Size</key><integer>4351949</integer>
+			<key>Total Time</key><integer>130638</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2884346FF59AB5C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Are Having A Hootenanny</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Realism</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Realism/03%20We%20Are%20Having%20A%20Hootenanny.mp3</string>
+		</dict>
+		<key>7719</key>
+		<dict>
+			<key>Track ID</key><integer>7719</integer>
+			<key>Size</key><integer>6763126</integer>
+			<key>Total Time</key><integer>158406</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D49DDE311A05C79</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All She Cares About Is Mariachi</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/15%20All%20She%20Cares%20About%20Is%20Mariachi.mp3</string>
+		</dict>
+		<key>7729</key>
+		<dict>
+			<key>Track ID</key><integer>7729</integer>
+			<key>Size</key><integer>5729722</integer>
+			<key>Total Time</key><integer>132571</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-18T02:04:34Z</date>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9498A793F7D43A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Infatuation (With Your Gyration)</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Album</key><string>Love at the Bottom of the Sea</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/Love%20at%20the%20Bottom%20of%20the%20Sea/06%20Infatuation%20(With%20Your%20Gyration).mp3</string>
+		</dict>
+		<key>7767</key>
+		<dict>
+			<key>Track ID</key><integer>7767</integer>
+			<key>Size</key><integer>3495551</integer>
+			<key>Total Time</key><integer>145554</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2013-10-19T05:13:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>10EF4AEAF2020AB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Goes Home to Paris in the Spring</string>
+			<key>Artist</key><string>The Magnetic Fields</string>
+			<key>Composer</key><string>Stephin Merritt</string>
+			<key>Album</key><string>House Of Tomorrow</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Magnetic Fields</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Magnetic%20Fields/House%20Of%20Tomorrow/04%20Love%20Goes%20Home%20to%20Paris%20in%20the%20Spring.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>141711</integer>
+			<key>Playlist Persistent ID</key><string>DE1BADC68D687F4B</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Magnetic Fields</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7837</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7919</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7781</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7911</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7909</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7775</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7767</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

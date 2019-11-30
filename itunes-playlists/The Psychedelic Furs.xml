@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>43695</key>
+		<dict>
+			<key>Track ID</key><integer>43695</integer>
+			<key>Size</key><integer>9645159</integer>
+			<key>Total Time</key><integer>341342</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623690476</integer>
+			<key>Play Date UTC</key><date>2018-10-30T00:41:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-17T01:33:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D05D32E7D1B11F3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sister Europe</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/02%20Sister%20Europe.mp3</string>
+		</dict>
+		<key>43699</key>
+		<dict>
+			<key>Track ID</key><integer>43699</integer>
+			<key>Size</key><integer>4636034</integer>
+			<key>Total Time</key><integer>192600</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646158725</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:52:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-17T01:16:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>978A104A8E533612</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Susan's Strange</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/03%20Susan's%20Strange.mp3</string>
+		</dict>
+		<key>43703</key>
+		<dict>
+			<key>Track ID</key><integer>43703</integer>
+			<key>Size</key><integer>3861813</integer>
+			<key>Total Time</key><integer>160339</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646159000</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:56:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B81C690BC7FA20B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fall</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/04%20Fall.mp3</string>
+		</dict>
+		<key>43697</key>
+		<dict>
+			<key>Track ID</key><integer>43697</integer>
+			<key>Size</key><integer>5006551</integer>
+			<key>Total Time</key><integer>208039</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646158180</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:43:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-03T19:43:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FEB7E80749D13199</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Love You</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/05%20We%20Love%20You.mp3</string>
+		</dict>
+		<key>43689</key>
+		<dict>
+			<key>Track ID</key><integer>43689</integer>
+			<key>Size</key><integer>4192836</integer>
+			<key>Total Time</key><integer>174132</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623687574</integer>
+			<key>Play Date UTC</key><date>2018-10-29T23:52:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B45F983A9725AA8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Soap Commercial</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/06%20Soap%20Commercial.mp3</string>
+		</dict>
+		<key>43691</key>
+		<dict>
+			<key>Track ID</key><integer>43691</integer>
+			<key>Size</key><integer>7949454</integer>
+			<key>Total Time</key><integer>330657</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646157973</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:39:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4836A6089099188D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Imitation Of Christ</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/07%20Imitation%20Of%20Christ.mp3</string>
+		</dict>
+		<key>43701</key>
+		<dict>
+			<key>Track ID</key><integer>43701</integer>
+			<key>Size</key><integer>3851782</integer>
+			<key>Total Time</key><integer>159921</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB036A2CD61433D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pulse</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/08%20Pulse.mp3</string>
+		</dict>
+		<key>43705</key>
+		<dict>
+			<key>Track ID</key><integer>43705</integer>
+			<key>Size</key><integer>6110587</integer>
+			<key>Total Time</key><integer>254040</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646158532</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:48:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF5ED4CE680D0FD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Flowers</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>The Psychedelic Furs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Psychedelic Furs</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/The%20Psychedelic%20Furs/10%20Flowers.mp3</string>
+		</dict>
+		<key>43641</key>
+		<dict>
+			<key>Track ID</key><integer>43641</integer>
+			<key>Size</key><integer>9641073</integer>
+			<key>Total Time</key><integer>238341</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2014-01-03T01:54:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623687400</integer>
+			<key>Play Date UTC</key><date>2018-10-29T23:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F689A427E563ED13</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pretty In Pink</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Talk Talk Talk</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Talk%20Talk%20Talk/02%20Pretty%20In%20Pink.mp3</string>
+		</dict>
+		<key>43715</key>
+		<dict>
+			<key>Track ID</key><integer>43715</integer>
+			<key>Size</key><integer>8361960</integer>
+			<key>Total Time</key><integer>207333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2014-01-03T01:53:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623689573</integer>
+			<key>Play Date UTC</key><date>2018-10-30T00:26:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-17T01:34:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E41F94ECCFE8A3D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heaven</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Composer</key><string>Timothy Butler</string>
+			<key>Album</key><string>Mirror Moves</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Mirror%20Moves/03%20Heaven.mp3</string>
+		</dict>
+		<key>43683</key>
+		<dict>
+			<key>Track ID</key><integer>43683</integer>
+			<key>Size</key><integer>8592586</integer>
+			<key>Total Time</key><integer>214047</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2014-01-03T01:56:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623688141</integer>
+			<key>Play Date UTC</key><date>2018-10-30T00:02:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>330FFCB43969031D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love My Way</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Forever Now</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Forever%20Now/02%20Love%20My%20Way.mp3</string>
+		</dict>
+		<key>43709</key>
+		<dict>
+			<key>Track ID</key><integer>43709</integer>
+			<key>Size</key><integer>10381876</integer>
+			<key>Total Time</key><integer>257828</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2014-01-03T01:53:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646157183</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:26:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F5E1AD65B78F75D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Ghost In You</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Composer</key><string>Timothy Butler/Vincent Davey/John Ashton/Roger Morris/Duncan Kilburn</string>
+			<key>Album</key><string>Mirror Moves</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Ghost In You</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Mirror%20Moves/01%20The%20Ghost%20In%20You.mp3</string>
+		</dict>
+		<key>43717</key>
+		<dict>
+			<key>Track ID</key><integer>43717</integer>
+			<key>Size</key><integer>12910401</integer>
+			<key>Total Time</key><integer>321044</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2014-01-03T01:53:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646156925</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:22:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1BF3EC56BCF09566</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heartbeat</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Composer</key><string>John Ashton</string>
+			<key>Album</key><string>Mirror Moves</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Mirror%20Moves/04%20Heartbeat.mp3</string>
+		</dict>
+		<key>43645</key>
+		<dict>
+			<key>Track ID</key><integer>43645</integer>
+			<key>Size</key><integer>12282126</integer>
+			<key>Total Time</key><integer>304039</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2014-01-03T01:54:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623690135</integer>
+			<key>Play Date UTC</key><date>2018-10-30T00:35:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-17T01:33:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E993622D7E7EBFA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dumb Waiters</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Talk Talk Talk</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Talk%20Talk%20Talk/01%20Dumb%20Waiters.mp3</string>
+		</dict>
+		<key>43643</key>
+		<dict>
+			<key>Track ID</key><integer>43643</integer>
+			<key>Size</key><integer>7965065</integer>
+			<key>Total Time</key><integer>196649</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2014-01-03T01:54:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646159197</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:59:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B31963B93088EB79</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No Tears</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Talk Talk Talk</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Talk%20Talk%20Talk/04%20No%20Tears.mp3</string>
+		</dict>
+		<key>43647</key>
+		<dict>
+			<key>Track ID</key><integer>43647</integer>
+			<key>Size</key><integer>7071416</integer>
+			<key>Total Time</key><integer>174419</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2014-01-03T01:54:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623689366</integer>
+			<key>Play Date UTC</key><date>2018-10-30T00:22:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-17T01:33:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B24199AA3E2654B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>So Run Down</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Talk Talk Talk</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Talk%20Talk%20Talk/08%20So%20Run%20Down.mp3</string>
+		</dict>
+		<key>43639</key>
+		<dict>
+			<key>Track ID</key><integer>43639</integer>
+			<key>Size</key><integer>9421592</integer>
+			<key>Total Time</key><integer>232881</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2014-01-03T01:54:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646157621</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:33:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57AB2B6D4A73AF61</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>She Is Mine</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Talk Talk Talk</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Talk%20Talk%20Talk/10%20She%20Is%20Mine.mp3</string>
+		</dict>
+		<key>43637</key>
+		<dict>
+			<key>Track ID</key><integer>43637</integer>
+			<key>Size</key><integer>8331808</integer>
+			<key>Total Time</key><integer>205792</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2014-01-07T19:39:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646157388</integer>
+			<key>Play Date UTC</key><date>2019-07-17T01:29:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>64AA6962EB6C5007</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mr. Jones</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Talk Talk Talk</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Talk%20Talk%20Talk/11%20Mr.%20Jones.mp3</string>
+		</dict>
+		<key>43677</key>
+		<dict>
+			<key>Track ID</key><integer>43677</integer>
+			<key>Size</key><integer>9178773</integer>
+			<key>Total Time</key><integer>228702</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2014-01-03T01:56:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646159425</integer>
+			<key>Play Date UTC</key><date>2019-07-17T02:03:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-03T19:43:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A81CFA7B6BD17FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Run and Run</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Forever Now</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Forever%20Now/07%20Run%20and%20Run.mp3</string>
+		</dict>
+		<key>43669</key>
+		<dict>
+			<key>Track ID</key><integer>43669</integer>
+			<key>Size</key><integer>10348019</integer>
+			<key>Total Time</key><integer>257933</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2014-01-03T01:56:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623688653</integer>
+			<key>Play Date UTC</key><date>2018-10-30T00:10:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>008A22FED729548B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alice's House</string>
+			<key>Artist</key><string>The Psychedelic Furs</string>
+			<key>Album</key><string>Forever Now</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Psychedelic Furs</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Psychedelic%20Furs/Forever%20Now/11%20Alice's%20House.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>141878</integer>
+			<key>Playlist Persistent ID</key><string>A0BED2B8DD1EFA00</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Psychedelic Furs</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>43695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43669</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

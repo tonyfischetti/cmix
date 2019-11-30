@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>46485</key>
+		<dict>
+			<key>Track ID</key><integer>46485</integer>
+			<key>Size</key><integer>3583709</integer>
+			<key>Total Time</key><integer>149315</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E6E7027D3F5EFAD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Break on Through</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/01%20Break%20on%20Through.mp3</string>
+		</dict>
+		<key>46495</key>
+		<dict>
+			<key>Track ID</key><integer>46495</integer>
+			<key>Size</key><integer>5163594</integer>
+			<key>Total Time</key><integer>215144</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7E686524F625AEA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Soul Kitchen</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/02%20Soul%20Kitchen.mp3</string>
+		</dict>
+		<key>46497</key>
+		<dict>
+			<key>Track ID</key><integer>46497</integer>
+			<key>Size</key><integer>3718500</integer>
+			<key>Total Time</key><integer>154932</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>027F313995F164AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Crystal Ship</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>Crystal Ship</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/03%20The%20Crystal%20Ship.mp3</string>
+		</dict>
+		<key>46493</key>
+		<dict>
+			<key>Track ID</key><integer>46493</integer>
+			<key>Size</key><integer>3695931</integer>
+			<key>Total Time</key><integer>153991</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C11F845C5F2AB7EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Twentienth Century Fox</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/04%20Twentienth%20Century%20Fox.mp3</string>
+		</dict>
+		<key>46491</key>
+		<dict>
+			<key>Track ID</key><integer>46491</integer>
+			<key>Size</key><integer>4803105</integer>
+			<key>Total Time</key><integer>200124</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>81F12F88296A2A4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alabama Song</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/05%20Alabama%20Song.mp3</string>
+		</dict>
+		<key>46487</key>
+		<dict>
+			<key>Track ID</key><integer>46487</integer>
+			<key>Size</key><integer>10286311</integer>
+			<key>Total Time</key><integer>428591</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>36600DE9229F966C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Light My Fire</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/06%20Light%20My%20Fire.mp3</string>
+		</dict>
+		<key>46505</key>
+		<dict>
+			<key>Track ID</key><integer>46505</integer>
+			<key>Size</key><integer>5142905</integer>
+			<key>Total Time</key><integer>214282</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2DF6E62AB7B96A66</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Back Door Man</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/07%20Back%20Door%20Man.mp3</string>
+		</dict>
+		<key>46499</key>
+		<dict>
+			<key>Track ID</key><integer>46499</integer>
+			<key>Size</key><integer>3290928</integer>
+			<key>Total Time</key><integer>137116</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C3F30A4BBFC17CC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Take It As It Comes</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/10%20Take%20It%20As%20It%20Comes.mp3</string>
+		</dict>
+		<key>46501</key>
+		<dict>
+			<key>Track ID</key><integer>46501</integer>
+			<key>Size</key><integer>16887349</integer>
+			<key>Total Time</key><integer>703634</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>58EE730D90D807FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The End</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Doors</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>End</string>
+			<key>Sort Album</key><string>Doors</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/The%20Doors/11%20The%20End.mp3</string>
+		</dict>
+		<key>46383</key>
+		<dict>
+			<key>Track ID</key><integer>46383</integer>
+			<key>Size</key><integer>7550964</integer>
+			<key>Total Time</key><integer>472999</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A04CD2B9AAF94B7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>L.A. Woman</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>L.A. Woman</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/L.A.%20Woman/32%20L.A.%20Woman.mp3</string>
+		</dict>
+		<key>46385</key>
+		<dict>
+			<key>Track ID</key><integer>46385</integer>
+			<key>Size</key><integer>3206247</integer>
+			<key>Total Time</key><integer>200829</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>52BAAA91663F9063</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Her Madly</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>L.A. Woman</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/L.A.%20Woman/32%20Love%20Her%20Madly.mp3</string>
+		</dict>
+		<key>46395</key>
+		<dict>
+			<key>Track ID</key><integer>46395</integer>
+			<key>Size</key><integer>6949236</integer>
+			<key>Total Time</key><integer>435304</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A6CC0DBF03917035</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Riders On The Storm</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>L.A. Woman</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/L.A.%20Woman/32%20Riders%20On%20The%20Storm.mp3</string>
+		</dict>
+		<key>46407</key>
+		<dict>
+			<key>Track ID</key><integer>46407</integer>
+			<key>Size</key><integer>4955520</integer>
+			<key>Total Time</key><integer>192653</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D073C19DCE50595E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Touch Me</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/01%20Touch%20Me.mp3</string>
+		</dict>
+		<key>46421</key>
+		<dict>
+			<key>Track ID</key><integer>46421</integer>
+			<key>Size</key><integer>5167425</integer>
+			<key>Total Time</key><integer>201482</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4A652B8E19431C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tell All The People</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/03%20Tell%20All%20The%20People.mp3</string>
+		</dict>
+		<key>46423</key>
+		<dict>
+			<key>Track ID</key><integer>46423</integer>
+			<key>Size</key><integer>4047086</integer>
+			<key>Total Time</key><integer>154801</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B4971FAE2F1FAA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Crystal Ship</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>Crystal Ship</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/05%20The%20Crystal%20Ship.mp3</string>
+		</dict>
+		<key>46405</key>
+		<dict>
+			<key>Track ID</key><integer>46405</integer>
+			<key>Size</key><integer>6100937</integer>
+			<key>Total Time</key><integer>240378</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A322E2532C877C67</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Waiting For The Sun</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/06%20Waiting%20For%20The%20Sun.mp3</string>
+		</dict>
+		<key>46403</key>
+		<dict>
+			<key>Track ID</key><integer>46403</integer>
+			<key>Size</key><integer>4624496</integer>
+			<key>Total Time</key><integer>178860</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AA1DBFB9CF4DF04D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Peace Frog</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/08%20Peace%20Frog.mp3</string>
+		</dict>
+		<key>46413</key>
+		<dict>
+			<key>Track ID</key><integer>46413</integer>
+			<key>Size</key><integer>5058338</integer>
+			<key>Total Time</key><integer>196937</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E06060DBBB5591E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Me Two Times</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/09%20Love%20Me%20Two%20Times.mp3</string>
+		</dict>
+		<key>46411</key>
+		<dict>
+			<key>Track ID</key><integer>46411</integer>
+			<key>Size</key><integer>4613838</integer>
+			<key>Total Time</key><integer>178416</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>383E87672169DDFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wishful Sinful</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/04%20Wishful%20Sinful.mp3</string>
+		</dict>
+		<key>46457</key>
+		<dict>
+			<key>Track ID</key><integer>46457</integer>
+			<key>Size</key><integer>3610110</integer>
+			<key>Total Time</key><integer>136594</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17156DCCEA8E28BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hello, I Love You</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/15%20Hello,%20I%20Love%20You.mp3</string>
+		</dict>
+		<key>46433</key>
+		<dict>
+			<key>Track ID</key><integer>46433</integer>
+			<key>Size</key><integer>5266483</integer>
+			<key>Total Time</key><integer>205609</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>549B551CB928DC9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Unknown Soldier</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>Unknown Soldier</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/16%20The%20Unknown%20Soldier.mp3</string>
+		</dict>
+		<key>46419</key>
+		<dict>
+			<key>Track ID</key><integer>46419</integer>
+			<key>Size</key><integer>6756089</integer>
+			<key>Total Time</key><integer>267676</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2013-10-19T05:11:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3273CD6712898EE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Five To One</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>Legacy: The Absolute Best (Dis</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Doors/Legacy_%20The%20Absolute%20Best%20(Dis/18%20Five%20To%20One.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138802</integer>
+			<key>Playlist Persistent ID</key><string>5A557CB6FF80143F</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Doors</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>46485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46419</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

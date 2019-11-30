@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>38163</key>
+		<dict>
+			<key>Track ID</key><integer>38163</integer>
+			<key>Size</key><integer>19155720</integer>
+			<key>Total Time</key><integer>595252</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641240548</integer>
+			<key>Play Date UTC</key><date>2019-05-21T03:42:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8226F54C08FF9656</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's All Gonna Break</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Charles, Kevin, Justin, Andrew, Brendan, James, Evan, Feist, Torguil</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/14%20It's%20All%20Gonna%20Break.mp3</string>
+		</dict>
+		<key>38167</key>
+		<dict>
+			<key>Track ID</key><integer>38167</integer>
+			<key>Size</key><integer>9512566</integer>
+			<key>Total Time</key><integer>293903</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3641328570</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:09:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-06-03T23:16:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C1A71715897893B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>7/4 (Shoreline)</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Justin, Kevin, Feist, Brendan, Andrew, Jason, Evan, Charlie, Jo-ann, David</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/03%207_4%20(Shoreline).mp3</string>
+		</dict>
+		<key>38177</key>
+		<dict>
+			<key>Track ID</key><integer>38177</integer>
+			<key>Size</key><integer>7220482</integer>
+			<key>Total Time</key><integer>222275</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641327648</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:54:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D383C36570D18756</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Our Faces Split The Coast In Half</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Brendan, Charlie, David, Justin, Feist, Evan, Murray, Andrew</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/01%20Our%20Faces%20Split%20The%20Coast%20In%20Half.mp3</string>
+		</dict>
+		<key>23801</key>
+		<dict>
+			<key>Track ID</key><integer>23801</integer>
+			<key>Size</key><integer>8185861</integer>
+			<key>Total Time</key><integer>231653</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>279</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3641331084</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:51:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-27T02:20:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE5958624408B8DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tbtf</string>
+			<key>Artist</key><string>Broken Social Scene Presents Kevin Drew</string>
+			<key>Album</key><string>Spirit If...</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene%20Presents%20Kevin%20Drew/Spirit%20If.._/02%20Tbtf.mp3</string>
+		</dict>
+		<key>23799</key>
+		<dict>
+			<key>Track ID</key><integer>23799</integer>
+			<key>Size</key><integer>10907414</integer>
+			<key>Total Time</key><integer>309498</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>279</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641326575</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:36:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6D0AC1E6822B071</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>F--Ked Up Kid</string>
+			<key>Artist</key><string>Broken Social Scene Presents Kevin Drew</string>
+			<key>Album</key><string>Spirit If...</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene%20Presents%20Kevin%20Drew/Spirit%20If.._/03%20F--Ked%20Up%20Kid.mp3</string>
+		</dict>
+		<key>23789</key>
+		<dict>
+			<key>Track ID</key><integer>23789</integer>
+			<key>Size</key><integer>9540692</integer>
+			<key>Total Time</key><integer>267676</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>282</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641326235</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:30:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E43F6A3008DD868</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Safety Bricks</string>
+			<key>Artist</key><string>Broken Social Scene Presents Kevin Drew</string>
+			<key>Album</key><string>Spirit If...</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene%20Presents%20Kevin%20Drew/Spirit%20If.._/04%20Safety%20Bricks.mp3</string>
+		</dict>
+		<key>23787</key>
+		<dict>
+			<key>Track ID</key><integer>23787</integer>
+			<key>Size</key><integer>14132405</integer>
+			<key>Total Time</key><integer>404532</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>277</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641235957</integer>
+			<key>Play Date UTC</key><date>2019-05-21T02:25:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B69A146E3CB3F6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lucky Ones</string>
+			<key>Artist</key><string>Broken Social Scene Presents Kevin Drew</string>
+			<key>Album</key><string>Spirit If...</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene%20Presents%20Kevin%20Drew/Spirit%20If.._/05%20Lucky%20Ones.mp3</string>
+		</dict>
+		<key>38161</key>
+		<dict>
+			<key>Track ID</key><integer>38161</integer>
+			<key>Size</key><integer>8940777</integer>
+			<key>Total Time</key><integer>276035</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641327426</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:50:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FFCD540D5C44AD2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Windsurfing Nation</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Feist, Kevin, Justin, K-OS, Andrew, Brendan, David</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/07%20Windsurfing%20Nation.mp3</string>
+		</dict>
+		<key>38151</key>
+		<dict>
+			<key>Track ID</key><integer>38151</integer>
+			<key>Size</key><integer>8927394</integer>
+			<key>Total Time</key><integer>275617</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641242962</integer>
+			<key>Play Date UTC</key><date>2019-05-21T04:22:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFCEADCA6F772797</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hotel</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>David, Justin, Brendan, Kevin, Evan, Andrew, Jason, Amy</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/09%20Hotel.mp3</string>
+		</dict>
+		<key>38155</key>
+		<dict>
+			<key>Track ID</key><integer>38155</integer>
+			<key>Size</key><integer>5726655</integer>
+			<key>Total Time</key><integer>175595</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3642433963</integer>
+			<key>Play Date UTC</key><date>2019-06-03T23:12:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BEECD3315C9F820</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Swimmers</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Emily, Brendan, Justin, Kevin, Evan, Charles</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/08%20Swimmers.mp3</string>
+		</dict>
+		<key>38213</key>
+		<dict>
+			<key>Track ID</key><integer>38213</integer>
+			<key>Size</key><integer>5387830</integer>
+			<key>Total Time</key><integer>162612</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:36:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3641236120</integer>
+			<key>Play Date UTC</key><date>2019-05-21T02:28:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4BD59E5BC215426</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All My Friends</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>E.P. To Be You And Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/E.P.%20To%20Be%20You%20And%20Me/05%20All%20My%20Friends.mp3</string>
+		</dict>
+		<key>38207</key>
+		<dict>
+			<key>Track ID</key><integer>38207</integer>
+			<key>Size</key><integer>6344967</integer>
+			<key>Total Time</key><integer>192522</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:36:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641333621</integer>
+			<key>Play Date UTC</key><date>2019-05-22T05:33:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A687F01DAF51AFCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Major Label Debut (Fast)</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>E.P. To Be You And Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/E.P.%20To%20Be%20You%20And%20Me/06%20Major%20Label%20Debut%20(Fast).mp3</string>
+		</dict>
+		<key>38119</key>
+		<dict>
+			<key>Track ID</key><integer>38119</integer>
+			<key>Size</key><integer>7886761</integer>
+			<key>Total Time</key><integer>326034</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-06-19T21:36:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641329802</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:30:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5D919FB382887E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Slept With Bonhomme At The Cbc</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Brendan Canning/Kevin Drew</string>
+			<key>Album</key><string>Feel Good Lost</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Feel%20Good%20Lost/01%20I%20Slept%20With%20Bonhomme%20At%20The%20Cbc.mp3</string>
+		</dict>
+		<key>38113</key>
+		<dict>
+			<key>Track ID</key><integer>38113</integer>
+			<key>Size</key><integer>4479477</integer>
+			<key>Total Time</key><integer>183849</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-06-19T21:36:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641327831</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:57:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A450DC5060D6D0C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Guilty Cubicles</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Brendan Canning/Kevin Drew</string>
+			<key>Album</key><string>Feel Good Lost</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Feel%20Good%20Lost/02%20Guilty%20Cubicles.mp3</string>
+		</dict>
+		<key>38117</key>
+		<dict>
+			<key>Track ID</key><integer>38117</integer>
+			<key>Size</key><integer>8331886</integer>
+			<key>Total Time</key><integer>344607</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-06-19T21:36:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641325967</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:26:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7D996D798F6B5AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love And Mathematics</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Brendan Canning/Kevin Drew</string>
+			<key>Album</key><string>Feel Good Lost</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Feel%20Good%20Lost/03%20Love%20And%20Mathematics.mp3</string>
+		</dict>
+		<key>38109</key>
+		<dict>
+			<key>Track ID</key><integer>38109</integer>
+			<key>Size</key><integer>7905584</integer>
+			<key>Total Time</key><integer>326817</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-06-19T21:36:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641330129</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:35:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21A6BE6455B28A44</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cranley's Gonna Make It</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Brendan Canning/Kevin Drew</string>
+			<key>Album</key><string>Feel Good Lost</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Feel%20Good%20Lost/12%20Cranley's%20Gonna%20Make%20It.mp3</string>
+		</dict>
+		<key>38075</key>
+		<dict>
+			<key>Track ID</key><integer>38075</integer>
+			<key>Size</key><integer>5662350</integer>
+			<key>Total Time</key><integer>230896</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3641233539</integer>
+			<key>Play Date UTC</key><date>2019-05-21T01:45:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>859AAD2E846D324B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>KC Accidental</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/02%20KC%20Accidental.mp3</string>
+		</dict>
+		<key>38081</key>
+		<dict>
+			<key>Track ID</key><integer>38081</integer>
+			<key>Size</key><integer>7538151</integer>
+			<key>Total Time</key><integer>309054</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641236692</integer>
+			<key>Play Date UTC</key><date>2019-05-21T02:38:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F7A93802C7F2369</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stars And Sons</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/03%20Stars%20And%20Sons.mp3</string>
+		</dict>
+		<key>38087</key>
+		<dict>
+			<key>Track ID</key><integer>38087</integer>
+			<key>Size</key><integer>6434739</integer>
+			<key>Total Time</key><integer>263079</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641236383</integer>
+			<key>Play Date UTC</key><date>2019-05-21T02:33:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3744E03C08382D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Almost Crimes (Radio Kills Rem</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/04%20Almost%20Crimes%20(Radio%20Kills%20Rem.mp3</string>
+		</dict>
+		<key>38077</key>
+		<dict>
+			<key>Track ID</key><integer>38077</integer>
+			<key>Size</key><integer>6740693</integer>
+			<key>Total Time</key><integer>275826</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641237852</integer>
+			<key>Play Date UTC</key><date>2019-05-21T02:57:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6047C37C40688EC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Anthems For A Seventeen Year-Old Girl</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/07%20Anthems%20For%20A%20Seventeen%20Year-Old%20Girl.mp3</string>
+		</dict>
+		<key>38093</key>
+		<dict>
+			<key>Track ID</key><integer>38093</integer>
+			<key>Size</key><integer>8064153</integer>
+			<key>Total Time</key><integer>330971</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3641328901</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:15:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>153B74A8F61D43DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cause = Time</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/08%20Cause%20=%20Time.mp3</string>
+		</dict>
+		<key>38089</key>
+		<dict>
+			<key>Track ID</key><integer>38089</integer>
+			<key>Size</key><integer>6459807</integer>
+			<key>Total Time</key><integer>264124</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641327149</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:45:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-26T01:48:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>733D050AEE60D6F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I'm Still Your Fag</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/12%20I'm%20Still%20Your%20Fag.mp3</string>
+		</dict>
+		<key>38085</key>
+		<dict>
+			<key>Track ID</key><integer>38085</integer>
+			<key>Size</key><integer>3631070</integer>
+			<key>Total Time</key><integer>146259</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641330853</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:47:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6E769096AB10CB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pitter Patter Goes My Heart</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/13%20Pitter%20Patter%20Goes%20My%20Heart.mp3</string>
+		</dict>
+		<key>38091</key>
+		<dict>
+			<key>Track ID</key><integer>38091</integer>
+			<key>Size</key><integer>9297952</integer>
+			<key>Total Time</key><integer>382380</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641332560</integer>
+			<key>Play Date UTC</key><date>2019-05-22T05:16:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>37B908351D4B93D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lover's Spit</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/11%20Lover's%20Spit.mp3</string>
+		</dict>
+		<key>38073</key>
+		<dict>
+			<key>Track ID</key><integer>38073</integer>
+			<key>Size</key><integer>6438501</integer>
+			<key>Total Time</key><integer>263235</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641331939</integer>
+			<key>Play Date UTC</key><date>2019-05-22T05:05:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1154138BA64F7332</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Looks Just Like The Sun</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/05%20Looks%20Just%20Like%20The%20Sun.mp3</string>
+		</dict>
+		<key>38147</key>
+		<dict>
+			<key>Track ID</key><integer>38147</integer>
+			<key>Size</key><integer>10464618</integer>
+			<key>Total Time</key><integer>230008</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641328276</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:04:36Z</date>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24153F8A9701D081</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Texico Bitches</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>Forgiveness Rock Record</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Forgiveness%20Rock%20Record/03%20Texico%20Bitches.mp3</string>
+		</dict>
+		<key>38137</key>
+		<dict>
+			<key>Track ID</key><integer>38137</integer>
+			<key>Size</key><integer>17577235</integer>
+			<key>Total Time</key><integer>407823</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3641235289</integer>
+			<key>Play Date UTC</key><date>2019-05-21T02:14:49Z</date>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34BCBDEDFC98D3AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>World Sick</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>Forgiveness Rock Record</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Forgiveness%20Rock%20Record/01%20World%20Sick.mp3</string>
+		</dict>
+		<key>38171</key>
+		<dict>
+			<key>Track ID</key><integer>38171</integer>
+			<key>Size</key><integer>10982094</integer>
+			<key>Total Time</key><integer>339826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641329476</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:24:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F88EEF988A9D257</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Superconnected</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Brendan, Justin, Kevin, Andrew, James, Jason, Emily, David</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/11%20Superconnected.mp3</string>
+		</dict>
+		<key>38153</key>
+		<dict>
+			<key>Track ID</key><integer>38153</integer>
+			<key>Size</key><integer>8695031</integer>
+			<key>Total Time</key><integer>268355</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641330397</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:39:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75588ACE4CFADE50</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Major Label Debut</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Kevin, Justin, Brendan, Andrew, David, Jason, Julie, Amy, Charlie</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/05%20Major%20Label%20Debut.mp3</string>
+		</dict>
+		<key>38129</key>
+		<dict>
+			<key>Track ID</key><integer>38129</integer>
+			<key>Size</key><integer>13639018</integer>
+			<key>Total Time</key><integer>309368</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641331394</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:56:34Z</date>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>81AF7796AA64AD83</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sweetest Kill</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>Forgiveness Rock Record</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Forgiveness%20Rock%20Record/11%20Sweetest%20Kill.mp3</string>
+		</dict>
+		<key>38127</key>
+		<dict>
+			<key>Track ID</key><integer>38127</integer>
+			<key>Size</key><integer>9864847</integer>
+			<key>Total Time</key><integer>215013</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:09:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641328046</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:00:46Z</date>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02383CC269804DB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Forced to Love</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>Forgiveness Rock Record</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Forgiveness%20Rock%20Record/04%20Forced%20to%20Love.mp3</string>
+		</dict>
+		<key>38083</key>
+		<dict>
+			<key>Track ID</key><integer>38083</integer>
+			<key>Size</key><integer>7543794</integer>
+			<key>Total Time</key><integer>309289</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2019-06-19T21:33:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3641330707</integer>
+			<key>Play Date UTC</key><date>2019-05-22T04:45:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0CAB7DD8E5C2908</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pacific Theme</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>You Forgot It In People</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/You%20Forgot%20It%20In%20People/06%20Pacific%20Theme.mp3</string>
+		</dict>
+		<key>38169</key>
+		<dict>
+			<key>Track ID</key><integer>38169</integer>
+			<key>Size</key><integer>7755444</integer>
+			<key>Total Time</key><integer>238994</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-06-19T21:35:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3642434202</integer>
+			<key>Play Date UTC</key><date>2019-06-03T23:16:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>577A6D5AE16545C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fire Eye'd Boy</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Andrew, Brendan, Justin, Kevin, Jason, David, Charles</string>
+			<key>Album</key><string>Broken Social Scene</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Peter's CD, Hipster, Arts &amp; Crafts, Canadian (Toronto)</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Broken%20Social%20Scene/06%20Fire%20Eye'd%20Boy.mp3</string>
+		</dict>
+		<key>38189</key>
+		<dict>
+			<key>Track ID</key><integer>38189</integer>
+			<key>Size</key><integer>9455434</integer>
+			<key>Total Time</key><integer>282017</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-04-02T21:30:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3641331676</integer>
+			<key>Play Date UTC</key><date>2019-05-22T05:01:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78E92B5C37EBD8F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Halfway Home</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Charles Spearin</string>
+			<key>Album</key><string>Hug Of Thunder</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282719027</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Hug%20Of%20Thunder/02%20Halfway%20Home.mp3</string>
+		</dict>
+		<key>38179</key>
+		<dict>
+			<key>Track ID</key><integer>38179</integer>
+			<key>Size</key><integer>9159858</integer>
+			<key>Total Time</key><integer>294948</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-04-02T21:30:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>95</integer>
+			<key>Play Date</key><integer>3641359272</integer>
+			<key>Play Date UTC</key><date>2019-05-22T12:41:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>126143327FFCC7E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hug Of Thunder</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Leslie Feist</string>
+			<key>Album</key><string>Hug Of Thunder</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282719037</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Hug%20Of%20Thunder/07%20Hug%20Of%20Thunder.mp3</string>
+		</dict>
+		<key>38201</key>
+		<dict>
+			<key>Track ID</key><integer>38201</integer>
+			<key>Size</key><integer>8774310</integer>
+			<key>Total Time</key><integer>258142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-04-02T21:30:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3641241935</integer>
+			<key>Play Date UTC</key><date>2019-05-21T04:05:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D5C0E876AE4E4C0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Protest Song</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Charles Spearin</string>
+			<key>Album</key><string>Hug Of Thunder</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282719032</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Hug%20Of%20Thunder/03%20Protest%20Song.mp3</string>
+		</dict>
+		<key>38191</key>
+		<dict>
+			<key>Track ID</key><integer>38191</integer>
+			<key>Size</key><integer>8295305</integer>
+			<key>Total Time</key><integer>251454</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-04-02T21:30:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3642434463</integer>
+			<key>Play Date UTC</key><date>2019-06-03T23:21:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2020DF0A2C6BF5EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Skyline</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Composer</key><string>Charles Spearin</string>
+			<key>Album</key><string>Hug Of Thunder</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 282719033</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Hug%20Of%20Thunder/04%20Skyline.mp3</string>
+		</dict>
+		<key>54069</key>
+		<dict>
+			<key>Track ID</key><integer>54069</integer>
+			<key>Size</key><integer>10436587</integer>
+			<key>Total Time</key><integer>309185</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-05-21T04:22:06Z</date>
+			<key>Date Added</key><date>2019-05-21T00:25:07Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641326885</integer>
+			<key>Play Date UTC</key><date>2019-05-22T03:41:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D87783719786697</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Can't Find My Heart</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>Let's Try The After (Vol. 2)</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 200000313740285</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Let's%20Try%20The%20After%20(Vol.%202)/02%20Can't%20Find%20My%20Heart.mp3</string>
+		</dict>
+		<key>54061</key>
+		<dict>
+			<key>Track ID</key><integer>54061</integer>
+			<key>Size</key><integer>11074791</integer>
+			<key>Total Time</key><integer>323631</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-05-21T04:21:34Z</date>
+			<key>Date Added</key><date>2019-05-21T00:24:44Z</date>
+			<key>Bit Rate</key><integer>271</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641242510</integer>
+			<key>Play Date UTC</key><date>2019-05-21T04:15:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9DA54F1BC739509</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Boyfriends</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>Let's Try The After (Vol. 1)</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 200000309245037</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Let's%20Try%20The%20After%20(Vol.%201)/03%20Boyfriends.mp3</string>
+		</dict>
+		<key>54063</key>
+		<dict>
+			<key>Track ID</key><integer>54063</integer>
+			<key>Size</key><integer>9990188</integer>
+			<key>Total Time</key><integer>293746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-05-21T04:21:34Z</date>
+			<key>Date Added</key><date>2019-05-21T00:24:44Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3641243523</integer>
+			<key>Play Date UTC</key><date>2019-05-21T04:32:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F1A10A8219E01C69</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>1972</string>
+			<key>Artist</key><string>Broken Social Scene</string>
+			<key>Album Artist</key><string>Broken Social Scene</string>
+			<key>Album</key><string>Let's Try The After (Vol. 1)</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 200000309245034</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Broken%20Social%20Scene/Let's%20Try%20The%20After%20(Vol.%201)/04%201972.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131927</integer>
+			<key>Playlist Persistent ID</key><string>6F7DE4013ABF07C9</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Broken Social Scene</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>38163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54063</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

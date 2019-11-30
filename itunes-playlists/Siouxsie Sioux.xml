@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>21931</key>
+		<dict>
+			<key>Track ID</key><integer>21931</integer>
+			<key>Size</key><integer>4229321</integer>
+			<key>Total Time</key><integer>175255</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6EC5A5FD7498B643</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hong Kong Garden</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>John McKay/Kenny Morris/Siouxsie Sioux/Steve Severin</string>
+			<key>Album</key><string>The Best of Siouxsie &amp; the Banshees</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[www.pctrecords.com]</string>
+			<key>Sort Album</key><string>Best of Siouxsie &amp; the Banshees</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Best%20of%20Siouxsie%20&amp;%20the%20Banshees/02%20Hong%20Kong%20Garden.mp3</string>
+		</dict>
+		<key>21933</key>
+		<dict>
+			<key>Track ID</key><integer>21933</integer>
+			<key>Size</key><integer>5599777</integer>
+			<key>Total Time</key><integer>232359</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A22CB2E665D31D64</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Happy House</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>The Best of Siouxsie &amp; the Banshees</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[www.pctrecords.com]</string>
+			<key>Sort Album</key><string>Best of Siouxsie &amp; the Banshees</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Best%20of%20Siouxsie%20&amp;%20the%20Banshees/05%20Happy%20House.mp3</string>
+		</dict>
+		<key>21909</key>
+		<dict>
+			<key>Track ID</key><integer>21909</integer>
+			<key>Size</key><integer>4785382</integer>
+			<key>Total Time</key><integer>198426</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1AB677F43EFC19FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stargazer</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>The Best of Siouxsie &amp; the Banshees</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[www.pctrecords.com]</string>
+			<key>Sort Album</key><string>Best of Siouxsie &amp; the Banshees</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Best%20of%20Siouxsie%20&amp;%20the%20Banshees/12%20Stargazer.mp3</string>
+		</dict>
+		<key>21917</key>
+		<dict>
+			<key>Track ID</key><integer>21917</integer>
+			<key>Size</key><integer>4547152</integer>
+			<key>Total Time</key><integer>188499</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF225E5EA2E53517</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Arabian Knights</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>The Best of Siouxsie &amp; the Banshees</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[www.pctrecords.com]</string>
+			<key>Sort Album</key><string>Best of Siouxsie &amp; the Banshees</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Best%20of%20Siouxsie%20&amp;%20the%20Banshees/13%20Arabian%20Knights.mp3</string>
+		</dict>
+		<key>21905</key>
+		<dict>
+			<key>Track ID</key><integer>21905</integer>
+			<key>Size</key><integer>5765294</integer>
+			<key>Total Time</key><integer>239255</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09C1A8EC9376D5E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Killing Jar</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>The Best of Siouxsie &amp; the Banshees</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[www.pctrecords.com]</string>
+			<key>Sort Name</key><string>Killing Jar</string>
+			<key>Sort Album</key><string>Best of Siouxsie &amp; the Banshees</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Best%20of%20Siouxsie%20&amp;%20the%20Banshees/14%20The%20Killing%20Jar.mp3</string>
+		</dict>
+		<key>21929</key>
+		<dict>
+			<key>Track ID</key><integer>21929</integer>
+			<key>Size</key><integer>3994736</integer>
+			<key>Total Time</key><integer>249025</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>695F692236A348B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Passenger</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>The Best of Siouxsie &amp; the Banshees</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Passenger</string>
+			<key>Sort Album</key><string>Best of Siouxsie &amp; the Banshees</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Best%20of%20Siouxsie%20&amp;%20the%20Banshees/16%20The%20Passenger.mp3</string>
+		</dict>
+		<key>21943</key>
+		<dict>
+			<key>Track ID</key><integer>21943</integer>
+			<key>Size</key><integer>6535482</integer>
+			<key>Total Time</key><integer>224522</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ECA9E1720CB2BF49</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Candyman</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/01%20Candyman.mp3</string>
+		</dict>
+		<key>21937</key>
+		<dict>
+			<key>Track ID</key><integer>21937</integer>
+			<key>Size</key><integer>6316717</integer>
+			<key>Total Time</key><integer>247222</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E1E8C9944084B77</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Sweetest Chill</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Sort Name</key><string>Sweetest Chill</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/02%20The%20Sweetest%20Chill.mp3</string>
+		</dict>
+		<key>21945</key>
+		<dict>
+			<key>Track ID</key><integer>21945</integer>
+			<key>Size</key><integer>6277573</integer>
+			<key>Total Time</key><integer>231627</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-05-21T21:04:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5052926F9B605224</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cities in Dust</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/04%20Cities%20in%20Dust.mp3</string>
+		</dict>
+		<key>21949</key>
+		<dict>
+			<key>Track ID</key><integer>21949</integer>
+			<key>Size</key><integer>4894989</integer>
+			<key>Total Time</key><integer>195004</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F0879FFAC08B6519</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cannons</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/05%20Cannons.mp3</string>
+		</dict>
+		<key>21935</key>
+		<dict>
+			<key>Track ID</key><integer>21935</integer>
+			<key>Size</key><integer>7268466</integer>
+			<key>Total Time</key><integer>297848</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D434E66A4F711D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Party's Fall</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/06%20Party's%20Fall.mp3</string>
+		</dict>
+		<key>21941</key>
+		<dict>
+			<key>Track ID</key><integer>21941</integer>
+			<key>Size</key><integer>9913979</integer>
+			<key>Total Time</key><integer>362840</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB892CCD8CBEC0F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>92</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/07%2092.mp3</string>
+		</dict>
+		<key>21955</key>
+		<dict>
+			<key>Track ID</key><integer>21955</integer>
+			<key>Size</key><integer>6124638</integer>
+			<key>Total Time</key><integer>244662</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D4917AA4ABA73D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Song from the Edge of the World</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/11%20Song%20from%20the%20Edge%20of%20the%20World.mp3</string>
+		</dict>
+		<key>21957</key>
+		<dict>
+			<key>Track ID</key><integer>21957</integer>
+			<key>Size</key><integer>4843729</integer>
+			<key>Total Time</key><integer>247040</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>153</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A47244FEECC49814</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Starcrossed</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Tinderbox</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Tinderbox/12%20Starcrossed.mp3</string>
+		</dict>
+		<key>21805</key>
+		<dict>
+			<key>Track ID</key><integer>21805</integer>
+			<key>Size</key><integer>8764450</integer>
+			<key>Total Time</key><integer>331363</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6461752AE970210F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dazzle</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Hyaena</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Hyaena/01%20Dazzle.mp3</string>
+		</dict>
+		<key>21817</key>
+		<dict>
+			<key>Track ID</key><integer>21817</integer>
+			<key>Size</key><integer>5089212</integer>
+			<key>Total Time</key><integer>211670</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FC5D0D1B322DAFB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Hunger</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Hyaena</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Hyaena/02%20We%20Hunger.mp3</string>
+		</dict>
+		<key>21885</key>
+		<dict>
+			<key>Track ID</key><integer>21885</integer>
+			<key>Size</key><integer>3354864</integer>
+			<key>Total Time</key><integer>196545</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>30447CFE9AECE3B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spellbound</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>JuJu</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/JuJu/01%20Spellbound.mp3</string>
+		</dict>
+		<key>21899</key>
+		<dict>
+			<key>Track ID</key><integer>21899</integer>
+			<key>Size</key><integer>4280693</integer>
+			<key>Total Time</key><integer>254432</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24136A105CA7B7D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Into The Light</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>JuJu</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/JuJu/02%20Into%20The%20Light.mp3</string>
+		</dict>
+		<key>21889</key>
+		<dict>
+			<key>Track ID</key><integer>21889</integer>
+			<key>Size</key><integer>3762865</integer>
+			<key>Total Time</key><integer>222066</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21CBA8F36859587D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Halloween</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>JuJu</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>                            </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/JuJu/04%20Halloween.mp3</string>
+		</dict>
+		<key>21891</key>
+		<dict>
+			<key>Track ID</key><integer>21891</integer>
+			<key>Size</key><integer>5576387</integer>
+			<key>Total Time</key><integer>335412</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D05A93968273F60</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Monitor</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>JuJu</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>                            </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/JuJu/05%20Monitor.mp3</string>
+		</dict>
+		<key>21893</key>
+		<dict>
+			<key>Track ID</key><integer>21893</integer>
+			<key>Size</key><integer>4604309</integer>
+			<key>Total Time</key><integer>366210</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6651AAB726521BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Night Shift</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>JuJu</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/JuJu/06%20Night%20Shift.mp3</string>
+		</dict>
+		<key>21895</key>
+		<dict>
+			<key>Track ID</key><integer>21895</integer>
+			<key>Size</key><integer>3711044</integer>
+			<key>Total Time</key><integer>218827</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C8C5DB40898819D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sin In My Heart</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>JuJu</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>                            </string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/JuJu/07%20Sin%20In%20My%20Heart.mp3</string>
+		</dict>
+		<key>21819</key>
+		<dict>
+			<key>Track ID</key><integer>21819</integer>
+			<key>Size</key><integer>7107302</integer>
+			<key>Total Time</key><integer>270393</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BBA137E631F3D995</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Belladonna</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Hyaena</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Hyaena/04%20Belladonna.mp3</string>
+		</dict>
+		<key>21809</key>
+		<dict>
+			<key>Track ID</key><integer>21809</integer>
+			<key>Size</key><integer>5319235</integer>
+			<key>Total Time</key><integer>228388</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>186</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EC4B092DC4022F4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dear Prudence</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Hyaena</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Hyaena/10%20Dear%20Prudence.mp3</string>
+		</dict>
+		<key>21843</key>
+		<dict>
+			<key>Track ID</key><integer>21843</integer>
+			<key>Size</key><integer>6426614</integer>
+			<key>Total Time</key><integer>267990</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C4A9D48C89FAED84</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shadowtime</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Superstition</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Superstition/06%20Shadowtime.mp3</string>
+		</dict>
+		<key>21847</key>
+		<dict>
+			<key>Track ID</key><integer>21847</integer>
+			<key>Size</key><integer>5122030</integer>
+			<key>Total Time</key><integer>213551</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9FB66BB51E3699AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cry</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Superstition</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Superstition/03%20Cry.mp3</string>
+		</dict>
+		<key>21855</key>
+		<dict>
+			<key>Track ID</key><integer>21855</integer>
+			<key>Size</key><integer>7230398</integer>
+			<key>Total Time</key><integer>301531</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6BB3C1C22C71EA39</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Ghost in You</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>Superstition</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Ghost in You</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Superstition/11%20The%20Ghost%20in%20You.mp3</string>
+		</dict>
+		<key>21785</key>
+		<dict>
+			<key>Track ID</key><integer>21785</integer>
+			<key>Size</key><integer>11999252</integer>
+			<key>Total Time</key><integer>300120</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7A8E8C8EF9F8763B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Israel</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie Sioux/Steven Severin</string>
+			<key>Album</key><string>Kaleidoscope</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/Kaleidoscope/20%20Israel.mp3</string>
+		</dict>
+		<key>21833</key>
+		<dict>
+			<key>Track ID</key><integer>21833</integer>
+			<key>Size</key><integer>3222756</integer>
+			<key>Total Time</key><integer>201560</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>757E09066A8B1785</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tearing Apart</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>The Rapture</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000AE3 00000A00 000038D9 00003C76 0002712E 0002BF4E 00007CE2 00007F4D 0002BF37 0002BF37</string>
+			<key>Sort Album</key><string>Rapture</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Rapture/02%20Tearing%20Apart.mp3</string>
+		</dict>
+		<key>21841</key>
+		<dict>
+			<key>Track ID</key><integer>21841</integer>
+			<key>Size</key><integer>3112226</integer>
+			<key>Total Time</key><integer>194638</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2013-10-19T05:01:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C6BD4E3EE35E20C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stargazer</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Composer</key><string>Siouxsie and the Banshees</string>
+			<key>Album</key><string>The Rapture</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000D2D 00000C27 00003E48 000026A6 00027117 00027117 00007DF3 00007DBB 0000C37E 00029810</string>
+			<key>Sort Album</key><string>Rapture</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siouxsie%20and%20the%20Banshees/The%20Rapture/03%20Stargazer.mp3</string>
+		</dict>
+		<key>19045</key>
+		<dict>
+			<key>Track ID</key><integer>19045</integer>
+			<key>Size</key><integer>6742465</integer>
+			<key>Total Time</key><integer>265795</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2013-10-19T05:25:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>01B63D6F6E8E157F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cascade</string>
+			<key>Artist</key><string>Siouxsie and the Banshees</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Remembrance Days: A Post-Punk Compilation</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.djbynar.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Remembrance%20Days_%20A%20Post-Punk%20Compilation/Cascade.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138218</integer>
+			<key>Playlist Persistent ID</key><string>EB25D8C72766365C</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Siouxsie Sioux</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>21931</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21909</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21917</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21937</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21945</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21935</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21805</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21843</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19045</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

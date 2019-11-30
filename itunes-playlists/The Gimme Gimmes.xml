@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>36065</key>
+		<dict>
+			<key>Track ID</key><integer>36065</integer>
+			<key>Size</key><integer>3178519</integer>
+			<key>Total Time</key><integer>114233</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>39A03066423E6AA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Favorite Things</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Are a Drag</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Are%20a%20Drag/05%20Favorite%20Things.mp3</string>
+		</dict>
+		<key>36079</key>
+		<dict>
+			<key>Track ID</key><integer>36079</integer>
+			<key>Size</key><integer>3754719</integer>
+			<key>Total Time</key><integer>138240</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F6D79535BFFAC5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rainbow Connection</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Are a Drag</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>, AG# 682D78DF</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Are%20a%20Drag/06%20Rainbow%20Connection.mp3</string>
+		</dict>
+		<key>36067</key>
+		<dict>
+			<key>Track ID</key><integer>36067</integer>
+			<key>Size</key><integer>2957846</integer>
+			<key>Total Time</key><integer>105038</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B26682B121F30B4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Phantom Of The Opera Song</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Are a Drag</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Are%20a%20Drag/07%20Phantom%20Of%20The%20Opera%20Song.mp3</string>
+		</dict>
+		<key>36003</key>
+		<dict>
+			<key>Track ID</key><integer>36003</integer>
+			<key>Size</key><integer>2797696</integer>
+			<key>Total Time</key><integer>116532</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5C5F23960BADC3F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All My Lovin'</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Blow In The Wind</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Blow%20In%20The%20Wind/07%20All%20My%20Lovin'.mp3</string>
+		</dict>
+		<key>36087</key>
+		<dict>
+			<key>Track ID</key><integer>36087</integer>
+			<key>Size</key><integer>6008524</integer>
+			<key>Total Time</key><integer>150230</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F9E38982B19537F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Longest Time</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>Ruin Jonny's Bar Mitzvah</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Longest Time</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Ruin%20Jonny's%20Bar%20Mitzvah/09%20The%20Longest%20Time.mp3</string>
+		</dict>
+		<key>36109</key>
+		<dict>
+			<key>Track ID</key><integer>36109</integer>
+			<key>Size</key><integer>6535744</integer>
+			<key>Total Time</key><integer>163422</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1CD0229BD12CE8E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heart of Glass</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Composer</key><string>Chris Stein/Debbie Harry</string>
+			<key>Album</key><string>Ruin Jonny's Bar Mitzvah</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Ruin%20Jonny's%20Bar%20Mitzvah/03%20Heart%20of%20Glass.mp3</string>
+		</dict>
+		<key>35981</key>
+		<dict>
+			<key>Track ID</key><integer>35981</integer>
+			<key>Size</key><integer>5271214</integer>
+			<key>Total Time</key><integer>167209</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>648B5F7FC700FAA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Only The Good Die Young</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Have Another Ball</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Have%20Another%20Ball/09%20Only%20The%20Good%20Die%20Young.mp3</string>
+		</dict>
+		<key>36127</key>
+		<dict>
+			<key>Track ID</key><integer>36127</integer>
+			<key>Size</key><integer>2946729</integer>
+			<key>Total Time</key><integer>147304</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B8A8D7BDB3A96E09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Seasons In The Sun</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Have A Ball</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Have%20A%20Ball/08%20Seasons%20In%20The%20Sun.mp3</string>
+		</dict>
+		<key>36119</key>
+		<dict>
+			<key>Track ID</key><integer>36119</integer>
+			<key>Size</key><integer>3049129</integer>
+			<key>Total Time</key><integer>152424</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>10C14DF1F7EA41EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leaving On A Jet Plane</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Have A Ball</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Have%20A%20Ball/02%20Leaving%20On%20A%20Jet%20Plane.mp3</string>
+		</dict>
+		<key>36017</key>
+		<dict>
+			<key>Track ID</key><integer>36017</integer>
+			<key>Size</key><integer>2119808</integer>
+			<key>Total Time</key><integer>132284</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>01F18729F57126C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Only Want To Be With You</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Blow In The Wind</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Blow%20In%20The%20Wind/10%20I%20Only%20Want%20To%20Be%20With%20You.mp3</string>
+		</dict>
+		<key>36129</key>
+		<dict>
+			<key>Track ID</key><integer>36129</integer>
+			<key>Size</key><integer>2418277</integer>
+			<key>Total Time</key><integer>120894</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>24B1A0BCEB47E05F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Tin Soldier</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Have A Ball</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Have%20A%20Ball/04%20One%20Tin%20Soldier.mp3</string>
+		</dict>
+		<key>36043</key>
+		<dict>
+			<key>Track ID</key><integer>36043</integer>
+			<key>Size</key><integer>3608159</integer>
+			<key>Total Time</key><integer>150334</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>97980AE8BE6DB713</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Where Do Broken Hearts Go</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Take A Break</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.hxcteam.tk</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Take%20A%20Break/01%20Where%20Do%20Broken%20Hearts%20Go.mp3</string>
+		</dict>
+		<key>36001</key>
+		<dict>
+			<key>Track ID</key><integer>36001</integer>
+			<key>Size</key><integer>2945152</integer>
+			<key>Total Time</key><integer>122618</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C4219E20CBD17B3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Who Put The Bomp</string>
+			<key>Artist</key><string>Me First and the Gimme Gimmes</string>
+			<key>Album</key><string>Blow In The Wind</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Me%20First%20and%20the%20Gimme%20Gimmes/Blow%20In%20The%20Wind/01%20Who%20Put%20The%20Bomp.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>141643</integer>
+			<key>Playlist Persistent ID</key><string>2D57CDB15BE147AC</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Gimme Gimmes</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>36065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36001</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

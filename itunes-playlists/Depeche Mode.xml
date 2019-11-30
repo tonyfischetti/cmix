@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>18151</key>
+		<dict>
+			<key>Track ID</key><integer>18151</integer>
+			<key>Size</key><integer>7194421</integer>
+			<key>Total Time</key><integer>295314</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647146391</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:13:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C72A09D44016BB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Policy Of Truth</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>Violator</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>, AG# 701D59FF</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Violator/07%20Policy%20Of%20Truth.mp3</string>
+		</dict>
+		<key>17883</key>
+		<dict>
+			<key>Track ID</key><integer>17883</integer>
+			<key>Size</key><integer>5586944</integer>
+			<key>Total Time</key><integer>232202</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647146095</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:08:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4897DF8DCD34B29F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>People Are People</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Composer</key><string>Martin L. Gore</string>
+			<key>Album</key><string>Some Great Reward</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Some%20Great%20Reward/03%20People%20Are%20People.mp3</string>
+		</dict>
+		<key>17911</key>
+		<dict>
+			<key>Track ID</key><integer>17911</integer>
+			<key>Size</key><integer>4501504</integer>
+			<key>Total Time</key><integer>187115</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647145443</integer>
+			<key>Play Date UTC</key><date>2019-07-28T11:57:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86FEF93C9F44315C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Meaning of Love</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Composer</key><string>Martin L. Gore</string>
+			<key>Album</key><string>A Broken Frame</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Meaning of Love</string>
+			<key>Sort Album</key><string>Broken Frame</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/A%20Broken%20Frame/07%20The%20Meaning%20of%20Love.mp3</string>
+		</dict>
+		<key>17759</key>
+		<dict>
+			<key>Track ID</key><integer>17759</integer>
+			<key>Size</key><integer>5744640</integer>
+			<key>Total Time</key><integer>239020</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647147686</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:34:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0557965BF7331B4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>New Life</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Composer</key><string>Vince Clarke</string>
+			<key>Album</key><string>Speak &amp; Spell</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Speak%20&amp;%20Spell/01%20New%20Life.mp3</string>
+		</dict>
+		<key>17781</key>
+		<dict>
+			<key>Track ID</key><integer>17781</integer>
+			<key>Size</key><integer>8243200</integer>
+			<key>Total Time</key><integer>342935</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647148029</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:40:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18640D1DAF372690</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Home</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Composer</key><string>Martin L. Gore</string>
+			<key>Album</key><string>Ultra</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Ultra/03%20Home.mp3</string>
+		</dict>
+		<key>17723</key>
+		<dict>
+			<key>Track ID</key><integer>17723</integer>
+			<key>Size</key><integer>5867852</integer>
+			<key>Total Time</key><integer>237871</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647145028</integer>
+			<key>Play Date UTC</key><date>2019-07-28T11:50:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D49E2618E57E5334</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>See You</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/06%20See%20You.mp3</string>
+		</dict>
+		<key>17727</key>
+		<dict>
+			<key>Track ID</key><integer>17727</integer>
+			<key>Size</key><integer>6058411</integer>
+			<key>Total Time</key><integer>227474</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647145256</integer>
+			<key>Play Date UTC</key><date>2019-07-28T11:54:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-31T02:52:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2837618C34B4942C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Personal Jesus</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/01%20Personal%20Jesus.mp3</string>
+		</dict>
+		<key>17713</key>
+		<dict>
+			<key>Track ID</key><integer>17713</integer>
+			<key>Size</key><integer>6978383</integer>
+			<key>Total Time</key><integer>241188</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647147447</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:30:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2270A5FBF6C1D75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everything Counts</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/03%20Everything%20Counts.mp3</string>
+		</dict>
+		<key>17709</key>
+		<dict>
+			<key>Track ID</key><integer>17709</integer>
+			<key>Size</key><integer>5706990</integer>
+			<key>Total Time</key><integer>223346</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3641394950</integer>
+			<key>Play Date UTC</key><date>2019-05-22T22:35:50Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-07-28T11:33:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F3D1510A2A714ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Just Can't Get Enough</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/02%20Just%20Can't%20Get%20Enough.mp3</string>
+		</dict>
+		<key>17719</key>
+		<dict>
+			<key>Track ID</key><integer>17719</integer>
+			<key>Size</key><integer>6814869</integer>
+			<key>Total Time</key><integer>258638</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647147206</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:26:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-05-22T21:27:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E01E393461A0D2C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Enjoy The Silence</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/04%20Enjoy%20The%20Silence.mp3</string>
+		</dict>
+		<key>17741</key>
+		<dict>
+			<key>Track ID</key><integer>17741</integer>
+			<key>Size</key><integer>7100067</integer>
+			<key>Total Time</key><integer>260336</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647144010</integer>
+			<key>Play Date UTC</key><date>2019-07-28T11:33:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CEBF150378BB9588</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Never Let Me Down Again</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/18%20Never%20Let%20Me%20Down%20Again.mp3</string>
+		</dict>
+		<key>18017</key>
+		<dict>
+			<key>Track ID</key><integer>18017</integer>
+			<key>Size</key><integer>7732290</integer>
+			<key>Total Time</key><integer>309159</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647144551</integer>
+			<key>Play Date UTC</key><date>2019-07-28T11:42:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5626991189AA47F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blasphemous Rumours</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>Singles 81-85</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/12%20Blasphemous%20Rumours.mp3</string>
+		</dict>
+		<key>17743</key>
+		<dict>
+			<key>Track ID</key><integer>17743</integer>
+			<key>Size</key><integer>6110000</integer>
+			<key>Total Time</key><integer>226768</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647145670</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:01:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C023250F12A17D44</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Strangelove</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/08%20Strangelove.mp3</string>
+		</dict>
+		<key>17739</key>
+		<dict>
+			<key>Track ID</key><integer>17739</integer>
+			<key>Size</key><integer>6353819</integer>
+			<key>Total Time</key><integer>239516</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647144791</integer>
+			<key>Play Date UTC</key><date>2019-07-28T11:46:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F88E65AF5AE5203</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Master And Servant</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>The Best Of Depeche Mode Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>[uF]</string>
+			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/16%20Master%20And%20Servant.mp3</string>
+		</dict>
+		<key>18015</key>
+		<dict>
+			<key>Track ID</key><integer>18015</integer>
+			<key>Size</key><integer>5759309</integer>
+			<key>Total Time</key><integer>226951</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:16:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647144242</integer>
+			<key>Play Date UTC</key><date>2019-07-28T11:37:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E628237A9E3E7B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dreaming Of Me</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>Singles 81-85</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/01%20Dreaming%20Of%20Me.mp3</string>
+		</dict>
+		<key>17997</key>
+		<dict>
+			<key>Track ID</key><integer>17997</integer>
+			<key>Size</key><integer>7265846</integer>
+			<key>Total Time</key><integer>289724</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647146947</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:22:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B3B9631C61923A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shake The Disease</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>Singles 81-85</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/14%20Shake%20The%20Disease.mp3</string>
+		</dict>
+		<key>17993</key>
+		<dict>
+			<key>Track ID</key><integer>17993</integer>
+			<key>Size</key><integer>4961840</integer>
+			<key>Total Time</key><integer>193724</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647145863</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:04:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE2356BFDC1EDC69</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Photographic</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>Singles 81-85</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/16%20Photographic.mp3</string>
+		</dict>
+		<key>18147</key>
+		<dict>
+			<key>Track ID</key><integer>18147</integer>
+			<key>Size</key><integer>6513567</integer>
+			<key>Total Time</key><integer>266945</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:17:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647146658</integer>
+			<key>Play Date UTC</key><date>2019-07-28T12:17:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>978DCEA48AAADE75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>World In My Eyes</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>Violator</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>, AG# 15BF70E1</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Violator/01%20World%20In%20My%20Eyes.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132693</integer>
+			<key>Playlist Persistent ID</key><string>FDF9416F3A487CD6</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Depeche Mode</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17911</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17781</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17993</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18147</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

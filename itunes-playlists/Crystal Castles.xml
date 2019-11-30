@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>48341</key>
+		<dict>
+			<key>Track ID</key><integer>48341</integer>
+			<key>Size</key><integer>5593524</integer>
+			<key>Total Time</key><integer>138919</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633496851</integer>
+			<key>Play Date UTC</key><date>2019-02-20T13:40:51Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-12-02T02:07:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54C49345F87EE7FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love and Caring</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/12%20Love%20and%20Caring.mp3</string>
+		</dict>
+		<key>48361</key>
+		<dict>
+			<key>Track ID</key><integer>48361</integer>
+			<key>Size</key><integer>7489422</integer>
+			<key>Total Time</key><integer>186357</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633497037</integer>
+			<key>Play Date UTC</key><date>2019-02-20T13:43:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4341C8AB80861F0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Untrust Us</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/01%20Untrust%20Us.mp3</string>
+		</dict>
+		<key>48335</key>
+		<dict>
+			<key>Track ID</key><integer>48335</integer>
+			<key>Size</key><integer>6490318</integer>
+			<key>Total Time</key><integer>161358</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3633497200</integer>
+			<key>Play Date UTC</key><date>2019-02-20T13:46:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AA940FB87BC6364</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alice Practice</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/02%20Alice%20Practice.mp3</string>
+		</dict>
+		<key>48367</key>
+		<dict>
+			<key>Track ID</key><integer>48367</integer>
+			<key>Size</key><integer>8802903</integer>
+			<key>Total Time</key><integer>285283</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633497484</integer>
+			<key>Play Date UTC</key><date>2019-02-20T13:51:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B31461C83C5E453</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Intimate</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles II</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20II/13%20Intimate.mp3</string>
+		</dict>
+		<key>48333</key>
+		<dict>
+			<key>Track ID</key><integer>48333</integer>
+			<key>Size</key><integer>7121938</integer>
+			<key>Total Time</key><integer>177162</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633497661</integer>
+			<key>Play Date UTC</key><date>2019-02-20T13:54:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8942D3A47827F839</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black Panther</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/15%20Black%20Panther.mp3</string>
+		</dict>
+		<key>48365</key>
+		<dict>
+			<key>Track ID</key><integer>48365</integer>
+			<key>Size</key><integer>6138138</integer>
+			<key>Total Time</key><integer>213106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633497874</integer>
+			<key>Play Date UTC</key><date>2019-02-20T13:57:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE4C388DBBA74CE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Not In Love</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles II</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20II/12%20Not%20In%20Love.mp3</string>
+		</dict>
+		<key>48387</key>
+		<dict>
+			<key>Track ID</key><integer>48387</integer>
+			<key>Size</key><integer>4553979</integer>
+			<key>Total Time</key><integer>150674</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633498025</integer>
+			<key>Play Date UTC</key><date>2019-02-20T14:00:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0590B3CDB20E5635</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Birds</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles II</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20II/10%20Birds.mp3</string>
+		</dict>
+		<key>48355</key>
+		<dict>
+			<key>Track ID</key><integer>48355</integer>
+			<key>Size</key><integer>10369817</integer>
+			<key>Total Time</key><integer>258429</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633498283</integer>
+			<key>Play Date UTC</key><date>2019-02-20T14:04:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DED566F5DEE7A39E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crimewave</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/03%20Crimewave.mp3</string>
+		</dict>
+		<key>48357</key>
+		<dict>
+			<key>Track ID</key><integer>48357</integer>
+			<key>Size</key><integer>14703464</integer>
+			<key>Total Time</key><integer>366863</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633498650</integer>
+			<key>Play Date UTC</key><date>2019-02-20T14:10:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E5956629D27B1A30</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Magic Spells</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/04%20Magic%20Spells.mp3</string>
+		</dict>
+		<key>48409</key>
+		<dict>
+			<key>Track ID</key><integer>48409</integer>
+			<key>Size</key><integer>8335779</integer>
+			<key>Total Time</key><integer>207072</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633498857</integer>
+			<key>Play Date UTC</key><date>2019-02-20T14:14:17Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20F46AB6FD0B93A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sad Eyes</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album Artist</key><string>Crystal Castles</string>
+			<key>Composer</key><string>Ethan Kath &amp; Alice Glass</string>
+			<key>Album</key><string>(III)</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/(III)/06%20Sad%20Eyes.mp3</string>
+		</dict>
+		<key>48345</key>
+		<dict>
+			<key>Track ID</key><integer>48345</integer>
+			<key>Size</key><integer>8369513</integer>
+			<key>Total Time</key><integer>208378</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633499065</integer>
+			<key>Play Date UTC</key><date>2019-02-20T14:17:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D78CFB26BE51F44</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Reckless</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/14%20Reckless.mp3</string>
+		</dict>
+		<key>48343</key>
+		<dict>
+			<key>Track ID</key><integer>48343</integer>
+			<key>Size</key><integer>4589191</integer>
+			<key>Total Time</key><integer>113789</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3633499179</integer>
+			<key>Play Date UTC</key><date>2019-02-20T14:19:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A9CC114F314B6C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Xxzxcuzx Me</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/05%20Xxzxcuzx%20Me.mp3</string>
+		</dict>
+		<key>48337</key>
+		<dict>
+			<key>Track ID</key><integer>48337</integer>
+			<key>Size</key><integer>10123431</integer>
+			<key>Total Time</key><integer>252264</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3617219576</integer>
+			<key>Play Date UTC</key><date>2018-08-16T03:12:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57A21BE2E96DB3F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Air War</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/06%20Air%20War.mp3</string>
+		</dict>
+		<key>48331</key>
+		<dict>
+			<key>Track ID</key><integer>48331</integer>
+			<key>Size</key><integer>9750725</integer>
+			<key>Total Time</key><integer>242729</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3617219819</integer>
+			<key>Play Date UTC</key><date>2018-08-16T03:16:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A3A840567C9A07D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Vanished</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles I</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20I/10%20Vanished.mp3</string>
+		</dict>
+		<key>48369</key>
+		<dict>
+			<key>Track ID</key><integer>48369</integer>
+			<key>Size</key><integer>8667097</integer>
+			<key>Total Time</key><integer>252969</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3617220071</integer>
+			<key>Play Date UTC</key><date>2018-08-16T03:21:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A690B7FE463A656</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Baptism</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles II</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20II/04%20Baptism.mp3</string>
+		</dict>
+		<key>48389</key>
+		<dict>
+			<key>Track ID</key><integer>48389</integer>
+			<key>Size</key><integer>7166250</integer>
+			<key>Total Time</key><integer>222981</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0FDE647F60454058</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pap Smear</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles II</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20II/11%20Pap%20Smear.mp3</string>
+		</dict>
+		<key>48403</key>
+		<dict>
+			<key>Track ID</key><integer>48403</integer>
+			<key>Size</key><integer>7736007</integer>
+			<key>Total Time</key><integer>192078</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B39695788DEC7BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kerosene</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album Artist</key><string>Crystal Castles</string>
+			<key>Composer</key><string>Ethan Kath &amp; Alice Glass</string>
+			<key>Album</key><string>(III)</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/(III)/02%20Kerosene.mp3</string>
+		</dict>
+		<key>48393</key>
+		<dict>
+			<key>Track ID</key><integer>48393</integer>
+			<key>Size</key><integer>6324352</integer>
+			<key>Total Time</key><integer>156786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A1A45CA234FB047</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Affection</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album Artist</key><string>Crystal Castles</string>
+			<key>Composer</key><string>Ethan Kath &amp; Alice Glass</string>
+			<key>Album</key><string>(III)</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/(III)/04%20Affection.mp3</string>
+		</dict>
+		<key>48405</key>
+		<dict>
+			<key>Track ID</key><integer>48405</integer>
+			<key>Size</key><integer>4328593</integer>
+			<key>Total Time</key><integer>106893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BCF7CD628125FA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Insulin</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album Artist</key><string>Crystal Castles</string>
+			<key>Composer</key><string>Ethan Kath &amp; Alice Glass</string>
+			<key>Album</key><string>(III)</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/(III)/07%20Insulin.mp3</string>
+		</dict>
+		<key>48407</key>
+		<dict>
+			<key>Track ID</key><integer>48407</integer>
+			<key>Size</key><integer>9436057</integer>
+			<key>Total Time</key><integer>234579</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T04:12:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D89587DE12A13DEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Telepath</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album Artist</key><string>Crystal Castles</string>
+			<key>Composer</key><string>Ethan Kath &amp; Alice Glass</string>
+			<key>Album</key><string>(III)</string>
+			<key>Genre</key><string>Chillwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/(III)/10%20Telepath.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132463</integer>
+			<key>Playlist Persistent ID</key><string>5945F70ED8C7F9FE</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Crystal Castles</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>48341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>48407</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

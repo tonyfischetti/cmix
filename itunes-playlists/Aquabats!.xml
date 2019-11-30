@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>12261</key>
+		<dict>
+			<key>Track ID</key><integer>12261</integer>
+			<key>Size</key><integer>6522938</integer>
+			<key>Total Time</key><integer>162795</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647417416</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:30:16Z</date>
+			<key>Persistent ID</key><string>E901B317EB0CC75F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lovers of Loving Love</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>The Aquabats vs the Floating Eye of Death</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Aquabats vs the Floating Eye of Death</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/The%20Aquabats%20vs%20the%20Floating%20Eye%20of%20Death/05%20Lovers%20of%20Loving%20Love.mp3</string>
+		</dict>
+		<key>12171</key>
+		<dict>
+			<key>Track ID</key><integer>12171</integer>
+			<key>Size</key><integer>6783962</integer>
+			<key>Total Time</key><integer>196284</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>276</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647417610</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:33:30Z</date>
+			<key>Persistent ID</key><string>6B86446E5F27E091</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fashion Zombies!</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>Charge!!</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ripped by mr. poopyhead</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/Charge!!/02%20Fashion%20Zombies!.mp3</string>
+		</dict>
+		<key>12163</key>
+		<dict>
+			<key>Track ID</key><integer>12163</integer>
+			<key>Size</key><integer>6575359</integer>
+			<key>Total Time</key><integer>194612</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647417805</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:36:45Z</date>
+			<key>Persistent ID</key><string>A0A48A4A6E67C1DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nerd Alert!</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>Charge!!</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ripped by mr. poopyhead</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/Charge!!/05%20Nerd%20Alert!.mp3</string>
+		</dict>
+		<key>12169</key>
+		<dict>
+			<key>Track ID</key><integer>12169</integer>
+			<key>Size</key><integer>7379757</integer>
+			<key>Total Time</key><integer>215353</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>274</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647418020</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:40:20Z</date>
+			<key>Persistent ID</key><string>A4277A14385B21D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Look at Me (I'm a Winner)!</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>Charge!!</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ripped by mr. poopyhead</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/Charge!!/07%20Look%20at%20Me%20(I'm%20a%20Winner)!.mp3</string>
+		</dict>
+		<key>12187</key>
+		<dict>
+			<key>Track ID</key><integer>12187</integer>
+			<key>Size</key><integer>7047920</integer>
+			<key>Total Time</key><integer>230008</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647418250</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:44:10Z</date>
+			<key>Persistent ID</key><string>70B0D2B9F177D92C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hot Sumer Nights (Won't Last Forever)!</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>Charge!!</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ripped by mr. poopyhead</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/Charge!!/08%20Hot%20Sumer%20Nights%20(Won't%20Last%20Forever)!.mp3</string>
+		</dict>
+		<key>12313</key>
+		<dict>
+			<key>Track ID</key><integer>12313</integer>
+			<key>Size</key><integer>6349584</integer>
+			<key>Total Time</key><integer>182857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>264</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647418433</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:47:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85314E9F0A5D6DEA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Super Rad!</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>The Fury Of The Aquabats!</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Fury Of The Aquabats!</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/The%20Fury%20Of%20The%20Aquabats!/01%20Super%20Rad!.mp3</string>
+		</dict>
+		<key>12287</key>
+		<dict>
+			<key>Track ID</key><integer>12287</integer>
+			<key>Size</key><integer>6132072</integer>
+			<key>Total Time</key><integer>174393</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647418609</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:50:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF411673452D224D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Story Of Nothing!</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>The Fury Of The Aquabats!</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Story Of Nothing!</string>
+			<key>Sort Album</key><string>Fury Of The Aquabats!</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/The%20Fury%20Of%20The%20Aquabats!/06%20The%20Story%20Of%20Nothing!.mp3</string>
+		</dict>
+		<key>12315</key>
+		<dict>
+			<key>Track ID</key><integer>12315</integer>
+			<key>Size</key><integer>4078936</integer>
+			<key>Total Time</key><integer>120920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647418728</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:52:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A8D56786DE35D92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Idiot Box!</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album</key><string>The Fury Of The Aquabats!</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Fury Of The Aquabats!</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/The%20Fury%20Of%20The%20Aquabats!/10%20Idiot%20Box!.mp3</string>
+		</dict>
+		<key>12195</key>
+		<dict>
+			<key>Track ID</key><integer>12195</integer>
+			<key>Size</key><integer>6402815</integer>
+			<key>Total Time</key><integer>255660</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647418991</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:56:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B00756D9E550AA87</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pool Party</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album Artist</key><string>The Aquabats</string>
+			<key>Composer</key><string>C. Webb</string>
+			<key>Album</key><string>Myths, Legends And Other Amazing Adventures</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000000 00000210 00000770 0000000000AC0000 00000000 005D8C93 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Sort Album Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/Myths,%20Legends%20And%20Other%20Amazing%20Adventures/03%20Pool%20Party.mp3</string>
+		</dict>
+		<key>12197</key>
+		<dict>
+			<key>Track ID</key><integer>12197</integer>
+			<key>Size</key><integer>6147650</integer>
+			<key>Total Time</key><integer>245028</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647419236</integer>
+			<key>Play Date UTC</key><date>2019-07-31T16:00:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6E91C86255B2EE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pizza Day</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album Artist</key><string>The Aquabats</string>
+			<key>Composer</key><string>C. Webb</string>
+			<key>Album</key><string>Myths, Legends And Other Amazing Adventures</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000000 00000210 000007F0 0000000000A4D800 00000000 0059A7D7 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Sort Album Artist</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/Myths,%20Legends%20And%20Other%20Amazing%20Adventures/04%20Pizza%20Day.mp3</string>
+		</dict>
+		<key>12273</key>
+		<dict>
+			<key>Track ID</key><integer>12273</integer>
+			<key>Size</key><integer>4493289</integer>
+			<key>Total Time</key><integer>178311</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-10-19T05:05:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647419414</integer>
+			<key>Play Date UTC</key><date>2019-07-31T16:03:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F02AF6F0F8F4768</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Marshmallow Man</string>
+			<key>Artist</key><string>The Aquabats</string>
+			<key>Album Artist</key><string>The Aquabats</string>
+			<key>Composer</key><string>The Aquabats</string>
+			<key>Album</key><string>The Return of the Aquabats</string>
+			<key>Genre</key><string>Ska</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000000 00000210 00000AF0 000000000077F000 00000000 00413925 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Sort Album</key><string>Return of the Aquabats</string>
+			<key>Sort Artist</key><string>Aquabats</string>
+			<key>Sort Album Artist</key><string>Aquabats</string>
+			<key>Sort Composer</key><string>Aquabats</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Aquabats/The%20Return%20of%20the%20Aquabats/07%20Marshmallow%20Man.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131663</integer>
+			<key>Playlist Persistent ID</key><string>1A3AAFE512E84BB0</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Aquabats!</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12273</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

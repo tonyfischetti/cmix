@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>51749</key>
+		<dict>
+			<key>Track ID</key><integer>51749</integer>
+			<key>Size</key><integer>9342827</integer>
+			<key>Total Time</key><integer>233560</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>74F79B8C06C03B2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cosmic Thing</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/01%20Cosmic%20Thing.mp3</string>
+		</dict>
+		<key>51747</key>
+		<dict>
+			<key>Track ID</key><integer>51747</integer>
+			<key>Size</key><integer>11797291</integer>
+			<key>Total Time</key><integer>294922</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>70AB473C66BFC7C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dry County</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/02%20Dry%20County.mp3</string>
+		</dict>
+		<key>51737</key>
+		<dict>
+			<key>Track ID</key><integer>51737</integer>
+			<key>Size</key><integer>11504722</integer>
+			<key>Total Time</key><integer>287608</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-31T02:52:13Z</date>
+			<key>Persistent ID</key><string>B05324A30DE5601E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Deadbeat Club</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/03%20Deadbeat%20Club.mp3</string>
+		</dict>
+		<key>51753</key>
+		<dict>
+			<key>Track ID</key><integer>51753</integer>
+			<key>Size</key><integer>12877715</integer>
+			<key>Total Time</key><integer>321933</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>89468C8D455EF50B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Shack</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/04%20Love%20Shack.mp3</string>
+		</dict>
+		<key>51741</key>
+		<dict>
+			<key>Track ID</key><integer>51741</integer>
+			<key>Size</key><integer>12300928</integer>
+			<key>Total Time</key><integer>307513</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FA43699D170FDCEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Junebug</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/05%20Junebug.mp3</string>
+		</dict>
+		<key>51745</key>
+		<dict>
+			<key>Track ID</key><integer>51745</integer>
+			<key>Size</key><integer>11812958</integer>
+			<key>Total Time</key><integer>295314</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>72438A18C2A4DD9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Roam</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/06%20Roam.mp3</string>
+		</dict>
+		<key>51739</key>
+		<dict>
+			<key>Track ID</key><integer>51739</integer>
+			<key>Size</key><integer>11909093</integer>
+			<key>Total Time</key><integer>297717</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BAB02E568777E761</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bushfire</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/07%20Bushfire.mp3</string>
+		</dict>
+		<key>51743</key>
+		<dict>
+			<key>Track ID</key><integer>51743</integer>
+			<key>Size</key><integer>11594579</integer>
+			<key>Total Time</key><integer>289854</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F578B3486AFAB6CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Channel Z</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/08%20Channel%20Z.mp3</string>
+		</dict>
+		<key>51751</key>
+		<dict>
+			<key>Track ID</key><integer>51751</integer>
+			<key>Size</key><integer>10455637</integer>
+			<key>Total Time</key><integer>261381</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2E28AF87DC45CDEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Topaz</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/09%20Topaz.mp3</string>
+		</dict>
+		<key>51755</key>
+		<dict>
+			<key>Track ID</key><integer>51755</integer>
+			<key>Size</key><integer>9963503</integer>
+			<key>Total Time</key><integer>249077</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2014-06-16T12:34:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4CF5FB13DC043210</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Follow Your Bliss</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Cosmic Thing</string>
+			<key>Genre</key><string>New Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/10%20Follow%20Your%20Bliss.mp3</string>
+		</dict>
+		<key>51761</key>
+		<dict>
+			<key>Track ID</key><integer>51761</integer>
+			<key>Size</key><integer>7598080</integer>
+			<key>Total Time</key><integer>293799</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>07F7C79B2D8FCC56</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pump</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/01%20Pump.mp3</string>
+		</dict>
+		<key>51769</key>
+		<dict>
+			<key>Track ID</key><integer>51769</integer>
+			<key>Size</key><integer>5087232</integer>
+			<key>Total Time</key><integer>204094</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9FECC37F970A5DCD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hot Corner</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/02%20Hot%20Corner.mp3</string>
+		</dict>
+		<key>51775</key>
+		<dict>
+			<key>Track ID</key><integer>51775</integer>
+			<key>Size</key><integer>6778880</integer>
+			<key>Total Time</key><integer>265508</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B9B7091A45A4F2D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ultraviolet</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/03%20Ultraviolet.mp3</string>
+		</dict>
+		<key>51773</key>
+		<dict>
+			<key>Track ID</key><integer>51773</integer>
+			<key>Size</key><integer>7041024</integer>
+			<key>Total Time</key><integer>262086</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EE47A1AB96ADF0DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Juliet of Spirits</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/04%20Juliet%20of%20Spirits.mp3</string>
+		</dict>
+		<key>51771</key>
+		<dict>
+			<key>Track ID</key><integer>51771</integer>
+			<key>Size</key><integer>6131712</integer>
+			<key>Total Time</key><integer>247327</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CBC9BEAD22277E35</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Funplex</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/05%20Funplex.mp3</string>
+		</dict>
+		<key>51767</key>
+		<dict>
+			<key>Track ID</key><integer>51767</integer>
+			<key>Size</key><integer>7739392</integer>
+			<key>Total Time</key><integer>335777</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6C775D415DC88A00</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Eyes Wide Open</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/06%20Eyes%20Wide%20Open.mp3</string>
+		</dict>
+		<key>51763</key>
+		<dict>
+			<key>Track ID</key><integer>51763</integer>
+			<key>Size</key><integer>6047744</integer>
+			<key>Total Time</key><integer>254511</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DEB17F752BF4E97C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love in the Year 3000</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/07%20Love%20in%20the%20Year%203000.mp3</string>
+		</dict>
+		<key>51757</key>
+		<dict>
+			<key>Track ID</key><integer>51757</integer>
+			<key>Size</key><integer>8136704</integer>
+			<key>Total Time</key><integer>290507</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>671DAAE958F235D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Deviant Ingredient</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/08%20Deviant%20Ingredient.mp3</string>
+		</dict>
+		<key>51759</key>
+		<dict>
+			<key>Track ID</key><integer>51759</integer>
+			<key>Size</key><integer>5687296</integer>
+			<key>Total Time</key><integer>227239</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7ED8F745FF30BD0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Too Much to Think About</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/09%20Too%20Much%20to%20Think%20About.mp3</string>
+		</dict>
+		<key>51765</key>
+		<dict>
+			<key>Track ID</key><integer>51765</integer>
+			<key>Size</key><integer>6383616</integer>
+			<key>Total Time</key><integer>242102</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>72348E7D22A9AB9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dancing Now</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/10%20Dancing%20Now.mp3</string>
+		</dict>
+		<key>51777</key>
+		<dict>
+			<key>Track ID</key><integer>51777</integer>
+			<key>Size</key><integer>6998016</integer>
+			<key>Total Time</key><integer>274259</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2014-06-17T17:27:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B9079EBA60D52A7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Keep this Party Going</string>
+			<key>Artist</key><string>The B-52's</string>
+			<key>Album</key><string>Funplex</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>B-52's</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Funplex/11%20Keep%20this%20Party%20Going.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138649</integer>
+			<key>Playlist Persistent ID</key><string>2AC60E04B31B2F94</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The B-52s Audit</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>51749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51751</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51775</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51767</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51765</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51777</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

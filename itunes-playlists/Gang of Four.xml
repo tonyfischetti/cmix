@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>49849</key>
+		<dict>
+			<key>Track ID</key><integer>49849</integer>
+			<key>Size</key><integer>8394292</integer>
+			<key>Total Time</key><integer>207255</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-20T00:12:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AED4982333341E09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Damaged Goods</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/04%20Damaged%20Goods.mp3</string>
+		</dict>
+		<key>49853</key>
+		<dict>
+			<key>Track ID</key><integer>49853</integer>
+			<key>Size</key><integer>9357680</integer>
+			<key>Total Time</key><integer>231340</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07074D996CD99249</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ether</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/01%20Ether.mp3</string>
+		</dict>
+		<key>49875</key>
+		<dict>
+			<key>Track ID</key><integer>49875</integer>
+			<key>Size</key><integer>7577188</integer>
+			<key>Total Time</key><integer>186827</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>83F60F5C738E67B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Natural's Not In It</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/02%20Natural's%20Not%20In%20It.mp3</string>
+		</dict>
+		<key>49867</key>
+		<dict>
+			<key>Track ID</key><integer>49867</integer>
+			<key>Size</key><integer>7528071</integer>
+			<key>Total Time</key><integer>185600</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D0B334B10629BA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Not Great Men</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/03%20Not%20Great%20Men.mp3</string>
+		</dict>
+		<key>49877</key>
+		<dict>
+			<key>Track ID</key><integer>49877</integer>
+			<key>Size</key><integer>7508220</integer>
+			<key>Total Time</key><integer>185103</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20C0BE1F69E9E2D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Return The Gift</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/05%20Return%20The%20Gift.mp3</string>
+		</dict>
+		<key>49857</key>
+		<dict>
+			<key>Track ID</key><integer>49857</integer>
+			<key>Size</key><integer>7858271</integer>
+			<key>Total Time</key><integer>193854</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>755F2CF9D762C6F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Found That Essence Rare</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/07%20I%20Found%20That%20Essence%20Rare.mp3</string>
+		</dict>
+		<key>49863</key>
+		<dict>
+			<key>Track ID</key><integer>49863</integer>
+			<key>Size</key><integer>6050578</integer>
+			<key>Total Time</key><integer>148662</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>671C89EDF1D37C98</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Glass</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/08%20Glass.mp3</string>
+		</dict>
+		<key>49847</key>
+		<dict>
+			<key>Track ID</key><integer>49847</integer>
+			<key>Size</key><integer>6503021</integer>
+			<key>Total Time</key><integer>159973</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38DA54198566E10D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Contract</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/09%20Contract.mp3</string>
+		</dict>
+		<key>49861</key>
+		<dict>
+			<key>Track ID</key><integer>49861</integer>
+			<key>Size</key><integer>8541632</integer>
+			<key>Total Time</key><integer>210938</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58E71514A024D994</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>At Home He's A Tourist</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/10%20At%20Home%20He's%20A%20Tourist.mp3</string>
+		</dict>
+		<key>49859</key>
+		<dict>
+			<key>Track ID</key><integer>49859</integer>
+			<key>Size</key><integer>9036896</integer>
+			<key>Total Time</key><integer>223320</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2015-05-20T14:04:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5CCF05291D79FA84</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>5.45</string>
+			<key>Artist</key><string>Gang of Four</string>
+			<key>Album Artist</key><string>Gang Of Four</string>
+			<key>Album</key><string>Entertainment!</string>
+			<key>Genre</key><string>Post Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gang%20Of%20Four/Entertainment!/11%205.45.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132948</integer>
+			<key>Playlist Persistent ID</key><string>6D209114082F8E8F</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Gang of Four</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>49849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49859</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

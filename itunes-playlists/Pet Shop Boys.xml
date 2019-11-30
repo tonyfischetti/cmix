@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>30181</key>
+		<dict>
+			<key>Track ID</key><integer>30181</integer>
+			<key>Size</key><integer>10305556</integer>
+			<key>Total Time</key><integer>231000</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646106671</integer>
+			<key>Play Date UTC</key><date>2019-07-16T11:24:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD0859EE71E3C965</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Over The World</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Yes</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Yes/02%20All%20Over%20The%20World.mp3</string>
+		</dict>
+		<key>30121</key>
+		<dict>
+			<key>Track ID</key><integer>30121</integer>
+			<key>Size</key><integer>9596729</integer>
+			<key>Total Time</key><integer>239281</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646110104</integer>
+			<key>Play Date UTC</key><date>2019-07-16T12:21:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-12T22:05:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CDC919B154F128F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>West End Girls</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 1</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/01%20West%20End%20Girls.mp3</string>
+		</dict>
+		<key>30075</key>
+		<dict>
+			<key>Track ID</key><integer>30075</integer>
+			<key>Size</key><integer>10681116</integer>
+			<key>Total Time</key><integer>261067</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646107150</integer>
+			<key>Play Date UTC</key><date>2019-07-16T11:32:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5FCFED134B549818</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Go West</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Very</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Very/12%20Go%20West.mp3</string>
+		</dict>
+		<key>30123</key>
+		<dict>
+			<key>Track ID</key><integer>30123</integer>
+			<key>Size</key><integer>8750410</integer>
+			<key>Total Time</key><integer>218122</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646106889</integer>
+			<key>Play Date UTC</key><date>2019-07-16T11:28:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>39A47FD183AD9013</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Opportunities</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 3</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/03%20Opportunities.mp3</string>
+		</dict>
+		<key>30073</key>
+		<dict>
+			<key>Track ID</key><integer>30073</integer>
+			<key>Size</key><integer>7596562</integer>
+			<key>Total Time</key><integer>183954</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647185393</integer>
+			<key>Play Date UTC</key><date>2019-07-28T23:03:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C74B7F1E322BE6C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Wouldn't Normally Do This Kind Of Thing</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Very</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Very/02%20I%20Wouldn't%20Normally%20Do%20This%20Kind%20Of%20Thing.mp3</string>
+		</dict>
+		<key>30147</key>
+		<dict>
+			<key>Track ID</key><integer>30147</integer>
+			<key>Size</key><integer>9433725</integer>
+			<key>Total Time</key><integer>235206</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613074038</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:40:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>253C395E2D127BA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Always On My Mind</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 8</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/08%20Always%20On%20My%20Mind.mp3</string>
+		</dict>
+		<key>30039</key>
+		<dict>
+			<key>Track ID</key><integer>30039</integer>
+			<key>Size</key><integer>7817764</integer>
+			<key>Total Time</key><integer>188943</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:52:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646109059</integer>
+			<key>Play Date UTC</key><date>2019-07-16T12:04:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC2F87DAB709B6BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Indefinite Leave to Remain</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Fundamental</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Fundamental/11%20Indefinite%20Leave%20to%20Remain.mp3</string>
+		</dict>
+		<key>30151</key>
+		<dict>
+			<key>Track ID</key><integer>30151</integer>
+			<key>Size</key><integer>10360550</integer>
+			<key>Total Time</key><integer>258377</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613074381</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:46:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C670F080806A10B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Domino Dancing</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 10</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/10%20Domino%20Dancing.mp3</string>
+		</dict>
+		<key>30169</key>
+		<dict>
+			<key>Track ID</key><integer>30169</integer>
+			<key>Size</key><integer>12299338</integer>
+			<key>Total Time</key><integer>287843</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:52:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-06-29T03:46:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82A4F3A02B838150</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Jealousy</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Behaviour</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Behaviour/10%20Jealousy.mp3</string>
+		</dict>
+		<key>30131</key>
+		<dict>
+			<key>Track ID</key><integer>30131</integer>
+			<key>Size</key><integer>12080451</integer>
+			<key>Total Time</key><integer>301374</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646108870</integer>
+			<key>Play Date UTC</key><date>2019-07-16T12:01:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E62146E2FB51620</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's A Sin</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 5</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/05%20It's%20A%20Sin.mp3</string>
+		</dict>
+		<key>30083</key>
+		<dict>
+			<key>Track ID</key><integer>30083</integer>
+			<key>Size</key><integer>9582863</integer>
+			<key>Total Time</key><integer>233613</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3646109293</integer>
+			<key>Play Date UTC</key><date>2019-07-16T12:08:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C17EAE7F4073436F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One In A Million</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Very</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Very/11%20One%20In%20A%20Million.mp3</string>
+		</dict>
+		<key>30063</key>
+		<dict>
+			<key>Track ID</key><integer>30063</integer>
+			<key>Size</key><integer>11839839</integer>
+			<key>Total Time</key><integer>290037</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613074920</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:55:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D5DF53F44184A27C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Young Offender</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Very</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Very/10%20Young%20Offender.mp3</string>
+		</dict>
+		<key>30009</key>
+		<dict>
+			<key>Track ID</key><integer>30009</integer>
+			<key>Size</key><integer>12141063</integer>
+			<key>Total Time</key><integer>256653</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2013-10-19T04:52:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613075176</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:59:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>959AE77392652A0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Up Against It</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Bilingual</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Bilingual/08%20Up%20Against%20It.mp3</string>
+		</dict>
+		<key>30133</key>
+		<dict>
+			<key>Track ID</key><integer>30133</integer>
+			<key>Size</key><integer>10381447</integer>
+			<key>Total Time</key><integer>258899</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646107682</integer>
+			<key>Play Date UTC</key><date>2019-07-16T11:41:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E68AAD0A2D5DF25</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Comes Quickly</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 2</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/02%20Love%20Comes%20Quickly.mp3</string>
+		</dict>
+		<key>30093</key>
+		<dict>
+			<key>Track ID</key><integer>30093</integer>
+			<key>Size</key><integer>11085998</integer>
+			<key>Total Time</key><integer>276662</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646109569</integer>
+			<key>Play Date UTC</key><date>2019-07-16T12:12:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4378AB707E075F17</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Opportunities (Original)</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Remixes</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Remixes/02%20Opportunities%20(Original).mp3</string>
+		</dict>
+		<key>30087</key>
+		<dict>
+			<key>Track ID</key><integer>30087</integer>
+			<key>Size</key><integer>13246833</integer>
+			<key>Total Time</key><integer>330684</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647185722</integer>
+			<key>Play Date UTC</key><date>2019-07-28T23:08:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3686061946BB6366</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Opportunities (Remix)</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Remixes</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Remixes/03%20Opportunities%20(Remix).mp3</string>
+		</dict>
+		<key>29965</key>
+		<dict>
+			<key>Track ID</key><integer>29965</integer>
+			<key>Size</key><integer>12617648</integer>
+			<key>Total Time</key><integer>305397</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:52:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646108569</integer>
+			<key>Play Date UTC</key><date>2019-07-16T11:56:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7210BF6A5291A8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Suburbia</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Please</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Please/05%20Suburbia.mp3</string>
+		</dict>
+		<key>30127</key>
+		<dict>
+			<key>Track ID</key><integer>30127</integer>
+			<key>Size</key><integer>10927999</integer>
+			<key>Total Time</key><integer>272561</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3646107423</integer>
+			<key>Play Date UTC</key><date>2019-07-16T11:37:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A4F7B8CB1EE458B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Where The Streets Have No Name</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 15</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/15%20Where%20The%20Streets%20Have%20No%20Name.mp3</string>
+		</dict>
+		<key>30125</key>
+		<dict>
+			<key>Track ID</key><integer>30125</integer>
+			<key>Size</key><integer>9799439</integer>
+			<key>Total Time</key><integer>244349</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2013-12-19T08:17:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646107926</integer>
+			<key>Play Date UTC</key><date>2019-07-16T11:45:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5C8321DF5F10F5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Suburbia</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>The Complete Singles Collection</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 4</string>
+			<key>Sort Album</key><string>Complete Singles Collection</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/The%20Complete%20Singles%20Collection/04%20Suburbia.mp3</string>
+		</dict>
+		<key>30095</key>
+		<dict>
+			<key>Track ID</key><integer>30095</integer>
+			<key>Size</key><integer>11853892</integer>
+			<key>Total Time</key><integer>295862</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3646109865</integer>
+			<key>Play Date UTC</key><date>2019-07-16T12:17:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD85A5BB092090B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>West End Girls (Live)</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Remixes</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Remixes/09%20West%20End%20Girls%20(Live).mp3</string>
+		</dict>
+		<key>30089</key>
+		<dict>
+			<key>Track ID</key><integer>30089</integer>
+			<key>Size</key><integer>21817050</integer>
+			<key>Total Time</key><integer>544940</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:53:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF42540885401D92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>West End Girls (Remix)</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Remixes</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pet%20Shop%20Boys/Remixes/06%20West%20End%20Girls%20(Remix).mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137605</integer>
+			<key>Playlist Persistent ID</key><string>078B664573F43BD3</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Pet Shop Boys</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30089</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

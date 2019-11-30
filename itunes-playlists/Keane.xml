@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>49173</key>
+		<dict>
+			<key>Track ID</key><integer>49173</integer>
+			<key>Size</key><integer>7138877</integer>
+			<key>Total Time</key><integer>259213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:45:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648568716</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:18:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9C787E005D8E077</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Spiralling</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/01%20Spiralling.mp3</string>
+		</dict>
+		<key>49155</key>
+		<dict>
+			<key>Track ID</key><integer>49155</integer>
+			<key>Size</key><integer>5139883</integer>
+			<key>Total Time</key><integer>186226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648567096</integer>
+			<key>Play Date UTC</key><date>2019-08-13T22:51:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-28T16:03:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33670DC0972EC10F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Is It Any Wonder?</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Under the Iron Sea</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Under%20the%20Iron%20Sea/02%20Is%20It%20Any%20Wonder_.mp3</string>
+		</dict>
+		<key>49145</key>
+		<dict>
+			<key>Track ID</key><integer>49145</integer>
+			<key>Size</key><integer>6320959</integer>
+			<key>Total Time</key><integer>220186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3648570033</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:40:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-28T15:40:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B71075AE849A4548</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bend &amp; Break</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Hopes and Fears</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Hopes%20and%20Fears/03%20Bend%20&amp;%20Break.mp3</string>
+		</dict>
+		<key>49139</key>
+		<dict>
+			<key>Track ID</key><integer>49139</integer>
+			<key>Size</key><integer>6413367</integer>
+			<key>Total Time</key><integer>238837</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648570803</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:53:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC4626856BC49A01</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Somewhere Only We Know</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tom Chaplin, Tim Rice-Oxley &amp; Richard Hughes</string>
+			<key>Album</key><string>Somewhere Only We Know - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Somewhere%20Only%20We%20Know%20-%20EP/01%20Somewhere%20Only%20We%20Know.mp3</string>
+		</dict>
+		<key>49137</key>
+		<dict>
+			<key>Track ID</key><integer>49137</integer>
+			<key>Size</key><integer>8503057</integer>
+			<key>Total Time</key><integer>222484</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-30T18:21:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648571338</integer>
+			<key>Play Date UTC</key><date>2019-08-14T00:02:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69328C63123AE314</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Won't Be Broken</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin, Richard Hughes &amp; Jesse Quin</string>
+			<key>Album</key><string>The Best of Keane</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Best of Keane</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/The%20Best%20of%20Keane/1-20%20Won't%20Be%20Broken.mp3</string>
+		</dict>
+		<key>49149</key>
+		<dict>
+			<key>Track ID</key><integer>49149</integer>
+			<key>Size</key><integer>6684082</integer>
+			<key>Total Time</key><integer>196519</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648569121</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:25:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2E7F4C95269FF96</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Silenced By the Night</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin, Richard Hughes &amp; Jesse Quin</string>
+			<key>Album</key><string>Strangeland (Deluxe Version)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Strangeland%20(Deluxe%20Version)/02%20Silenced%20By%20the%20Night.mp3</string>
+		</dict>
+		<key>49141</key>
+		<dict>
+			<key>Track ID</key><integer>49141</integer>
+			<key>Size</key><integer>5785561</integer>
+			<key>Total Time</key><integer>208039</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648568924</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:22:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E0B28E6E7290268</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>This Is the Last Time</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin, Richard Hughes &amp; James Sanger</string>
+			<key>Album</key><string>Hopes and Fears</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Hopes%20and%20Fears/02%20This%20Is%20the%20Last%20Time.mp3</string>
+		</dict>
+		<key>49157</key>
+		<dict>
+			<key>Track ID</key><integer>49157</integer>
+			<key>Size</key><integer>6595244</integer>
+			<key>Total Time</key><integer>240431</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>207</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648569361</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:29:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5AC2752349BAE7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nothing In My Way</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Under the Iron Sea</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Under%20the%20Iron%20Sea/03%20Nothing%20In%20My%20Way.mp3</string>
+		</dict>
+		<key>49151</key>
+		<dict>
+			<key>Track ID</key><integer>49151</integer>
+			<key>Size</key><integer>6206469</integer>
+			<key>Total Time</key><integer>239725</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648567795</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:03:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BE0CC538FDAB59C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leaving So Soon?</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Under the Iron Sea</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Under%20the%20Iron%20Sea/04%20Leaving%20So%20Soon_.mp3</string>
+		</dict>
+		<key>49147</key>
+		<dict>
+			<key>Track ID</key><integer>49147</integer>
+			<key>Size</key><integer>6061950</integer>
+			<key>Total Time</key><integer>215222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648567555</integer>
+			<key>Play Date UTC</key><date>2019-08-13T22:59:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BEE257E26A87FDD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everybody's Changing</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Hopes and Fears</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Hopes%20and%20Fears/05%20Everybody's%20Changing.mp3</string>
+		</dict>
+		<key>49143</key>
+		<dict>
+			<key>Track ID</key><integer>49143</integer>
+			<key>Size</key><integer>5848863</integer>
+			<key>Total Time</key><integer>217495</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648569579</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:32:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CBEF00D22D83910B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Can't Stop Now</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Hopes and Fears</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Hopes%20and%20Fears/08%20Can't%20Stop%20Now.mp3</string>
+		</dict>
+		<key>49153</key>
+		<dict>
+			<key>Track ID</key><integer>49153</integer>
+			<key>Size</key><integer>6234939</integer>
+			<key>Total Time</key><integer>234004</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-30T17:47:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648569812</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:36:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC726C0EAD0E786E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crystal Ball</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Under the Iron Sea</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Under%20the%20Iron%20Sea/09%20Crystal%20Ball.mp3</string>
+		</dict>
+		<key>49177</key>
+		<dict>
+			<key>Track ID</key><integer>49177</integer>
+			<key>Size</key><integer>8137623</integer>
+			<key>Total Time</key><integer>304483</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:45:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648570337</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:45:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D337D3D45C6129A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Lovers Are Losing</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Lovers Are Losing</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/02%20The%20Lovers%20Are%20Losing.mp3</string>
+		</dict>
+		<key>49175</key>
+		<dict>
+			<key>Track ID</key><integer>49175</integer>
+			<key>Size</key><integer>6769378</integer>
+			<key>Total Time</key><integer>243853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:45:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648567340</integer>
+			<key>Play Date UTC</key><date>2019-08-13T22:55:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF2FA04E025234FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Better Than This</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/03%20Better%20Than%20This.mp3</string>
+		</dict>
+		<key>49159</key>
+		<dict>
+			<key>Track ID</key><integer>49159</integer>
+			<key>Size</key><integer>6276316</integer>
+			<key>Total Time</key><integer>227265</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:45:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648566910</integer>
+			<key>Play Date UTC</key><date>2019-08-13T22:48:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>789577FECC44AAA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Haven't Told Me Anything</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/04%20You%20Haven't%20Told%20Me%20Anything.mp3</string>
+		</dict>
+		<key>49163</key>
+		<dict>
+			<key>Track ID</key><integer>49163</integer>
+			<key>Size</key><integer>8405706</integer>
+			<key>Total Time</key><integer>312137</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:45:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648571115</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:58:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2617DC7F570C9CA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Perfect Symmetry</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/05%20Perfect%20Symmetry.mp3</string>
+		</dict>
+		<key>49169</key>
+		<dict>
+			<key>Track ID</key><integer>49169</integer>
+			<key>Size</key><integer>6275815</integer>
+			<key>Total Time</key><integer>230112</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:45:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648571568</integer>
+			<key>Play Date UTC</key><date>2019-08-14T00:06:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D07C1E2A415C3EBB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Again &amp; Again</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/07%20Again%20&amp;%20Again.mp3</string>
+		</dict>
+		<key>49161</key>
+		<dict>
+			<key>Track ID</key><integer>49161</integer>
+			<key>Size</key><integer>6735566</integer>
+			<key>Total Time</key><integer>227395</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:45:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3648570564</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:49:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D947F41427E8872F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pretend That You're Alone</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/09%20Pretend%20That%20You're%20Alone.mp3</string>
+		</dict>
+		<key>49181</key>
+		<dict>
+			<key>Track ID</key><integer>49181</integer>
+			<key>Size</key><integer>8652480</integer>
+			<key>Total Time</key><integer>323422</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:44:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648568118</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:08:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B4B3B585ABC9B861</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black Burning Heart</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/10%20Black%20Burning%20Heart.mp3</string>
+		</dict>
+		<key>49167</key>
+		<dict>
+			<key>Track ID</key><integer>49167</integer>
+			<key>Size</key><integer>8433620</integer>
+			<key>Total Time</key><integer>338546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-07-07T00:44:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>186</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3648568457</integer>
+			<key>Play Date UTC</key><date>2019-08-13T23:14:17Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B34015267162F338</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Love Is the End</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Keane</string>
+			<key>Composer</key><string>Tim Rice-Oxley, Tom Chaplin &amp; Richard Hughes</string>
+			<key>Album</key><string>Perfect Symmetry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Keane/Perfect%20Symmetry/11%20Love%20Is%20the%20End.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>136908</integer>
+			<key>Playlist Persistent ID</key><string>EFC80E44F6D39A71</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Keane</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>49173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49167</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

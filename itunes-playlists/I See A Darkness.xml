@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>38331</key>
+		<dict>
+			<key>Track ID</key><integer>38331</integer>
+			<key>Size</key><integer>5995450</integer>
+			<key>Total Time</key><integer>223320</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613318968</integer>
+			<key>Play Date UTC</key><date>2018-07-01T23:42:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA4D8365816EDCEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Minor Place</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Minor Place</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/01%20A%20Minor%20Place.mp3</string>
+		</dict>
+		<key>38341</key>
+		<dict>
+			<key>Track ID</key><integer>38341</integer>
+			<key>Size</key><integer>6291403</integer>
+			<key>Total Time</key><integer>238106</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>985ADEECEA204786</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nomadic Revery (All Around)</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/02%20Nomadic%20Revery%20(All%20Around).mp3</string>
+		</dict>
+		<key>38333</key>
+		<dict>
+			<key>Track ID</key><integer>38333</integer>
+			<key>Size</key><integer>7697612</integer>
+			<key>Total Time</key><integer>289854</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613319416</integer>
+			<key>Play Date UTC</key><date>2018-07-01T23:50:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C9CA62A0A4C9675</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I See a Darkness</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/03%20I%20See%20a%20Darkness.mp3</string>
+		</dict>
+		<key>38327</key>
+		<dict>
+			<key>Track ID</key><integer>38327</integer>
+			<key>Size</key><integer>5147524</integer>
+			<key>Total Time</key><integer>190798</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613319607</integer>
+			<key>Play Date UTC</key><date>2018-07-01T23:53:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA2B25D5E2D7D673</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Another Day Full of Dread</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/04%20Another%20Day%20Full%20of%20Dread.mp3</string>
+		</dict>
+		<key>38335</key>
+		<dict>
+			<key>Track ID</key><integer>38335</integer>
+			<key>Size</key><integer>7252075</integer>
+			<key>Total Time</key><integer>271386</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613319878</integer>
+			<key>Play Date UTC</key><date>2018-07-01T23:57:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E05CC4D3224AB5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Death to Everyone</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/05%20Death%20to%20Everyone.mp3</string>
+		</dict>
+		<key>38323</key>
+		<dict>
+			<key>Track ID</key><integer>38323</integer>
+			<key>Size</key><integer>3723968</integer>
+			<key>Total Time</key><integer>137273</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB19705311436EFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Knockturne</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/06%20Knockturne.mp3</string>
+		</dict>
+		<key>38339</key>
+		<dict>
+			<key>Track ID</key><integer>38339</integer>
+			<key>Size</key><integer>4366017</integer>
+			<key>Total Time</key><integer>151484</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>228</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94721F2A54A4DFF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Madeleine-Mary</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/07%20Madeleine-Mary.mp3</string>
+		</dict>
+		<key>38325</key>
+		<dict>
+			<key>Track ID</key><integer>38325</integer>
+			<key>Size</key><integer>5749602</integer>
+			<key>Total Time</key><integer>203781</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6CA1D36679608E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Song for the New Breed</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/08%20Song%20for%20the%20New%20Breed.mp3</string>
+		</dict>
+		<key>38337</key>
+		<dict>
+			<key>Track ID</key><integer>38337</integer>
+			<key>Size</key><integer>5366154</integer>
+			<key>Total Time</key><integer>232306</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15C4BF7B287A93EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Today I Was an Evil One</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/09%20Today%20I%20Was%20an%20Evil%20One.mp3</string>
+		</dict>
+		<key>38329</key>
+		<dict>
+			<key>Track ID</key><integer>38329</integer>
+			<key>Size</key><integer>5693569</integer>
+			<key>Total Time</key><integer>225933</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-07-21T21:40:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CCF6320CE134923F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black</string>
+			<key>Artist</key><string>Bonnie 'Prince' Billy</string>
+			<key>Album</key><string>I See a Darkness</string>
+			<key>Genre</key><string>Americana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bonnie%20'Prince'%20Billy/I%20See%20a%20Darkness/10%20Black.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>133488</integer>
+			<key>Playlist Persistent ID</key><string>0DFE6B73ABBBBA64</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>I See A Darkness</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>38331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38329</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>19839</key>
+		<dict>
+			<key>Track ID</key><integer>19839</integer>
+			<key>Size</key><integer>6762761</integer>
+			<key>Total Time</key><integer>218644</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>159049DDC3A5E666</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>First Of The Gang To Die</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>You Are The Quarry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/You%20Are%20The%20Quarry/08%20First%20Of%20The%20Gang%20To%20Die.mp3</string>
+		</dict>
+		<key>19663</key>
+		<dict>
+			<key>Track ID</key><integer>19663</integer>
+			<key>Size</key><integer>5528623</integer>
+			<key>Total Time</key><integer>224444</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2014-07-21T19:17:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D9B21A701FE4C3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The More You Ignore Me, The Closer I Get</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Vauxhall and I</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>More You Ignore Me, The Closer I Get</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Vauxhall%20and%20I/05%20The%20More%20You%20Ignore%20Me,%20The%20Closer%20I%20Get.mp3</string>
+		</dict>
+		<key>19437</key>
+		<dict>
+			<key>Track ID</key><integer>19437</integer>
+			<key>Size</key><integer>7820610</integer>
+			<key>Total Time</key><integer>319242</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>236F18E71BFBDEBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We'll Let You Know</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/03%20We'll%20Let%20You%20Know.mp3</string>
+		</dict>
+		<key>19445</key>
+		<dict>
+			<key>Track ID</key><integer>19445</integer>
+			<key>Size</key><integer>4463990</integer>
+			<key>Total Time</key><integer>179382</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF2EEEC1CAF3920F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You're The One For Me, Fatty</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/07%20You're%20The%20One%20For%20Me,%20Fatty.mp3</string>
+		</dict>
+		<key>19449</key>
+		<dict>
+			<key>Track ID</key><integer>19449</integer>
+			<key>Size</key><integer>4833250</integer>
+			<key>Total Time</key><integer>194768</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>827A4DF18FAAF235</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Certain People I Know</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/05%20Certain%20People%20I%20Know.mp3</string>
+		</dict>
+		<key>19475</key>
+		<dict>
+			<key>Track ID</key><integer>19475</integer>
+			<key>Size</key><integer>4386654</integer>
+			<key>Total Time</key><integer>179670</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E1C43C17DFD1D85</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Youngest Was the Most Loved</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Ringleader of the Tormentors</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>Youngest Was the Most Loved</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Ringleader%20of%20the%20Tormentors/04%20The%20Youngest%20Was%20the%20Most%20Loved.mp3</string>
+		</dict>
+		<key>19457</key>
+		<dict>
+			<key>Track ID</key><integer>19457</integer>
+			<key>Size</key><integer>4599174</integer>
+			<key>Total Time</key><integer>188525</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1F54766DA214BF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Have Killed Me</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Ringleader of the Tormentors</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Ringleader%20of%20the%20Tormentors/03%20You%20Have%20Killed%20Me.mp3</string>
+		</dict>
+		<key>19829</key>
+		<dict>
+			<key>Track ID</key><integer>19829</integer>
+			<key>Size</key><integer>4829551</integer>
+			<key>Total Time</key><integer>157518</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>236</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCBBCC457C2D7AE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Irish Blood, English Heart</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>You Are The Quarry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/You%20Are%20The%20Quarry/02%20Irish%20Blood,%20English%20Heart.mp3</string>
+		</dict>
+		<key>19853</key>
+		<dict>
+			<key>Track ID</key><integer>19853</integer>
+			<key>Size</key><integer>5070725</integer>
+			<key>Total Time</key><integer>158328</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6DE5832D1FA30F5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Something Is Squeezing My Skull</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Years Of Refusal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Years%20Of%20Refusal/01%20Something%20Is%20Squeezing%20My%20Skull.mp3</string>
+		</dict>
+		<key>19541</key>
+		<dict>
+			<key>Track ID</key><integer>19541</integer>
+			<key>Size</key><integer>5132416</integer>
+			<key>Total Time</key><integer>213733</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1A3B74E9DAC994A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everyday Is like Sunday</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/09%20Everyday%20Is%20like%20Sunday.mp3</string>
+		</dict>
+		<key>19451</key>
+		<dict>
+			<key>Track ID</key><integer>19451</integer>
+			<key>Size</key><integer>3811976</integer>
+			<key>Total Time</key><integer>152215</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A38517D101745929</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Hate It When Our Friends Become Successful</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/06%20We%20Hate%20It%20When%20Our%20Friends%20Become%20Successful.mp3</string>
+		</dict>
+		<key>19545</key>
+		<dict>
+			<key>Track ID</key><integer>19545</integer>
+			<key>Size</key><integer>4968576</integer>
+			<key>Total Time</key><integer>206942</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>47CDE2CEEF63B66A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Piccadilly Palare</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/01%20Piccadilly%20Palare.mp3</string>
+		</dict>
+		<key>19439</key>
+		<dict>
+			<key>Track ID</key><integer>19439</integer>
+			<key>Size</key><integer>6057650</integer>
+			<key>Total Time</key><integer>245786</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2E9A81F48F1224B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tomorrow</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/10%20Tomorrow.mp3</string>
+		</dict>
+		<key>19543</key>
+		<dict>
+			<key>Track ID</key><integer>19543</integer>
+			<key>Size</key><integer>4984960</integer>
+			<key>Total Time</key><integer>207647</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6989566210830F76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Interesting Drug</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/02%20Interesting%20Drug.mp3</string>
+		</dict>
+		<key>19535</key>
+		<dict>
+			<key>Track ID</key><integer>19535</integer>
+			<key>Size</key><integer>4122752</integer>
+			<key>Total Time</key><integer>171676</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>509C05AAC15232B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Such a Little Thing Makes Such a Big Difference</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/05%20Such%20a%20Little%20Thing%20Makes%20Such%20a%20Big%20Difference.mp3</string>
+		</dict>
+		<key>19553</key>
+		<dict>
+			<key>Track ID</key><integer>19553</integer>
+			<key>Size</key><integer>5539968</integer>
+			<key>Total Time</key><integer>230713</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F3BAB94EEF8E6600</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hairdresser on Fire</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/08%20Hairdresser%20on%20Fire.mp3</string>
+		</dict>
+		<key>19741</key>
+		<dict>
+			<key>Track ID</key><integer>19741</integer>
+			<key>Size</key><integer>3882758</integer>
+			<key>Total Time</key><integer>161776</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>68C4FACB069CE2F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Have-A-Go Merchant</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>The World Of Morrissey</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>World Of Morrissey</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/The%20World%20Of%20Morrissey/04%20Have-A-Go%20Merchant.mp3</string>
+		</dict>
+		<key>19671</key>
+		<dict>
+			<key>Track ID</key><integer>19671</integer>
+			<key>Size</key><integer>4946191</integer>
+			<key>Total Time</key><integer>200176</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2014-07-19T03:15:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68B19FB301155D48</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Why Don't You Find Out For Yourself</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Vauxhall and I</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Vauxhall%20and%20I/06%20Why%20Don't%20You%20Find%20Out%20For%20Yourself.mp3</string>
+		</dict>
+		<key>19447</key>
+		<dict>
+			<key>Track ID</key><integer>19447</integer>
+			<key>Size</key><integer>6003111</integer>
+			<key>Total Time</key><integer>243513</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93D88BC7C1EF5051</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Glamorous Glue</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/02%20Glamorous%20Glue.mp3</string>
+		</dict>
+		<key>19555</key>
+		<dict>
+			<key>Track ID</key><integer>19555</integer>
+			<key>Size</key><integer>3414144</integer>
+			<key>Total Time</key><integer>142132</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>47476C1212A5740D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Will Never Marry</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/04%20Will%20Never%20Marry.mp3</string>
+		</dict>
+		<key>19855</key>
+		<dict>
+			<key>Track ID</key><integer>19855</integer>
+			<key>Size</key><integer>4829980</integer>
+			<key>Total Time</key><integer>150804</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>59F099DAAA4DF84D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I'm Throwing My Arms Around Paris</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Years Of Refusal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Years%20Of%20Refusal/04%20I'm%20Throwing%20My%20Arms%20Around%20Paris.mp3</string>
+		</dict>
+		<key>19547</key>
+		<dict>
+			<key>Track ID</key><integer>19547</integer>
+			<key>Size</key><integer>5226624</integer>
+			<key>Total Time</key><integer>217652</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-31T02:31:08Z</date>
+			<key>Persistent ID</key><string>6A65EC3175BA679B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Last of the Famous International Playboys</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Last of the Famous International Playboys</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/06%20The%20Last%20of%20the%20Famous%20International%20Playboys.mp3</string>
+		</dict>
+		<key>19531</key>
+		<dict>
+			<key>Track ID</key><integer>19531</integer>
+			<key>Size</key><integer>7823488</integer>
+			<key>Total Time</key><integer>325903</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>87486836502170D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>November Spawned a Monster</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/03%20November%20Spawned%20a%20Monster.mp3</string>
+		</dict>
+		<key>19843</key>
+		<dict>
+			<key>Track ID</key><integer>19843</integer>
+			<key>Size</key><integer>6098986</integer>
+			<key>Total Time</key><integer>205139</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8517A17E42608859</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>How Can Anybody Possibly Know How I Feel?</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>You Are The Quarry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/You%20Are%20The%20Quarry/07%20How%20Can%20Anybody%20Possibly%20Know%20How%20I%20Feel_.mp3</string>
+		</dict>
+		<key>19441</key>
+		<dict>
+			<key>Track ID</key><integer>19441</integer>
+			<key>Size</key><integer>6535392</integer>
+			<key>Total Time</key><integer>265691</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F214AB0E365A7321</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The National Front Disco</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>National Front Disco</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/04%20The%20National%20Front%20Disco.mp3</string>
+		</dict>
+		<key>19669</key>
+		<dict>
+			<key>Track ID</key><integer>19669</integer>
+			<key>Size</key><integer>5969343</integer>
+			<key>Total Time</key><integer>242808</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2014-07-21T19:18:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D342F8F8BC2E5C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hold On To Your Friends</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Vauxhall and I</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Vauxhall%20and%20I/04%20Hold%20On%20To%20Your%20Friends.mp3</string>
+		</dict>
+		<key>19533</key>
+		<dict>
+			<key>Track ID</key><integer>19533</integer>
+			<key>Size</key><integer>6369408</integer>
+			<key>Total Time</key><integer>265273</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>757155B56BE4BF05</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ouija Board, Ouija Board</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Bona Drag</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Bona%20Drag/07%20Ouija%20Board,%20Ouija%20Board.mp3</string>
+		</dict>
+		<key>19745</key>
+		<dict>
+			<key>Track ID</key><integer>19745</integer>
+			<key>Size</key><integer>6345374</integer>
+			<key>Total Time</key><integer>264385</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1798738E87F5EB9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Love Life</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>The World Of Morrissey</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Album</key><string>World Of Morrissey</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/The%20World%20Of%20Morrissey/10%20My%20Love%20Life.mp3</string>
+		</dict>
+		<key>19629</key>
+		<dict>
+			<key>Track ID</key><integer>19629</integer>
+			<key>Size</key><integer>11049600</integer>
+			<key>Total Time</key><integer>272195</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-17T18:46:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-07-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79D7766A8AACBA33</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>World Peace Is None of Your Business</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Composer</key><string>Steven Patrick Morrissey &amp; Boz Boorer</string>
+			<key>Album</key><string>World Peace Is None of Your Business</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/World%20Peace%20Is%20None%20of%20Your%20Business/01%20World%20Peace%20Is%20None%20of%20Your%20Business.mp3</string>
+		</dict>
+		<key>19631</key>
+		<dict>
+			<key>Track ID</key><integer>19631</integer>
+			<key>Size</key><integer>9983795</integer>
+			<key>Total Time</key><integer>245551</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-17T18:46:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-07-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A25F932535A0194D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Neal Cassady Drops Dead</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Composer</key><string>Steven Patrick Morrissey &amp; Gustavo Manzur</string>
+			<key>Album</key><string>World Peace Is None of Your Business</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/World%20Peace%20Is%20None%20of%20Your%20Business/02%20Neal%20Cassady%20Drops%20Dead.mp3</string>
+		</dict>
+		<key>19645</key>
+		<dict>
+			<key>Track ID</key><integer>19645</integer>
+			<key>Size</key><integer>8851132</integer>
+			<key>Total Time</key><integer>217234</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-17T18:46:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-07-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>845E7F02D178C6F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Earth Is the Loneliest Planet</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Composer</key><string>Steven Patrick Morrissey &amp; Gustavo Manzur</string>
+			<key>Album</key><string>World Peace Is None of Your Business</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/World%20Peace%20Is%20None%20of%20Your%20Business/05%20Earth%20Is%20the%20Loneliest%20Planet.mp3</string>
+		</dict>
+		<key>19863</key>
+		<dict>
+			<key>Track ID</key><integer>19863</integer>
+			<key>Size</key><integer>6172465</integer>
+			<key>Total Time</key><integer>192757</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1B00196B49FD857E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All You Need Is Me</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Years Of Refusal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Years%20Of%20Refusal/05%20All%20You%20Need%20Is%20Me.mp3</string>
+		</dict>
+		<key>19871</key>
+		<dict>
+			<key>Track ID</key><integer>19871</integer>
+			<key>Size</key><integer>5740295</integer>
+			<key>Total Time</key><integer>179252</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>689F53BB0DA04EAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>That's How People Grow Up</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Years Of Refusal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Years%20Of%20Refusal/07%20That's%20How%20People%20Grow%20Up.mp3</string>
+		</dict>
+		<key>19867</key>
+		<dict>
+			<key>Track ID</key><integer>19867</integer>
+			<key>Size</key><integer>9909856</integer>
+			<key>Total Time</key><integer>309551</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A09D959A4DAA7B23</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Not Your Birthday Anymore</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Years Of Refusal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Years%20Of%20Refusal/09%20It's%20Not%20Your%20Birthday%20Anymore.mp3</string>
+		</dict>
+		<key>19857</key>
+		<dict>
+			<key>Track ID</key><integer>19857</integer>
+			<key>Size</key><integer>7782444</integer>
+			<key>Total Time</key><integer>243069</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9EC308B561D4B025</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sorry Doesn't Help</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Years Of Refusal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Years%20Of%20Refusal/11%20Sorry%20Doesn't%20Help.mp3</string>
+		</dict>
+		<key>19461</key>
+		<dict>
+			<key>Track ID</key><integer>19461</integer>
+			<key>Size</key><integer>5701343</integer>
+			<key>Total Time</key><integer>234448</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>84AED0D4B4ABB6BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In the Future When All's Well</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Ringleader of the Tormentors</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Ringleader%20of%20the%20Tormentors/05%20In%20the%20Future%20When%20All's%20Well.mp3</string>
+		</dict>
+		<key>19473</key>
+		<dict>
+			<key>Track ID</key><integer>19473</integer>
+			<key>Size</key><integer>5682535</integer>
+			<key>Total Time</key><integer>233665</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D88F35DA1A5C9D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Father Who Must Be Killed</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Ringleader of the Tormentors</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>Father Who Must Be Killed</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Ringleader%20of%20the%20Tormentors/06%20The%20Father%20Who%20Must%20Be%20Killed.mp3</string>
+		</dict>
+		<key>19845</key>
+		<dict>
+			<key>Track ID</key><integer>19845</integer>
+			<key>Size</key><integer>5813587</integer>
+			<key>Total Time</key><integer>221622</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>280949A13E81D389</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Have Forgiven Jesus</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>You Are The Quarry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/You%20Are%20The%20Quarry/03%20I%20Have%20Forgiven%20Jesus.mp3</string>
+		</dict>
+		<key>19661</key>
+		<dict>
+			<key>Track ID</key><integer>19661</integer>
+			<key>Size</key><integer>12253296</integer>
+			<key>Total Time</key><integer>302288</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-17T18:46:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-07-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94EBA77A1AA27482</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mountjoy</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Composer</key><string>Steven Patrick Morrissey &amp; Boz Boorer</string>
+			<key>Album</key><string>World Peace Is None of Your Business</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/World%20Peace%20Is%20None%20of%20Your%20Business/11%20Mountjoy.mp3</string>
+		</dict>
+		<key>19599</key>
+		<dict>
+			<key>Track ID</key><integer>19599</integer>
+			<key>Size</key><integer>5199123</integer>
+			<key>Total Time</key><integer>218566</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-07-18T16:22:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>73A6A112866627B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ammunition</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Maladjusted</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Maladjusted/08%20Ammunition.mp3</string>
+		</dict>
+		<key>19601</key>
+		<dict>
+			<key>Track ID</key><integer>19601</integer>
+			<key>Size</key><integer>6948371</integer>
+			<key>Total Time</key><integer>287033</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-07-18T16:22:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BA93D685C51E5880</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alma Matters</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Maladjusted</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Maladjusted/06%20Alma%20Matters.mp3</string>
+		</dict>
+		<key>19659</key>
+		<dict>
+			<key>Track ID</key><integer>19659</integer>
+			<key>Size</key><integer>13265820</integer>
+			<key>Total Time</key><integer>327601</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-17T18:46:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-07-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22510177F360DC76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Staircase At the University</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Composer</key><string>Steven Patrick Morrissey &amp; Boz Boorer</string>
+			<key>Album</key><string>World Peace Is None of Your Business</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/World%20Peace%20Is%20None%20of%20Your%20Business/06%20Staircase%20At%20the%20University.mp3</string>
+		</dict>
+		<key>19835</key>
+		<dict>
+			<key>Track ID</key><integer>19835</integer>
+			<key>Size</key><integer>9410015</integer>
+			<key>Total Time</key><integer>351503</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE34BC2CD117671E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Know I Couldn't Last</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>You Are The Quarry</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/You%20Are%20The%20Quarry/12%20You%20Know%20I%20Couldn't%20Last.mp3</string>
+		</dict>
+		<key>19763</key>
+		<dict>
+			<key>Track ID</key><integer>19763</integer>
+			<key>Size</key><integer>14925924</integer>
+			<key>Total Time</key><integer>601808</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-07-18T16:23:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3FE3739F4273D649</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Southpaw</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Southpaw Grammar</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>No Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Southpaw%20Grammar/06%20Southpaw.mp3</string>
+		</dict>
+		<key>19443</key>
+		<dict>
+			<key>Track ID</key><integer>19443</integer>
+			<key>Size</key><integer>7593039</integer>
+			<key>Total Time</key><integer>309760</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:45Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0819020F13E110D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Seasick, Yet Still Docked</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Your Arsenal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Your%20Arsenal/08%20Seasick,%20Yet%20Still%20Docked.mp3</string>
+		</dict>
+		<key>19515</key>
+		<dict>
+			<key>Track ID</key><integer>19515</integer>
+			<key>Size</key><integer>2717079</integer>
+			<key>Total Time</key><integer>112613</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2014-07-18T16:40:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9AFC37B1B4B48652</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>There's a Place in Hell for Me and My Friends</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Kill Uncle</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Kill%20Uncle/10%20There's%20a%20Place%20in%20Hell%20for%20Me%20and%20My%20Friends.mp3</string>
+		</dict>
+		<key>19787</key>
+		<dict>
+			<key>Track ID</key><integer>19787</integer>
+			<key>Size</key><integer>5337199</integer>
+			<key>Total Time</key><integer>216528</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D56E57CC2743CD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Everyday Is Like Sunday</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Viva Hate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Viva%20Hate/03%20Everyday%20Is%20Like%20Sunday.mp3</string>
+		</dict>
+		<key>19791</key>
+		<dict>
+			<key>Track ID</key><integer>19791</integer>
+			<key>Size</key><integer>5782939</integer>
+			<key>Total Time</key><integer>235102</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B916E2772469B29C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Suedehead</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Viva Hate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Viva%20Hate/07%20Suedehead.mp3</string>
+		</dict>
+		<key>19783</key>
+		<dict>
+			<key>Track ID</key><integer>19783</integer>
+			<key>Size</key><integer>5689535</integer>
+			<key>Total Time</key><integer>231209</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:46:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>563E786B6BE17EAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hairdresser on Fire</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Viva Hate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Viva%20Hate/09%20Hairdresser%20on%20Fire.mp3</string>
+		</dict>
+		<key>19489</key>
+		<dict>
+			<key>Track ID</key><integer>19489</integer>
+			<key>Size</key><integer>3736318</integer>
+			<key>Total Time</key><integer>185808</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-07-18T16:58:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8A7E6B6581283EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You're the One for Me</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Beethoven Was Deaf (Live)</string>
+			<key>Genre</key><string>alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Beethoven%20Was%20Deaf%20(Live)/01%20You're%20the%20One%20for%20Me.mp3</string>
+		</dict>
+		<key>19493</key>
+		<dict>
+			<key>Track ID</key><integer>19493</integer>
+			<key>Size</key><integer>3912348</integer>
+			<key>Total Time</key><integer>194612</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-07-18T16:54:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5132AC281A5C1446</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Certain People I Know</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Album</key><string>Beethoven Was Deaf (Live)</string>
+			<key>Genre</key><string>alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/Beethoven%20Was%20Deaf%20(Live)/02%20Certain%20People%20I%20Know.mp3</string>
+		</dict>
+		<key>19627</key>
+		<dict>
+			<key>Track ID</key><integer>19627</integer>
+			<key>Size</key><integer>9908551</integer>
+			<key>Total Time</key><integer>243670</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-07-17T18:46:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-07-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>212A721118F0F95D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kiss Me a Lot</string>
+			<key>Artist</key><string>Morrissey</string>
+			<key>Composer</key><string>Steven Patrick Morrissey &amp; Jesse Tobias</string>
+			<key>Album</key><string>World Peace Is None of Your Business</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Morrissey/World%20Peace%20Is%20None%20of%20Your%20Business/08%20Kiss%20Me%20a%20Lot.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137306</integer>
+			<key>Playlist Persistent ID</key><string>BE60EB3608B47D43</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Morrissey</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19843</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19627</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

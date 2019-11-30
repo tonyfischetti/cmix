@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>24397</key>
+		<dict>
+			<key>Track ID</key><integer>24397</integer>
+			<key>Size</key><integer>3268613</integer>
+			<key>Total Time</key><integer>202004</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2016-06-27T14:44:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>972D69F055B5A8BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Vamos a Jugar</string>
+			<key>Artist</key><string>Parálisis Permanente</string>
+			<key>Album Artist</key><string>Parálisis Permanente</string>
+			<key>Album</key><string>Grabaciones Completas 1981 - 1983</string>
+			<key>Genre</key><string>Postpunk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Para%CC%81lisis%20Permanente/Grabaciones%20Completas%201981%20-%201983/08%20Vamos%20a%20Jugar.mp3</string>
+		</dict>
+		<key>35205</key>
+		<dict>
+			<key>Track ID</key><integer>35205</integer>
+			<key>Size</key><integer>4403064</integer>
+			<key>Total Time</key><integer>178076</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F23649A8D743D426</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sombras En La Alcoba</string>
+			<key>Artist</key><string>Claustrofobia</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/1-07%20Sombras%20En%20La%20Alcoba.mp3</string>
+		</dict>
+		<key>35181</key>
+		<dict>
+			<key>Track ID</key><integer>35181</integer>
+			<key>Size</key><integer>5652549</integer>
+			<key>Total Time</key><integer>230138</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>392086813E0FB6D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Principio Y Fin</string>
+			<key>Artist</key><string>Agrimensor K</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/1-10%20Principio%20Y%20Fin.mp3</string>
+		</dict>
+		<key>35155</key>
+		<dict>
+			<key>Track ID</key><integer>35155</integer>
+			<key>Size</key><integer>4883929</integer>
+			<key>Total Time</key><integer>198112</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB89338980393A7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ella Se Hizo Monja</string>
+			<key>Artist</key><string>Beirut, La Noche</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/1-13%20Ella%20Se%20Hizo%20Monja.mp3</string>
+		</dict>
+		<key>35161</key>
+		<dict>
+			<key>Track ID</key><integer>35161</integer>
+			<key>Size</key><integer>7182900</integer>
+			<key>Total Time</key><integer>293903</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF8B801FAC0A4914</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Recuerda</string>
+			<key>Artist</key><string>Seres Vacios</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/1-15%20Recuerda.mp3</string>
+		</dict>
+		<key>35149</key>
+		<dict>
+			<key>Track ID</key><integer>35149</integer>
+			<key>Size</key><integer>5940330</integer>
+			<key>Total Time</key><integer>242128</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>160543CA0415084A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Zona Fantasma</string>
+			<key>Artist</key><string>El Aviador Dro Y Sus Obreros Especializados</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-01%20La%20Zona%20Fantasma.mp3</string>
+		</dict>
+		<key>35179</key>
+		<dict>
+			<key>Track ID</key><integer>35179</integer>
+			<key>Size</key><integer>6705804</integer>
+			<key>Total Time</key><integer>274024</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C37FDFB71AFD7D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Salón Xanadú</string>
+			<key>Artist</key><string>Jugos De Otros</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-03%20Salo%CC%81n%20Xanadu%CC%81.mp3</string>
+		</dict>
+		<key>35223</key>
+		<dict>
+			<key>Track ID</key><integer>35223</integer>
+			<key>Size</key><integer>5869485</integer>
+			<key>Total Time</key><integer>239177</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4A0CFC42E7D84E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Asfixia</string>
+			<key>Artist</key><string>Donación Agnelli</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/1-14%20Asfixia.mp3</string>
+		</dict>
+		<key>35199</key>
+		<dict>
+			<key>Track ID</key><integer>35199</integer>
+			<key>Size</key><integer>5587948</integer>
+			<key>Total Time</key><integer>227448</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>39EA24F525CA066E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Humo</string>
+			<key>Artist</key><string>New Buildings</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-06%20Humo.mp3</string>
+		</dict>
+		<key>35165</key>
+		<dict>
+			<key>Track ID</key><integer>35165</integer>
+			<key>Size</key><integer>5924656</integer>
+			<key>Total Time</key><integer>241475</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>815C3E7012AEBA10</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Algo Está Pasando</string>
+			<key>Artist</key><string>V2 Berlín</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-07%20Algo%20Esta%CC%81%20Pasando.mp3</string>
+		</dict>
+		<key>35215</key>
+		<dict>
+			<key>Track ID</key><integer>35215</integer>
+			<key>Size</key><integer>6351603</integer>
+			<key>Total Time</key><integer>259265</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FA9E774A9FF4D694</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Aullándote</string>
+			<key>Artist</key><string>Matrona Impúdica</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-10%20Aulla%CC%81ndote.mp3</string>
+		</dict>
+		<key>35183</key>
+		<dict>
+			<key>Track ID</key><integer>35183</integer>
+			<key>Size</key><integer>6863784</integer>
+			<key>Total Time</key><integer>280607</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AEB5B26B2AB45492</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>El Sótano</string>
+			<key>Artist</key><string>Ceremonia</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-11%20El%20So%CC%81tano.mp3</string>
+		</dict>
+		<key>35229</key>
+		<dict>
+			<key>Track ID</key><integer>35229</integer>
+			<key>Size</key><integer>4714011</integer>
+			<key>Total Time</key><integer>191033</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A1D571AB3E627E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Juego De La Lluvia</string>
+			<key>Artist</key><string>Furnish Time</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-17%20Juego%20De%20La%20Lluvia.mp3</string>
+		</dict>
+		<key>35195</key>
+		<dict>
+			<key>Track ID</key><integer>35195</integer>
+			<key>Size</key><integer>5136587</integer>
+			<key>Total Time</key><integer>208640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-04-13T16:25:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C2D1E45B70922B97</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tras El Fuego</string>
+			<key>Artist</key><string>Inhibidos Quizás?</string>
+			<key>Album</key><string>Sombras (Spanish Post Punk + Dark Pop 1981-1986)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Sombras%20(Spanish%20Post%20Punk%20+%20Dark%20Pop%201981-1986)/2-18%20Tras%20El%20Fuego.mp3</string>
+		</dict>
+		<key>24395</key>
+		<dict>
+			<key>Track ID</key><integer>24395</integer>
+			<key>Size</key><integer>2516441</integer>
+			<key>Total Time</key><integer>155376</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2016-06-27T14:43:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B2BCE86EFAB32DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Héroes</string>
+			<key>Artist</key><string>Parálisis Permanente</string>
+			<key>Album Artist</key><string>Parálisis Permanente</string>
+			<key>Album</key><string>Grabaciones Completas 1981 - 1983</string>
+			<key>Genre</key><string>Postpunk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Para%CC%81lisis%20Permanente/Grabaciones%20Completas%201981%20-%201983/10%20He%CC%81roes.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137160</integer>
+			<key>Playlist Persistent ID</key><string>03860B7B5B01B434</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Lo Mejor De Las Sombras</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>24397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24395</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

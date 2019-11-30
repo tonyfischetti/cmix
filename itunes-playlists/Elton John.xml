@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>12859</key>
+		<dict>
+			<key>Track ID</key><integer>12859</integer>
+			<key>Size</key><integer>16084469</integer>
+			<key>Total Time</key><integer>669753</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:47Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647318016</integer>
+			<key>Play Date UTC</key><date>2019-07-30T11:53:36Z</date>
+			<key>Persistent ID</key><string>570A1D5477F4B2EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Funeral For A Friend/Love Lies Bleeding</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Goodbye Yellow Brick Road</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/01%20Funeral%20For%20A%20Friend_Love%20Lies%20Bleeding.mp3</string>
+		</dict>
+		<key>12871</key>
+		<dict>
+			<key>Track ID</key><integer>12871</integer>
+			<key>Size</key><integer>7764763</integer>
+			<key>Total Time</key><integer>323526</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647318339</integer>
+			<key>Play Date UTC</key><date>2019-07-30T11:58:59Z</date>
+			<key>Persistent ID</key><string>49544D3819096A75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bennie And The Jets</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Goodbye Yellow Brick Road</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/03%20Bennie%20And%20The%20Jets.mp3</string>
+		</dict>
+		<key>12845</key>
+		<dict>
+			<key>Track ID</key><integer>12845</integer>
+			<key>Size</key><integer>4644489</integer>
+			<key>Total Time</key><integer>193515</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647318533</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:02:13Z</date>
+			<key>Persistent ID</key><string>392D8E36589FA162</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Goodbye Yellow Brick Road</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Goodbye Yellow Brick Road</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/04%20Goodbye%20Yellow%20Brick%20Road.mp3</string>
+		</dict>
+		<key>12853</key>
+		<dict>
+			<key>Track ID</key><integer>12853</integer>
+			<key>Size</key><integer>7059684</integer>
+			<key>Total Time</key><integer>293720</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647318835</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:07:15Z</date>
+			<key>Persistent ID</key><string>A2D6A66405DEF0C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Saturday Night's Alright For Fighting</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Goodbye Yellow Brick Road</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/14%20Saturday%20Night's%20Alright%20For%20Fighting.mp3</string>
+		</dict>
+		<key>12827</key>
+		<dict>
+			<key>Track ID</key><integer>12827</integer>
+			<key>Size</key><integer>9053123</integer>
+			<key>Total Time</key><integer>377208</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647319211</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:13:31Z</date>
+			<key>Persistent ID</key><string>E73FF9CF1B76EFE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tiny Dancer</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Madman Across The Water</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Madman%20Across%20The%20Water/01%20Tiny%20Dancer.mp3</string>
+		</dict>
+		<key>12835</key>
+		<dict>
+			<key>Track ID</key><integer>12835</integer>
+			<key>Size</key><integer>9823630</integer>
+			<key>Total Time</key><integer>409312</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647319620</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:20:20Z</date>
+			<key>Persistent ID</key><string>889575C20C6BA5AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Someone Saved My Life Tonight</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Madman Across The Water</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Madman%20Across%20The%20Water/06%20Someone%20Saved%20My%20Life%20Tonight.mp3</string>
+		</dict>
+		<key>12829</key>
+		<dict>
+			<key>Track ID</key><integer>12829</integer>
+			<key>Size</key><integer>5867647</integer>
+			<key>Total Time</key><integer>244480</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:19:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647319864</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:24:24Z</date>
+			<key>Persistent ID</key><string>F69A1FB9C91C1454</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Your Song</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Madman Across The Water</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Madman%20Across%20The%20Water/04%20Your%20Song.mp3</string>
+		</dict>
+		<key>12777</key>
+		<dict>
+			<key>Track ID</key><integer>12777</integer>
+			<key>Size</key><integer>6785229</integer>
+			<key>Total Time</key><integer>282697</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647320147</integer>
+			<key>Play Date UTC</key><date>2019-07-30T12:29:07Z</date>
+			<key>Persistent ID</key><string>845058CA5A6CF440</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rocket Man</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Greatest Hits 1970-2002</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Greatest%20Hits%201970-2002/1-04%20Rocket%20Man.mp3</string>
+		</dict>
+		<key>12785</key>
+		<dict>
+			<key>Track ID</key><integer>12785</integer>
+			<key>Size</key><integer>5662341</integer>
+			<key>Total Time</key><integer>235911</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647317348</integer>
+			<key>Play Date UTC</key><date>2019-07-30T11:42:28Z</date>
+			<key>Persistent ID</key><string>1F213340924E9CC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Crocodile Rock</string>
+			<key>Artist</key><string>Elton John</string>
+			<key>Album</key><string>Greatest Hits 1970-2002</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Greatest%20Hits%201970-2002/1-05%20Crocodile%20Rock.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132844</integer>
+			<key>Playlist Persistent ID</key><string>76A8449AE87122E5</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Elton John</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12785</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

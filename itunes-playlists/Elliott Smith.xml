@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>15639</key>
+		<dict>
+			<key>Track ID</key><integer>15639</integer>
+			<key>Size</key><integer>8949756</integer>
+			<key>Total Time</key><integer>223477</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:24Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613420116</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:48:36Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>3FEF8E9BC974A128</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alameda</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Either Or</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Either%20Or/02%20Alameda.mp3</string>
+		</dict>
+		<key>15659</key>
+		<dict>
+			<key>Track ID</key><integer>15659</integer>
+			<key>Size</key><integer>6747125</integer>
+			<key>Total Time</key><integer>168411</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613420284</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:51:24Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>4B2014A75503AFA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ballad Of Big Nothing</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Either Or</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Either%20Or/03%20Ballad%20Of%20Big%20Nothing.mp3</string>
+		</dict>
+		<key>15637</key>
+		<dict>
+			<key>Track ID</key><integer>15637</integer>
+			<key>Size</key><integer>8352078</integer>
+			<key>Total Time</key><integer>208535</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>1870721DDDF23323</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rose Parade</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Either Or</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Either%20Or/07%20Rose%20Parade.mp3</string>
+		</dict>
+		<key>15647</key>
+		<dict>
+			<key>Track ID</key><integer>15647</integer>
+			<key>Size</key><integer>7086703</integer>
+			<key>Total Time</key><integer>176901</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3626635603</integer>
+			<key>Play Date UTC</key><date>2018-12-03T03:46:43Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>63C93CEB7B98CE0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Angeles</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Either Or</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Either%20Or/09%20Angeles.mp3</string>
+		</dict>
+		<key>15655</key>
+		<dict>
+			<key>Track ID</key><integer>15655</integer>
+			<key>Size</key><integer>7972779</integer>
+			<key>Total Time</key><integer>199053</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626635224</integer>
+			<key>Play Date UTC</key><date>2018-12-03T03:40:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-03T03:47:00Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>77366BBF3E5F0D37</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>2:45 A.M.</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Either Or</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Either%20Or/11%202_45%20A.M..mp3</string>
+		</dict>
+		<key>15651</key>
+		<dict>
+			<key>Track ID</key><integer>15651</integer>
+			<key>Size</key><integer>5573691</integer>
+			<key>Total Time</key><integer>139075</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613418146</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:15:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-03T03:40:35Z</date>
+			<key>Release Date</key><date>1997-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>1231C789E2C7E5D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Say Yes</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Either Or</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Either%20Or/12%20Say%20Yes.mp3</string>
+		</dict>
+		<key>15573</key>
+		<dict>
+			<key>Track ID</key><integer>15573</integer>
+			<key>Size</key><integer>7851521</integer>
+			<key>Total Time</key><integer>196022</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613418342</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:19:02Z</date>
+			<key>Persistent ID</key><string>A4B2F4C47E6E054A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sweet Adeline</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>XO</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/XO/01%20Sweet%20Adeline.mp3</string>
+		</dict>
+		<key>15571</key>
+		<dict>
+			<key>Track ID</key><integer>15571</integer>
+			<key>Size</key><integer>11220267</integer>
+			<key>Total Time</key><integer>280241</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613418623</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:23:43Z</date>
+			<key>Persistent ID</key><string>E8D651F87D96E66F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Waltz #2</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>XO</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/XO/03%20Waltz%20%232.mp3</string>
+		</dict>
+		<key>15581</key>
+		<dict>
+			<key>Track ID</key><integer>15581</integer>
+			<key>Size</key><integer>7411622</integer>
+			<key>Total Time</key><integer>185025</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613418808</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:26:48Z</date>
+			<key>Persistent ID</key><string>FE3CE1903CB30778</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Independence Day</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>XO</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/XO/06%20Independence%20Day.mp3</string>
+		</dict>
+		<key>15583</key>
+		<dict>
+			<key>Track ID</key><integer>15583</integer>
+			<key>Size</key><integer>7136820</integer>
+			<key>Total Time</key><integer>178155</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613418986</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:29:46Z</date>
+			<key>Persistent ID</key><string>8FE9CEC0D7E47110</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bottle Up And Explode</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>XO</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/XO/11%20Bottle%20Up%20And%20Explode.mp3</string>
+		</dict>
+		<key>15565</key>
+		<dict>
+			<key>Track ID</key><integer>15565</integer>
+			<key>Size</key><integer>7765838</integer>
+			<key>Total Time</key><integer>193880</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626635426</integer>
+			<key>Play Date UTC</key><date>2018-12-03T03:43:46Z</date>
+			<key>Persistent ID</key><string>9018D6992F7486D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Baby Britain</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>XO</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/XO/04%20Baby%20Britain.mp3</string>
+		</dict>
+		<key>15619</key>
+		<dict>
+			<key>Track ID</key><integer>15619</integer>
+			<key>Size</key><integer>8608051</integer>
+			<key>Total Time</key><integer>214935</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613419394</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:36:34Z</date>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>BCA04CC24BD75104</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Condor Ave.</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Roman Candle</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Roman%20Candle/02%20Condor%20Ave..mp3</string>
+		</dict>
+		<key>15625</key>
+		<dict>
+			<key>Track ID</key><integer>15625</integer>
+			<key>Size</key><integer>8605960</integer>
+			<key>Total Time</key><integer>214883</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613419609</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:40:09Z</date>
+			<key>Release Date</key><date>1995-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>B74559B4C693BA64</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No Name #2</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Roman Candle</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/Roman%20Candle/04%20No%20Name%20%232.mp3</string>
+		</dict>
+		<key>15471</key>
+		<dict>
+			<key>Track ID</key><integer>15471</integer>
+			<key>Size</key><integer>5716025</integer>
+			<key>Total Time</key><integer>238080</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:18:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613419892</integer>
+			<key>Play Date UTC</key><date>2018-07-03T03:44:52Z</date>
+			<key>Persistent ID</key><string>6ED169D1B11F2E32</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Fond Farwell</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Composer</key><string>Elliot Smith</string>
+			<key>Album</key><string>From A Basement On The Hill</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Fond Farwell</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elliott%20Smith/From%20A%20Basement%20On%20The%20Hill/06%20A%20Fond%20Farwell.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132827</integer>
+			<key>Playlist Persistent ID</key><string>F2AFBBE6D7D580A3</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Elliott Smith</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15471</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

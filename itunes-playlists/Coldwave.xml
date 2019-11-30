@@ -1,0 +1,1828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>18951</key>
+		<dict>
+			<key>Track ID</key><integer>18951</integer>
+			<key>Size</key><integer>5494546</integer>
+			<key>Total Time</key><integer>211069</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647275725</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:08:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB97E310FA8AD6C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blurred</string>
+			<key>Artist</key><string>Turquoise Days</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Minimal Wave Tapes: Volume One</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214592963</string>
+			<key>Sort Album</key><string>Minimal Wave Tapes: Volume One</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Minimal%20Wave%20Tapes_%20Volume%20One/06%20Blurred.mp3</string>
+		</dict>
+		<key>32077</key>
+		<dict>
+			<key>Track ID</key><integer>32077</integer>
+			<key>Size</key><integer>3989993</integer>
+			<key>Total Time</key><integer>231967</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Date Modified</key><date>2013-10-19T04:51:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3645355798</integer>
+			<key>Play Date UTC</key><date>2019-07-07T18:49:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-29T21:33:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27039E136E3A3B99</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Un Froid Seul</string>
+			<key>Artist</key><string>Opera Multi Steel</string>
+			<key>Album</key><string>Transmission</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Opera%20Multi%20Steel/Transmission/15%20Un%20Froid%20Seul.mp3</string>
+		</dict>
+		<key>38317</key>
+		<dict>
+			<key>Track ID</key><integer>38317</integer>
+			<key>Size</key><integer>8341004</integer>
+			<key>Total Time</key><integer>257436</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3645356056</integer>
+			<key>Play Date UTC</key><date>2019-07-07T18:54:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E77119B8EAD2180</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Breaking Down</string>
+			<key>Artist</key><string>Trisomie 21</string>
+			<key>Album</key><string>First Songs Vol. II</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Trisomie%2021/First%20Songs%20Vol.%20II/05%20Breaking%20Down.MP3</string>
+		</dict>
+		<key>18845</key>
+		<dict>
+			<key>Track ID</key><integer>18845</integer>
+			<key>Size</key><integer>9229572</integer>
+			<key>Total Time</key><integer>263680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647278470</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:54:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E46C2046BB3422D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dans Votre Monde</string>
+			<key>Artist</key><string>End Of Data</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Perrichon</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825772</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/08%20Dans%20Votre%20Monde.mp3</string>
+		</dict>
+		<key>18953</key>
+		<dict>
+			<key>Track ID</key><integer>18953</integer>
+			<key>Size</key><integer>8722257</integer>
+			<key>Total Time</key><integer>300564</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647281856</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:50:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-06-03T05:15:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>771E5A06D4A4F11F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Just Because</string>
+			<key>Artist</key><string>Martin Dupont</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Minimal Wave Tapes: Volume One</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214592967</string>
+			<key>Sort Album</key><string>Minimal Wave Tapes: Volume One</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Minimal%20Wave%20Tapes_%20Volume%20One/10%20Just%20Because.mp3</string>
+		</dict>
+		<key>18819</key>
+		<dict>
+			<key>Track ID</key><integer>18819</integer>
+			<key>Size</key><integer>5490730</integer>
+			<key>Total Time</key><integer>153704</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>278</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647276906</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:28:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6AECACA291395DFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ils S'eloigent</string>
+			<key>Artist</key><string>Opera Multi Steel</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Patrick Lopez</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825768</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/04%20Ils%20S'eloigent.mp3</string>
+		</dict>
+		<key>18897</key>
+		<dict>
+			<key>Track ID</key><integer>18897</integer>
+			<key>Size</key><integer>7800593</integer>
+			<key>Total Time</key><integer>221675</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647283272</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:14:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>64ADB39CC397E8A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Distorsion</string>
+			<key>Artist</key><string>Philippe Laurent</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Minimal Wave Tapes: Volume Two</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 227890217</string>
+			<key>Sort Album</key><string>Minimal Wave Tapes: Volume Two</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Minimal%20Wave%20Tapes_%20Volume%20Two/03%20Distorsion.mp3</string>
+		</dict>
+		<key>18843</key>
+		<dict>
+			<key>Track ID</key><integer>18843</integer>
+			<key>Size</key><integer>9691940</integer>
+			<key>Total Time</key><integer>266684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>286</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647276390</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:19:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EC66FA6A9D42FAA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lights</string>
+			<key>Artist</key><string>The Actor</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Reimer</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825773</string>
+			<key>Sort Artist</key><string>Actor</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/09%20Lights.mp3</string>
+		</dict>
+		<key>18825</key>
+		<dict>
+			<key>Track ID</key><integer>18825</integer>
+			<key>Size</key><integer>9676911</integer>
+			<key>Total Time</key><integer>275696</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>276</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647277930</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:45:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>234C7FD10503FEA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Gift Of Tears</string>
+			<key>Artist</key><string>Jeunesse D'Ivoire</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>P. Tranchina</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825775</string>
+			<key>Sort Name</key><string>Gift Of Tears</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/11%20A%20Gift%20Of%20Tears.mp3</string>
+		</dict>
+		<key>18839</key>
+		<dict>
+			<key>Track ID</key><integer>18839</integer>
+			<key>Size</key><integer>5411689</integer>
+			<key>Total Time</key><integer>186697</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647282453</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:00:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>47376C737A500E56</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Consumer</string>
+			<key>Artist</key><string>Ausgang Verboten</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>J.Hanning</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825774</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/10%20Consumer.mp3</string>
+		</dict>
+		<key>18925</key>
+		<dict>
+			<key>Track ID</key><integer>18925</integer>
+			<key>Size</key><integer>4794977</integer>
+			<key>Total Time</key><integer>173609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647281555</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:45:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72F0C34B65F86EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Don't Know My Name</string>
+			<key>Artist</key><string>Kym Amps</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Hidden Tapes</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 223769480</string>
+			<key>Sort Album</key><string>Hidden Tapes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Hidden%20Tapes/09%20You%20Don't%20Know%20My%20Name.mp3</string>
+		</dict>
+		<key>18941</key>
+		<dict>
+			<key>Track ID</key><integer>18941</integer>
+			<key>Size</key><integer>6874586</integer>
+			<key>Total Time</key><integer>296045</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>181</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647280636</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:30:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-08T01:30:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19AD1FD66F41D658</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kaleidecon</string>
+			<key>Artist</key><string>Fast Set</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Hidden Tapes</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 223769478</string>
+			<key>Sort Album</key><string>Hidden Tapes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Hidden%20Tapes/07%20Kaleidecon.mp3</string>
+		</dict>
+		<key>18831</key>
+		<dict>
+			<key>Track ID</key><integer>18831</integer>
+			<key>Size</key><integer>8614250</integer>
+			<key>Total Time</key><integer>279693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647280089</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:21:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>905EF4A78AF72B5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Night In June</string>
+			<key>Artist</key><string>Linear Movement</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Peter Bonne</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825767</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/03%20Night%20In%20June.mp3</string>
+		</dict>
+		<key>18919</key>
+		<dict>
+			<key>Track ID</key><integer>18919</integer>
+			<key>Size</key><integer>6181303</integer>
+			<key>Total Time</key><integer>182543</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3647276123</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:15:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-08T01:30:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BF8ABB6E7BF81DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Theme</string>
+			<key>Artist</key><string>Aural Indifference</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Minimal Wave Tapes: Volume Two</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 227890228</string>
+			<key>Sort Album</key><string>Minimal Wave Tapes: Volume Two</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Minimal%20Wave%20Tapes_%20Volume%20Two/14%20Theme.mp3</string>
+		</dict>
+		<key>18921</key>
+		<dict>
+			<key>Track ID</key><integer>18921</integer>
+			<key>Size</key><integer>5661776</integer>
+			<key>Total Time</key><integer>168306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647276558</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:22:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60743B4422D99540</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>What Happened To You?</string>
+			<key>Artist</key><string>Subject</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Minimal Wave Tapes: Volume Two</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 227890219</string>
+			<key>Sort Album</key><string>Minimal Wave Tapes: Volume Two</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Minimal%20Wave%20Tapes_%20Volume%20Two/05%20What%20Happened%20To%20You_.mp3</string>
+		</dict>
+		<key>18821</key>
+		<dict>
+			<key>Track ID</key><integer>18821</integer>
+			<key>Size</key><integer>9466267</integer>
+			<key>Total Time</key><integer>299702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647279319</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:08:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA24432388B71285</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Polaroïd/Roman/Photo</string>
+			<key>Artist</key><string>Ruth</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>P. Doray</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825777</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/13%20Polaroi%CC%88d_Roman_Photo.mp3</string>
+		</dict>
+		<key>18833</key>
+		<dict>
+			<key>Track ID</key><integer>18833</integer>
+			<key>Size</key><integer>7790461</integer>
+			<key>Total Time</key><integer>217704</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:06Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>281</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647275941</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:12:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55C93921106ED652</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Palais d'Amour</string>
+			<key>Artist</key><string>Bal Paré</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Klemm</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825769</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/05%20Palais%20d'Amour.mp3</string>
+		</dict>
+		<key>28199</key>
+		<dict>
+			<key>Track ID</key><integer>28199</integer>
+			<key>Size</key><integer>9028887</integer>
+			<key>Total Time</key><integer>214569</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2013-10-19T04:21:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3645361263</integer>
+			<key>Play Date UTC</key><date>2019-07-07T20:21:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B2C1407A6F93C9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Follow Me &amp; So</string>
+			<key>Artist</key><string>End of Data</string>
+			<key>Album</key><string>Sahrah + More</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Madrigal Production (MAD 101</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/End%20of%20Data/Sahrah%20+%20More/Follow%20Me%20&amp;%20So.mp3</string>
+		</dict>
+		<key>38443</key>
+		<dict>
+			<key>Track ID</key><integer>38443</integer>
+			<key>Size</key><integer>9348823</integer>
+			<key>Total Time</key><integer>290742</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3645361553</integer>
+			<key>Play Date UTC</key><date>2019-07-07T20:25:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0163358133972E19</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>La Nuit</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>StudioA'</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000189 000001C2 000003E7 000004A4 0003D0A7 00013897 000043BA 00003DA3 000382B5 0001FBE7</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/05%20La%20Nuit.mp3</string>
+		</dict>
+		<key>38435</key>
+		<dict>
+			<key>Track ID</key><integer>38435</integer>
+			<key>Size</key><integer>13383802</integer>
+			<key>Total Time</key><integer>416835</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647284440</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:34:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DF0EA65646EB770</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pictures</string>
+			<key>Artist</key><string>Asylum Party</string>
+			<key>Album Artist</key><string>Asylum Party</string>
+			<key>Composer</key><string>ZUN</string>
+			<key>Album</key><string>Borderline</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000336 000003D9 00000DC8 0000133A 0005A57E 0005A595 000042D1 00003C2C 0005A567 00030D57</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Asylum%20Party/Borderline/08%20Pictures.mp3</string>
+		</dict>
+		<key>18965</key>
+		<dict>
+			<key>Track ID</key><integer>18965</integer>
+			<key>Size</key><integer>6873754</integer>
+			<key>Total Time</key><integer>219559</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3645362195</integer>
+			<key>Play Date UTC</key><date>2019-07-07T20:36:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D123D59CCB1143D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Game &amp; Performance</string>
+			<key>Artist</key><string>Deux</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Minimal Wave Tapes: Volume One</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214592968</string>
+			<key>Sort Album</key><string>Minimal Wave Tapes: Volume One</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Minimal%20Wave%20Tapes_%20Volume%20One/11%20Game%20&amp;%20Performance.mp3</string>
+		</dict>
+		<key>18841</key>
+		<dict>
+			<key>Track ID</key><integer>18841</integer>
+			<key>Size</key><integer>6819652</integer>
+			<key>Total Time</key><integer>236695</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647283716</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:21:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DB5CB57997E2FC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Figures</string>
+			<key>Artist</key><string>Absolute Body Control</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Dirk Ivens</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825765</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/01%20Figures.mp3</string>
+		</dict>
+		<key>19043</key>
+		<dict>
+			<key>Track ID</key><integer>19043</integer>
+			<key>Size</key><integer>7459404</integer>
+			<key>Total Time</key><integer>239098</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3645362670</integer>
+			<key>Play Date UTC</key><date>2019-07-07T20:44:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10F2CE25FA349218</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Cabinet</string>
+			<key>Artist</key><string>Das Kabinette</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Remembrance Days: A Post-Punk Compilation</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.djbynar.com</string>
+			<key>Sort Name</key><string>Cabinet</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Remembrance%20Days_%20A%20Post-Punk%20Compilation/The%20Cabinet.mp3</string>
+		</dict>
+		<key>18847</key>
+		<dict>
+			<key>Track ID</key><integer>18847</integer>
+			<key>Size</key><integer>9385672</integer>
+			<key>Total Time</key><integer>251689</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>293</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647280340</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:25:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E82AC06C9B23F0A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Twinkling Stars</string>
+			<key>Artist</key><string>Nine Circles</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Lidia Fiala</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825766</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/02%20Twinkling%20Stars.mp3</string>
+		</dict>
+		<key>18959</key>
+		<dict>
+			<key>Track ID</key><integer>18959</integer>
+			<key>Size</key><integer>4496930</integer>
+			<key>Total Time</key><integer>225384</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>156</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647282267</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:57:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99F44E27062919CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Reassurance Ritual</string>
+			<key>Artist</key><string>Das Ding</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Minimal Wave Tapes: Volume One</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214592966</string>
+			<key>Sort Album</key><string>Minimal Wave Tapes: Volume One</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/The%20Minimal%20Wave%20Tapes_%20Volume%20One/09%20Reassurance%20Ritual.mp3</string>
+		</dict>
+		<key>18817</key>
+		<dict>
+			<key>Track ID</key><integer>18817</integer>
+			<key>Size</key><integer>10845944</integer>
+			<key>Total Time</key><integer>315689</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:24:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>271</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647274987</integer>
+			<key>Play Date UTC</key><date>2019-07-29T23:56:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>414CEA948ED9542D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Watching Trees</string>
+			<key>Artist</key><string>Eleven Pond</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Tabbi</string>
+			<key>Album</key><string>Cold Waves And Minimal Electronics Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 214825770</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Cold%20Waves%20And%20Minimal%20Electronics%20Vol.%201/06%20Watching%20Trees.mp3</string>
+		</dict>
+		<key>38267</key>
+		<dict>
+			<key>Track ID</key><integer>38267</integer>
+			<key>Size</key><integer>8393529</integer>
+			<key>Total Time</key><integer>275905</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3647278206</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:50:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16ADC12AD029C1CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Last Song</string>
+			<key>Artist</key><string>Trisomie 21</string>
+			<key>Album</key><string>Chapter IV - Wait and Dance</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Last Song</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Trisomie%2021/Chapter%20IV%20-%20Wait%20and%20Dance/01%20The%20Last%20Song.mp3</string>
+		</dict>
+		<key>51475</key>
+		<dict>
+			<key>Track ID</key><integer>51475</integer>
+			<key>Size</key><integer>6713050</integer>
+			<key>Total Time</key><integer>278674</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2013-10-19T04:21:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647266819</integer>
+			<key>Play Date UTC</key><date>2019-07-29T21:40:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>287A77F5B4F38457</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>L'Ennemi </string>
+			<key>Artist</key><string>Exces Nocturne</string>
+			<key>Album</key><string>Evacuation Immediate </string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Exces%20Nocturne/Evacuation%20Immediate/18%20L'Ennemi.mp3</string>
+		</dict>
+		<key>44249</key>
+		<dict>
+			<key>Track ID</key><integer>44249</integer>
+			<key>Size</key><integer>8393692</integer>
+			<key>Total Time</key><integer>193906</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-10-19T03:59:12Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647276752</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:25:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E0EC1286D5D227C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A.G.N.E.S.</string>
+			<key>Artist</key><string>1000 Ohm</string>
+			<key>Album</key><string>1000 Ohm</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 0000023C 000002E9 00002400 00002780 000194FD 00024025 00008000 00008000 00002874 0000285C</string>
+			<key>Sort Artist</key><string>1000 Ohm</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/1000%20Ohm/1000%20Ohm/01%20A.G.N.E.S..mp3</string>
+		</dict>
+		<key>21007</key>
+		<dict>
+			<key>Track ID</key><integer>21007</integer>
+			<key>Size</key><integer>6748772</integer>
+			<key>Total Time</key><integer>280032</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:51:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647279599</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:13:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22ED391AD1E3C999</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>World Without Pity</string>
+			<key>Artist</key><string>Nova</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Nova/Systems%20of%20Romance%20Vol.%206/10%20World%20Without%20Pity.mp3</string>
+		</dict>
+		<key>14639</key>
+		<dict>
+			<key>Track ID</key><integer>14639</integer>
+			<key>Size</key><integer>5355959</integer>
+			<key>Total Time</key><integer>133198</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:07:26Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647277415</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:36:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>39D21DB6DC3C8F54</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sista Vilan</string>
+			<key>Artist</key><string>Blipblop</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Blipblop/Systems%20of%20Romance%20Vol.%206/11%20Sista%20Vilan.mp3</string>
+		</dict>
+		<key>38855</key>
+		<dict>
+			<key>Track ID</key><integer>38855</integer>
+			<key>Size</key><integer>10009152</integer>
+			<key>Total Time</key><integer>249528</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T03:59:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647275511</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:05:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B17FF6AA5F91925</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Moroccan Nights</string>
+			<key>Artist</key><string>Acute Logic</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Acute%20Logic/Systems%20of%20Romance%20Vol.%206/12%20Moroccan%20Nights.mp3</string>
+		</dict>
+		<key>46795</key>
+		<dict>
+			<key>Track ID</key><integer>46795</integer>
+			<key>Size</key><integer>10978510</integer>
+			<key>Total Time</key><integer>273763</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647280910</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:35:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-06-23T12:33:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7254E2EE44A994F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Victory</string>
+			<key>Artist</key><string>Vietnam</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Sort Album</key><string>Systems of Romance Vol. 666</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Vietnam/Systems%20of%20Romance%20Vol.%206/01%20Victory.mp3</string>
+		</dict>
+		<key>9597</key>
+		<dict>
+			<key>Track ID</key><integer>9597</integer>
+			<key>Size</key><integer>11458778</integer>
+			<key>Total Time</key><integer>357198</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:15:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647278827</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:00:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB40D15F0108C7E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Silent Way</string>
+			<key>Artist</key><string>Dark Mine Fields</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Sort Album</key><string>Systems of Romance Vol. 666</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dark%20Mine%20Fields/Systems%20of%20Romance%20Vol.%206/02%20Silent%20Way.mp3</string>
+		</dict>
+		<key>3287</key>
+		<dict>
+			<key>Track ID</key><integer>3287</integer>
+			<key>Size</key><integer>11336726</integer>
+			<key>Total Time</key><integer>282958</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:25Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647282736</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:05:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0DC0C1304A3A70AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Your Return</string>
+			<key>Artist</key><string>Royal Depeche</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Royal%20Depeche/Systems%20of%20Romance%20Vol.%206/06%20Your%20Return.mp3</string>
+		</dict>
+		<key>27325</key>
+		<dict>
+			<key>Track ID</key><integer>27325</integer>
+			<key>Size</key><integer>6890543</integer>
+			<key>Total Time</key><integer>285936</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647267262</integer>
+			<key>Play Date UTC</key><date>2019-07-29T21:47:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02220CFA850DEC9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No More Lies (Alt. Version)</string>
+			<key>Artist</key><string>Ultime Possibilité</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ultime%20Possibilite%CC%81/Systems%20of%20Romance%20Vol.%206/07%20No%20More%20Lies%20(Alt.%20Version).mp3</string>
+		</dict>
+		<key>6327</key>
+		<dict>
+			<key>Track ID</key><integer>6327</integer>
+			<key>Size</key><integer>8809786</integer>
+			<key>Total Time</key><integer>274416</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T04:51:16Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647275260</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:01:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>053D80E4BC60F7CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lumiére Rouge</string>
+			<key>Artist</key><string>Opéra De Nuit</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ope%CC%81ra%20De%20Nuit/Systems%20of%20Romance%20Vol.%206/08%20Lumie%CC%81re%20Rouge.mp3</string>
+		</dict>
+		<key>43753</key>
+		<dict>
+			<key>Track ID</key><integer>43753</integer>
+			<key>Size</key><integer>6331498</integer>
+			<key>Total Time</key><integer>262635</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:02:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3645379127</integer>
+			<key>Play Date UTC</key><date>2019-07-08T01:18:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B673B66EBDF520B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ball Into Three Particles</string>
+			<key>Artist</key><string>Ashrae Fax</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Ashrae%20Fax/Systems%20of%20Romance%20Vol.%206/04%20Ball%20Into%20Three%20Particles.mp3</string>
+		</dict>
+		<key>3035</key>
+		<dict>
+			<key>Track ID</key><integer>3035</integer>
+			<key>Size</key><integer>10910879</integer>
+			<key>Total Time</key><integer>272065</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:40:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3645379547</integer>
+			<key>Play Date UTC</key><date>2019-07-08T01:25:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A7DC80974F9BBF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blanket Expression</string>
+			<key>Artist</key><string>John Costello</string>
+			<key>Album</key><string>Systems of Romance Vol. 6</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/John%20Costello/Systems%20of%20Romance%20Vol.%206/09%20Blanket%20Expression.mp3</string>
+		</dict>
+		<key>35311</key>
+		<dict>
+			<key>Track ID</key><integer>35311</integer>
+			<key>Size</key><integer>12304302</integer>
+			<key>Total Time</key><integer>307043</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:39Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647284023</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:27:03Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B091213EC91E164</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Genetics</string>
+			<key>Artist</key><string>Final Sound</string>
+			<key>Album</key><string>Systems of Romance Vol. 5</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%205/02%20Genetics.mp3</string>
+		</dict>
+		<key>35309</key>
+		<dict>
+			<key>Track ID</key><integer>35309</integer>
+			<key>Size</key><integer>4146060</integer>
+			<key>Total Time</key><integer>257724</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F3CE67AD3A59011</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shoot Me Down</string>
+			<key>Artist</key><string>P.S. Personal</string>
+			<key>Album</key><string>Systems of Romance Vol. 5</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%205/18%20Shoot%20Me%20Down.mp3</string>
+		</dict>
+		<key>35287</key>
+		<dict>
+			<key>Track ID</key><integer>35287</integer>
+			<key>Size</key><integer>8399353</integer>
+			<key>Total Time</key><integer>209423</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647266542</integer>
+			<key>Play Date UTC</key><date>2019-07-29T21:35:42Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6FECDB9C88C8091F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Geraldine</string>
+			<key>Artist</key><string>Cha Boom Cha</string>
+			<key>Album</key><string>Systems of Romance Vol. 5</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%205/19%20Geraldine.mp3</string>
+		</dict>
+		<key>35307</key>
+		<dict>
+			<key>Track ID</key><integer>35307</integer>
+			<key>Size</key><integer>4869563</integer>
+			<key>Total Time</key><integer>201952</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>719CA61C023711D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sweet Cliché</string>
+			<key>Artist</key><string>The First Loves</string>
+			<key>Album</key><string>Systems of Romance Vol. 5</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Sort Artist</key><string>First Loves</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%205/21%20Sweet%20Cliche%CC%81.mp3</string>
+		</dict>
+		<key>35077</key>
+		<dict>
+			<key>Track ID</key><integer>35077</integer>
+			<key>Size</key><integer>12588946</integer>
+			<key>Total Time</key><integer>314096</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647283050</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:10:50Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2562AB15B6AAC1DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Invitation</string>
+			<key>Artist</key><string>Portrait Bizarre</string>
+			<key>Album</key><string>Systems of Romance Vol. 4</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Sort Name</key><string>Invitation</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%204/01%20The%20Invitation.mp3</string>
+		</dict>
+		<key>35101</key>
+		<dict>
+			<key>Track ID</key><integer>35101</integer>
+			<key>Size</key><integer>4771634</integer>
+			<key>Total Time</key><integer>197773</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:33Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647277282</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:34:42Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27735ED3E9E2689A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Let's Call-up</string>
+			<key>Artist</key><string>Forum</string>
+			<key>Album</key><string>Systems of Romance Vol. 4</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%204/03%20Let's%20Call-up.mp3</string>
+		</dict>
+		<key>35083</key>
+		<dict>
+			<key>Track ID</key><integer>35083</integer>
+			<key>Size</key><integer>8628181</integer>
+			<key>Total Time</key><integer>358452</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642834981</integer>
+			<key>Play Date UTC</key><date>2019-06-08T14:36:21Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA59BC743E798EBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Changing</string>
+			<key>Artist</key><string>Siam</string>
+			<key>Album</key><string>Systems of Romance Vol. 4</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%204/11%20Changing.mp3</string>
+		</dict>
+		<key>35097</key>
+		<dict>
+			<key>Track ID</key><integer>35097</integer>
+			<key>Size</key><integer>14869951</integer>
+			<key>Total Time</key><integer>371121</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>074766A7E4D51CC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Some Other Day</string>
+			<key>Artist</key><string>Insanity</string>
+			<key>Album</key><string>Systems of Romance Vol. 4</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%204/16%20Some%20Other%20Day.mp3</string>
+		</dict>
+		<key>41199</key>
+		<dict>
+			<key>Track ID</key><integer>41199</integer>
+			<key>Size</key><integer>13172875</integer>
+			<key>Total Time</key><integer>207386</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647283479</integer>
+			<key>Play Date UTC</key><date>2019-07-30T02:17:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16C4576C9EF92E6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Naked And The Death</string>
+			<key>Artist</key><string>Siglo XX</string>
+			<key>Album</key><string>Re-Released 80-82</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000415 000006CB 0000139E 00001CDA 0001ADDE 0001D505 000045DF 00006D6D 0001ADF5 0002E630</string>
+			<key>Sort Name</key><string>Naked And The Death</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siglo%20XX/Re-Released%2080-82/01%20The%20Naked%20And%20The%20Death.mp3</string>
+		</dict>
+		<key>41197</key>
+		<dict>
+			<key>Track ID</key><integer>41197</integer>
+			<key>Size</key><integer>12653134</integer>
+			<key>Total Time</key><integer>185730</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647282041</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:54:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E463998A7475F3AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Art Of War</string>
+			<key>Artist</key><string>Siglo XX</string>
+			<key>Album</key><string>Re-Released 80-82</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000682 0000097C 00001845 000027DC 00015FD5 00015FD5 00005310 00006712 00015FD5 00015FD5</string>
+			<key>Sort Name</key><string>Art Of War</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Siglo%20XX/Re-Released%2080-82/02%20The%20Art%20Of%20War.mp3</string>
+		</dict>
+		<key>35145</key>
+		<dict>
+			<key>Track ID</key><integer>35145</integer>
+			<key>Size</key><integer>5771573</integer>
+			<key>Total Time</key><integer>240039</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647277655</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:40:55Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C99FC08BABACFA0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Huge Box</string>
+			<key>Artist</key><string>The Bien</string>
+			<key>Album</key><string>Systems of Romance Vol. 3</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Sort Artist</key><string>Bien</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%203/17%20Huge%20Box.mp3</string>
+		</dict>
+		<key>35139</key>
+		<dict>
+			<key>Track ID</key><integer>35139</integer>
+			<key>Size</key><integer>3100844</integer>
+			<key>Total Time</key><integer>192888</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647279020</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:03:40Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6065DDE12BF67AAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Man In the Railings</string>
+			<key>Artist</key><string>Plain Characters</string>
+			<key>Album</key><string>Systems of Romance Vol. 3</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%203/06%20Man%20In%20the%20Railings.mp3</string>
+		</dict>
+		<key>35133</key>
+		<dict>
+			<key>Track ID</key><integer>35133</integer>
+			<key>Size</key><integer>6341173</integer>
+			<key>Total Time</key><integer>236617</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647281147</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:39:07Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>066A57C0D6493DEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Binary</string>
+			<key>Artist</key><string>Kazino</string>
+			<key>Album</key><string>Systems of Romance Vol. 3</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%203/09%20Binary.mp3</string>
+		</dict>
+		<key>35127</key>
+		<dict>
+			<key>Track ID</key><integer>35127</integer>
+			<key>Size</key><integer>9408206</integer>
+			<key>Total Time</key><integer>234945</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647281381</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:43:01Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3BD48091270ADAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fussball</string>
+			<key>Artist</key><string>Seltsame Zustände</string>
+			<key>Album</key><string>Systems of Romance Vol. 3</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%203/12%20Fussball.mp3</string>
+		</dict>
+		<key>35141</key>
+		<dict>
+			<key>Track ID</key><integer>35141</integer>
+			<key>Size</key><integer>7140789</integer>
+			<key>Total Time</key><integer>178259</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:31Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647277084</integer>
+			<key>Play Date UTC</key><date>2019-07-30T00:31:24Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69EE48B64ACBEAD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Marche Nuptiale</string>
+			<key>Artist</key><string>Anches Doo Too Cool</string>
+			<key>Album</key><string>Systems of Romance Vol. 3</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%203/14%20Marche%20Nuptiale.mp3</string>
+		</dict>
+		<key>35113</key>
+		<dict>
+			<key>Track ID</key><integer>35113</integer>
+			<key>Size</key><integer>8390578</integer>
+			<key>Total Time</key><integer>209684</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3647279809</integer>
+			<key>Play Date UTC</key><date>2019-07-30T01:16:49Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8EF989B9073C78A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Paula</string>
+			<key>Artist</key><string>Nasa</string>
+			<key>Album</key><string>Systems of Romance Vol. 3</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%203/18%20Paula.mp3</string>
+		</dict>
+		<key>35399</key>
+		<dict>
+			<key>Track ID</key><integer>35399</integer>
+			<key>Size</key><integer>6332915</integer>
+			<key>Total Time</key><integer>262739</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3645355123</integer>
+			<key>Play Date UTC</key><date>2019-07-07T18:38:43Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86B778BA14E0272B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You're Always Guilty</string>
+			<key>Artist</key><string>Vellum Stairs</string>
+			<key>Album</key><string>Systems of Romance Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%201/02%20You're%20Always%20Guilty.mp3</string>
+		</dict>
+		<key>35379</key>
+		<dict>
+			<key>Track ID</key><integer>35379</integer>
+			<key>Size</key><integer>5620680</integer>
+			<key>Total Time</key><integer>233064</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:22Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3645355356</integer>
+			<key>Play Date UTC</key><date>2019-07-07T18:42:36Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A114F1A33C373B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Trading In Guilt</string>
+			<key>Artist</key><string>Vital Signs</string>
+			<key>Album</key><string>Systems of Romance Vol. 1</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Systems%20of%20Romance%20Vol.%201/15%20Trading%20In%20Guilt.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132185</integer>
+			<key>Playlist Persistent ID</key><string>DF3A5D929084BF2A</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Coldwave</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18897</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18843</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18919</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18921</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>51475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>46795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35379</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

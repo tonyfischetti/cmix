@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>17471</key>
+		<dict>
+			<key>Track ID</key><integer>17471</integer>
+			<key>Size</key><integer>10027818</integer>
+			<key>Total Time</key><integer>247719</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618655439</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:03:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-13T02:50:33Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25478A9D3C282A41</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Should Live in Salt</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/01%20I%20Should%20Live%20in%20Salt.mp3</string>
+		</dict>
+		<key>17469</key>
+		<dict>
+			<key>Track ID</key><integer>17469</integer>
+			<key>Size</key><integer>11545010</integer>
+			<key>Total Time</key><integer>285648</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618657684</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:41:24Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>712C5BC58B64B9A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Don't Swallow the Cap</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/03%20Don't%20Swallow%20the%20Cap.mp3</string>
+		</dict>
+		<key>17463</key>
+		<dict>
+			<key>Track ID</key><integer>17463</integer>
+			<key>Size</key><integer>8981865</integer>
+			<key>Total Time</key><integer>221570</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618653677</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:34:37Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8C45F4AA1804E5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sea of Love</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/05%20Sea%20of%20Love.mp3</string>
+		</dict>
+		<key>17467</key>
+		<dict>
+			<key>Track ID</key><integer>17467</integer>
+			<key>Size</key><integer>11139577</integer>
+			<key>Total Time</key><integer>275513</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618656403</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:20:03Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1D8476D9889B02D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Graceless</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/08%20Graceless.mp3</string>
+		</dict>
+		<key>17465</key>
+		<dict>
+			<key>Track ID</key><integer>17465</integer>
+			<key>Size</key><integer>10726841</integer>
+			<key>Total Time</key><integer>265195</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618656668</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:24:28Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88D7385359B79659</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Slipped</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/09%20Slipped.mp3</string>
+		</dict>
+		<key>17473</key>
+		<dict>
+			<key>Track ID</key><integer>17473</integer>
+			<key>Size</key><integer>9933771</integer>
+			<key>Total Time</key><integer>245368</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618656127</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:15:27Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5357625A76A50374</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Need My Girl</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/10%20I%20Need%20My%20Girl.mp3</string>
+		</dict>
+		<key>17479</key>
+		<dict>
+			<key>Track ID</key><integer>17479</integer>
+			<key>Size</key><integer>12153131</integer>
+			<key>Total Time</key><integer>300852</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618654656</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:50:56Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>597D8409F9C5E201</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Humiliation</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/11%20Humiliation.mp3</string>
+		</dict>
+		<key>17461</key>
+		<dict>
+			<key>Track ID</key><integer>17461</integer>
+			<key>Size</key><integer>11171973</integer>
+			<key>Total Time</key><integer>276323</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2015-11-10T17:43:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618658880</integer>
+			<key>Play Date UTC</key><date>2018-09-01T19:01:20Z</date>
+			<key>Release Date</key><date>2013-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11188D40EDE2AEC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pink Rabbits</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Trouble Will Find Me</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Trouble%20Will%20Find%20Me/12%20Pink%20Rabbits.mp3</string>
+		</dict>
+		<key>17439</key>
+		<dict>
+			<key>Track ID</key><integer>17439</integer>
+			<key>Size</key><integer>13755093</integer>
+			<key>Total Time</key><integer>340297</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618658402</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:53:22Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99EBEA75B3C38CC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>England</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/10%20England.mp3</string>
+		</dict>
+		<key>17425</key>
+		<dict>
+			<key>Track ID</key><integer>17425</integer>
+			<key>Size</key><integer>7115818</integer>
+			<key>Total Time</key><integer>174315</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618654355</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:45:55Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5FD83239EFD72995</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Anyone's Ghost</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Bryce Dessner</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/03%20Anyone's%20Ghost.mp3</string>
+		</dict>
+		<key>17445</key>
+		<dict>
+			<key>Track ID</key><integer>17445</integer>
+			<key>Size</key><integer>10505468</integer>
+			<key>Total Time</key><integer>259056</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618654915</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:55:15Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52980C7CDDA4E7FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Conversation 16</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/09%20Conversation%2016.mp3</string>
+		</dict>
+		<key>17421</key>
+		<dict>
+			<key>Track ID</key><integer>17421</integer>
+			<key>Size</key><integer>11185711</integer>
+			<key>Total Time</key><integer>276062</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618655191</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:59:51Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9402667F6A601B13</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bloodbuzz Ohio</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner &amp; Padma Newsome</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/06%20Bloodbuzz%20Ohio.mp3</string>
+		</dict>
+		<key>17427</key>
+		<dict>
+			<key>Track ID</key><integer>17427</integer>
+			<key>Size</key><integer>10235894</integer>
+			<key>Total Time</key><integer>252316</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618658061</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:47:41Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0027AB5307881521</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Vanderlyle Crybaby Geeks</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/11%20Vanderlyle%20Crybaby%20Geeks.mp3</string>
+		</dict>
+		<key>17443</key>
+		<dict>
+			<key>Track ID</key><integer>17443</integer>
+			<key>Size</key><integer>8297593</integer>
+			<key>Total Time</key><integer>203859</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618655643</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:07:23Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>712A2DC8B7E0F002</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lemonworld</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/07%20Lemonworld.mp3</string>
+		</dict>
+		<key>17485</key>
+		<dict>
+			<key>Track ID</key><integer>17485</integer>
+			<key>Size</key><integer>5277210</integer>
+			<key>Total Time</key><integer>203206</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-11-30T17:45:08Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>171</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618657071</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:31:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09EA2455E69D12B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Looking for Astronauts</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner</string>
+			<key>Album</key><string>Alligator</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Sort Album Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Alligator/04%20Looking%20for%20Astronauts.mp3</string>
+		</dict>
+		<key>17411</key>
+		<dict>
+			<key>Track ID</key><integer>17411</integer>
+			<key>Size</key><integer>8997462</integer>
+			<key>Total Time</key><integer>271281</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-30T18:20:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>180</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618654181</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:43:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DFD6459398379359</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lean</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album Artist</key><string>The National</string>
+			<key>Composer</key><string>Matt Berninger &amp; Aaron Dessner</string>
+			<key>Album</key><string>The Hunger Games Catching Fire Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Hunger Games Catching Fire Soundtrack</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Sort Album Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/The%20Hunger%20Games%20Catching%20Fire%20Soundtrack/04%20Lean.mp3</string>
+		</dict>
+		<key>17483</key>
+		<dict>
+			<key>Track ID</key><integer>17483</integer>
+			<key>Size</key><integer>6484658</integer>
+			<key>Total Time</key><integer>239177</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-11-30T17:45:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>185</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618655882</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:11:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3718BFF2404C8073</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Karen</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album Artist</key><string>The National</string>
+			<key>Composer</key><string>Bryce Dessner</string>
+			<key>Album</key><string>Alligator</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Sort Album Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Alligator/02%20Karen.mp3</string>
+		</dict>
+		<key>17415</key>
+		<dict>
+			<key>Track ID</key><integer>17415</integer>
+			<key>Size</key><integer>10175325</integer>
+			<key>Total Time</key><integer>251010</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-30T17:45:05Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>161</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618659131</integer>
+			<key>Play Date UTC</key><date>2018-09-01T19:05:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C05893656364A5B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Dolled-Up In Straps</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album Artist</key><string>The National</string>
+			<key>Album</key><string>Cherry Tree</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Sort Album Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Cherry%20Tree/03%20All%20Dolled-Up%20In%20Straps.mp3</string>
+		</dict>
+		<key>17481</key>
+		<dict>
+			<key>Track ID</key><integer>17481</integer>
+			<key>Size</key><integer>5481569</integer>
+			<key>Total Time</key><integer>201586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-11-30T17:45:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>180</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618658603</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:56:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D055B2BC8455D8B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Baby We'll Be Fine</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner</string>
+			<key>Album</key><string>Alligator</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Sort Album Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Alligator/06%20Baby%20We'll%20Be%20Fine.mp3</string>
+		</dict>
+		<key>17413</key>
+		<dict>
+			<key>Track ID</key><integer>17413</integer>
+			<key>Size</key><integer>9600819</integer>
+			<key>Total Time</key><integer>200176</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-30T17:45:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>179</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618656868</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:27:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>644745A5165FF99B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All the Wine</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album Artist</key><string>The National</string>
+			<key>Album</key><string>Cherry Tree</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Sort Album Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/Cherry%20Tree/02%20All%20the%20Wine.mp3</string>
+		</dict>
+		<key>17419</key>
+		<dict>
+			<key>Track ID</key><integer>17419</integer>
+			<key>Size</key><integer>13218023</integer>
+			<key>Total Time</key><integer>326870</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3618657398</integer>
+			<key>Play Date UTC</key><date>2018-09-01T18:36:38Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D97B9508020172CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>England (Live)</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/19%20England%20(Live).mp3</string>
+		</dict>
+		<key>17453</key>
+		<dict>
+			<key>Track ID</key><integer>17453</integer>
+			<key>Size</key><integer>7268381</integer>
+			<key>Total Time</key><integer>178128</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618653455</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:30:55Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6221812C1B104815</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Anyone's Ghost (Live)</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Bryce Dessner</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/18%20Anyone's%20Ghost%20(Live).mp3</string>
+		</dict>
+		<key>17417</key>
+		<dict>
+			<key>Track ID</key><integer>17417</integer>
+			<key>Size</key><integer>9474187</integer>
+			<key>Total Time</key><integer>233273</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Date Modified</key><date>2015-11-10T18:47:01Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618653910</integer>
+			<key>Play Date UTC</key><date>2018-09-01T17:38:30Z</date>
+			<key>Release Date</key><date>2010-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>208C89BDD46CADD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bloodbuzz Ohio (Live At Current)</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>Aaron Dessner &amp; Padma Newsome</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20National/High%20Violet/17%20Bloodbuzz%20Ohio%20(Live%20At%20Current).mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>141789</integer>
+			<key>Playlist Persistent ID</key><string>8DA6B079C25E6315</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The National</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>17471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17417</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>13973</key>
+		<dict>
+			<key>Track ID</key><integer>13973</integer>
+			<key>Size</key><integer>8402481</integer>
+			<key>Total Time</key><integer>210050</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613072472</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:14:32Z</date>
+			<key>Persistent ID</key><string>F00B4C62342ACAE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Generation Sex</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/04%20Generation%20Sex.mp3</string>
+		</dict>
+		<key>13995</key>
+		<dict>
+			<key>Track ID</key><integer>13995</integer>
+			<key>Size</key><integer>7209218</integer>
+			<key>Total Time</key><integer>180218</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613072652</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:17:32Z</date>
+			<key>Persistent ID</key><string>3CB3F3598A8D8A09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Becoming More Like Alfie</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/05%20Becoming%20More%20Like%20Alfie.mp3</string>
+		</dict>
+		<key>13971</key>
+		<dict>
+			<key>Track ID</key><integer>13971</integer>
+			<key>Size</key><integer>10164180</integer>
+			<key>Total Time</key><integer>254093</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613072906</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:21:46Z</date>
+			<key>Persistent ID</key><string>0ED326F1A0F01B1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Summerhouse</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Summerhouse</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/06%20The%20Summerhouse.mp3</string>
+		</dict>
+		<key>13981</key>
+		<dict>
+			<key>Track ID</key><integer>13981</integer>
+			<key>Size</key><integer>9756671</integer>
+			<key>Total Time</key><integer>243905</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613073150</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:25:50Z</date>
+			<key>Persistent ID</key><string>B155A12FF5C3582C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Your Daddy's Car</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/07%20Your%20Daddy's%20Car.mp3</string>
+		</dict>
+		<key>13999</key>
+		<dict>
+			<key>Track ID</key><integer>13999</integer>
+			<key>Size</key><integer>9398296</integer>
+			<key>Total Time</key><integer>234945</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3613073384</integer>
+			<key>Play Date UTC</key><date>2018-06-29T03:29:44Z</date>
+			<key>Persistent ID</key><string>9912B522ADAF6092</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Pop Singer's Fear Of The Pollen Count</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Pop Singer's Fear Of The Pollen Count</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/08%20The%20Pop%20Singer's%20Fear%20Of%20The%20Pollen%20Count.mp3</string>
+		</dict>
+		<key>13985</key>
+		<dict>
+			<key>Track ID</key><integer>13985</integer>
+			<key>Size</key><integer>12554909</integer>
+			<key>Total Time</key><integer>313861</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:37Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D102D35A831C9F76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Frog Princess</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Frog Princess</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/09%20The%20Frog%20Princess.mp3</string>
+		</dict>
+		<key>13977</key>
+		<dict>
+			<key>Track ID</key><integer>13977</integer>
+			<key>Size</key><integer>11171452</integer>
+			<key>Total Time</key><integer>279275</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>27AA023EF086FFEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lucy</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/11%20Lucy.mp3</string>
+		</dict>
+		<key>13975</key>
+		<dict>
+			<key>Track ID</key><integer>13975</integer>
+			<key>Size</key><integer>10411831</integer>
+			<key>Total Time</key><integer>260284</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:35Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>70C2E455203991C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Something For The Weekend</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/02%20Something%20For%20The%20Weekend.mp3</string>
+		</dict>
+		<key>14013</key>
+		<dict>
+			<key>Track ID</key><integer>14013</integer>
+			<key>Size</key><integer>3196928</integer>
+			<key>Total Time</key><integer>199706</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>13C922BDD7A7657E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Death Of A Supernaturalist</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Liberation</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Liberation/02%20Death%20Of%20A%20Supernaturalist.mp3</string>
+		</dict>
+		<key>14005</key>
+		<dict>
+			<key>Track ID</key><integer>14005</integer>
+			<key>Size</key><integer>3831861</integer>
+			<key>Total Time</key><integer>238837</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>04F9B9E7EA92CEB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bernice Bobs Her Hair</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Liberation</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Liberation/03%20Bernice%20Bobs%20Her%20Hair.mp3</string>
+		</dict>
+		<key>14015</key>
+		<dict>
+			<key>Track ID</key><integer>14015</integer>
+			<key>Size</key><integer>4349545</integer>
+			<key>Total Time</key><integer>271203</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FFA946D8E9516E61</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Europop</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Liberation</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Liberation/06%20Europop.mp3</string>
+		</dict>
+		<key>14025</key>
+		<dict>
+			<key>Track ID</key><integer>14025</integer>
+			<key>Size</key><integer>3828174</integer>
+			<key>Total Time</key><integer>239124</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AB7C12E4A5AA75D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Victoria Falls</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Liberation</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Liberation/10%20Victoria%20Falls.mp3</string>
+		</dict>
+		<key>13997</key>
+		<dict>
+			<key>Track ID</key><integer>13997</integer>
+			<key>Size</key><integer>7086956</integer>
+			<key>Total Time</key><integer>177162</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>79F7AAEFC8F78C3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tonight We Fly</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>A Secret History</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Secret History</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/A%20Secret%20History/17%20Tonight%20We%20Fly.mp3</string>
+		</dict>
+		<key>14063</key>
+		<dict>
+			<key>Track ID</key><integer>14063</integer>
+			<key>Size</key><integer>6059657</integer>
+			<key>Total Time</key><integer>252368</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:51Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>22B3EAA52FA92672</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Woman Of The World</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album Artist</key><string>The Divine Comedy</string>
+			<key>Composer</key><string>Neil Hannon</string>
+			<key>Album</key><string>Casanova</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Woman Of The World</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Sort Album Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Casanova/08%20A%20Woman%20Of%20The%20World.mp3</string>
+		</dict>
+		<key>14159</key>
+		<dict>
+			<key>Track ID</key><integer>14159</integer>
+			<key>Size</key><integer>9274206</integer>
+			<key>Total Time</key><integer>347820</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-10-24T20:07:11Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EEAF48174118EB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Lady of A Certain Age</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Victory for the Comic Muse</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>:&gt;</string>
+			<key>Sort Name</key><string>Lady of A Certain Age</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Victory%20for%20the%20Comic%20Muse/04%20A%20Lady%20of%20A%20Certain%20Age.mp3</string>
+		</dict>
+		<key>14061</key>
+		<dict>
+			<key>Track ID</key><integer>14061</integer>
+			<key>Size</key><integer>5850201</integer>
+			<key>Total Time</key><integer>198269</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>219</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6DF7F271B7DE364</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>At The Indie Disco</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Bang Goes The Knighthood</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Bang%20Goes%20The%20Knighthood/05%20At%20The%20Indie%20Disco.mp3</string>
+		</dict>
+		<key>14043</key>
+		<dict>
+			<key>Track ID</key><integer>14043</integer>
+			<key>Size</key><integer>6282924</integer>
+			<key>Total Time</key><integer>190328</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:10:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F02A9F8542F535CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Have You Ever Been In Love</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Bang Goes The Knighthood</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Bang%20Goes%20The%20Knighthood/06%20Have%20You%20Ever%20Been%20In%20Love.mp3</string>
+		</dict>
+		<key>14165</key>
+		<dict>
+			<key>Track ID</key><integer>14165</integer>
+			<key>Size</key><integer>3089142</integer>
+			<key>Total Time</key><integer>190902</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-24T20:06:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9C3FC704C793767</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Perfect Lovesong</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Regeneration</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>#digi on dalnet</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Regeneration/03%20Perfect%20Lovesong.MP3</string>
+		</dict>
+		<key>14183</key>
+		<dict>
+			<key>Track ID</key><integer>14183</integer>
+			<key>Size</key><integer>5186455</integer>
+			<key>Total Time</key><integer>321985</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-24T20:06:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BDC5673178318572</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mastermind</string>
+			<key>Artist</key><string>The Divine Comedy</string>
+			<key>Album</key><string>Regeneration</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>#digi on dalnet</string>
+			<key>Sort Artist</key><string>Divine Comedy</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Divine%20Comedy/Regeneration/09%20Mastermind.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>138780</integer>
+			<key>Playlist Persistent ID</key><string>F0748C559A3ADAA3</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>The Divine Comedy</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14183</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

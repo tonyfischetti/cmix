@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>13249</key>
+		<dict>
+			<key>Track ID</key><integer>13249</integer>
+			<key>Size</key><integer>4446080</integer>
+			<key>Total Time</key><integer>184137</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D20C036A7C59AA7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All I Need</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/06%20All%20I%20Need.mp3</string>
+		</dict>
+		<key>13251</key>
+		<dict>
+			<key>Track ID</key><integer>13251</integer>
+			<key>Size</key><integer>6500224</integer>
+			<key>Total Time</key><integer>269348</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D80092C61813B0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cupid Come</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/03%20Cupid%20Come.mp3</string>
+		</dict>
+		<key>13243</key>
+		<dict>
+			<key>Track ID</key><integer>13243</integer>
+			<key>Size</key><integer>5658496</integer>
+			<key>Total Time</key><integer>234422</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5F5A7638A31768D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Feed Me With Your Kiss</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/07%20Feed%20Me%20With%20Your%20Kiss.mp3</string>
+		</dict>
+		<key>13241</key>
+		<dict>
+			<key>Track ID</key><integer>13241</integer>
+			<key>Size</key><integer>4636544</integer>
+			<key>Total Time</key><integer>192078</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>808BC87CEE227103</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Can See It (But I Can't Feel It)</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/12%20I%20Can%20See%20It%20(But%20I%20Can't%20Feel%20It).mp3</string>
+		</dict>
+		<key>13245</key>
+		<dict>
+			<key>Track ID</key><integer>13245</integer>
+			<key>Size</key><integer>5255040</integer>
+			<key>Total Time</key><integer>217678</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>196EED5197C7CFE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lose My Breath</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/02%20Lose%20My%20Breath.mp3</string>
+		</dict>
+		<key>13257</key>
+		<dict>
+			<key>Track ID</key><integer>13257</integer>
+			<key>Size</key><integer>4046720</integer>
+			<key>Total Time</key><integer>167549</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49EDA2A447B47864</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No More Sorry</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/05%20No%20More%20Sorry.mp3</string>
+		</dict>
+		<key>13261</key>
+		<dict>
+			<key>Track ID</key><integer>13261</integer>
+			<key>Size</key><integer>4763520</integer>
+			<key>Total Time</key><integer>197328</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FD4235B0628A8E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nothing Much to Lose</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/11%20Nothing%20Much%20to%20Lose.mp3</string>
+		</dict>
+		<key>13255</key>
+		<dict>
+			<key>Track ID</key><integer>13255</integer>
+			<key>Size</key><integer>3403648</integer>
+			<key>Total Time</key><integer>140852</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E776B3B63CF011B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Several Girls Galore</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/09%20Several%20Girls%20Galore.mp3</string>
+		</dict>
+		<key>13247</key>
+		<dict>
+			<key>Track ID</key><integer>13247</integer>
+			<key>Size</key><integer>3407744</integer>
+			<key>Total Time</key><integer>141061</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05023A3ECA91EFB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Soft as Snow (But Warm Inside)</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/01%20Soft%20as%20Snow%20(But%20Warm%20Inside).mp3</string>
+		</dict>
+		<key>13259</key>
+		<dict>
+			<key>Track ID</key><integer>13259</integer>
+			<key>Size</key><integer>3207040</integer>
+			<key>Total Time</key><integer>132754</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4EEC6717D82CFC8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sueisfine</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/08%20Sueisfine.mp3</string>
+		</dict>
+		<key>13239</key>
+		<dict>
+			<key>Track ID</key><integer>13239</integer>
+			<key>Size</key><integer>4786048</integer>
+			<key>Total Time</key><integer>198243</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78423184819331CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>(When You Wake) You're Still in a Dream</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/04%20(When%20You%20Wake)%20You're%20Still%20in%20a%20Dream.mp3</string>
+		</dict>
+		<key>13253</key>
+		<dict>
+			<key>Track ID</key><integer>13253</integer>
+			<key>Size</key><integer>4892544</integer>
+			<key>Total Time</key><integer>202657</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:47:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D558748BCBD7FDDB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Never Should</string>
+			<key>Artist</key><string>My Bloody Valentine</string>
+			<key>Album</key><string>Isn't Anything</string>
+			<key>Genre</key><string>psychedelic/prog rock/shoegaze</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/10%20You%20Never%20Should.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>137429</integer>
+			<key>Playlist Persistent ID</key><string>A2FD90B07265FF17</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>My Bloody Valentine Audit</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13253</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

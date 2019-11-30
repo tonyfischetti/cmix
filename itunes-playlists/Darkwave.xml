@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>22819</key>
+		<dict>
+			<key>Track ID</key><integer>22819</integer>
+			<key>Size</key><integer>4590129</integer>
+			<key>Total Time</key><integer>190119</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:00:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3627200627</integer>
+			<key>Play Date UTC</key><date>2018-12-09T16:43:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4D84A37ACFFD312</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>So This Is Silence</string>
+			<key>Artist</key><string>And Also The Trees</string>
+			<key>Composer</key><string>Michael Jones/Nick Havas/Steven Burrows</string>
+			<key>Album</key><string>And Also The Trees</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/And%20Also%20The%20Trees/And%20Also%20The%20Trees/01%20So%20This%20Is%20Silence.mp3</string>
+		</dict>
+		<key>22817</key>
+		<dict>
+			<key>Track ID</key><integer>22817</integer>
+			<key>Size</key><integer>4813319</integer>
+			<key>Total Time</key><integer>199418</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:00:13Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3627200827</integer>
+			<key>Play Date UTC</key><date>2018-12-09T16:47:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AFFE1AE277C8211</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Talk Without Words</string>
+			<key>Artist</key><string>And Also The Trees</string>
+			<key>Composer</key><string>Michael Jones/Nick Havas/Steven Burrows</string>
+			<key>Album</key><string>And Also The Trees</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/And%20Also%20The%20Trees/And%20Also%20The%20Trees/02%20Talk%20Without%20Words.mp3</string>
+		</dict>
+		<key>22815</key>
+		<dict>
+			<key>Track ID</key><integer>22815</integer>
+			<key>Size</key><integer>6578725</integer>
+			<key>Total Time</key><integer>272979</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:00:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3627201100</integer>
+			<key>Play Date UTC</key><date>2018-12-09T16:51:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD6F518EB50B1B2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Midnight Garden</string>
+			<key>Artist</key><string>And Also The Trees</string>
+			<key>Composer</key><string>Michael Jones/Nick Havas/Steven Burrows</string>
+			<key>Album</key><string>And Also The Trees</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/And%20Also%20The%20Trees/And%20Also%20The%20Trees/03%20Midnight%20Garden.mp3</string>
+		</dict>
+		<key>22809</key>
+		<dict>
+			<key>Track ID</key><integer>22809</integer>
+			<key>Size</key><integer>4188888</integer>
+			<key>Total Time</key><integer>173400</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2013-10-19T04:00:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3627201273</integer>
+			<key>Play Date UTC</key><date>2018-12-09T16:54:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79FF9E367985C5CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Tease the Tear</string>
+			<key>Artist</key><string>And Also The Trees</string>
+			<key>Composer</key><string>Michael Jones/Nick Havas/Steven Burrows</string>
+			<key>Album</key><string>And Also The Trees</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Tease the Tear</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/And%20Also%20The%20Trees/And%20Also%20The%20Trees/04%20The%20Tease%20the%20Tear.mp3</string>
+		</dict>
+		<key>22867</key>
+		<dict>
+			<key>Track ID</key><integer>22867</integer>
+			<key>Size</key><integer>5282693</integer>
+			<key>Total Time</key><integer>218566</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T04:00:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>-54</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3642835672</integer>
+			<key>Play Date UTC</key><date>2019-06-08T14:47:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0725DB30F19828F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dialogue</string>
+			<key>Artist</key><string>And Also The Trees</string>
+			<key>Album</key><string>The Klaxon</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Klaxon</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/And%20Also%20The%20Trees/The%20Klaxon/05%20Dialogue.mp3</string>
+		</dict>
+		<key>22793</key>
+		<dict>
+			<key>Track ID</key><integer>22793</integer>
+			<key>Size</key><integer>7652359</integer>
+			<key>Total Time</key><integer>313025</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:00:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642835985</integer>
+			<key>Play Date UTC</key><date>2019-06-08T14:53:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5C6E55ADF71D921</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Slow Pulse Boy</string>
+			<key>Artist</key><string>And Also The Trees</string>
+			<key>Album</key><string>Virus Meadow</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/And%20Also%20The%20Trees/Virus%20Meadow/01%20Slow%20Pulse%20Boy.mp3</string>
+		</dict>
+		<key>22807</key>
+		<dict>
+			<key>Track ID</key><integer>22807</integer>
+			<key>Size</key><integer>8450505</integer>
+			<key>Total Time</key><integer>259996</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T04:00:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642836244</integer>
+			<key>Play Date UTC</key><date>2019-06-08T14:57:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>466D225380A44255</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Maps in Her Wrists and Arms</string>
+			<key>Artist</key><string>And Also The Trees</string>
+			<key>Composer</key><string>Michael Jones/Nick Havas/Steven Burrows</string>
+			<key>Album</key><string>Virus Meadow</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/And%20Also%20The%20Trees/Virus%20Meadow/02%20Maps%20in%20Her%20Wrists%20and%20Arms.mp3</string>
+		</dict>
+		<key>16273</key>
+		<dict>
+			<key>Track ID</key><integer>16273</integer>
+			<key>Size</key><integer>9266317</integer>
+			<key>Total Time</key><integer>310151</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T05:07:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3642836555</integer>
+			<key>Play Date UTC</key><date>2019-06-08T15:02:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03937717A8D926F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tears</string>
+			<key>Artist</key><string>The Chameleons</string>
+			<key>Album</key><string>Strange Times</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Chameleons</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/11%20Tears.mp3</string>
+		</dict>
+		<key>14609</key>
+		<dict>
+			<key>Track ID</key><integer>14609</integer>
+			<key>Size</key><integer>2962499</integer>
+			<key>Total Time</key><integer>181368</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:10:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3642836736</integer>
+			<key>Play Date UTC</key><date>2019-06-08T15:05:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>478F663D2EB9D83C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Psychiatric</string>
+			<key>Artist</key><string>Clair Obscur</string>
+			<key>Album Artist</key><string>Clair Obscur</string>
+			<key>Album</key><string>A Collection Of Isolated Tracks</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Collection Of Isolated Tracks</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Clair%20Obscur/A%20Collection%20Of%20Isolated%20Tracks/02%20Psychiatric.mp3</string>
+		</dict>
+		<key>19899</key>
+		<dict>
+			<key>Track ID</key><integer>19899</integer>
+			<key>Size</key><integer>9779686</integer>
+			<key>Total Time</key><integer>229433</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>84793703CEE1C0D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Born In A Cage</string>
+			<key>Artist</key><string>Complot Bronswick</string>
+			<key>Album</key><string>Tome 1 1982-1986</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Complot Bronswick</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Complot%20Bronswick/Tome%201%201982-1986/02%20Born%20In%20A%20Cage.mp3</string>
+		</dict>
+		<key>5967</key>
+		<dict>
+			<key>Track ID</key><integer>5967</integer>
+			<key>Size</key><integer>7217008</integer>
+			<key>Total Time</key><integer>254484</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2013-10-19T05:09:23Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>226</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8AB78CC3369A13CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Funeral Party</string>
+			<key>Artist</key><string>The Cure</string>
+			<key>Album</key><string>Faith</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Faith Deluxe Edition (2005)</string>
+			<key>Sort Name</key><string>Funeral Party</string>
+			<key>Sort Artist</key><string>Cure</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Faith/1-05%20The%20Funeral%20Party.mp3</string>
+		</dict>
+		<key>5745</key>
+		<dict>
+			<key>Track ID</key><integer>5745</integer>
+			<key>Size</key><integer>9626772</integer>
+			<key>Total Time</key><integer>401110</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T05:09:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>33D7B7786CB16576</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Hundred Years</string>
+			<key>Artist</key><string>The Cure</string>
+			<key>Album</key><string>Pornography</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Cure</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Pornography/01%20One%20Hundred%20Years.mp3</string>
+		</dict>
+		<key>5747</key>
+		<dict>
+			<key>Track ID</key><integer>5747</integer>
+			<key>Size</key><integer>7297694</integer>
+			<key>Total Time</key><integer>304065</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:09:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DF6490108EB91EF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Strange Day</string>
+			<key>Artist</key><string>The Cure</string>
+			<key>Album</key><string>Pornography</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Name</key><string>Strange Day</string>
+			<key>Sort Artist</key><string>Cure</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Pornography/06%20A%20Strange%20Day.mp3</string>
+		</dict>
+		<key>5905</key>
+		<dict>
+			<key>Track ID</key><integer>5905</integer>
+			<key>Size</key><integer>7199772</integer>
+			<key>Total Time</key><integer>254145</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2013-10-19T05:09:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36AEF2E07CB3FD52</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Charlotte Sometimes</string>
+			<key>Artist</key><string>The Cure</string>
+			<key>Album</key><string>Staring at the Sea</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Comment</string>
+			<key>Sort Artist</key><string>Cure</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Staring%20at%20the%20Sea/09%20Charlotte%20Sometimes.mp3</string>
+		</dict>
+		<key>44093</key>
+		<dict>
+			<key>Track ID</key><integer>44093</integer>
+			<key>Size</key><integer>5499129</integer>
+			<key>Total Time</key><integer>206158</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:21:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>50B1FB10F28458C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sabres</string>
+			<key>Artist</key><string>For Against</string>
+			<key>Album</key><string>December</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/For%20Against/December/01%20Sabres.mp3</string>
+		</dict>
+		<key>44091</key>
+		<dict>
+			<key>Track ID</key><integer>44091</integer>
+			<key>Size</key><integer>7135085</integer>
+			<key>Total Time</key><integer>270576</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-10-19T04:21:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>84C2E47A98AEA65D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Last Laugh</string>
+			<key>Artist</key><string>For Against</string>
+			<key>Album</key><string>December</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Last Laugh</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/For%20Against/December/07%20The%20Last%20Laugh.mp3</string>
+		</dict>
+		<key>44105</key>
+		<dict>
+			<key>Track ID</key><integer>44105</integer>
+			<key>Size</key><integer>9877506</integer>
+			<key>Total Time</key><integer>246883</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-10-19T04:21:59Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>19A445AB3B223955</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shine</string>
+			<key>Artist</key><string>For Against</string>
+			<key>Album</key><string>Echelons</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/For%20Against/Echelons/01%20Shine.mp3</string>
+		</dict>
+		<key>44107</key>
+		<dict>
+			<key>Track ID</key><integer>44107</integer>
+			<key>Size</key><integer>10940167</integer>
+			<key>Total Time</key><integer>273449</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4C8149873FA3BE8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Daylight</string>
+			<key>Artist</key><string>For Against</string>
+			<key>Album</key><string>Echelons</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/For%20Against/Echelons/02%20Daylight.mp3</string>
+		</dict>
+		<key>44113</key>
+		<dict>
+			<key>Track ID</key><integer>44113</integer>
+			<key>Size</key><integer>8978894</integer>
+			<key>Total Time</key><integer>224417</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2013-10-19T04:22:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FBBD961DA5E9BB2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Get On With It</string>
+			<key>Artist</key><string>For Against</string>
+			<key>Album</key><string>Echelons</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/For%20Against/Echelons/03%20Get%20On%20With%20It.mp3</string>
+		</dict>
+		<key>34973</key>
+		<dict>
+			<key>Track ID</key><integer>34973</integer>
+			<key>Size</key><integer>10820372</integer>
+			<key>Total Time</key><integer>398053</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:38:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A84A270F1DC99D9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>First Punk Wars</string>
+			<key>Artist</key><string>Iron Curtain</string>
+			<key>Album</key><string>Desertion 1982-1988</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string> 00000B2F 00000750 00005EB5 00003F09 000264CC 000264CC 00008000 00008000 0000DBE2 0000DBE2</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Iron%20Curtain/Desertion%201982-1988/02%20First%20Punk%20Wars.mp3</string>
+		</dict>
+		<key>38521</key>
+		<dict>
+			<key>Track ID</key><integer>38521</integer>
+			<key>Size</key><integer>4710137</integer>
+			<key>Total Time</key><integer>276976</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:44Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7121548635E23334</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Attendre Encore</string>
+			<key>Artist</key><string>Leit Motiv</string>
+			<key>Album</key><string>Transmission</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Leit%20Motiv/Transmission/10%20Attendre%20Encore.mp3</string>
+		</dict>
+		<key>41503</key>
+		<dict>
+			<key>Track ID</key><integer>41503</integer>
+			<key>Size</key><integer>5703198</integer>
+			<key>Total Time</key><integer>229720</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3644171007</integer>
+			<key>Play Date UTC</key><date>2019-06-24T01:43:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CB757ED6F40521A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Day Out Of Time</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Past And Future</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Day Out Of Time</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Past%20And%20Future/01%20A%20Day%20Out%20Of%20Time.mp3</string>
+		</dict>
+		<key>41505</key>
+		<dict>
+			<key>Track ID</key><integer>41505</integer>
+			<key>Size</key><integer>6859104</integer>
+			<key>Total Time</key><integer>283820</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:56Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3EC47BB19BA5B265</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Empty House</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Past And Future</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Past%20And%20Future/03%20Empty%20House.mp3</string>
+		</dict>
+		<key>41515</key>
+		<dict>
+			<key>Track ID</key><integer>41515</integer>
+			<key>Size</key><integer>7804665</integer>
+			<key>Total Time</key><integer>298814</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25AE7BCF0C6BAA23</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Seconds</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Past And Future</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Past%20And%20Future/06%20Seconds.mp3</string>
+		</dict>
+		<key>41519</key>
+		<dict>
+			<key>Track ID</key><integer>41519</integer>
+			<key>Size</key><integer>6177944</integer>
+			<key>Total Time</key><integer>232150</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9BFB5147CFF2AF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Alan's Waiting</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Past And Future</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Past%20And%20Future/07%20Alan's%20Waiting.mp3</string>
+		</dict>
+		<key>41509</key>
+		<dict>
+			<key>Track ID</key><integer>41509</integer>
+			<key>Size</key><integer>4850123</integer>
+			<key>Total Time</key><integer>185808</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:41:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623789550</integer>
+			<key>Play Date UTC</key><date>2018-10-31T04:12:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B5BEFAEE898B8F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Counter-Clock World</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Past And Future</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Past%20And%20Future/08%20Counter-Clock%20World.mp3</string>
+		</dict>
+		<key>41621</key>
+		<dict>
+			<key>Track ID</key><integer>41621</integer>
+			<key>Size</key><integer>8725452</integer>
+			<key>Total Time</key><integer>212976</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:17Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7B5A4B4EAC721AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Marine</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Vol. 1 - 1987-1989</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Vol.%201%20-%201987-1989/1-03%20Marine.mp3</string>
+		</dict>
+		<key>41639</key>
+		<dict>
+			<key>Track ID</key><integer>41639</integer>
+			<key>Size</key><integer>6358720</integer>
+			<key>Total Time</key><integer>153939</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:18Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC3C8669C6C441DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Une Passante</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Vol. 1 - 1987-1989</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Une Passante</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Vol.%201%20-%201987-1989/1-06%20A%20Une%20Passante.mp3</string>
+		</dict>
+		<key>41633</key>
+		<dict>
+			<key>Track ID</key><integer>41633</integer>
+			<key>Size</key><integer>10592134</integer>
+			<key>Total Time</key><integer>259866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:20Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623790051</integer>
+			<key>Play Date UTC</key><date>2018-10-31T04:20:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D95C4E110FF008C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Blue Years</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Vol. 1 - 1987-1989</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Vol.%201%20-%201987-1989/1-11%20Blue%20Years.mp3</string>
+		</dict>
+		<key>41641</key>
+		<dict>
+			<key>Track ID</key><integer>41641</integer>
+			<key>Size</key><integer>11705052</integer>
+			<key>Total Time</key><integer>287712</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:21Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3623790338</integer>
+			<key>Play Date UTC</key><date>2018-10-31T04:25:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F9F0C1D9E4A9E05</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Handful Of Sand</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Vol. 1 - 1987-1989</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Handful Of Sand</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Vol.%201%20-%201987-1989/1-12%20A%20Handful%20Of%20Sand.mp3</string>
+		</dict>
+		<key>41589</key>
+		<dict>
+			<key>Track ID</key><integer>41589</integer>
+			<key>Size</key><integer>15906957</integer>
+			<key>Total Time</key><integer>391967</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:28Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A3123149A0AD445</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>L'heure D'hiver</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Vol. 2 - 1990-1992</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Vol.%202%20-%201990-1992/1-02%20L'heure%20D'hiver.mp3</string>
+		</dict>
+		<key>41547</key>
+		<dict>
+			<key>Track ID</key><integer>41547</integer>
+			<key>Size</key><integer>9055173</integer>
+			<key>Total Time</key><integer>220525</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:29Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75DD2EEF68A47CDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Again</string>
+			<key>Artist</key><string>Little Nemo</string>
+			<key>Album</key><string>Vol. 2 - 1990-1992</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Little%20Nemo/Vol.%202%20-%201990-1992/1-03%20You%20Again.mp3</string>
+		</dict>
+		<key>40699</key>
+		<dict>
+			<key>Track ID</key><integer>40699</integer>
+			<key>Size</key><integer>6198638</integer>
+			<key>Total Time</key><integer>249391</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:52Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3643691183</integer>
+			<key>Play Date UTC</key><date>2019-06-18T12:26:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4868A37CD969A534</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Sullen Sky</string>
+			<key>Artist</key><string>Lowlife</string>
+			<key>Album Artist</key><string>Lowlife</string>
+			<key>Album</key><string>Diminuendo</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Sullen Sky</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/01%20A%20Sullen%20Sky.mp3</string>
+		</dict>
+		<key>40705</key>
+		<dict>
+			<key>Track ID</key><integer>40705</integer>
+			<key>Size</key><integer>5932188</integer>
+			<key>Total Time</key><integer>238288</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2013-10-19T04:42:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8504BABDF14347D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hollow Gut</string>
+			<key>Artist</key><string>Lowlife</string>
+			<key>Album Artist</key><string>Lowlife</string>
+			<key>Album</key><string>Diminuendo</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/10%20Hollow%20Gut.mp3</string>
+		</dict>
+		<key>40673</key>
+		<dict>
+			<key>Track ID</key><integer>40673</integer>
+			<key>Size</key><integer>7704894</integer>
+			<key>Total Time</key><integer>240901</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2013-10-19T04:43:09Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EC33047DC9277905</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Permanent Sleep</string>
+			<key>Artist</key><string>Lowlife</string>
+			<key>Album</key><string>Permanent Sleep</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Permanent%20Sleep/05%20Permanent%20Sleep.mp3</string>
+		</dict>
+		<key>40689</key>
+		<dict>
+			<key>Track ID</key><integer>40689</integer>
+			<key>Size</key><integer>7835993</integer>
+			<key>Total Time</key><integer>245002</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2013-10-19T04:43:10Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C3BCF937BD2078F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sometime Something</string>
+			<key>Artist</key><string>Lowlife</string>
+			<key>Album</key><string>Permanent Sleep</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Permanent%20Sleep/09%20Sometime%20Something.mp3</string>
+		</dict>
+		<key>8263</key>
+		<dict>
+			<key>Track ID</key><integer>8263</integer>
+			<key>Size</key><integer>10025393</integer>
+			<key>Total Time</key><integer>249861</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2013-10-19T04:44:15Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B3A782AD3439584</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mary Sleeps Alone</string>
+			<key>Artist</key><string>Mary Goes Round</string>
+			<key>Album</key><string>Sunset</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Mary%20Goes%20Round/Sunset/01%20Mary%20Sleeps%20Alone.mp3</string>
+		</dict>
+		<key>19067</key>
+		<dict>
+			<key>Track ID</key><integer>19067</integer>
+			<key>Size</key><integer>4833042</integer>
+			<key>Total Time</key><integer>233456</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF167015F25DCB06</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>That's When I Reach For My Revolver</string>
+			<key>Artist</key><string>Mission Of Burma</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Clint Conley</string>
+			<key>Album</key><string>Remembrance Days: A Post-Punk Compilation</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.djbynar.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Remembrance%20Days_%20A%20Post-Punk%20Compilation/That's%20When%20I%20Reach%20For%20My%20Revolver.mp3</string>
+		</dict>
+		<key>19059</key>
+		<dict>
+			<key>Track ID</key><integer>19059</integer>
+			<key>Size</key><integer>4631222</integer>
+			<key>Total Time</key><integer>186148</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:25:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C9D4B8D3328EE87</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Calcutta</string>
+			<key>Artist</key><string>The Names</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Remembrance Days: A Post-Punk Compilation</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.djbynar.com</string>
+			<key>Sort Artist</key><string>Names</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Various%20Artists/Remembrance%20Days_%20A%20Post-Punk%20Compilation/Calcutta.mp3</string>
+		</dict>
+		<key>4011</key>
+		<dict>
+			<key>Track ID</key><integer>4011</integer>
+			<key>Size</key><integer>7100568</integer>
+			<key>Total Time</key><integer>283768</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:48:02Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B6BA3F63032D780</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>J'Appelle...</string>
+			<key>Artist</key><string>Neutral Project</string>
+			<key>Album</key><string>Comme Un Oiseau De Proie...</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Neutral%20Project/Comme%20Un%20Oiseau%20De%20Proie.._/02%20J'Appelle....mp3</string>
+		</dict>
+		<key>4019</key>
+		<dict>
+			<key>Track ID</key><integer>4019</integer>
+			<key>Size</key><integer>6105635</integer>
+			<key>Total Time</key><integer>242311</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:48:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F0D6EFF8F77C6946</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>A Vision In Your Eyes</string>
+			<key>Artist</key><string>Neutral Project</string>
+			<key>Album</key><string>Comme Un Oiseau De Proie...</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Sort Name</key><string>Vision In Your Eyes</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Neutral%20Project/Comme%20Un%20Oiseau%20De%20Proie.._/03%20A%20Vision%20In%20Your%20Eyes.mp3</string>
+		</dict>
+		<key>4017</key>
+		<dict>
+			<key>Track ID</key><integer>4017</integer>
+			<key>Size</key><integer>9832133</integer>
+			<key>Total Time</key><integer>397583</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:48:03Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3CED8207D1B1E01</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Reviens!</string>
+			<key>Artist</key><string>Neutral Project</string>
+			<key>Album</key><string>Comme Un Oiseau De Proie...</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Neutral%20Project/Comme%20Un%20Oiseau%20De%20Proie.._/06%20Reviens!.mp3</string>
+		</dict>
+		<key>4025</key>
+		<dict>
+			<key>Track ID</key><integer>4025</integer>
+			<key>Size</key><integer>5291227</integer>
+			<key>Total Time</key><integer>208378</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:48:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E652D06E7EF42889</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nuit D'Automne</string>
+			<key>Artist</key><string>Neutral Project</string>
+			<key>Album</key><string>Comme Un Oiseau De Proie...</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Neutral%20Project/Comme%20Un%20Oiseau%20De%20Proie.._/08%20Nuit%20D'Automne.mp3</string>
+		</dict>
+		<key>4021</key>
+		<dict>
+			<key>Track ID</key><integer>4021</integer>
+			<key>Size</key><integer>7834726</integer>
+			<key>Total Time</key><integer>314357</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2013-10-19T04:48:04Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>777087BF9BABF569</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Révolte De L'Amour</string>
+			<key>Artist</key><string>Neutral Project</string>
+			<key>Album</key><string>Comme Un Oiseau De Proie...</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>www.systemsofromance.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Neutral%20Project/Comme%20Un%20Oiseau%20De%20Proie.._/09%20Re%CC%81volte%20De%20L'Amour.mp3</string>
+		</dict>
+		<key>8029</key>
+		<dict>
+			<key>Track ID</key><integer>8029</integer>
+			<key>Size</key><integer>4973895</integer>
+			<key>Total Time</key><integer>248581</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>11D1AE59EAD365E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Things We Never Did</string>
+			<key>Artist</key><string>Sad Lovers &amp; Giants</string>
+			<key>Composer</key><string>Sad Lovers And Giants</string>
+			<key>Album</key><string>Epic Garden Music</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Sad%20Lovers%20&amp;%20Giants/Epic%20Garden%20Music/05%20Things%20We%20Never%20Did.mp3</string>
+		</dict>
+		<key>8065</key>
+		<dict>
+			<key>Track ID</key><integer>8065</integer>
+			<key>Size</key><integer>4387540</integer>
+			<key>Total Time</key><integer>175986</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:59:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8DDF307EE697D48</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>There Was No Time</string>
+			<key>Artist</key><string>Sad Lovers &amp; Giants</string>
+			<key>Album</key><string>Remembrance Days: A Post-Punk Compilation</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.djbynar.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Sad%20Lovers%20&amp;%20Giants/Remembrance%20Days_%20A%20Post-Punk%20Compilation/There%20Was%20No%20Time.mp3</string>
+		</dict>
+		<key>10089</key>
+		<dict>
+			<key>Track ID</key><integer>10089</integer>
+			<key>Size</key><integer>4253302</integer>
+			<key>Total Time</key><integer>146233</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2013-10-19T05:00:07Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB1B9B008611734F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Just A Lie</string>
+			<key>Artist</key><string>Screaming For Emily</string>
+			<key>Album</key><string>Grey The Sky</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Screaming%20For%20Emily/Grey%20The%20Sky/02%20Just%20A%20Lie.mp3</string>
+		</dict>
+		<key>35459</key>
+		<dict>
+			<key>Track ID</key><integer>35459</integer>
+			<key>Size</key><integer>4783321</integer>
+			<key>Total Time</key><integer>192496</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T04:11:19Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E2C1F4C872201E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Art Of War</string>
+			<key>Artist</key><string>Siglo XX</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Remembrance Days: A Post-Punk Compilation</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.djbynar.com</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Compilations/Remembrance%20Days_%20A%20Post-Punk%20Compilation/Art%20Of%20War.mp3</string>
+		</dict>
+		<key>32475</key>
+		<dict>
+			<key>Track ID</key><integer>32475</integer>
+			<key>Size</key><integer>7788153</integer>
+			<key>Total Time</key><integer>234240</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-19T05:18:14Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3E9995C02B1AEAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Save My Heart</string>
+			<key>Artist</key><string>The Snake Corps</string>
+			<key>Album</key><string>Flesh on Flesh</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Snake Corps</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Snake%20Corps/Flesh%20on%20Flesh/06%20Save%20My%20Heart.mp3</string>
+		</dict>
+		<key>35877</key>
+		<dict>
+			<key>Track ID</key><integer>35877</integer>
+			<key>Size</key><integer>6737661</integer>
+			<key>Total Time</key><integer>235911</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-10-19T05:18:40Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3622572696</integer>
+			<key>Play Date UTC</key><date>2018-10-17T02:11:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>266625A15B6F3793</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Can't Escape Myself</string>
+			<key>Artist</key><string>The Sound</string>
+			<key>Album</key><string>Jeopardy</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>brett collection</string>
+			<key>Sort Artist</key><string>Sound</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sound/Jeopardy/01%20I%20Can't%20Escape%20Myself.mp3</string>
+		</dict>
+		<key>38317</key>
+		<dict>
+			<key>Track ID</key><integer>38317</integer>
+			<key>Size</key><integer>8341004</integer>
+			<key>Total Time</key><integer>257436</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2013-10-19T05:23:27Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3645356056</integer>
+			<key>Play Date UTC</key><date>2019-07-07T18:54:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E77119B8EAD2180</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Breaking Down</string>
+			<key>Artist</key><string>Trisomie 21</string>
+			<key>Album</key><string>First Songs Vol. II</string>
+			<key>Genre</key><string>Coldwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Trisomie%2021/First%20Songs%20Vol.%20II/05%20Breaking%20Down.MP3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>132500</integer>
+			<key>Playlist Persistent ID</key><string>D3F05264C5A03075</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Darkwave</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>22819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22807</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5967</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5905</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>44113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38317</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

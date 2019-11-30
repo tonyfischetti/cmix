@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>48535</key>
+		<dict>
+			<key>Track ID</key><integer>48535</integer>
+			<key>Size</key><integer>3427024</integer>
+			<key>Total Time</key><integer>212349</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2013-10-19T05:15:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8AE22D175A98A4CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Friends of P.</string>
+			<key>Artist</key><string>The Rentals</string>
+			<key>Album</key><string>The Return of the Rentals</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Track 3</string>
+			<key>Sort Album</key><string>Return of the Rentals</string>
+			<key>Sort Artist</key><string>Rentals</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Rentals/The%20Return%20of%20the%20Rentals/03%20Friends%20of%20P..mp3</string>
+		</dict>
+		<key>4867</key>
+		<dict>
+			<key>Track ID</key><integer>4867</integer>
+			<key>Size</key><integer>8307215</integer>
+			<key>Total Time</key><integer>204382</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CED342B0129BF648</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Name Is Jonas</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Jason Cropper</string>
+			<key>Album</key><string>The Blue Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Blue Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/01%20My%20Name%20Is%20Jonas.mp3</string>
+		</dict>
+		<key>4859</key>
+		<dict>
+			<key>Track ID</key><integer>4859</integer>
+			<key>Size</key><integer>7515176</integer>
+			<key>Total Time</key><integer>184581</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:53Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73F3FB51B7B58313</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No One Else</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Patrick Wilson</string>
+			<key>Album</key><string>The Blue Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Blue Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/02%20No%20One%20Else.mp3</string>
+		</dict>
+		<key>4865</key>
+		<dict>
+			<key>Track ID</key><integer>4865</integer>
+			<key>Size</key><integer>6503711</integer>
+			<key>Total Time</key><integer>159294</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7E2DC0A542C845C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Buddy Holly</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Patrick Wilson</string>
+			<key>Album</key><string>The Blue Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Blue Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/04%20Buddy%20Holly.mp3</string>
+		</dict>
+		<key>4855</key>
+		<dict>
+			<key>Track ID</key><integer>4855</integer>
+			<key>Size</key><integer>12356209</integer>
+			<key>Total Time</key><integer>305606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:54Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6BCFBE5C729992BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Undone (The Sweater Song)</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Rivers Cuomo</string>
+			<key>Album</key><string>The Blue Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Blue Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/05%20Undone%20(The%20Sweater%20Song).mp3</string>
+		</dict>
+		<key>4861</key>
+		<dict>
+			<key>Track ID</key><integer>4861</integer>
+			<key>Size</key><integer>7592507</integer>
+			<key>Total Time</key><integer>186514</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>63E0C2F47E38CF8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Surf Wax America</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Patrick Wilson</string>
+			<key>Album</key><string>The Blue Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Blue Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/06%20Surf%20Wax%20America.mp3</string>
+		</dict>
+		<key>4869</key>
+		<dict>
+			<key>Track ID</key><integer>4869</integer>
+			<key>Size</key><integer>10487917</integer>
+			<key>Total Time</key><integer>258899</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2700971D6A5899EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Say It Ain't So</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Patrick Wilson</string>
+			<key>Album</key><string>The Blue Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Blue Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/07%20Say%20It%20Ain't%20So.mp3</string>
+		</dict>
+		<key>4851</key>
+		<dict>
+			<key>Track ID</key><integer>4851</integer>
+			<key>Size</key><integer>9563175</integer>
+			<key>Total Time</key><integer>235781</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:55Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>120F0F2C1E45DD98</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In The Garage</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Rivers Cuomo</string>
+			<key>Album</key><string>The Blue Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Blue Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/08%20In%20The%20Garage.mp3</string>
+		</dict>
+		<key>4815</key>
+		<dict>
+			<key>Track ID</key><integer>4815</integer>
+			<key>Size</key><integer>7467008</integer>
+			<key>Total Time</key><integer>186618</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:57Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6740E1DBAA5CFA4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hash Pipe</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Rivers Cuomo</string>
+			<key>Album</key><string>The Green Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Green Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Green%20Album/03%20Hash%20Pipe.mp3</string>
+		</dict>
+		<key>4825</key>
+		<dict>
+			<key>Track ID</key><integer>4825</integer>
+			<key>Size</key><integer>8017587</integer>
+			<key>Total Time</key><integer>200385</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:58Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CB6DE1C291910EDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Island In The Sun</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Composer</key><string>Rivers Cuomo</string>
+			<key>Album</key><string>The Green Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Green Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Green%20Album/04%20Island%20In%20The%20Sun.mp3</string>
+		</dict>
+		<key>4873</key>
+		<dict>
+			<key>Track ID</key><integer>4873</integer>
+			<key>Size</key><integer>4768795</integer>
+			<key>Total Time</key><integer>246021</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:38Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>154</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8E3B5DF26D58482C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Viva La Vida</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Album</key><string>Hurley</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/Hurley/12%20Viva%20La%20Vida.mp3</string>
+		</dict>
+		<key>4949</key>
+		<dict>
+			<key>Track ID</key><integer>4949</integer>
+			<key>Size</key><integer>7702772</integer>
+			<key>Total Time</key><integer>189466</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-10-19T05:27:00Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9499E2BFCB6F235</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Pork and Beans</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Album</key><string>The Red Album</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Weezer - one of the biggest and most influential bands of the last decade will for the third time in its six-album history release a self-titled album. The new album will hit streets on June 24 through DGC/Interscope Records. To distinguish it from the ot</string>
+			<key>Sort Album</key><string>Red Album</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Red%20Album/03%20Pork%20and%20Beans.mp3</string>
+		</dict>
+		<key>4883</key>
+		<dict>
+			<key>Track ID</key><integer>4883</integer>
+			<key>Size</key><integer>5137183</integer>
+			<key>Total Time</key><integer>196022</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-10-19T05:26:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3878E01BDD28A1C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Memories</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Album</key><string>Hurley</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/Hurley/01%20Memories.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>142859</integer>
+			<key>Playlist Persistent ID</key><string>5739FE560ED44759</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Weezer</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>48535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4873</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4883</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
