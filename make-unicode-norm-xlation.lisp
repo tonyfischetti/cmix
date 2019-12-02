@@ -4,7 +4,8 @@
 ; « (defvar /INPUTPREFIX/ Ø (cadr (cmdargs)))
 ;     or die "no input prefix" »
 
-(defvar /INPUTPREFIX/ "/Users/tonyfischetti/Music/iTunes/iTunes\ Media/Music/")
+; (defvar /INPUTPREFIX/ "/Users/tonyfischetti/Music/iTunes/iTunes\ Media/Music/")
+(defvar /INPUTPREFIX/ "/home/tony/Dropbox/music/")
 
 (defvar /FINDCOMMAND/ (fn "find '~A' -type f" /INPUTPREFIX/))
 

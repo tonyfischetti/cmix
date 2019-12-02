@@ -3,8 +3,7 @@
 
 
 (defconstant +OLDMUSICPATH+ •/Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/•)
-; (defconstant +NEWMUSICPATH+ •/Users/tonyfischetti/Music/iTunes/iTunes Media/Music/•)
-(defconstant +NEWMUSICPATH+ •/home/tony/Music/•)
+(defconstant +NEWMUSICPATH+ •/home/tony/Dropbox/music/•)
 (defconstant +CONVERTFROMWHERE+ •./itunes-playlists/•)
 
 
