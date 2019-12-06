@@ -8,3 +8,6 @@ DEBUG
 cmus-debug.txt
 out/
 socket
+cmusfm.conf
+cmusfm.socket
+cmusfm.cache
