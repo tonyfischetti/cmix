@@ -4,67 +4,70 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>5725</key>
+		<key>5740</key>
 		<dict>
-			<key>Track ID</key><integer>5725</integer>
-			<key>Size</key><integer>9699832</integer>
+			<key>Track ID</key><integer>5740</integer>
+			<key>Size</key><integer>9804699</integer>
 			<key>Total Time</key><integer>403983</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:09:06Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:35:35Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B80F801C4899D56D</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Out Of This World</string>
 			<key>Artist</key><string>The Cure</string>
 			<key>Album</key><string>Bloodflowers</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Cure</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Bloodflowers/01%20Out%20Of%20This%20World.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Cure/Bloodflowers/01%20Out%20Of%20This%20World.mp3</string>
 		</dict>
-		<key>5717</key>
+		<key>5732</key>
 		<dict>
-			<key>Track ID</key><integer>5717</integer>
-			<key>Size</key><integer>7368246</integer>
+			<key>Track ID</key><integer>5732</integer>
+			<key>Size</key><integer>7473109</integer>
 			<key>Total Time</key><integer>306834</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:09:07Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:35:35Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>922AD22217892F29</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Maybe Someday</string>
 			<key>Artist</key><string>The Cure</string>
 			<key>Album</key><string>Bloodflowers</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Cure</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Bloodflowers/04%20Maybe%20Someday.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Cure/Bloodflowers/04%20Maybe%20Someday.mp3</string>
 		</dict>
-		<key>5715</key>
+		<key>5730</key>
 		<dict>
-			<key>Track ID</key><integer>5715</integer>
-			<key>Size</key><integer>8059760</integer>
+			<key>Track ID</key><integer>5730</integer>
+			<key>Size</key><integer>8164632</integer>
 			<key>Total Time</key><integer>335647</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:09:07Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:35:35Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0C0B728598897E52</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Last Day Of Summer</string>
 			<key>Artist</key><string>The Cure</string>
 			<key>Album</key><string>Bloodflowers</string>
@@ -72,34 +75,35 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Name</key><string>Last Day Of Summer</string>
 			<key>Sort Artist</key><string>Cure</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Bloodflowers/05%20The%20Last%20Day%20Of%20Summer.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Cure/Bloodflowers/05%20The%20Last%20Day%20Of%20Summer.mp3</string>
 		</dict>
-		<key>5719</key>
+		<key>5734</key>
 		<dict>
-			<key>Track ID</key><integer>5719</integer>
-			<key>Size</key><integer>5353265</integer>
+			<key>Track ID</key><integer>5734</integer>
+			<key>Size</key><integer>5458133</integer>
 			<key>Total Time</key><integer>222876</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:09:07Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:35:35Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A5807FE6F6B6EA7B</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>There Is No If ...</string>
 			<key>Artist</key><string>The Cure</string>
 			<key>Album</key><string>Bloodflowers</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Cure</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Bloodflowers/06%20There%20Is%20No%20If%20....mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Cure/Bloodflowers/06%20There%20Is%20No%20If%20....mp3</string>
 		</dict>
-		<key>5801</key>
+		<key>5816</key>
 		<dict>
-			<key>Track ID</key><integer>5801</integer>
+			<key>Track ID</key><integer>5816</integer>
 			<key>Size</key><integer>9889167</integer>
 			<key>Total Time</key><integer>411872</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -120,9 +124,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/01%20Open.mp3</string>
 		</dict>
-		<key>5789</key>
+		<key>5804</key>
 		<dict>
-			<key>Track ID</key><integer>5789</integer>
+			<key>Track ID</key><integer>5804</integer>
 			<key>Size</key><integer>5219727</integer>
 			<key>Total Time</key><integer>217312</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -143,9 +147,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/02%20High.mp3</string>
 		</dict>
-		<key>5803</key>
+		<key>5818</key>
 		<dict>
-			<key>Track ID</key><integer>5803</integer>
+			<key>Track ID</key><integer>5818</integer>
 			<key>Size</key><integer>11154957</integer>
 			<key>Total Time</key><integer>464613</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -166,9 +170,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/04%20From%20The%20Edge%20Of%20The%20Deep%20Green%20Sea.mp3</string>
 		</dict>
-		<key>5793</key>
+		<key>5808</key>
 		<dict>
-			<key>Track ID</key><integer>5793</integer>
+			<key>Track ID</key><integer>5808</integer>
 			<key>Size</key><integer>6358248</integer>
 			<key>Total Time</key><integer>264751</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -189,9 +193,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/06%20Doing%20The%20Unstuck.mp3</string>
 		</dict>
-		<key>5809</key>
+		<key>5824</key>
 		<dict>
-			<key>Track ID</key><integer>5809</integer>
+			<key>Track ID</key><integer>5824</integer>
 			<key>Size</key><integer>5249193</integer>
 			<key>Total Time</key><integer>218540</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -212,9 +216,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/07%20Friday%20I'm%20In%20Love.mp3</string>
 		</dict>
-		<key>5807</key>
+		<key>5822</key>
 		<dict>
-			<key>Track ID</key><integer>5807</integer>
+			<key>Track ID</key><integer>5822</integer>
 			<key>Size</key><integer>7982646</integer>
 			<key>Total Time</key><integer>332434</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -235,9 +239,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/08%20Trust.mp3</string>
 		</dict>
-		<key>5805</key>
+		<key>5820</key>
 		<dict>
-			<key>Track ID</key><integer>5805</integer>
+			<key>Track ID</key><integer>5820</integer>
 			<key>Size</key><integer>8538741</integer>
 			<key>Total Time</key><integer>355604</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -258,9 +262,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/10%20Cut.mp3</string>
 		</dict>
-		<key>5791</key>
+		<key>5806</key>
 		<dict>
-			<key>Track ID</key><integer>5791</integer>
+			<key>Track ID</key><integer>5806</integer>
 			<key>Size</key><integer>6816540</integer>
 			<key>Total Time</key><integer>283846</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -281,9 +285,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/11%20To%20Wish%20Impossible%20Things.mp3</string>
 		</dict>
-		<key>5797</key>
+		<key>5812</key>
 		<dict>
-			<key>Track ID</key><integer>5797</integer>
+			<key>Track ID</key><integer>5812</integer>
 			<key>Size</key><integer>9723655</integer>
 			<key>Total Time</key><integer>404976</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -304,9 +308,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Wish/12%20End.mp3</string>
 		</dict>
-		<key>5893</key>
+		<key>5908</key>
 		<dict>
-			<key>Track ID</key><integer>5893</integer>
+			<key>Track ID</key><integer>5908</integer>
 			<key>Size</key><integer>7726945</integer>
 			<key>Total Time</key><integer>315820</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -328,9 +332,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Disintegration/01%20Plainsong.mp3</string>
 		</dict>
-		<key>5889</key>
+		<key>5904</key>
 		<dict>
-			<key>Track ID</key><integer>5889</integer>
+			<key>Track ID</key><integer>5904</integer>
 			<key>Size</key><integer>10916816</integer>
 			<key>Total Time</key><integer>448731</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -352,9 +356,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Disintegration/02%20Pictures%20of%20You.mp3</string>
 		</dict>
-		<key>5885</key>
+		<key>5900</key>
 		<dict>
-			<key>Track ID</key><integer>5885</integer>
+			<key>Track ID</key><integer>5900</integer>
 			<key>Size</key><integer>6412255</integer>
 			<key>Total Time</key><integer>261041</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -376,9 +380,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Disintegration/03%20Closedown.mp3</string>
 		</dict>
-		<key>5881</key>
+		<key>5896</key>
 		<dict>
-			<key>Track ID</key><integer>5881</integer>
+			<key>Track ID</key><integer>5896</integer>
 			<key>Size</key><integer>5199128</integer>
 			<key>Total Time</key><integer>210494</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -400,9 +404,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Disintegration/04%20Love%20Song.mp3</string>
 		</dict>
-		<key>5883</key>
+		<key>5898</key>
 		<dict>
-			<key>Track ID</key><integer>5883</integer>
+			<key>Track ID</key><integer>5898</integer>
 			<key>Size</key><integer>7037941</integer>
 			<key>Total Time</key><integer>287111</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -424,9 +428,9 @@
 			<key>Sort Artist</key><string>Cure</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cure/Disintegration/05%20Last%20Dance.mp3</string>
 		</dict>
-		<key>5877</key>
+		<key>5892</key>
 		<dict>
-			<key>Track ID</key><integer>5877</integer>
+			<key>Track ID</key><integer>5892</integer>
 			<key>Size</key><integer>6171508</integer>
 			<key>Total Time</key><integer>251010</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -452,68 +456,68 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>138739</integer>
+			<key>Playlist ID</key><integer>139067</integer>
 			<key>Playlist Persistent ID</key><string>03AEF28DB2C2F21C</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The Cure's Best</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>5725</integer>
+					<key>Track ID</key><integer>5740</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5717</integer>
+					<key>Track ID</key><integer>5732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5715</integer>
+					<key>Track ID</key><integer>5730</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5719</integer>
+					<key>Track ID</key><integer>5734</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5801</integer>
+					<key>Track ID</key><integer>5816</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5789</integer>
+					<key>Track ID</key><integer>5804</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5803</integer>
+					<key>Track ID</key><integer>5818</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5793</integer>
+					<key>Track ID</key><integer>5808</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5809</integer>
+					<key>Track ID</key><integer>5824</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5807</integer>
+					<key>Track ID</key><integer>5822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5805</integer>
+					<key>Track ID</key><integer>5820</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5791</integer>
+					<key>Track ID</key><integer>5806</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5797</integer>
+					<key>Track ID</key><integer>5812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5893</integer>
+					<key>Track ID</key><integer>5908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5889</integer>
+					<key>Track ID</key><integer>5904</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5885</integer>
+					<key>Track ID</key><integer>5900</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5881</integer>
+					<key>Track ID</key><integer>5896</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5883</integer>
+					<key>Track ID</key><integer>5898</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5877</integer>
+					<key>Track ID</key><integer>5892</integer>
 				</dict>
 			</array>
 		</dict>

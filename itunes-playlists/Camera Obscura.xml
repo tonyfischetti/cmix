@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>4119</key>
+		<key>4134</key>
 		<dict>
-			<key>Track ID</key><integer>4119</integer>
+			<key>Track ID</key><integer>4134</integer>
 			<key>Size</key><integer>6048034</integer>
 			<key>Total Time</key><integer>245707</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -28,9 +28,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Camera%20Obscura/Biggest%20Bluest%20Hi%20Fi/01%20Happy%20New%20Year.mp3</string>
 		</dict>
-		<key>4115</key>
+		<key>4130</key>
 		<dict>
-			<key>Track ID</key><integer>4115</integer>
+			<key>Track ID</key><integer>4130</integer>
 			<key>Size</key><integer>6388508</integer>
 			<key>Total Time</key><integer>259892</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -53,9 +53,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Camera%20Obscura/Biggest%20Bluest%20Hi%20Fi/02%20Eighties%20Fan.mp3</string>
 		</dict>
-		<key>4105</key>
+		<key>4120</key>
 		<dict>
-			<key>Track ID</key><integer>4105</integer>
+			<key>Track ID</key><integer>4120</integer>
 			<key>Size</key><integer>4666257</integer>
 			<key>Total Time</key><integer>188133</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -77,9 +77,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Camera%20Obscura/Biggest%20Bluest%20Hi%20Fi/06%20Anti-Western.mp3</string>
 		</dict>
-		<key>4111</key>
+		<key>4126</key>
 		<dict>
-			<key>Track ID</key><integer>4111</integer>
+			<key>Track ID</key><integer>4126</integer>
 			<key>Size</key><integer>5806041</integer>
 			<key>Total Time</key><integer>235624</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -104,9 +104,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Camera%20Obscura/Biggest%20Bluest%20Hi%20Fi/07%20I%20Don't%20Do%20Crowds.mp3</string>
 		</dict>
-		<key>4121</key>
+		<key>4136</key>
 		<dict>
-			<key>Track ID</key><integer>4121</integer>
+			<key>Track ID</key><integer>4136</integer>
 			<key>Size</key><integer>5634190</integer>
 			<key>Total Time</key><integer>228466</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -127,9 +127,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Camera%20Obscura/Biggest%20Bluest%20Hi%20Fi/10%20Arrangements%20Of%20Shapes%20And%20Spaces.mp3</string>
 		</dict>
-		<key>4069</key>
+		<key>4084</key>
 		<dict>
-			<key>Track ID</key><integer>4069</integer>
+			<key>Track ID</key><integer>4084</integer>
 			<key>Size</key><integer>8464547</integer>
 			<key>Total Time</key><integer>209920</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -155,29 +155,29 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>132055</integer>
+			<key>Playlist ID</key><integer>132334</integer>
 			<key>Playlist Persistent ID</key><string>2A6ABE30062A36B7</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Camera Obscura</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4119</integer>
+					<key>Track ID</key><integer>4134</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4115</integer>
+					<key>Track ID</key><integer>4130</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4105</integer>
+					<key>Track ID</key><integer>4120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4111</integer>
+					<key>Track ID</key><integer>4126</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4121</integer>
+					<key>Track ID</key><integer>4136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4069</integer>
+					<key>Track ID</key><integer>4084</integer>
 				</dict>
 			</array>
 		</dict>

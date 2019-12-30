@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>45617</key>
+		<key>45608</key>
 		<dict>
-			<key>Track ID</key><integer>45617</integer>
+			<key>Track ID</key><integer>45608</integer>
 			<key>Size</key><integer>13684864</integer>
 			<key>Total Time</key><integer>325616</integer>
 			<key>Track Number</key><integer>15</integer>
@@ -33,9 +33,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/15%20Sprawl%20II%20(Mountains%20Beyond%20Mountains).mp3</string>
 		</dict>
-		<key>45661</key>
+		<key>45652</key>
 		<dict>
-			<key>Track ID</key><integer>45661</integer>
+			<key>Track ID</key><integer>45652</integer>
 			<key>Size</key><integer>8448287</integer>
 			<key>Total Time</key><integer>335386</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -55,9 +55,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Funeral/07%20Wake%20Up.mp3</string>
 		</dict>
-		<key>45599</key>
+		<key>45590</key>
 		<dict>
-			<key>Track ID</key><integer>45599</integer>
+			<key>Track ID</key><integer>45590</integer>
 			<key>Size</key><integer>11389056</integer>
 			<key>Total Time</key><integer>268199</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -81,9 +81,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/12%20Deep%20Blue.mp3</string>
 		</dict>
-		<key>45607</key>
+		<key>45598</key>
 		<dict>
-			<key>Track ID</key><integer>45607</integer>
+			<key>Track ID</key><integer>45598</integer>
 			<key>Size</key><integer>12068992</integer>
 			<key>Total Time</key><integer>285204</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -110,9 +110,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/09%20Suburban%20War.mp3</string>
 		</dict>
-		<key>45603</key>
+		<key>45594</key>
 		<dict>
-			<key>Track ID</key><integer>45603</integer>
+			<key>Track ID</key><integer>45594</integer>
 			<key>Size</key><integer>7524480</integer>
 			<key>Total Time</key><integer>171598</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -136,9 +136,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/05%20Empty%20Room.mp3</string>
 		</dict>
-		<key>45631</key>
+		<key>45622</key>
 		<dict>
-			<key>Track ID</key><integer>45631</integer>
+			<key>Track ID</key><integer>45622</integer>
 			<key>Size</key><integer>6218338</integer>
 			<key>Total Time</key><integer>259082</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -158,9 +158,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Neon%20Bible/04%20Intervention.mp3</string>
 		</dict>
-		<key>45639</key>
+		<key>45630</key>
 		<dict>
-			<key>Track ID</key><integer>45639</integer>
+			<key>Track ID</key><integer>45630</integer>
 			<key>Size</key><integer>5020885</integer>
 			<key>Total Time</key><integer>209188</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -180,9 +180,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Neon%20Bible/02%20Keep%20The%20Car%20Running.mp3</string>
 		</dict>
-		<key>45633</key>
+		<key>45624</key>
 		<dict>
-			<key>Track ID</key><integer>45633</integer>
+			<key>Track ID</key><integer>45624</integer>
 			<key>Size</key><integer>3281757</integer>
 			<key>Total Time</key><integer>136724</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -202,9 +202,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Neon%20Bible/03%20Neon%20Bible.mp3</string>
 		</dict>
-		<key>45651</key>
+		<key>45642</key>
 		<dict>
-			<key>Track ID</key><integer>45651</integer>
+			<key>Track ID</key><integer>45642</integer>
 			<key>Size</key><integer>6724231</integer>
 			<key>Total Time</key><integer>289776</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -224,9 +224,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Funeral/05%20Neighborhood%20%234%20(7%20Kettles).mp3</string>
 		</dict>
-		<key>45597</key>
+		<key>45588</key>
 		<dict>
-			<key>Track ID</key><integer>45597</integer>
+			<key>Track ID</key><integer>45588</integer>
 			<key>Size</key><integer>11853952</integer>
 			<key>Total Time</key><integer>279823</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -250,9 +250,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/03%20Modern%20Man.mp3</string>
 		</dict>
-		<key>45601</key>
+		<key>45592</key>
 		<dict>
-			<key>Track ID</key><integer>45601</integer>
+			<key>Track ID</key><integer>45592</integer>
 			<key>Size</key><integer>10809472</integer>
 			<key>Total Time</key><integer>253727</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -276,9 +276,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/07%20Half%20Light%20I.mp3</string>
 		</dict>
-		<key>45619</key>
+		<key>45610</key>
 		<dict>
-			<key>Track ID</key><integer>45619</integer>
+			<key>Track ID</key><integer>45610</integer>
 			<key>Size</key><integer>9891968</integer>
 			<key>Total Time</key><integer>230791</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -302,9 +302,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/10%20Month%20Of%20May.mp3</string>
 		</dict>
-		<key>45647</key>
+		<key>45638</key>
 		<dict>
-			<key>Track ID</key><integer>45647</integer>
+			<key>Track ID</key><integer>45638</integer>
 			<key>Size</key><integer>7449019</integer>
 			<key>Total Time</key><integer>310360</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -324,9 +324,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Neon%20Bible/08%20%5BAntichrist%20Television%20Blues%5D.mp3</string>
 		</dict>
-		<key>45613</key>
+		<key>45604</key>
 		<dict>
-			<key>Track ID</key><integer>45613</integer>
+			<key>Track ID</key><integer>45604</integer>
 			<key>Size</key><integer>12718208</integer>
 			<key>Total Time</key><integer>301453</integer>
 			<key>Track Number</key><integer>13</integer>
@@ -350,9 +350,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/13%20We%20Used%20To%20Wait.mp3</string>
 		</dict>
-		<key>45611</key>
+		<key>45602</key>
 		<dict>
-			<key>Track ID</key><integer>45611</integer>
+			<key>Track ID</key><integer>45602</integer>
 			<key>Size</key><integer>8691840</integer>
 			<key>Total Time</key><integer>200777</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -376,9 +376,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/11%20Wasted%20Hours.mp3</string>
 		</dict>
-		<key>45605</key>
+		<key>45596</key>
 		<dict>
-			<key>Track ID</key><integer>45605</integer>
+			<key>Track ID</key><integer>45596</integer>
 			<key>Size</key><integer>10133632</integer>
 			<key>Total Time</key><integer>236826</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -402,9 +402,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/04%20Rococo.mp3</string>
 		</dict>
-		<key>45659</key>
+		<key>45650</key>
 		<dict>
-			<key>Track ID</key><integer>45659</integer>
+			<key>Track ID</key><integer>45650</integer>
 			<key>Size</key><integer>7917197</integer>
 			<key>Total Time</key><integer>288391</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -424,9 +424,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Funeral/01%20Neighborhood%20%231%20(Tunnels).mp3</string>
 		</dict>
-		<key>45623</key>
+		<key>45614</key>
 		<dict>
-			<key>Track ID</key><integer>45623</integer>
+			<key>Track ID</key><integer>45614</integer>
 			<key>Size</key><integer>13271168</integer>
 			<key>Total Time</key><integer>315271</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -451,9 +451,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/01%20The%20Suburbs.mp3</string>
 		</dict>
-		<key>45609</key>
+		<key>45600</key>
 		<dict>
-			<key>Track ID</key><integer>45609</integer>
+			<key>Track ID</key><integer>45600</integer>
 			<key>Size</key><integer>8327296</integer>
 			<key>Total Time</key><integer>191660</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -480,9 +480,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/06%20City%20With%20No%20Children.mp3</string>
 		</dict>
-		<key>45663</key>
+		<key>45654</key>
 		<dict>
-			<key>Track ID</key><integer>45663</integer>
+			<key>Track ID</key><integer>45654</integer>
 			<key>Size</key><integer>7987892</integer>
 			<key>Total Time</key><integer>310935</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -505,9 +505,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Funeral/09%20Rebellion%20(Lies).mp3</string>
 		</dict>
-		<key>45657</key>
+		<key>45648</key>
 		<dict>
-			<key>Track ID</key><integer>45657</integer>
+			<key>Track ID</key><integer>45648</integer>
 			<key>Size</key><integer>9319788</integer>
 			<key>Total Time</key><integer>380264</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -527,9 +527,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Funeral/10%20In%20The%20Back%20Seat.mp3</string>
 		</dict>
-		<key>45615</key>
+		<key>45606</key>
 		<dict>
-			<key>Track ID</key><integer>45615</integer>
+			<key>Track ID</key><integer>45606</integer>
 			<key>Size</key><integer>10899584</integer>
 			<key>Total Time</key><integer>255947</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -553,9 +553,9 @@
 			<key>Sort Album</key><string>Suburbs</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/The%20Suburbs/02%20Ready%20To%20Start.mp3</string>
 		</dict>
-		<key>45593</key>
+		<key>45584</key>
 		<dict>
-			<key>Track ID</key><integer>45593</integer>
+			<key>Track ID</key><integer>45584</integer>
 			<key>Size</key><integer>10680220</integer>
 			<key>Total Time</key><integer>260075</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -577,9 +577,9 @@
 			<key>Sort Name</key><string>Great Arcade Fire</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Demo%202001/10%20The%20Great%20Arcade%20Fire.mp3</string>
 		</dict>
-		<key>45629</key>
+		<key>45620</key>
 		<dict>
-			<key>Track ID</key><integer>45629</integer>
+			<key>Track ID</key><integer>45620</integer>
 			<key>Size</key><integer>7047151</integer>
 			<key>Total Time</key><integer>293616</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -599,9 +599,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Arcade%20Fire/Neon%20Bible/06%20Ocean%20of%20Noise.mp3</string>
 		</dict>
-		<key>45641</key>
+		<key>45632</key>
 		<dict>
-			<key>Track ID</key><integer>45641</integer>
+			<key>Track ID</key><integer>45632</integer>
 			<key>Size</key><integer>5683560</integer>
 			<key>Total Time</key><integer>236800</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -626,86 +626,86 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>131677</integer>
+			<key>Playlist ID</key><integer>131949</integer>
 			<key>Playlist Persistent ID</key><string>064F5A17C62BBA8B</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Arcade Fire</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>45617</integer>
+					<key>Track ID</key><integer>45608</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45661</integer>
+					<key>Track ID</key><integer>45652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45599</integer>
+					<key>Track ID</key><integer>45590</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45607</integer>
+					<key>Track ID</key><integer>45598</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45603</integer>
+					<key>Track ID</key><integer>45594</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45631</integer>
+					<key>Track ID</key><integer>45622</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45639</integer>
+					<key>Track ID</key><integer>45630</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45633</integer>
+					<key>Track ID</key><integer>45624</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45651</integer>
+					<key>Track ID</key><integer>45642</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45597</integer>
+					<key>Track ID</key><integer>45588</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45601</integer>
+					<key>Track ID</key><integer>45592</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45619</integer>
+					<key>Track ID</key><integer>45610</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45647</integer>
+					<key>Track ID</key><integer>45638</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45613</integer>
+					<key>Track ID</key><integer>45604</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45611</integer>
+					<key>Track ID</key><integer>45602</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45605</integer>
+					<key>Track ID</key><integer>45596</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45659</integer>
+					<key>Track ID</key><integer>45650</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45623</integer>
+					<key>Track ID</key><integer>45614</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45609</integer>
+					<key>Track ID</key><integer>45600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45663</integer>
+					<key>Track ID</key><integer>45654</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45657</integer>
+					<key>Track ID</key><integer>45648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45615</integer>
+					<key>Track ID</key><integer>45606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45593</integer>
+					<key>Track ID</key><integer>45584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45629</integer>
+					<key>Track ID</key><integer>45620</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45641</integer>
+					<key>Track ID</key><integer>45632</integer>
 				</dict>
 			</array>
 		</dict>

@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>22639</key>
+		<key>22652</key>
 		<dict>
-			<key>Track ID</key><integer>22639</integer>
+			<key>Track ID</key><integer>22652</integer>
 			<key>Size</key><integer>9284509</integer>
 			<key>Total Time</key><integer>218200</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -33,9 +33,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/01%20Leonardo%20da%20Vinci.mp3</string>
 		</dict>
-		<key>22621</key>
+		<key>22634</key>
 		<dict>
-			<key>Track ID</key><integer>22621</integer>
+			<key>Track ID</key><integer>22634</integer>
 			<key>Size</key><integer>16495350</integer>
 			<key>Total Time</key><integer>398471</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -62,9 +62,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/09%20Better%20On%20The%20Hard%20Side.mp3</string>
 		</dict>
-		<key>22611</key>
+		<key>22624</key>
 		<dict>
-			<key>Track ID</key><integer>22611</integer>
+			<key>Track ID</key><integer>22624</integer>
 			<key>Size</key><integer>11065019</integer>
 			<key>Total Time</key><integer>262713</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -91,9 +91,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/03%20History%20Part%201.mp3</string>
 		</dict>
-		<key>22633</key>
+		<key>22646</key>
 		<dict>
-			<key>Track ID</key><integer>22633</integer>
+			<key>Track ID</key><integer>22646</integer>
 			<key>Size</key><integer>9413000</integer>
 			<key>Total Time</key><integer>221413</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -120,9 +120,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/02%20Kill%20The%20Beast.mp3</string>
 		</dict>
-		<key>22589</key>
+		<key>22602</key>
 		<dict>
-			<key>Track ID</key><integer>22589</integer>
+			<key>Track ID</key><integer>22602</integer>
 			<key>Size</key><integer>9062227</integer>
 			<key>Total Time</key><integer>225149</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -146,9 +146,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/01%20Ephemeral%20(This%20Is%20No%20Heaven).mp3</string>
 		</dict>
-		<key>22599</key>
+		<key>22612</key>
 		<dict>
-			<key>Track ID</key><integer>22599</integer>
+			<key>Track ID</key><integer>22612</integer>
 			<key>Size</key><integer>9692282</integer>
 			<key>Total Time</key><integer>240901</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -172,9 +172,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/02%20Resistance.mp3</string>
 		</dict>
-		<key>22587</key>
+		<key>22600</key>
 		<dict>
-			<key>Track ID</key><integer>22587</integer>
+			<key>Track ID</key><integer>22600</integer>
 			<key>Size</key><integer>10325495</integer>
 			<key>Total Time</key><integer>256731</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -199,9 +199,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/04%20The%20White%20Space.mp3</string>
 		</dict>
-		<key>22605</key>
+		<key>22618</key>
 		<dict>
-			<key>Track ID</key><integer>22605</integer>
+			<key>Track ID</key><integer>22618</integer>
 			<key>Size</key><integer>7922222</integer>
 			<key>Total Time</key><integer>196649</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -228,9 +228,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/05%20Wipe%20Out.mp3</string>
 		</dict>
-		<key>22597</key>
+		<key>22610</key>
 		<dict>
-			<key>Track ID</key><integer>22597</integer>
+			<key>Track ID</key><integer>22610</integer>
 			<key>Size</key><integer>9847967</integer>
 			<key>Total Time</key><integer>244793</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -254,9 +254,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/07%20Undone.mp3</string>
 		</dict>
-		<key>22593</key>
+		<key>22606</key>
 		<dict>
-			<key>Track ID</key><integer>22593</integer>
+			<key>Track ID</key><integer>22606</integer>
 			<key>Size</key><integer>9322384</integer>
 			<key>Total Time</key><integer>231653</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -280,9 +280,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/_..Undone/08%20Remain.mp3</string>
 		</dict>
-		<key>22629</key>
+		<key>22642</key>
 		<dict>
-			<key>Track ID</key><integer>22629</integer>
+			<key>Track ID</key><integer>22642</integer>
 			<key>Size</key><integer>11981347</integer>
 			<key>Total Time</key><integer>285622</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -309,9 +309,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/04%20Prove%20It.mp3</string>
 		</dict>
-		<key>22623</key>
+		<key>22636</key>
 		<dict>
-			<key>Track ID</key><integer>22623</integer>
+			<key>Track ID</key><integer>22636</integer>
 			<key>Size</key><integer>9920852</integer>
 			<key>Total Time</key><integer>234109</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -338,9 +338,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/05%20Come%20Back%20To%20The%20Living.mp3</string>
 		</dict>
-		<key>22613</key>
+		<key>22626</key>
 		<dict>
-			<key>Track ID</key><integer>22613</integer>
+			<key>Track ID</key><integer>22626</integer>
 			<key>Size</key><integer>9965769</integer>
 			<key>Total Time</key><integer>235232</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -368,9 +368,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Remembrances/07%20The%20Twister.mp3</string>
 		</dict>
-		<key>22653</key>
+		<key>22666</key>
 		<dict>
-			<key>Track ID</key><integer>22653</integer>
+			<key>Track ID</key><integer>22666</integer>
 			<key>Size</key><integer>5707798</integer>
 			<key>Total Time</key><integer>140486</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -395,9 +395,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/01%20Land%20And%20The%20Life.mp3</string>
 		</dict>
-		<key>22663</key>
+		<key>22676</key>
 		<dict>
-			<key>Track ID</key><integer>22663</integer>
+			<key>Track ID</key><integer>22676</integer>
 			<key>Size</key><integer>8591719</integer>
 			<key>Total Time</key><integer>212584</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -425,9 +425,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/02%20View%20From%20The%20Outside.mp3</string>
 		</dict>
-		<key>22649</key>
+		<key>22662</key>
 		<dict>
-			<key>Track ID</key><integer>22649</integer>
+			<key>Track ID</key><integer>22662</integer>
 			<key>Size</key><integer>9374341</integer>
 			<key>Total Time</key><integer>232150</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -452,9 +452,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/03%20Sojourn's%20End.mp3</string>
 		</dict>
-		<key>22645</key>
+		<key>22658</key>
 		<dict>
-			<key>Track ID</key><integer>22645</integer>
+			<key>Track ID</key><integer>22658</integer>
 			<key>Size</key><integer>6765222</integer>
 			<key>Total Time</key><integer>166922</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -479,9 +479,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/07%20Shame.mp3</string>
 		</dict>
-		<key>22651</key>
+		<key>22664</key>
 		<dict>
-			<key>Track ID</key><integer>22651</integer>
+			<key>Track ID</key><integer>22664</integer>
 			<key>Size</key><integer>9852904</integer>
 			<key>Total Time</key><integer>244114</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -506,9 +506,9 @@
 			<key>Sort Album Artist</key><string>Lucy Show</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Lucy%20Show/Mania/09%20Part%20Of%20Me%20Now.mp3</string>
 		</dict>
-		<key>22655</key>
+		<key>22668</key>
 		<dict>
-			<key>Track ID</key><integer>22655</integer>
+			<key>Track ID</key><integer>22668</integer>
 			<key>Size</key><integer>7941429</integer>
 			<key>Total Time</key><integer>293982</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -534,68 +534,68 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>141689</integer>
+			<key>Playlist ID</key><integer>142017</integer>
 			<key>Playlist Persistent ID</key><string>B35F522C439D2D77</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The Lucy Show</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>22639</integer>
+					<key>Track ID</key><integer>22652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22621</integer>
+					<key>Track ID</key><integer>22634</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22611</integer>
+					<key>Track ID</key><integer>22624</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22633</integer>
+					<key>Track ID</key><integer>22646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22589</integer>
+					<key>Track ID</key><integer>22602</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22599</integer>
+					<key>Track ID</key><integer>22612</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22587</integer>
+					<key>Track ID</key><integer>22600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22605</integer>
+					<key>Track ID</key><integer>22618</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22597</integer>
+					<key>Track ID</key><integer>22610</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22593</integer>
+					<key>Track ID</key><integer>22606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22629</integer>
+					<key>Track ID</key><integer>22642</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22623</integer>
+					<key>Track ID</key><integer>22636</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22613</integer>
+					<key>Track ID</key><integer>22626</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22653</integer>
+					<key>Track ID</key><integer>22666</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22663</integer>
+					<key>Track ID</key><integer>22676</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22649</integer>
+					<key>Track ID</key><integer>22662</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22645</integer>
+					<key>Track ID</key><integer>22658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22651</integer>
+					<key>Track ID</key><integer>22664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>22655</integer>
+					<key>Track ID</key><integer>22668</integer>
 				</dict>
 			</array>
 		</dict>

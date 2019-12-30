@@ -4,205 +4,238 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>33399</key>
+		<key>33412</key>
 		<dict>
-			<key>Track ID</key><integer>33399</integer>
-			<key>Size</key><integer>9710517</integer>
+			<key>Track ID</key><integer>33412</integer>
+			<key>Size</key><integer>9772205</integer>
 			<key>Total Time</key><integer>242755</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:07Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>40A10C3B7F776EF1</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Beneath</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/01%20Beneath.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/01%20Beneath.mp3</string>
 		</dict>
-		<key>33391</key>
+		<key>33404</key>
 		<dict>
-			<key>Track ID</key><integer>33391</integer>
-			<key>Size</key><integer>6581056</integer>
+			<key>Track ID</key><integer>33404</integer>
+			<key>Size</key><integer>6642744</integer>
 			<key>Total Time</key><integer>164519</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:07Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652639711</integer>
+			<key>Play Date UTC</key><date>2019-09-30T02:08:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A491E1657D616FDC</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Mr. Itagaki</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/02%20Mr.%20Itagaki.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/02%20Mr.%20Itagaki.mp3</string>
 		</dict>
-		<key>33387</key>
+		<key>33400</key>
 		<dict>
-			<key>Track ID</key><integer>33387</integer>
-			<key>Size</key><integer>11670752</integer>
+			<key>Track ID</key><integer>33400</integer>
+			<key>Size</key><integer>11732440</integer>
 			<key>Total Time</key><integer>291761</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:07Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652640003</integer>
+			<key>Play Date UTC</key><date>2019-09-30T02:13:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>00AAF2FF7046AE2D</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Die in Bed</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/03%20Die%20in%20Bed.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/03%20Die%20in%20Bed.mp3</string>
 		</dict>
-		<key>33393</key>
+		<key>33406</key>
 		<dict>
-			<key>Track ID</key><integer>33393</integer>
-			<key>Size</key><integer>6359528</integer>
+			<key>Track ID</key><integer>33406</integer>
+			<key>Size</key><integer>6421216</integer>
 			<key>Total Time</key><integer>158981</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:08Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652638190</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:43:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3EFEE46A0D5C5973</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Crisis</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/04%20Crisis.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/04%20Crisis.mp3</string>
 		</dict>
-		<key>33389</key>
+		<key>33402</key>
 		<dict>
-			<key>Track ID</key><integer>33389</integer>
-			<key>Size</key><integer>9274797</integer>
+			<key>Track ID</key><integer>33402</integer>
+			<key>Size</key><integer>9336485</integer>
 			<key>Total Time</key><integer>231862</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:08Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652639278</integer>
+			<key>Play Date UTC</key><date>2019-09-30T02:01:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>76FA677C90C9CBDF</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Jalousie</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/05%20Jalousie.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/05%20Jalousie.mp3</string>
 		</dict>
-		<key>33405</key>
+		<key>33418</key>
 		<dict>
-			<key>Track ID</key><integer>33405</integer>
-			<key>Size</key><integer>9496335</integer>
+			<key>Track ID</key><integer>33418</integer>
+			<key>Size</key><integer>9558023</integer>
 			<key>Total Time</key><integer>237400</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:08Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652637510</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:31:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>966B333A4971F980</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Le Son du Trottoir</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/06%20Le%20Son%20du%20Trottoir.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/06%20Le%20Son%20du%20Trottoir.mp3</string>
 		</dict>
-		<key>33401</key>
+		<key>33414</key>
 		<dict>
-			<key>Track ID</key><integer>33401</integer>
-			<key>Size</key><integer>12902685</integer>
+			<key>Track ID</key><integer>33414</integer>
+			<key>Size</key><integer>12964373</integer>
 			<key>Total Time</key><integer>322560</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:09Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652639046</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:57:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3C479D20A0E08526</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Séraphine</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/07%20Se%CC%81raphine.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/07%20Se%CC%81raphine.mp3</string>
 		</dict>
-		<key>33395</key>
+		<key>33408</key>
 		<dict>
-			<key>Track ID</key><integer>33395</integer>
-			<key>Size</key><integer>11179652</integer>
+			<key>Track ID</key><integer>33408</integer>
+			<key>Size</key><integer>11241340</integer>
 			<key>Total Time</key><integer>279484</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:09Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652638470</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:47:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FB1B4571597758C4</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Coeur Hanté</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/08%20Coeur%20Hante%CC%81.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/08%20Coeur%20Hante%CC%81.mp3</string>
 		</dict>
-		<key>33397</key>
+		<key>33410</key>
 		<dict>
-			<key>Track ID</key><integer>33397</integer>
-			<key>Size</key><integer>9626942</integer>
+			<key>Track ID</key><integer>33410</integer>
+			<key>Size</key><integer>9688630</integer>
 			<key>Total Time</key><integer>240666</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:10Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652637751</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:35:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>30A6D3AE67B8459E</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Closet Song</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
@@ -210,57 +243,65 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Name</key><string>Closet Song</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/09%20The%20Closet%20Song.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/09%20The%20Closet%20Song.mp3</string>
 		</dict>
-		<key>33385</key>
+		<key>33398</key>
 		<dict>
-			<key>Track ID</key><integer>33385</integer>
-			<key>Size</key><integer>11208924</integer>
+			<key>Track ID</key><integer>33398</integer>
+			<key>Size</key><integer>11270612</integer>
 			<key>Total Time</key><integer>280215</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:10Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652638031</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:40:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>66607A4FB51816E6</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Ride of a Lifetime</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/10%20Ride%20of%20a%20Lifetime.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/10%20Ride%20of%20a%20Lifetime.mp3</string>
 		</dict>
-		<key>33403</key>
+		<key>33416</key>
 		<dict>
-			<key>Track ID</key><integer>33403</integer>
-			<key>Size</key><integer>10754373</integer>
+			<key>Track ID</key><integer>33416</integer>
+			<key>Size</key><integer>10816061</integer>
 			<key>Total Time</key><integer>268852</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:22:10Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:42:52Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652639547</integer>
+			<key>Play Date UTC</key><date>2019-09-30T02:05:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>31A25A044501CBC3</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Collapse</string>
 			<key>Artist</key><string>Frank (Just Frank)</string>
 			<key>Album</key><string>The Brutal Wave</string>
 			<key>Genre</key><string>Coldwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Brutal Wave</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/11%20Collapse.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Frank%20(Just%20Frank)/The%20Brutal%20Wave/11%20Collapse.mp3</string>
 		</dict>
-		<key>33379</key>
+		<key>33392</key>
 		<dict>
-			<key>Track ID</key><integer>33379</integer>
+			<key>Track ID</key><integer>33392</integer>
 			<key>Size</key><integer>10589194</integer>
 			<key>Total Time</key><integer>262164</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -270,6 +311,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652637273</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:27:53Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1A7A2CA4B7FA1813</string>
 			<key>Track Type</key><string>File</string>
@@ -283,9 +327,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/Fre%CC%80res%20D'Armes/01%20Gris.mp3</string>
 		</dict>
-		<key>33381</key>
+		<key>33394</key>
 		<dict>
-			<key>Track ID</key><integer>33381</integer>
+			<key>Track ID</key><integer>33394</integer>
 			<key>Size</key><integer>10253791</integer>
 			<key>Total Time</key><integer>253779</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -295,6 +339,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3652638723</integer>
+			<key>Play Date UTC</key><date>2019-09-30T01:52:03Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1D4BCEECFACE5288</string>
 			<key>Track Type</key><string>File</string>
@@ -308,9 +355,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Frank%20(Just%20Frank)/Fre%CC%80res%20D'Armes/02%20Rough%20Boy.mp3</string>
 		</dict>
-		<key>33383</key>
+		<key>33396</key>
 		<dict>
-			<key>Track ID</key><integer>33383</integer>
+			<key>Track ID</key><integer>33396</integer>
 			<key>Size</key><integer>9685387</integer>
 			<key>Total Time</key><integer>239568</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -337,53 +384,53 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>132914</integer>
+			<key>Playlist ID</key><integer>133194</integer>
 			<key>Playlist Persistent ID</key><string>AE0DE3C6DA994C29</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Frank (Just Frank)</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>33399</integer>
+					<key>Track ID</key><integer>33412</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33391</integer>
+					<key>Track ID</key><integer>33404</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33387</integer>
+					<key>Track ID</key><integer>33400</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33393</integer>
+					<key>Track ID</key><integer>33406</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33389</integer>
+					<key>Track ID</key><integer>33402</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33405</integer>
+					<key>Track ID</key><integer>33418</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33401</integer>
+					<key>Track ID</key><integer>33414</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33395</integer>
+					<key>Track ID</key><integer>33408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33397</integer>
+					<key>Track ID</key><integer>33410</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33385</integer>
+					<key>Track ID</key><integer>33398</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33403</integer>
+					<key>Track ID</key><integer>33416</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33379</integer>
+					<key>Track ID</key><integer>33392</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33381</integer>
+					<key>Track ID</key><integer>33394</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33383</integer>
+					<key>Track ID</key><integer>33396</integer>
 				</dict>
 			</array>
 		</dict>

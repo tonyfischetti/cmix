@@ -4,14 +4,14 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>10695</key>
+		<key>10710</key>
 		<dict>
-			<key>Track ID</key><integer>10695</integer>
-			<key>Size</key><integer>5740629</integer>
+			<key>Track ID</key><integer>10710</integer>
+			<key>Size</key><integer>5828980</integer>
 			<key>Total Time</key><integer>143255</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1988</integer>
-			<key>Date Modified</key><date>2016-12-26T19:58:41Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:26:13Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -21,21 +21,22 @@
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2018-11-26T04:21:41Z</date>
 			<key>Release Date</key><date>1988-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4651DD222F2680F9</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Motorcrash</string>
 			<key>Artist</key><string>The Sugarcubes</string>
 			<key>Album</key><string>Life's Too Good!</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sugarcubes</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sugarcubes/Life's%20Too%20Good!/02%20Motorcrash.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sugarcubes/Life's%20Too%20Good!/02%20Motorcrash.mp3</string>
 		</dict>
-		<key>7243</key>
+		<key>7258</key>
 		<dict>
-			<key>Track ID</key><integer>7243</integer>
+			<key>Track ID</key><integer>7258</integer>
 			<key>Size</key><integer>6763473</integer>
 			<key>Total Time</key><integer>198974</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -67,9 +68,9 @@
 			<key>Sort Album</key><string>Copper Blue</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Sugar/Copper%20Blue/1-07%20If%20I%20Can't%20Change%20Your%20Mind.mp3</string>
 		</dict>
-		<key>37921</key>
+		<key>37912</key>
 		<dict>
-			<key>Track ID</key><integer>37921</integer>
+			<key>Track ID</key><integer>37912</integer>
 			<key>Size</key><integer>8669900</integer>
 			<key>Total Time</key><integer>248607</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -99,9 +100,9 @@
 			<key>Comments</key><string>Amazon.com Song ID: 208984338</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Freedy%20Johnston/This%20Perfect%20World/01%20Bad%20Reputation.mp3</string>
 		</dict>
-		<key>49691</key>
+		<key>49682</key>
 		<dict>
-			<key>Track ID</key><integer>49691</integer>
+			<key>Track ID</key><integer>49682</integer>
 			<key>Size</key><integer>3369420</integer>
 			<key>Total Time</key><integer>212496</integer>
 			<key>Year</key><integer>1990</integer>
@@ -129,9 +130,9 @@
 			<key>Sort Artist</key><string>Chris Stamey</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Chris%20Stamey/It's%20Alright/Cara%20Lee.mp3</string>
 		</dict>
-		<key>46323</key>
+		<key>46314</key>
 		<dict>
-			<key>Track ID</key><integer>46323</integer>
+			<key>Track ID</key><integer>46314</integer>
 			<key>Size</key><integer>8992435</integer>
 			<key>Total Time</key><integer>257985</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -163,9 +164,9 @@
 			<key>Comments</key><string>Amazon.com Song ID: 203521317</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dinosaur%20Jr_/Without%20A%20Sound/01%20Feel%20The%20Pain.mp3</string>
 		</dict>
-		<key>38825</key>
+		<key>38816</key>
 		<dict>
-			<key>Track ID</key><integer>38825</integer>
+			<key>Track ID</key><integer>38816</integer>
 			<key>Size</key><integer>5303075</integer>
 			<key>Total Time</key><integer>160365</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -195,9 +196,9 @@
 			<key>Comments</key><string>Amazon.com Song ID: 274344275</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pavement/Quarantine%20The%20Past_%20The%20Best%20Of%20Pavement/01%20Gold%20Soundz.mp3</string>
 		</dict>
-		<key>27985</key>
+		<key>27998</key>
 		<dict>
-			<key>Track ID</key><integer>27985</integer>
+			<key>Track ID</key><integer>27998</integer>
 			<key>Size</key><integer>7803563</integer>
 			<key>Total Time</key><integer>243853</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -220,9 +221,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Bjo%CC%88rk/Post/09%20I%20Miss%20You.mp3</string>
 		</dict>
-		<key>13141</key>
+		<key>13156</key>
 		<dict>
-			<key>Track ID</key><integer>13141</integer>
+			<key>Track ID</key><integer>13156</integer>
 			<key>Size</key><integer>8989827</integer>
 			<key>Total Time</key><integer>262530</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -257,9 +258,9 @@
 			<key>Sort Album Artist</key><string>Cult</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Cult/Love/1-09%20She%20Sells%20Sanctuary.mp3</string>
 		</dict>
-		<key>27303</key>
+		<key>27316</key>
 		<dict>
-			<key>Track ID</key><integer>27303</integer>
+			<key>Track ID</key><integer>27316</integer>
 			<key>Size</key><integer>6379901</integer>
 			<key>Total Time</key><integer>198817</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -290,9 +291,9 @@
 			<key>Comments</key><string>Amazon.com Song ID: 260618510</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lene%20Lovich/Flex/11%20New%20Toy.mp3</string>
 		</dict>
-		<key>45891</key>
+		<key>45882</key>
 		<dict>
-			<key>Track ID</key><integer>45891</integer>
+			<key>Track ID</key><integer>45882</integer>
 			<key>Size</key><integer>8028750</integer>
 			<key>Total Time</key><integer>236982</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -322,9 +323,9 @@
 			<key>Comments</key><string>Amazon.com Song ID: 237368483</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/10,000%20Maniacs/Campfire%20Songs_%20The%20Popular,%20Obscure%20and%20Unknown%20Recordings%20of%2010,000%20Maniacs/1-05%20Like%20The%20Weather.mp3</string>
 		</dict>
-		<key>50751</key>
+		<key>50742</key>
 		<dict>
-			<key>Track ID</key><integer>50751</integer>
+			<key>Track ID</key><integer>50742</integer>
 			<key>Size</key><integer>9963298</integer>
 			<key>Total Time</key><integer>248659</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -352,9 +353,9 @@
 			<key>Sort Album</key><string>Best Of New Order</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/New%20Order/The%20Best%20Of%20New%20Order/04%20Regret.mp3</string>
 		</dict>
-		<key>18147</key>
+		<key>18160</key>
 		<dict>
-			<key>Track ID</key><integer>18147</integer>
+			<key>Track ID</key><integer>18160</integer>
 			<key>Size</key><integer>6513567</integer>
 			<key>Total Time</key><integer>266945</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -363,9 +364,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3647146658</integer>
-			<key>Play Date UTC</key><date>2019-07-28T12:17:38Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3650860678</integer>
+			<key>Play Date UTC</key><date>2019-09-09T11:57:58Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>978DCEA48AAADE75</string>
 			<key>Track Type</key><string>File</string>
@@ -379,9 +380,9 @@
 			<key>Comments</key><string>, AG# 15BF70E1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Violator/01%20World%20In%20My%20Eyes.mp3</string>
 		</dict>
-		<key>15175</key>
+		<key>15188</key>
 		<dict>
-			<key>Track ID</key><integer>15175</integer>
+			<key>Track ID</key><integer>15188</integer>
 			<key>Size</key><integer>7273683</integer>
 			<key>Total Time</key><integer>223346</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -412,9 +413,9 @@
 			<key>Sort Album</key><string>Best Of General Public</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/General%20Public/The%20Best%20Of%20General%20Public/06%20Come%20Again.mp3</string>
 		</dict>
-		<key>51525</key>
+		<key>51516</key>
 		<dict>
-			<key>Track ID</key><integer>51525</integer>
+			<key>Track ID</key><integer>51516</integer>
 			<key>Size</key><integer>6072342</integer>
 			<key>Total Time</key><integer>250540</integer>
 			<key>Track Number</key><integer>15</integer>
@@ -439,9 +440,9 @@
 			<key>Sort Artist</key><string>Clash</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Clash/The%20Essential%202/15%20This%20Is%20Radio%20Clash.mp3</string>
 		</dict>
-		<key>12025</key>
+		<key>12040</key>
 		<dict>
-			<key>Track ID</key><integer>12025</integer>
+			<key>Track ID</key><integer>12040</integer>
 			<key>Size</key><integer>4477432</integer>
 			<key>Total Time</key><integer>185364</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -450,9 +451,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3631516624</integer>
-			<key>Play Date UTC</key><date>2019-01-28T15:37:04Z</date>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3659535023</integer>
+			<key>Play Date UTC</key><date>2019-12-18T22:30:23Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2018-12-22T22:46:55Z</date>
 			<key>Artwork Count</key><integer>1</integer>
@@ -470,9 +471,9 @@
 			<key>Sort Artist</key><string>Wire</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Wire/154/03%20The%2015th.mp3</string>
 		</dict>
-		<key>54035</key>
+		<key>53962</key>
 		<dict>
-			<key>Track ID</key><integer>54035</integer>
+			<key>Track ID</key><integer>53962</integer>
 			<key>Size</key><integer>9860404</integer>
 			<key>Total Time</key><integer>276636</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -505,59 +506,59 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>138619</integer>
+			<key>Playlist ID</key><integer>138947</integer>
 			<key>Playlist Persistent ID</key><string>B8C74A6D1734FBDD</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The Alternative New</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10695</integer>
+					<key>Track ID</key><integer>10710</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7243</integer>
+					<key>Track ID</key><integer>7258</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>37921</integer>
+					<key>Track ID</key><integer>37912</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>49691</integer>
+					<key>Track ID</key><integer>49682</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>46323</integer>
+					<key>Track ID</key><integer>46314</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>38825</integer>
+					<key>Track ID</key><integer>38816</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27985</integer>
+					<key>Track ID</key><integer>27998</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13141</integer>
+					<key>Track ID</key><integer>13156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27303</integer>
+					<key>Track ID</key><integer>27316</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>45891</integer>
+					<key>Track ID</key><integer>45882</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>50751</integer>
+					<key>Track ID</key><integer>50742</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18147</integer>
+					<key>Track ID</key><integer>18160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15175</integer>
+					<key>Track ID</key><integer>15188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51525</integer>
+					<key>Track ID</key><integer>51516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12025</integer>
+					<key>Track ID</key><integer>12040</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54035</integer>
+					<key>Track ID</key><integer>53962</integer>
 				</dict>
 			</array>
 		</dict>

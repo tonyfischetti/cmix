@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>18151</key>
+		<key>18164</key>
 		<dict>
-			<key>Track ID</key><integer>18151</integer>
+			<key>Track ID</key><integer>18164</integer>
 			<key>Size</key><integer>7194421</integer>
 			<key>Total Time</key><integer>295314</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -15,9 +15,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3647146391</integer>
-			<key>Play Date UTC</key><date>2019-07-28T12:13:11Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3650860974</integer>
+			<key>Play Date UTC</key><date>2019-09-09T12:02:54Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1C72A09D44016BB9</string>
 			<key>Track Type</key><string>File</string>
@@ -31,9 +31,9 @@
 			<key>Comments</key><string>, AG# 701D59FF</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Violator/07%20Policy%20Of%20Truth.mp3</string>
 		</dict>
-		<key>17883</key>
+		<key>17896</key>
 		<dict>
-			<key>Track ID</key><integer>17883</integer>
+			<key>Track ID</key><integer>17896</integer>
 			<key>Size</key><integer>5586944</integer>
 			<key>Total Time</key><integer>232202</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -58,9 +58,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Some%20Great%20Reward/03%20People%20Are%20People.mp3</string>
 		</dict>
-		<key>17911</key>
+		<key>17924</key>
 		<dict>
-			<key>Track ID</key><integer>17911</integer>
+			<key>Track ID</key><integer>17924</integer>
 			<key>Size</key><integer>4501504</integer>
 			<key>Total Time</key><integer>187115</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -87,9 +87,9 @@
 			<key>Sort Album</key><string>Broken Frame</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/A%20Broken%20Frame/07%20The%20Meaning%20of%20Love.mp3</string>
 		</dict>
-		<key>17759</key>
+		<key>17772</key>
 		<dict>
-			<key>Track ID</key><integer>17759</integer>
+			<key>Track ID</key><integer>17772</integer>
 			<key>Size</key><integer>5744640</integer>
 			<key>Total Time</key><integer>239020</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -114,9 +114,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Speak%20&amp;%20Spell/01%20New%20Life.mp3</string>
 		</dict>
-		<key>17781</key>
+		<key>17794</key>
 		<dict>
-			<key>Track ID</key><integer>17781</integer>
+			<key>Track ID</key><integer>17794</integer>
 			<key>Size</key><integer>8243200</integer>
 			<key>Total Time</key><integer>342935</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -141,9 +141,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Ultra/03%20Home.mp3</string>
 		</dict>
-		<key>17723</key>
+		<key>17736</key>
 		<dict>
-			<key>Track ID</key><integer>17723</integer>
+			<key>Track ID</key><integer>17736</integer>
 			<key>Size</key><integer>5867852</integer>
 			<key>Total Time</key><integer>237871</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -169,9 +169,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/06%20See%20You.mp3</string>
 		</dict>
-		<key>17727</key>
+		<key>17740</key>
 		<dict>
-			<key>Track ID</key><integer>17727</integer>
+			<key>Track ID</key><integer>17740</integer>
 			<key>Size</key><integer>6058411</integer>
 			<key>Total Time</key><integer>227474</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -199,9 +199,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/01%20Personal%20Jesus.mp3</string>
 		</dict>
-		<key>17713</key>
+		<key>17726</key>
 		<dict>
-			<key>Track ID</key><integer>17713</integer>
+			<key>Track ID</key><integer>17726</integer>
 			<key>Size</key><integer>6978383</integer>
 			<key>Total Time</key><integer>241188</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -227,9 +227,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/03%20Everything%20Counts.mp3</string>
 		</dict>
-		<key>17709</key>
+		<key>17722</key>
 		<dict>
-			<key>Track ID</key><integer>17709</integer>
+			<key>Track ID</key><integer>17722</integer>
 			<key>Size</key><integer>5706990</integer>
 			<key>Total Time</key><integer>223346</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -257,9 +257,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/02%20Just%20Can't%20Get%20Enough.mp3</string>
 		</dict>
-		<key>17719</key>
+		<key>17732</key>
 		<dict>
-			<key>Track ID</key><integer>17719</integer>
+			<key>Track ID</key><integer>17732</integer>
 			<key>Size</key><integer>6814869</integer>
 			<key>Total Time</key><integer>258638</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -287,9 +287,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/04%20Enjoy%20The%20Silence.mp3</string>
 		</dict>
-		<key>17741</key>
+		<key>17754</key>
 		<dict>
-			<key>Track ID</key><integer>17741</integer>
+			<key>Track ID</key><integer>17754</integer>
 			<key>Size</key><integer>7100067</integer>
 			<key>Total Time</key><integer>260336</integer>
 			<key>Track Number</key><integer>18</integer>
@@ -315,9 +315,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/18%20Never%20Let%20Me%20Down%20Again.mp3</string>
 		</dict>
-		<key>18017</key>
+		<key>18030</key>
 		<dict>
-			<key>Track ID</key><integer>18017</integer>
+			<key>Track ID</key><integer>18030</integer>
 			<key>Size</key><integer>7732290</integer>
 			<key>Total Time</key><integer>309159</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -340,9 +340,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/12%20Blasphemous%20Rumours.mp3</string>
 		</dict>
-		<key>17743</key>
+		<key>17756</key>
 		<dict>
-			<key>Track ID</key><integer>17743</integer>
+			<key>Track ID</key><integer>17756</integer>
 			<key>Size</key><integer>6110000</integer>
 			<key>Total Time</key><integer>226768</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -368,9 +368,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/08%20Strangelove.mp3</string>
 		</dict>
-		<key>17739</key>
+		<key>17752</key>
 		<dict>
-			<key>Track ID</key><integer>17739</integer>
+			<key>Track ID</key><integer>17752</integer>
 			<key>Size</key><integer>6353819</integer>
 			<key>Total Time</key><integer>239516</integer>
 			<key>Track Number</key><integer>16</integer>
@@ -396,9 +396,9 @@
 			<key>Sort Album</key><string>Best Of Depeche Mode Volume 1</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/The%20Best%20Of%20Depeche%20Mode%20Volume%201/16%20Master%20And%20Servant.mp3</string>
 		</dict>
-		<key>18015</key>
+		<key>18028</key>
 		<dict>
-			<key>Track ID</key><integer>18015</integer>
+			<key>Track ID</key><integer>18028</integer>
 			<key>Size</key><integer>5759309</integer>
 			<key>Total Time</key><integer>226951</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -421,9 +421,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/01%20Dreaming%20Of%20Me.mp3</string>
 		</dict>
-		<key>17997</key>
+		<key>18010</key>
 		<dict>
-			<key>Track ID</key><integer>17997</integer>
+			<key>Track ID</key><integer>18010</integer>
 			<key>Size</key><integer>7265846</integer>
 			<key>Total Time</key><integer>289724</integer>
 			<key>Track Number</key><integer>14</integer>
@@ -431,9 +431,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3647146947</integer>
-			<key>Play Date UTC</key><date>2019-07-28T12:22:27Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3650860220</integer>
+			<key>Play Date UTC</key><date>2019-09-09T11:50:20Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1B3B9631C61923A7</string>
 			<key>Track Type</key><string>File</string>
@@ -446,9 +446,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/14%20Shake%20The%20Disease.mp3</string>
 		</dict>
-		<key>17993</key>
+		<key>18006</key>
 		<dict>
-			<key>Track ID</key><integer>17993</integer>
+			<key>Track ID</key><integer>18006</integer>
 			<key>Size</key><integer>4961840</integer>
 			<key>Total Time</key><integer>193724</integer>
 			<key>Track Number</key><integer>16</integer>
@@ -456,9 +456,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3647145863</integer>
-			<key>Play Date UTC</key><date>2019-07-28T12:04:23Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3650860412</integer>
+			<key>Play Date UTC</key><date>2019-09-09T11:53:32Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AE2356BFDC1EDC69</string>
 			<key>Track Type</key><string>File</string>
@@ -471,9 +471,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Depeche%20Mode/Singles%2081-85/16%20Photographic.mp3</string>
 		</dict>
-		<key>18147</key>
+		<key>18160</key>
 		<dict>
-			<key>Track ID</key><integer>18147</integer>
+			<key>Track ID</key><integer>18160</integer>
 			<key>Size</key><integer>6513567</integer>
 			<key>Total Time</key><integer>266945</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -482,9 +482,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3647146658</integer>
-			<key>Play Date UTC</key><date>2019-07-28T12:17:38Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3650860678</integer>
+			<key>Play Date UTC</key><date>2019-09-09T11:57:58Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>978DCEA48AAADE75</string>
 			<key>Track Type</key><string>File</string>
@@ -502,65 +502,65 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>132693</integer>
+			<key>Playlist ID</key><integer>132972</integer>
 			<key>Playlist Persistent ID</key><string>FDF9416F3A487CD6</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Depeche Mode</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>18151</integer>
+					<key>Track ID</key><integer>18164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17883</integer>
+					<key>Track ID</key><integer>17896</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17911</integer>
+					<key>Track ID</key><integer>17924</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17759</integer>
+					<key>Track ID</key><integer>17772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17781</integer>
+					<key>Track ID</key><integer>17794</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17723</integer>
+					<key>Track ID</key><integer>17736</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17727</integer>
+					<key>Track ID</key><integer>17740</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17713</integer>
+					<key>Track ID</key><integer>17726</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17709</integer>
+					<key>Track ID</key><integer>17722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17719</integer>
+					<key>Track ID</key><integer>17732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17741</integer>
+					<key>Track ID</key><integer>17754</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18017</integer>
+					<key>Track ID</key><integer>18030</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17743</integer>
+					<key>Track ID</key><integer>17756</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17739</integer>
+					<key>Track ID</key><integer>17752</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18015</integer>
+					<key>Track ID</key><integer>18028</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17997</integer>
+					<key>Track ID</key><integer>18010</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17993</integer>
+					<key>Track ID</key><integer>18006</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18147</integer>
+					<key>Track ID</key><integer>18160</integer>
 				</dict>
 			</array>
 		</dict>

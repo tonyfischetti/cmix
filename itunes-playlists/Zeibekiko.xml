@@ -4,18 +4,18 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>54139</key>
+		<key>54048</key>
 		<dict>
-			<key>Track ID</key><integer>54139</integer>
+			<key>Track ID</key><integer>54048</integer>
 			<key>Size</key><integer>4411051</integer>
 			<key>Total Time</key><integer>277872</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>124</integer>
 			<key>Sample Rate</key><integer>48000</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3645299809</integer>
-			<key>Play Date UTC</key><date>2019-07-07T03:16:49Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3658076828</integer>
+			<key>Play Date UTC</key><date>2019-12-02T01:27:08Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>491E249A17552A5C</string>
 			<key>Track Type</key><string>File</string>
@@ -28,18 +28,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Roza.mp3</string>
 		</dict>
-		<key>54143</key>
+		<key>54052</key>
 		<dict>
-			<key>Track ID</key><integer>54143</integer>
+			<key>Track ID</key><integer>54052</integer>
 			<key>Size</key><integer>3447938</integer>
 			<key>Total Time</key><integer>199464</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>134</integer>
 			<key>Sample Rate</key><integer>48000</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3645300009</integer>
-			<key>Play Date UTC</key><date>2019-07-07T03:20:09Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3658077028</integer>
+			<key>Play Date UTC</key><date>2019-12-02T01:30:28Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>08CE7C99B87DEA6B</string>
 			<key>Track Type</key><string>File</string>
@@ -52,18 +52,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Ta%20Ladadika.mp3</string>
 		</dict>
-		<key>54155</key>
+		<key>54064</key>
 		<dict>
-			<key>Track ID</key><integer>54155</integer>
+			<key>Track ID</key><integer>54064</integer>
 			<key>Size</key><integer>3506419</integer>
 			<key>Total Time</key><integer>256416</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>106</integer>
 			<key>Sample Rate</key><integer>48000</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3645300265</integer>
-			<key>Play Date UTC</key><date>2019-07-07T03:24:25Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3658077426</integer>
+			<key>Play Date UTC</key><date>2019-12-02T01:37:06Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>044DF2ECE46918D1</string>
 			<key>Track Type</key><string>File</string>
@@ -76,18 +76,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Thes.mp3</string>
 		</dict>
-		<key>54151</key>
+		<key>54060</key>
 		<dict>
-			<key>Track ID</key><integer>54151</integer>
+			<key>Track ID</key><integer>54060</integer>
 			<key>Size</key><integer>3314595</integer>
 			<key>Total Time</key><integer>215928</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>119</integer>
 			<key>Sample Rate</key><integer>48000</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3645298008</integer>
-			<key>Play Date UTC</key><date>2019-07-07T02:46:48Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3658077642</integer>
+			<key>Play Date UTC</key><date>2019-12-02T01:40:42Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D2519E665AE5E02D</string>
 			<key>Track Type</key><string>File</string>
@@ -100,18 +100,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/O%20Timvorihos.mp3</string>
 		</dict>
-		<key>54141</key>
+		<key>54050</key>
 		<dict>
-			<key>Track ID</key><integer>54141</integer>
+			<key>Track ID</key><integer>54050</integer>
 			<key>Size</key><integer>3161714</integer>
 			<key>Total Time</key><integer>196284</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>124</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3645298204</integer>
-			<key>Play Date UTC</key><date>2019-07-07T02:50:04Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3659417952</integer>
+			<key>Play Date UTC</key><date>2019-12-17T13:59:12Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-07-07T02:53:41Z</date>
 			<key>Artwork Count</key><integer>1</integer>
@@ -126,15 +126,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/S'anazitw%20Sti%20Saloniki.mp3</string>
 		</dict>
-		<key>54147</key>
+		<key>54056</key>
 		<dict>
-			<key>Track ID</key><integer>54147</integer>
+			<key>Track ID</key><integer>54056</integer>
 			<key>Size</key><integer>3383668</integer>
 			<key>Total Time</key><integer>218496</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>120</integer>
 			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3659418171</integer>
+			<key>Play Date UTC</key><date>2019-12-17T14:02:51Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A8EFD3B23F0343D4</string>
 			<key>Track Type</key><string>File</string>
@@ -147,18 +150,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Mia%20stasi%20edw.mp3</string>
 		</dict>
-		<key>54145</key>
+		<key>54054</key>
 		<dict>
-			<key>Track ID</key><integer>54145</integer>
+			<key>Track ID</key><integer>54054</integer>
 			<key>Size</key><integer>3626888</integer>
 			<key>Total Time</key><integer>242256</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>116</integer>
 			<key>Sample Rate</key><integer>48000</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3645298666</integer>
-			<key>Play Date UTC</key><date>2019-07-07T02:57:46Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3659417755</integer>
+			<key>Play Date UTC</key><date>2019-12-17T13:55:55Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-07-06T23:51:34Z</date>
 			<key>Artwork Count</key><integer>1</integer>
@@ -173,18 +176,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Poso%20kostizei%20mia%20zoi.mp3</string>
 		</dict>
-		<key>54149</key>
+		<key>54058</key>
 		<dict>
-			<key>Track ID</key><integer>54149</integer>
+			<key>Track ID</key><integer>54058</integer>
 			<key>Size</key><integer>3224674</integer>
 			<key>Total Time</key><integer>205512</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>121</integer>
 			<key>Sample Rate</key><integer>48000</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3645298872</integer>
-			<key>Play Date UTC</key><date>2019-07-07T03:01:12Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3658078505</integer>
+			<key>Play Date UTC</key><date>2019-12-02T01:55:05Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6DA0B654E41B0362</string>
 			<key>Track Type</key><string>File</string>
@@ -197,18 +200,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Ta%20paidia%20ton%20fanarion.mp3</string>
 		</dict>
-		<key>54137</key>
+		<key>54046</key>
 		<dict>
-			<key>Track ID</key><integer>54137</integer>
+			<key>Track ID</key><integer>54046</integer>
 			<key>Size</key><integer>4073535</integer>
 			<key>Total Time</key><integer>264696</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>120</integer>
 			<key>Sample Rate</key><integer>48000</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3645299137</integer>
-			<key>Play Date UTC</key><date>2019-07-07T03:05:37Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3658078769</integer>
+			<key>Play Date UTC</key><date>2019-12-02T01:59:29Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A7643B9B79DB13FD</string>
 			<key>Track Type</key><string>File</string>
@@ -221,18 +224,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Den%20thelo%20tetoious%20filous.mp3</string>
 		</dict>
-		<key>54153</key>
+		<key>54062</key>
 		<dict>
-			<key>Track ID</key><integer>54153</integer>
+			<key>Track ID</key><integer>54062</integer>
 			<key>Size</key><integer>2926688</integer>
 			<key>Total Time</key><integer>189100</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>119</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3645299327</integer>
-			<key>Play Date UTC</key><date>2019-07-07T03:08:47Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3658080081</integer>
+			<key>Play Date UTC</key><date>2019-12-02T02:21:21Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>02A0CDA38336ED92</string>
 			<key>Track Type</key><string>File</string>
@@ -245,18 +248,18 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Zeibekiko/Zeibekiko/Kourastika%20na%20Xaramizomai.mp3</string>
 		</dict>
-		<key>54157</key>
+		<key>54066</key>
 		<dict>
-			<key>Track ID</key><integer>54157</integer>
+			<key>Track ID</key><integer>54066</integer>
 			<key>Size</key><integer>2732120</integer>
 			<key>Total Time</key><integer>204173</integer>
 			<key>Date Modified</key><date>2019-07-07T00:02:57Z</date>
 			<key>Date Added</key><date>2019-07-06T23:51:22Z</date>
 			<key>Bit Rate</key><integer>103</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3645299531</integer>
-			<key>Play Date UTC</key><date>2019-07-07T03:12:11Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3658080285</integer>
+			<key>Play Date UTC</key><date>2019-12-02T02:24:45Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>96F846E723CEEE5B</string>
 			<key>Track Type</key><string>File</string>
@@ -273,44 +276,44 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>143072</integer>
+			<key>Playlist ID</key><integer>143422</integer>
 			<key>Playlist Persistent ID</key><string>0C746F7F026D3685</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Zeibekiko</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>54139</integer>
+					<key>Track ID</key><integer>54048</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54143</integer>
+					<key>Track ID</key><integer>54052</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54155</integer>
+					<key>Track ID</key><integer>54064</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54151</integer>
+					<key>Track ID</key><integer>54060</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54141</integer>
+					<key>Track ID</key><integer>54050</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54147</integer>
+					<key>Track ID</key><integer>54056</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54145</integer>
+					<key>Track ID</key><integer>54054</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54149</integer>
+					<key>Track ID</key><integer>54058</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54137</integer>
+					<key>Track ID</key><integer>54046</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54153</integer>
+					<key>Track ID</key><integer>54062</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>54157</integer>
+					<key>Track ID</key><integer>54066</integer>
 				</dict>
 			</array>
 		</dict>

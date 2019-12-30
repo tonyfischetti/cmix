@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>19981</key>
+		<key>19994</key>
 		<dict>
-			<key>Track ID</key><integer>19981</integer>
+			<key>Track ID</key><integer>19994</integer>
 			<key>Size</key><integer>8111365</integer>
 			<key>Total Time</key><integer>231946</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -18,9 +18,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3613413292</integer>
-			<key>Play Date UTC</key><date>2018-07-03T01:54:52Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3658849328</integer>
+			<key>Play Date UTC</key><date>2019-12-11T00:02:08Z</date>
 			<key>Release Date</key><date>2006-03-28T08:00:00Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DE1F191845DDE05A</string>
@@ -40,9 +40,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/12%20Crimen.m4a</string>
 		</dict>
-		<key>20047</key>
+		<key>20060</key>
 		<dict>
-			<key>Track ID</key><integer>20047</integer>
+			<key>Track ID</key><integer>20060</integer>
 			<key>Size</key><integer>10127150</integer>
 			<key>Total Time</key><integer>273800</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -78,9 +78,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/04%20Puente.m4a</string>
 		</dict>
-		<key>19995</key>
+		<key>20008</key>
 		<dict>
-			<key>Track ID</key><integer>19995</integer>
+			<key>Track ID</key><integer>20008</integer>
 			<key>Size</key><integer>8317384</integer>
 			<key>Total Time</key><integer>233714</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -116,9 +116,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/05%20Adios.m4a</string>
 		</dict>
-		<key>20077</key>
+		<key>20090</key>
 		<dict>
-			<key>Track ID</key><integer>20077</integer>
+			<key>Track ID</key><integer>20090</integer>
 			<key>Size</key><integer>7285926</integer>
 			<key>Total Time</key><integer>204854</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -130,9 +130,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3617639647</integer>
-			<key>Play Date UTC</key><date>2018-08-20T23:54:07Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3658849819</integer>
+			<key>Play Date UTC</key><date>2019-12-11T00:10:19Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2018-11-18T22:36:32Z</date>
 			<key>Release Date</key><date>2009-07-16T07:00:00Z</date>
@@ -154,9 +154,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Fuerza%20Natural/02%20Deja%20Vu.m4a</string>
 		</dict>
-		<key>20001</key>
+		<key>20014</key>
 		<dict>
-			<key>Track ID</key><integer>20001</integer>
+			<key>Track ID</key><integer>20014</integer>
 			<key>Size</key><integer>7850108</integer>
 			<key>Total Time</key><integer>224067</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -192,9 +192,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/03%20Te%20Llevo%20Para%20Que%20Me%20Lleves.m4a</string>
 		</dict>
-		<key>19973</key>
+		<key>19986</key>
 		<dict>
-			<key>Track ID</key><integer>19973</integer>
+			<key>Track ID</key><integer>19986</integer>
 			<key>Size</key><integer>11234671</integer>
 			<key>Total Time</key><integer>308882</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -230,9 +230,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/07%20Lago%20en%20el%20Cielo.m4a</string>
 		</dict>
-		<key>20067</key>
+		<key>20080</key>
 		<dict>
-			<key>Track ID</key><integer>20067</integer>
+			<key>Track ID</key><integer>20080</integer>
 			<key>Size</key><integer>9740940</integer>
 			<key>Total Time</key><integer>268752</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -244,9 +244,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3617640448</integer>
-			<key>Play Date UTC</key><date>2018-08-21T00:07:28Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3658849598</integer>
+			<key>Play Date UTC</key><date>2019-12-11T00:06:38Z</date>
 			<key>Release Date</key><date>2009-08-27T07:00:00Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9D9B413A2230585F</string>
@@ -266,9 +266,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Fuerza%20Natural/03%20Magia.m4a</string>
 		</dict>
-		<key>20109</key>
+		<key>20122</key>
 		<dict>
-			<key>Track ID</key><integer>20109</integer>
+			<key>Track ID</key><integer>20122</integer>
 			<key>Size</key><integer>11834622</integer>
 			<key>Total Time</key><integer>305572</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -302,9 +302,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Siempre%20Es%20Hoy/01%20Cosas%20Imposibles.m4a</string>
 		</dict>
-		<key>20085</key>
+		<key>20098</key>
 		<dict>
-			<key>Track ID</key><integer>20085</integer>
+			<key>Track ID</key><integer>20098</integer>
 			<key>Size</key><integer>9032937</integer>
 			<key>Total Time</key><integer>234250</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -338,9 +338,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Siempre%20Es%20Hoy/08%20Karaoke.m4a</string>
 		</dict>
-		<key>19999</key>
+		<key>20012</key>
 		<dict>
-			<key>Track ID</key><integer>19999</integer>
+			<key>Track ID</key><integer>20012</integer>
 			<key>Size</key><integer>9810676</integer>
 			<key>Total Time</key><integer>280543</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -374,9 +374,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/09%20Otra%20Piel.m4a</string>
 		</dict>
-		<key>19977</key>
+		<key>19990</key>
 		<dict>
-			<key>Track ID</key><integer>19977</integer>
+			<key>Track ID</key><integer>19990</integer>
 			<key>Size</key><integer>7865653</integer>
 			<key>Total Time</key><integer>217060</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -410,9 +410,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/06%20Me%20Quedo%20Aqui%CC%81.m4a</string>
 		</dict>
-		<key>19979</key>
+		<key>19992</key>
 		<dict>
-			<key>Track ID</key><integer>19979</integer>
+			<key>Track ID</key><integer>19992</integer>
 			<key>Size</key><integer>7613928</integer>
 			<key>Total Time</key><integer>209221</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -446,9 +446,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/01%20Al%20Fin%20Sucede.m4a</string>
 		</dict>
-		<key>19991</key>
+		<key>20004</key>
 		<dict>
-			<key>Track ID</key><integer>19991</integer>
+			<key>Track ID</key><integer>20004</integer>
 			<key>Size</key><integer>8912088</integer>
 			<key>Total Time</key><integer>251588</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -484,9 +484,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/02%20La%20Excepcion.m4a</string>
 		</dict>
-		<key>19987</key>
+		<key>20000</key>
 		<dict>
-			<key>Track ID</key><integer>19987</integer>
+			<key>Track ID</key><integer>20000</integer>
 			<key>Size</key><integer>8804318</integer>
 			<key>Total Time</key><integer>249565</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -520,9 +520,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/04%20Caravana.m4a</string>
 		</dict>
-		<key>19975</key>
+		<key>19988</key>
 		<dict>
-			<key>Track ID</key><integer>19975</integer>
+			<key>Track ID</key><integer>19988</integer>
 			<key>Size</key><integer>9855865</integer>
 			<key>Total Time</key><integer>246336</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -556,9 +556,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Ahi%CC%81%20Vamos/13%20Jugo%20de%20Luna.m4a</string>
 		</dict>
-		<key>20007</key>
+		<key>20020</key>
 		<dict>
-			<key>Track ID</key><integer>20007</integer>
+			<key>Track ID</key><integer>20020</integer>
 			<key>Size</key><integer>9256625</integer>
 			<key>Total Time</key><integer>265630</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -592,9 +592,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/02%20Lisa.m4a</string>
 		</dict>
-		<key>20009</key>
+		<key>20022</key>
 		<dict>
-			<key>Track ID</key><integer>20009</integer>
+			<key>Track ID</key><integer>20022</integer>
 			<key>Size</key><integer>11770372</integer>
 			<key>Total Time</key><integer>307863</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -628,9 +628,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/05%20Cabeza%20de%20Medusa.m4a</string>
 		</dict>
-		<key>20017</key>
+		<key>20030</key>
 		<dict>
-			<key>Track ID</key><integer>20017</integer>
+			<key>Track ID</key><integer>20030</integer>
 			<key>Size</key><integer>9894522</integer>
 			<key>Total Time</key><integer>284496</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -664,9 +664,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/06%20Av.%20Alcorta.m4a</string>
 		</dict>
-		<key>20015</key>
+		<key>20028</key>
 		<dict>
-			<key>Track ID</key><integer>20015</integer>
+			<key>Track ID</key><integer>20028</integer>
 			<key>Size</key><integer>9197678</integer>
 			<key>Total Time</key><integer>263058</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -700,9 +700,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/08%20Rombos%20(Un%20Cuarto%20Lleno%20de%20Rombos).m4a</string>
 		</dict>
-		<key>20005</key>
+		<key>20018</key>
 		<dict>
-			<key>Track ID</key><integer>20005</integer>
+			<key>Track ID</key><integer>20018</integer>
 			<key>Size</key><integer>9778920</integer>
 			<key>Total Time</key><integer>281950</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -736,9 +736,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Amor%20Amarillo/09%20Ahora%20Es%20Nunca.m4a</string>
 		</dict>
-		<key>20045</key>
+		<key>20058</key>
 		<dict>
-			<key>Track ID</key><integer>20045</integer>
+			<key>Track ID</key><integer>20058</integer>
 			<key>Size</key><integer>11627140</integer>
 			<key>Total Time</key><integer>317733</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -774,9 +774,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/07%20Perdo%CC%81nar%20Es%20Divi%CC%81no.m4a</string>
 		</dict>
-		<key>20039</key>
+		<key>20052</key>
 		<dict>
-			<key>Track ID</key><integer>20039</integer>
+			<key>Track ID</key><integer>20052</integer>
 			<key>Size</key><integer>11669967</integer>
 			<key>Total Time</key><integer>331133</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -810,9 +810,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/11%20Paseo%20Inmoral.m4a</string>
 		</dict>
-		<key>20023</key>
+		<key>20036</key>
 		<dict>
-			<key>Track ID</key><integer>20023</integer>
+			<key>Track ID</key><integer>20036</integer>
 			<key>Size</key><integer>10523099</integer>
 			<key>Total Time</key><integer>288266</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -846,9 +846,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/01%20Tabu%CC%81.m4a</string>
 		</dict>
-		<key>20035</key>
+		<key>20048</key>
 		<dict>
-			<key>Track ID</key><integer>20035</integer>
+			<key>Track ID</key><integer>20048</integer>
 			<key>Size</key><integer>9592731</integer>
 			<key>Total Time</key><integer>251960</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -882,9 +882,9 @@
 			<key>Sort Artist</key><string>Gustavo Cerati</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Gustavo%20Cerati/Bocanada/02%20Engan%CC%83a.m4a</string>
 		</dict>
-		<key>20031</key>
+		<key>20044</key>
 		<dict>
-			<key>Track ID</key><integer>20031</integer>
+			<key>Track ID</key><integer>20044</integer>
 			<key>Size</key><integer>8998583</integer>
 			<key>Total Time</key><integer>246666</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -922,86 +922,86 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>133388</integer>
+			<key>Playlist ID</key><integer>133668</integer>
 			<key>Playlist Persistent ID</key><string>E652BEB9650AAC1F</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Gustavo Cerati</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>19981</integer>
+					<key>Track ID</key><integer>19994</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20047</integer>
+					<key>Track ID</key><integer>20060</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19995</integer>
+					<key>Track ID</key><integer>20008</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20077</integer>
+					<key>Track ID</key><integer>20090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20001</integer>
+					<key>Track ID</key><integer>20014</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19973</integer>
+					<key>Track ID</key><integer>19986</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20067</integer>
+					<key>Track ID</key><integer>20080</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20109</integer>
+					<key>Track ID</key><integer>20122</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20085</integer>
+					<key>Track ID</key><integer>20098</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19999</integer>
+					<key>Track ID</key><integer>20012</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19977</integer>
+					<key>Track ID</key><integer>19990</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19979</integer>
+					<key>Track ID</key><integer>19992</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19991</integer>
+					<key>Track ID</key><integer>20004</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19987</integer>
+					<key>Track ID</key><integer>20000</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19975</integer>
+					<key>Track ID</key><integer>19988</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20007</integer>
+					<key>Track ID</key><integer>20020</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20009</integer>
+					<key>Track ID</key><integer>20022</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20017</integer>
+					<key>Track ID</key><integer>20030</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20015</integer>
+					<key>Track ID</key><integer>20028</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20005</integer>
+					<key>Track ID</key><integer>20018</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20045</integer>
+					<key>Track ID</key><integer>20058</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20039</integer>
+					<key>Track ID</key><integer>20052</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20023</integer>
+					<key>Track ID</key><integer>20036</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20035</integer>
+					<key>Track ID</key><integer>20048</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20031</integer>
+					<key>Track ID</key><integer>20044</integer>
 				</dict>
 			</array>
 		</dict>

@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>51781</key>
+		<key>51772</key>
 		<dict>
-			<key>Track ID</key><integer>51781</integer>
+			<key>Track ID</key><integer>51772</integer>
 			<key>Size</key><integer>8942253</integer>
 			<key>Total Time</key><integer>278282</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -28,9 +28,9 @@
 			<key>Sort Artist</key><string>B-52's</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/B-52's/01%20Planet%20Claire.mp3</string>
 		</dict>
-		<key>51787</key>
+		<key>51778</key>
 		<dict>
-			<key>Track ID</key><integer>51787</integer>
+			<key>Track ID</key><integer>51778</integer>
 			<key>Size</key><integer>6977835</integer>
 			<key>Total Time</key><integer>216894</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -52,9 +52,9 @@
 			<key>Sort Artist</key><string>B-52's</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/B-52's/02%2052%20Girls.mp3</string>
 		</dict>
-		<key>51785</key>
+		<key>51776</key>
 		<dict>
-			<key>Track ID</key><integer>51785</integer>
+			<key>Track ID</key><integer>51776</integer>
 			<key>Size</key><integer>8954810</integer>
 			<key>Total Time</key><integer>278674</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -76,9 +76,9 @@
 			<key>Sort Artist</key><string>B-52's</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/B-52's/03%20Dance%20This%20Mess%20Around.mp3</string>
 		</dict>
-		<key>51789</key>
+		<key>51780</key>
 		<dict>
-			<key>Track ID</key><integer>51789</integer>
+			<key>Track ID</key><integer>51780</integer>
 			<key>Size</key><integer>13107632</integer>
 			<key>Total Time</key><integer>408450</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -100,9 +100,9 @@
 			<key>Sort Artist</key><string>B-52's</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/B-52's/04%20Rock%20Lobster.mp3</string>
 		</dict>
-		<key>51783</key>
+		<key>51774</key>
 		<dict>
-			<key>Track ID</key><integer>51783</integer>
+			<key>Track ID</key><integer>51774</integer>
 			<key>Size</key><integer>9573353</integer>
 			<key>Total Time</key><integer>298004</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -124,9 +124,9 @@
 			<key>Sort Artist</key><string>B-52's</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/B-52's/05%20Lava.mp3</string>
 		</dict>
-		<key>51779</key>
+		<key>51770</key>
 		<dict>
-			<key>Track ID</key><integer>51779</integer>
+			<key>Track ID</key><integer>51770</integer>
 			<key>Size</key><integer>9588478</integer>
 			<key>Total Time</key><integer>298475</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -148,9 +148,9 @@
 			<key>Sort Artist</key><string>B-52's</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/B-52's/06%20There's%20A%20Moon%20In%20The%20Sky%20(Called%20The%20Moon).mp3</string>
 		</dict>
-		<key>51745</key>
+		<key>51736</key>
 		<dict>
-			<key>Track ID</key><integer>51745</integer>
+			<key>Track ID</key><integer>51736</integer>
 			<key>Size</key><integer>11812958</integer>
 			<key>Total Time</key><integer>295314</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -171,9 +171,9 @@
 			<key>Sort Artist</key><string>B-52's</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20B-52's/Cosmic%20Thing/06%20Roam.mp3</string>
 		</dict>
-		<key>51737</key>
+		<key>51728</key>
 		<dict>
-			<key>Track ID</key><integer>51737</integer>
+			<key>Track ID</key><integer>51728</integer>
 			<key>Size</key><integer>11504722</integer>
 			<key>Total Time</key><integer>287608</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -200,35 +200,35 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>138638</integer>
+			<key>Playlist ID</key><integer>138966</integer>
 			<key>Playlist Persistent ID</key><string>2A4CE747C0713887</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The B-52s</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>51781</integer>
+					<key>Track ID</key><integer>51772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51787</integer>
+					<key>Track ID</key><integer>51778</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51785</integer>
+					<key>Track ID</key><integer>51776</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51789</integer>
+					<key>Track ID</key><integer>51780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51783</integer>
+					<key>Track ID</key><integer>51774</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51779</integer>
+					<key>Track ID</key><integer>51770</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51745</integer>
+					<key>Track ID</key><integer>51736</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51737</integer>
+					<key>Track ID</key><integer>51728</integer>
 				</dict>
 			</array>
 		</dict>

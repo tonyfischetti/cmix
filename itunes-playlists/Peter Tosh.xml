@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>30667</key>
+		<key>30680</key>
 		<dict>
-			<key>Track ID</key><integer>30667</integer>
+			<key>Track ID</key><integer>30680</integer>
 			<key>Size</key><integer>5200421</integer>
 			<key>Total Time</key><integer>207986</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -30,9 +30,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/08%20Feel%20No%20Way.mp3</string>
 		</dict>
-		<key>30545</key>
+		<key>30558</key>
 		<dict>
-			<key>Track ID</key><integer>30545</integer>
+			<key>Track ID</key><integer>30558</integer>
 			<key>Size</key><integer>8383039</integer>
 			<key>Total Time</key><integer>348630</integer>
 			<key>Disc Number</key><integer>2</integer>
@@ -62,9 +62,9 @@
 			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Captured%20Live/2-05%20Bush%20Doctor.mp3</string>
 		</dict>
-		<key>30493</key>
+		<key>30506</key>
 		<dict>
-			<key>Track ID</key><integer>30493</integer>
+			<key>Track ID</key><integer>30506</integer>
 			<key>Size</key><integer>7164930</integer>
 			<key>Total Time</key><integer>297848</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -91,9 +91,9 @@
 			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/03%20Fight%20Apartheid.mp3</string>
 		</dict>
-		<key>30673</key>
+		<key>30686</key>
 		<dict>
-			<key>Track ID</key><integer>30673</integer>
+			<key>Track ID</key><integer>30686</integer>
 			<key>Size</key><integer>8556430</integer>
 			<key>Total Time</key><integer>347820</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -119,9 +119,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/03%20Not%20Gonna%20Give%20Up.mp3</string>
 		</dict>
-		<key>30503</key>
+		<key>30516</key>
 		<dict>
-			<key>Track ID</key><integer>30503</integer>
+			<key>Track ID</key><integer>30516</integer>
 			<key>Size</key><integer>6395675</integer>
 			<key>Total Time</key><integer>265795</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -146,33 +146,34 @@
 			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/08%20Come%20Together.mp3</string>
 		</dict>
-		<key>30527</key>
+		<key>30540</key>
 		<dict>
-			<key>Track ID</key><integer>30527</integer>
-			<key>Size</key><integer>3528704</integer>
+			<key>Track ID</key><integer>30540</integer>
+			<key>Size</key><integer>3597490</integer>
 			<key>Total Time</key><integer>146964</integer>
 			<key>Track Number</key><integer>3</integer>
-			<key>Date Modified</key><date>2013-10-19T04:53:41Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:40:19Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3613068153</integer>
 			<key>Play Date UTC</key><date>2018-06-29T02:02:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AD4A28AC8773486E</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Watcha Gonna Do</string>
 			<key>Artist</key><string>Peter Tosh</string>
 			<key>Album</key><string>Legalize It</string>
 			<key>Genre</key><string>Reggae</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Legalize%20It/03%20Watcha%20Gonna%20Do.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Peter%20Tosh/Legalize%20It/03%20Watcha%20Gonna%20Do.mp3</string>
 		</dict>
-		<key>30499</key>
+		<key>30512</key>
 		<dict>
-			<key>Track ID</key><integer>30499</integer>
+			<key>Track ID</key><integer>30512</integer>
 			<key>Size</key><integer>5619529</integer>
 			<key>Total Time</key><integer>233456</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -197,9 +198,9 @@
 			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/06%20Lessons%20In%20My%20Life.mp3</string>
 		</dict>
-		<key>30505</key>
+		<key>30518</key>
 		<dict>
-			<key>Track ID</key><integer>30505</integer>
+			<key>Track ID</key><integer>30518</integer>
 			<key>Size</key><integer>6954903</integer>
 			<key>Total Time</key><integer>289097</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -224,9 +225,9 @@
 			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/No%20Nuclear%20War/02%20Nah%20Goa%20Jail.mp3</string>
 		</dict>
-		<key>30665</key>
+		<key>30678</key>
 		<dict>
-			<key>Track ID</key><integer>30665</integer>
+			<key>Track ID</key><integer>30678</integer>
 			<key>Size</key><integer>8669899</integer>
 			<key>Total Time</key><integer>352548</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -250,13 +251,13 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/02%20Glasshouse.mp3</string>
 		</dict>
-		<key>30529</key>
+		<key>30542</key>
 		<dict>
-			<key>Track ID</key><integer>30529</integer>
-			<key>Size</key><integer>5615616</integer>
+			<key>Track ID</key><integer>30542</integer>
+			<key>Size</key><integer>5685187</integer>
 			<key>Total Time</key><integer>233952</integer>
 			<key>Track Number</key><integer>2</integer>
-			<key>Date Modified</key><date>2013-10-19T04:53:41Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:40:19Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -265,20 +266,21 @@
 			<key>Play Date UTC</key><date>2019-07-28T13:34:47Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2018-06-29T02:18:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6BB3B79C0D7AF269</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Burial</string>
 			<key>Artist</key><string>Peter Tosh</string>
 			<key>Album</key><string>Legalize It</string>
 			<key>Genre</key><string>Reggae</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Legalize%20It/02%20Burial.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Peter%20Tosh/Legalize%20It/02%20Burial.mp3</string>
 		</dict>
-		<key>30671</key>
+		<key>30684</key>
 		<dict>
-			<key>Track ID</key><integer>30671</integer>
+			<key>Track ID</key><integer>30684</integer>
 			<key>Size</key><integer>6552725</integer>
 			<key>Total Time</key><integer>264333</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -302,9 +304,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mama%20Africa/09%20Maga%20Dog.mp3</string>
 		</dict>
-		<key>30551</key>
+		<key>30564</key>
 		<dict>
-			<key>Track ID</key><integer>30551</integer>
+			<key>Track ID</key><integer>30564</integer>
 			<key>Size</key><integer>6293399</integer>
 			<key>Total Time</key><integer>261537</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -332,9 +334,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Captured%20Live/1-04%20Coming%20in%20Hot.mp3</string>
 		</dict>
-		<key>30645</key>
+		<key>30658</key>
 		<dict>
-			<key>Track ID</key><integer>30645</integer>
+			<key>Track ID</key><integer>30658</integer>
 			<key>Size</key><integer>9473611</integer>
 			<key>Total Time</key><integer>220656</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -360,9 +362,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Equal%20Rights/06%20African.mp3</string>
 		</dict>
-		<key>30655</key>
+		<key>30668</key>
 		<dict>
-			<key>Track ID</key><integer>30655</integer>
+			<key>Track ID</key><integer>30668</integer>
 			<key>Size</key><integer>11303234</integer>
 			<key>Total Time</key><integer>266396</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -385,9 +387,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Equal%20Rights/03%20I%20Am%20That%20I%20Am.mp3</string>
 		</dict>
-		<key>30613</key>
+		<key>30626</key>
 		<dict>
-			<key>Track ID</key><integer>30613</integer>
+			<key>Track ID</key><integer>30626</integer>
 			<key>Size</key><integer>8652616</integer>
 			<key>Total Time</key><integer>201142</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -413,9 +415,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Mystic%20Man/05%20Fight%20On.mp3</string>
 		</dict>
-		<key>30543</key>
+		<key>30556</key>
 		<dict>
-			<key>Track ID</key><integer>30543</integer>
+			<key>Track ID</key><integer>30556</integer>
 			<key>Size</key><integer>8159856</integer>
 			<key>Total Time</key><integer>339330</integer>
 			<key>Disc Number</key><integer>2</integer>
@@ -445,9 +447,9 @@
 			<key>Comments</key><string>..-*&gt;  TEAM ESCAPE  &lt;*-..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Peter%20Tosh/Captured%20Live/2-02%20Glass%20House%20(live).mp3</string>
 		</dict>
-		<key>30531</key>
+		<key>30544</key>
 		<dict>
-			<key>Track ID</key><integer>30531</integer>
+			<key>Track ID</key><integer>30544</integer>
 			<key>Size</key><integer>7023207</integer>
 			<key>Total Time</key><integer>291944</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -481,62 +483,62 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>137715</integer>
+			<key>Playlist ID</key><integer>137995</integer>
 			<key>Playlist Persistent ID</key><string>9A3DEBC071F5C659</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Peter Tosh</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>30667</integer>
+					<key>Track ID</key><integer>30680</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30545</integer>
+					<key>Track ID</key><integer>30558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30493</integer>
+					<key>Track ID</key><integer>30506</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30673</integer>
+					<key>Track ID</key><integer>30686</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30503</integer>
+					<key>Track ID</key><integer>30516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30527</integer>
+					<key>Track ID</key><integer>30540</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30499</integer>
+					<key>Track ID</key><integer>30512</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30505</integer>
+					<key>Track ID</key><integer>30518</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30665</integer>
+					<key>Track ID</key><integer>30678</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30529</integer>
+					<key>Track ID</key><integer>30542</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30671</integer>
+					<key>Track ID</key><integer>30684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30551</integer>
+					<key>Track ID</key><integer>30564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30645</integer>
+					<key>Track ID</key><integer>30658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30655</integer>
+					<key>Track ID</key><integer>30668</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30613</integer>
+					<key>Track ID</key><integer>30626</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30543</integer>
+					<key>Track ID</key><integer>30556</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30531</integer>
+					<key>Track ID</key><integer>30544</integer>
 				</dict>
 			</array>
 		</dict>

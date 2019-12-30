@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>41725</key>
+		<key>41716</key>
 		<dict>
-			<key>Track ID</key><integer>41725</integer>
+			<key>Track ID</key><integer>41716</integer>
 			<key>Size</key><integer>1900535</integer>
 			<key>Total Time</key><integer>79124</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -34,9 +34,9 @@
 			<key>Sort Name</key><string>Long Island Sound</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/Lon%20Gisland%20EP/04%20The%20Long%20Island%20Sound.mp3</string>
 		</dict>
-		<key>41813</key>
+		<key>41804</key>
 		<dict>
-			<key>Track ID</key><integer>41813</integer>
+			<key>Track ID</key><integer>41804</integer>
 			<key>Size</key><integer>5698079</integer>
 			<key>Total Time</key><integer>142393</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -61,9 +61,9 @@
 			<key>Sort Album</key><string>Flying Club Cup</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Flying%20Club%20Cup/07%20Forks%20And%20Knives%20(La%20Fete).mp3</string>
 		</dict>
-		<key>41825</key>
+		<key>41816</key>
 		<dict>
-			<key>Track ID</key><integer>41825</integer>
+			<key>Track ID</key><integer>41816</integer>
 			<key>Size</key><integer>4706452</integer>
 			<key>Total Time</key><integer>117603</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -90,9 +90,9 @@
 			<key>Sort Album</key><string>Flying Club Cup</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Flying%20Club%20Cup/05%20Cliquot.mp3</string>
 		</dict>
-		<key>41799</key>
+		<key>41790</key>
 		<dict>
-			<key>Track ID</key><integer>41799</integer>
+			<key>Track ID</key><integer>41790</integer>
 			<key>Size</key><integer>5449687</integer>
 			<key>Total Time</key><integer>216398</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -117,9 +117,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/Elephant%20Gun/02%20Transatlantique.mp3</string>
 		</dict>
-		<key>41793</key>
+		<key>41784</key>
 		<dict>
-			<key>Track ID</key><integer>41793</integer>
+			<key>Track ID</key><integer>41784</integer>
 			<key>Size</key><integer>4853024</integer>
 			<key>Total Time</key><integer>199079</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -146,9 +146,9 @@
 			<key>Sort Album</key><string>Rip Tide</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Rip%20Tide/07%20Vagabond.mp3</string>
 		</dict>
-		<key>41783</key>
+		<key>41774</key>
 		<dict>
-			<key>Track ID</key><integer>41783</integer>
+			<key>Track ID</key><integer>41774</integer>
 			<key>Size</key><integer>6183388</integer>
 			<key>Total Time</key><integer>254511</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -175,9 +175,9 @@
 			<key>Sort Album</key><string>Rip Tide</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Rip%20Tide/02%20Santa%20Fe.mp3</string>
 		</dict>
-		<key>41811</key>
+		<key>41802</key>
 		<dict>
-			<key>Track ID</key><integer>41811</integer>
+			<key>Track ID</key><integer>41802</integer>
 			<key>Size</key><integer>8627961</integer>
 			<key>Total Time</key><integer>215640</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -203,9 +203,9 @@
 			<key>Sort Album</key><string>Flying Club Cup</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Flying%20Club%20Cup/03%20A%20Sunday%20Smile.mp3</string>
 		</dict>
-		<key>41829</key>
+		<key>41820</key>
 		<dict>
-			<key>Track ID</key><integer>41829</integer>
+			<key>Track ID</key><integer>41820</integer>
 			<key>Size</key><integer>9212968</integer>
 			<key>Total Time</key><integer>230269</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -232,9 +232,9 @@
 			<key>Sort Album</key><string>Flying Club Cup</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Flying%20Club%20Cup/02%20Nantes.mp3</string>
 		</dict>
-		<key>41785</key>
+		<key>41776</key>
 		<dict>
-			<key>Track ID</key><integer>41785</integer>
+			<key>Track ID</key><integer>41776</integer>
 			<key>Size</key><integer>4860554</integer>
 			<key>Total Time</key><integer>199392</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -262,9 +262,9 @@
 			<key>Sort Album</key><string>Rip Tide</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Rip%20Tide/01%20A%20Candle's%20Fire.mp3</string>
 		</dict>
-		<key>41801</key>
+		<key>41792</key>
 		<dict>
-			<key>Track ID</key><integer>41801</integer>
+			<key>Track ID</key><integer>41792</integer>
 			<key>Size</key><integer>8574392</integer>
 			<key>Total Time</key><integer>346697</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -289,9 +289,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/Elephant%20Gun/01%20Elephant%20Gun.mp3</string>
 		</dict>
-		<key>41821</key>
+		<key>41812</key>
 		<dict>
-			<key>Track ID</key><integer>41821</integer>
+			<key>Track ID</key><integer>41812</integer>
 			<key>Size</key><integer>8557955</integer>
 			<key>Total Time</key><integer>213890</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -318,9 +318,9 @@
 			<key>Sort Album</key><string>Flying Club Cup</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/The%20Flying%20Club%20Cup/08%20In%20The%20Mausoluem.mp3</string>
 		</dict>
-		<key>41803</key>
+		<key>41794</key>
 		<dict>
-			<key>Track ID</key><integer>41803</integer>
+			<key>Track ID</key><integer>41794</integer>
 			<key>Size</key><integer>6266589</integer>
 			<key>Total Time</key><integer>250435</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -345,9 +345,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/Elephant%20Gun/03%20My%20Family's%20Role%20In%20The%20World%20Revolution.mp3</string>
 		</dict>
-		<key>41741</key>
+		<key>41732</key>
 		<dict>
-			<key>Track ID</key><integer>41741</integer>
+			<key>Track ID</key><integer>41732</integer>
 			<key>Size</key><integer>8756289</integer>
 			<key>Total Time</key><integer>218801</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -373,9 +373,9 @@
 			<key>Comments</key><string> </string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/Gulag%20Orkestar/03%20Brandenburg.mp3</string>
 		</dict>
-		<key>41731</key>
+		<key>41722</key>
 		<dict>
-			<key>Track ID</key><integer>41731</integer>
+			<key>Track ID</key><integer>41722</integer>
 			<key>Size</key><integer>4167528</integer>
 			<key>Total Time</key><integer>173583</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -400,9 +400,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Beirut/Lon%20Gisland%20EP/03%20Scenic%20World.mp3</string>
 		</dict>
-		<key>41797</key>
+		<key>41788</key>
 		<dict>
-			<key>Track ID</key><integer>41797</integer>
+			<key>Track ID</key><integer>41788</integer>
 			<key>Size</key><integer>6341381</integer>
 			<key>Total Time</key><integer>261093</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -433,56 +433,56 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>131832</integer>
+			<key>Playlist ID</key><integer>132104</integer>
 			<key>Playlist Persistent ID</key><string>9FD35B3A2A3749F9</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Beirut</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>41725</integer>
+					<key>Track ID</key><integer>41716</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41813</integer>
+					<key>Track ID</key><integer>41804</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41825</integer>
+					<key>Track ID</key><integer>41816</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41799</integer>
+					<key>Track ID</key><integer>41790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41793</integer>
+					<key>Track ID</key><integer>41784</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41783</integer>
+					<key>Track ID</key><integer>41774</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41811</integer>
+					<key>Track ID</key><integer>41802</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41829</integer>
+					<key>Track ID</key><integer>41820</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41785</integer>
+					<key>Track ID</key><integer>41776</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41801</integer>
+					<key>Track ID</key><integer>41792</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41821</integer>
+					<key>Track ID</key><integer>41812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41803</integer>
+					<key>Track ID</key><integer>41794</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41741</integer>
+					<key>Track ID</key><integer>41732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41731</integer>
+					<key>Track ID</key><integer>41722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>41797</integer>
+					<key>Track ID</key><integer>41788</integer>
 				</dict>
 			</array>
 		</dict>

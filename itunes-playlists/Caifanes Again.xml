@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>30255</key>
+		<key>30268</key>
 		<dict>
-			<key>Track ID</key><integer>30255</integer>
+			<key>Track ID</key><integer>30268</integer>
 			<key>Size</key><integer>7877863</integer>
 			<key>Total Time</key><integer>213282</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -40,9 +40,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/01%20Matenme%20Porque%20Me%20Muero.m4a</string>
 		</dict>
-		<key>30253</key>
+		<key>30266</key>
 		<dict>
-			<key>Track ID</key><integer>30253</integer>
+			<key>Track ID</key><integer>30266</integer>
 			<key>Size</key><integer>7998751</integer>
 			<key>Total Time</key><integer>224617</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -76,9 +76,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/02%20Te%20Estoy%20Mirando.m4a</string>
 		</dict>
-		<key>30249</key>
+		<key>30262</key>
 		<dict>
-			<key>Track ID</key><integer>30249</integer>
+			<key>Track ID</key><integer>30262</integer>
 			<key>Size</key><integer>9625012</integer>
 			<key>Total Time</key><integer>263259</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -112,9 +112,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/04%20Cuentame%20Tu%20Vida.m4a</string>
 		</dict>
-		<key>30261</key>
+		<key>30274</key>
 		<dict>
-			<key>Track ID</key><integer>30261</integer>
+			<key>Track ID</key><integer>30274</integer>
 			<key>Size</key><integer>7578617</integer>
 			<key>Total Time</key><integer>214862</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -148,9 +148,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/05%20Sera%20Por%20Eso.m4a</string>
 		</dict>
-		<key>30247</key>
+		<key>30260</key>
 		<dict>
-			<key>Track ID</key><integer>30247</integer>
+			<key>Track ID</key><integer>30260</integer>
 			<key>Size</key><integer>8405522</integer>
 			<key>Total Time</key><integer>236287</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -184,9 +184,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/06%20Viento.m4a</string>
 		</dict>
-		<key>30251</key>
+		<key>30264</key>
 		<dict>
-			<key>Track ID</key><integer>30251</integer>
+			<key>Track ID</key><integer>30264</integer>
 			<key>Size</key><integer>6787275</integer>
 			<key>Total Time</key><integer>185747</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -220,9 +220,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/07%20Nunca%20Me%20Voy%20a%20Transformar%20en%20Ti.m4a</string>
 		</dict>
-		<key>30257</key>
+		<key>30270</key>
 		<dict>
-			<key>Track ID</key><integer>30257</integer>
+			<key>Track ID</key><integer>30270</integer>
 			<key>Size</key><integer>9971018</integer>
 			<key>Total Time</key><integer>271312</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -256,9 +256,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/08%20Perdi%20Mi%20Ojo%20de%20Venado.m4a</string>
 		</dict>
-		<key>30263</key>
+		<key>30276</key>
 		<dict>
-			<key>Track ID</key><integer>30263</integer>
+			<key>Track ID</key><integer>30276</integer>
 			<key>Size</key><integer>7174035</integer>
 			<key>Total Time</key><integer>193679</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -270,9 +270,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3649350084</integer>
-			<key>Play Date UTC</key><date>2019-08-23T00:21:24Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3659969954</integer>
+			<key>Play Date UTC</key><date>2019-12-23T23:19:14Z</date>
 			<key>Release Date</key><date>1988-01-01T08:00:00Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>85D620C3C2DDA9F6</string>
@@ -292,9 +292,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/09%20Amanece.m4a</string>
 		</dict>
-		<key>30245</key>
+		<key>30258</key>
 		<dict>
-			<key>Track ID</key><integer>30245</integer>
+			<key>Track ID</key><integer>30258</integer>
 			<key>Size</key><integer>7135108</integer>
 			<key>Total Time</key><integer>200365</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -328,9 +328,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Caifanes/10%20La%20Bestia%20Humana.m4a</string>
 		</dict>
-		<key>30231</key>
+		<key>30244</key>
 		<dict>
-			<key>Track ID</key><integer>30231</integer>
+			<key>Track ID</key><integer>30244</integer>
 			<key>Size</key><integer>8258648</integer>
 			<key>Total Time</key><integer>219266</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -364,9 +364,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/01%20Detras%20de%20Ti.m4a</string>
 		</dict>
-		<key>30227</key>
+		<key>30240</key>
 		<dict>
-			<key>Track ID</key><integer>30227</integer>
+			<key>Track ID</key><integer>30240</integer>
 			<key>Size</key><integer>10317773</integer>
 			<key>Total Time</key><integer>287026</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -400,9 +400,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/02%20Antes%20de%20Que%20Nos%20Olviden.m4a</string>
 		</dict>
-		<key>30223</key>
+		<key>30236</key>
 		<dict>
-			<key>Track ID</key><integer>30223</integer>
+			<key>Track ID</key><integer>30236</integer>
 			<key>Size</key><integer>8416243</integer>
 			<key>Total Time</key><integer>239893</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -436,9 +436,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/03%20La%20Vida%20No%20Es%20Eterna.m4a</string>
 		</dict>
-		<key>30221</key>
+		<key>30234</key>
 		<dict>
-			<key>Track ID</key><integer>30221</integer>
+			<key>Track ID</key><integer>30234</integer>
 			<key>Size</key><integer>7972542</integer>
 			<key>Total Time</key><integer>227026</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -472,9 +472,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/06%20El%20Negro%20Cosmico.m4a</string>
 		</dict>
-		<key>30233</key>
+		<key>30246</key>
 		<dict>
-			<key>Track ID</key><integer>30233</integer>
+			<key>Track ID</key><integer>30246</integer>
 			<key>Size</key><integer>7661109</integer>
 			<key>Total Time</key><integer>215866</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -508,9 +508,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/07%20La%20Celula%20Que%20Explota.m4a</string>
 		</dict>
-		<key>30241</key>
+		<key>30254</key>
 		<dict>
-			<key>Track ID</key><integer>30241</integer>
+			<key>Track ID</key><integer>30254</integer>
 			<key>Size</key><integer>9964430</integer>
 			<key>Total Time</key><integer>280933</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -544,9 +544,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/08%20Aqui%20No%20Pasa%20Nada.m4a</string>
 		</dict>
-		<key>30225</key>
+		<key>30238</key>
 		<dict>
-			<key>Track ID</key><integer>30225</integer>
+			<key>Track ID</key><integer>30238</integer>
 			<key>Size</key><integer>9872760</integer>
 			<key>Total Time</key><integer>282133</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -580,9 +580,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Diablito/09%20Los%20Dioses%20Ocultos.m4a</string>
 		</dict>
-		<key>30273</key>
+		<key>30286</key>
 		<dict>
-			<key>Track ID</key><integer>30273</integer>
+			<key>Track ID</key><integer>30286</integer>
 			<key>Size</key><integer>9605288</integer>
 			<key>Total Time</key><integer>273911</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -594,9 +594,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3621857053</integer>
-			<key>Play Date UTC</key><date>2018-10-08T19:24:13Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3659971138</integer>
+			<key>Play Date UTC</key><date>2019-12-23T23:38:58Z</date>
 			<key>Release Date</key><date>1992-04-08T07:00:00Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>37A4CE1A1E4AF245</string>
@@ -616,9 +616,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Silencio/02%20Nubes.m4a</string>
 		</dict>
-		<key>30267</key>
+		<key>30280</key>
 		<dict>
-			<key>Track ID</key><integer>30267</integer>
+			<key>Track ID</key><integer>30280</integer>
 			<key>Size</key><integer>10046468</integer>
 			<key>Total Time</key><integer>276001</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -652,9 +652,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Silencio/03%20Piedra.m4a</string>
 		</dict>
-		<key>30283</key>
+		<key>30296</key>
 		<dict>
-			<key>Track ID</key><integer>30283</integer>
+			<key>Track ID</key><integer>30296</integer>
 			<key>Size</key><integer>5945847</integer>
 			<key>Total Time</key><integer>163894</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -688,9 +688,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Silencio/01%20Metamorfe%CC%81ame.m4a</string>
 		</dict>
-		<key>30203</key>
+		<key>30216</key>
 		<dict>
-			<key>Track ID</key><integer>30203</integer>
+			<key>Track ID</key><integer>30216</integer>
 			<key>Size</key><integer>10803129</integer>
 			<key>Total Time</key><integer>288600</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -724,9 +724,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/01%20Afuera.m4a</string>
 		</dict>
-		<key>30209</key>
+		<key>30222</key>
 		<dict>
-			<key>Track ID</key><integer>30209</integer>
+			<key>Track ID</key><integer>30222</integer>
 			<key>Size</key><integer>7809588</integer>
 			<key>Total Time</key><integer>218173</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -760,9 +760,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/02%20Miedo.m4a</string>
 		</dict>
-		<key>30201</key>
+		<key>30214</key>
 		<dict>
-			<key>Track ID</key><integer>30201</integer>
+			<key>Track ID</key><integer>30214</integer>
 			<key>Size</key><integer>10549013</integer>
 			<key>Total Time</key><integer>294266</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -796,9 +796,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/03%20Aqui%20No%20Es%20Asi.m4a</string>
 		</dict>
-		<key>30205</key>
+		<key>30218</key>
 		<dict>
-			<key>Track ID</key><integer>30205</integer>
+			<key>Track ID</key><integer>30218</integer>
 			<key>Size</key><integer>9969986</integer>
 			<key>Total Time</key><integer>273440</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -832,9 +832,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/06%20Avientame.m4a</string>
 		</dict>
-		<key>30215</key>
+		<key>30228</key>
 		<dict>
-			<key>Track ID</key><integer>30215</integer>
+			<key>Track ID</key><integer>30228</integer>
 			<key>Size</key><integer>10805039</integer>
 			<key>Total Time</key><integer>311133</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -868,9 +868,9 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/08%20Quisiera%20Ser%20Alcohol.m4a</string>
 		</dict>
-		<key>30211</key>
+		<key>30224</key>
 		<dict>
-			<key>Track ID</key><integer>30211</integer>
+			<key>Track ID</key><integer>30224</integer>
 			<key>Size</key><integer>9128923</integer>
 			<key>Total Time</key><integer>253026</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -904,90 +904,125 @@
 			<key>Sort Artist</key><string>Caifanes</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/El%20Nervio%20del%20Volcan/09%20Pero%20Nunca%20Me%20Cai.m4a</string>
 		</dict>
+		<key>54520</key>
+		<dict>
+			<key>Track ID</key><integer>54520</integer>
+			<key>Size</key><integer>9866396</integer>
+			<key>Total Time</key><integer>278726</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-10-03T21:55:38Z</date>
+			<key>Date Added</key><date>2019-10-03T21:55:08Z</date>
+			<key>Bit Rate</key><integer>282</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3659969729</integer>
+			<key>Play Date UTC</key><date>2019-12-23T23:15:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE708CC7B9EB6A21</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heridos</string>
+			<key>Artist</key><string>Caifanes</string>
+			<key>Album Artist</key><string>Caifanes</string>
+			<key>Composer</key><string>Alfonso Hernandez</string>
+			<key>Album</key><string>Heridos</string>
+			<key>Genre</key><string>Rock y Alternativo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 200000312547802</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Caifanes/Heridos/01%20Heridos.mp3</string>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>132013</integer>
+			<key>Playlist ID</key><integer>132291</integer>
 			<key>Playlist Persistent ID</key><string>9FBD603935CCD7B4</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Caifanes Again</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>30255</integer>
+					<key>Track ID</key><integer>30268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30253</integer>
+					<key>Track ID</key><integer>30266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30249</integer>
+					<key>Track ID</key><integer>30262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30261</integer>
+					<key>Track ID</key><integer>30274</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30247</integer>
+					<key>Track ID</key><integer>30260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30251</integer>
+					<key>Track ID</key><integer>30264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30257</integer>
+					<key>Track ID</key><integer>30270</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30263</integer>
+					<key>Track ID</key><integer>30276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30245</integer>
+					<key>Track ID</key><integer>30258</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30231</integer>
+					<key>Track ID</key><integer>30244</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30227</integer>
+					<key>Track ID</key><integer>30240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30223</integer>
+					<key>Track ID</key><integer>30236</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30221</integer>
+					<key>Track ID</key><integer>30234</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30233</integer>
+					<key>Track ID</key><integer>30246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30241</integer>
+					<key>Track ID</key><integer>30254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30225</integer>
+					<key>Track ID</key><integer>30238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30273</integer>
+					<key>Track ID</key><integer>30286</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30267</integer>
+					<key>Track ID</key><integer>30280</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30283</integer>
+					<key>Track ID</key><integer>30296</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30203</integer>
+					<key>Track ID</key><integer>30216</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30209</integer>
+					<key>Track ID</key><integer>30222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30201</integer>
+					<key>Track ID</key><integer>30214</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30205</integer>
+					<key>Track ID</key><integer>30218</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30215</integer>
+					<key>Track ID</key><integer>30228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30211</integer>
+					<key>Track ID</key><integer>30224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>54520</integer>
 				</dict>
 			</array>
 		</dict>

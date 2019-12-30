@@ -4,23 +4,24 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>14567</key>
+		<key>14580</key>
 		<dict>
-			<key>Track ID</key><integer>14567</integer>
-			<key>Size</key><integer>4343093</integer>
+			<key>Track ID</key><integer>14580</integer>
+			<key>Size</key><integer>4426573</integer>
 			<key>Total Time</key><integer>161018</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2013-10-19T03:59:43Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:27:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>215</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3634009289</integer>
-			<key>Play Date UTC</key><date>2019-02-26T12:01:29Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2019-02-26T12:03:36Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3655564269</integer>
+			<key>Play Date UTC</key><date>2019-11-02T22:31:09Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-11-02T22:31:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2482DACF930030B1</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -32,20 +33,21 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Get%20Guilty/01%20There%20Are%20Maybe%20Ten%20Or%20Twelve....mp3</string>
 		</dict>
-		<key>14565</key>
+		<key>14578</key>
 		<dict>
-			<key>Track ID</key><integer>14565</integer>
-			<key>Size</key><integer>4654043</integer>
+			<key>Track ID</key><integer>14578</integer>
+			<key>Size</key><integer>4737523</integer>
 			<key>Total Time</key><integer>199523</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2013-10-19T03:59:45Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:27:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>186</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-02-26T12:03:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A6B33E842E33151B</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -58,18 +60,19 @@
 			<key>Sort Name</key><string>Changeling (Get Guilty)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Get%20Guilty/08%20The%20Changeling%20(Get%20Guilty).mp3</string>
 		</dict>
-		<key>14573</key>
+		<key>14586</key>
 		<dict>
-			<key>Track ID</key><integer>14573</integer>
-			<key>Size</key><integer>4516704</integer>
+			<key>Track ID</key><integer>14586</integer>
+			<key>Size</key><integer>4600184</integer>
 			<key>Total Time</key><integer>208509</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2013-10-19T03:59:45Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:27:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>173</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C27A84C450E2D70A</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -81,21 +84,22 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Get%20Guilty/09%20Elemental.mp3</string>
 		</dict>
-		<key>14579</key>
+		<key>14592</key>
 		<dict>
-			<key>Track ID</key><integer>14579</integer>
-			<key>Size</key><integer>6049227</integer>
+			<key>Track ID</key><integer>14592</integer>
+			<key>Size</key><integer>6132707</integer>
 			<key>Total Time</key><integer>231810</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2013-10-19T03:59:46Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:27:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>208</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3614685426</integer>
 			<key>Play Date UTC</key><date>2018-07-17T19:17:06Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DD35BECEC5769639</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -107,9 +111,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Get%20Guilty/12%20All%20Of%20My%20Days%20And%20All%20Of%20My%20Days%20Off.mp3</string>
 		</dict>
-		<key>14545</key>
+		<key>14558</key>
 		<dict>
-			<key>Track ID</key><integer>14545</integer>
+			<key>Track ID</key><integer>14558</integer>
 			<key>Size</key><integer>8880000</integer>
 			<key>Total Time</key><integer>278648</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -132,9 +136,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Shut%20Down%20The%20Streets/01%20I'm%20Not%20Talking.mp3</string>
 		</dict>
-		<key>14557</key>
+		<key>14570</key>
 		<dict>
-			<key>Track ID</key><integer>14557</integer>
+			<key>Track ID</key><integer>14570</integer>
 			<key>Size</key><integer>8488832</integer>
 			<key>Total Time</key><integer>273449</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -160,9 +164,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Shut%20Down%20The%20Streets/02%20Do%20Your%20Own%20Time.mp3</string>
 		</dict>
-		<key>14549</key>
+		<key>14562</key>
 		<dict>
-			<key>Track ID</key><integer>14549</integer>
+			<key>Track ID</key><integer>14562</integer>
 			<key>Size</key><integer>7700352</integer>
 			<key>Total Time</key><integer>239725</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -188,9 +192,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Shut%20Down%20The%20Streets/04%20Encyclopedia%20Of%20Classic%20Takedowns.mp3</string>
 		</dict>
-		<key>14547</key>
+		<key>14560</key>
 		<dict>
-			<key>Track ID</key><integer>14547</integer>
+			<key>Track ID</key><integer>14560</integer>
 			<key>Size</key><integer>8279936</integer>
 			<key>Total Time</key><integer>249600</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -216,35 +220,36 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/Shut%20Down%20The%20Streets/07%20Hostages.mp3</string>
 		</dict>
-		<key>14521</key>
+		<key>14534</key>
 		<dict>
-			<key>Track ID</key><integer>14521</integer>
-			<key>Size</key><integer>7244977</integer>
+			<key>Track ID</key><integer>14534</integer>
+			<key>Size</key><integer>7294042</integer>
 			<key>Total Time</key><integer>236852</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2004</integer>
-			<key>Date Modified</key><date>2013-10-19T03:59:49Z</date>
+			<key>Date Modified</key><date>2019-12-30T01:06:07Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>244</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3634010145</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:15:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2C521F2A42194E0F</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>On The Table</string>
 			<key>Artist</key><string>A.C. Newman</string>
 			<key>Album</key><string>The Slow Wonder</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Slow Wonder</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/A.C.%20Newman/The%20Slow%20Wonder/03%20On%20The%20Table.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/A.C.%20Newman/The%20Slow%20Wonder/03%20On%20The%20Table.mp3</string>
 		</dict>
-		<key>19285</key>
+		<key>19298</key>
 		<dict>
-			<key>Track ID</key><integer>19285</integer>
+			<key>Track ID</key><integer>19298</integer>
 			<key>Size</key><integer>5474590</integer>
 			<key>Total Time</key><integer>211591</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -275,9 +280,9 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Challengers/03%20Challengers.mp3</string>
 		</dict>
-		<key>19291</key>
+		<key>19304</key>
 		<dict>
-			<key>Track ID</key><integer>19291</integer>
+			<key>Track ID</key><integer>19304</integer>
 			<key>Size</key><integer>6161715</integer>
 			<key>Total Time</key><integer>240222</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -308,9 +313,9 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Challengers/04%20Myriad%20Harbour.mp3</string>
 		</dict>
-		<key>19279</key>
+		<key>19292</key>
 		<dict>
-			<key>Track ID</key><integer>19279</integer>
+			<key>Track ID</key><integer>19292</integer>
 			<key>Size</key><integer>6449490</integer>
 			<key>Total Time</key><integer>252212</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -341,17 +346,17 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Challengers/10%20Mutiny,%20I%20Promise%20You.mp3</string>
 		</dict>
-		<key>19297</key>
+		<key>19310</key>
 		<dict>
-			<key>Track ID</key><integer>19297</integer>
-			<key>Size</key><integer>6030896</integer>
+			<key>Track ID</key><integer>19310</integer>
+			<key>Size</key><integer>6110341</integer>
 			<key>Total Time</key><integer>251193</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:38Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:25:47Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -359,6 +364,7 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3634011100</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:31:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>391C5920C11B9E5E</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -374,17 +380,17 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Mass%20Romantic/01%20Mass%20Romantic.mp3</string>
 		</dict>
-		<key>19299</key>
+		<key>19312</key>
 		<dict>
-			<key>Track ID</key><integer>19299</integer>
-			<key>Size</key><integer>3984573</integer>
+			<key>Track ID</key><integer>19312</integer>
+			<key>Size</key><integer>4064018</integer>
 			<key>Total Time</key><integer>165929</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:39Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:25:47Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -392,6 +398,7 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3634011266</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:34:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1C7DA027A0EB2598</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -408,17 +415,17 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Mass%20Romantic/02%20The%20Fake%20Headlines.mp3</string>
 		</dict>
-		<key>19317</key>
+		<key>19330</key>
 		<dict>
-			<key>Track ID</key><integer>19317</integer>
-			<key>Size</key><integer>3997099</integer>
+			<key>Track ID</key><integer>19330</integer>
+			<key>Size</key><integer>4076515</integer>
 			<key>Total Time</key><integer>166452</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:39Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:25:47Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -426,6 +433,7 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634011433</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:37:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>22FDA9219C7D65CC</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -439,17 +447,17 @@
 			<key>Sort Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Mass%20Romantic/05%20Jackie.mp3</string>
 		</dict>
-		<key>19303</key>
+		<key>19316</key>
 		<dict>
-			<key>Track ID</key><integer>19303</integer>
-			<key>Size</key><integer>5427791</integer>
+			<key>Track ID</key><integer>19316</integer>
+			<key>Size</key><integer>5507207</integer>
 			<key>Total Time</key><integer>226063</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2000</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:39Z</date>
+			<key>Date Modified</key><date>2019-11-02T22:25:47Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -457,6 +465,7 @@
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634011659</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:40:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5E675C73B7BC2E9F</string>
 			<key>Track Type</key><string>File</string>
 			<key>File Folder Count</key><integer>5</integer>
@@ -470,27 +479,28 @@
 			<key>Sort Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Mass%20Romantic/06%20Letter%20From%20An%20Occupant.mp3</string>
 		</dict>
-		<key>19367</key>
+		<key>19380</key>
 		<dict>
-			<key>Track ID</key><integer>19367</integer>
-			<key>Size</key><integer>3587293</integer>
+			<key>Track ID</key><integer>19380</integer>
+			<key>Size</key><integer>3647899</integer>
 			<key>Total Time</key><integer>179252</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:43Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634011838</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:43:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>35C456DC972A9E89</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Twin Cinema</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -498,29 +508,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/01%20Twin%20Cinema.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/01%20Twin%20Cinema.mp3</string>
 		</dict>
-		<key>19349</key>
+		<key>19362</key>
 		<dict>
-			<key>Track ID</key><integer>19349</integer>
-			<key>Size</key><integer>3440494</integer>
+			<key>Track ID</key><integer>19362</integer>
+			<key>Size</key><integer>3501100</integer>
 			<key>Total Time</key><integer>171911</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:43Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3634012010</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:46:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>08297661CDA80AE0</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Bones Of An Idol</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -529,29 +540,30 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Name</key><string>Bones Of An Idol</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/02%20The%20Bones%20Of%20An%20Idol.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/02%20The%20Bones%20Of%20An%20Idol.mp3</string>
 		</dict>
-		<key>19357</key>
+		<key>19370</key>
 		<dict>
-			<key>Track ID</key><integer>19357</integer>
-			<key>Size</key><integer>4138994</integer>
+			<key>Track ID</key><integer>19370</integer>
+			<key>Size</key><integer>4199600</integer>
 			<key>Total Time</key><integer>206837</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:43Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3634012216</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:50:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>027598A93B60DF64</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Use It</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -559,29 +571,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/03%20Use%20It.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/03%20Use%20It.mp3</string>
 		</dict>
-		<key>19351</key>
+		<key>19364</key>
 		<dict>
-			<key>Track ID</key><integer>19351</integer>
-			<key>Size</key><integer>5346391</integer>
+			<key>Track ID</key><integer>19364</integer>
+			<key>Size</key><integer>5406997</integer>
 			<key>Total Time</key><integer>267206</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:44Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3634012484</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:54:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2938EC4D2C061ED5</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Bleeding Heart Show</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -590,29 +603,30 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Name</key><string>Bleeding Heart Show</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/04%20The%20Bleeding%20Heart%20Show.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/04%20The%20Bleeding%20Heart%20Show.mp3</string>
 		</dict>
-		<key>19359</key>
+		<key>19372</key>
 		<dict>
-			<key>Track ID</key><integer>19359</integer>
-			<key>Size</key><integer>3723664</integer>
+			<key>Track ID</key><integer>19372</integer>
+			<key>Size</key><integer>3784270</integer>
 			<key>Total Time</key><integer>186070</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:44Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:50Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634012670</integer>
 			<key>Play Date UTC</key><date>2019-02-26T12:57:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9531B09765C823CB</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Jackie, Dressed In Cobras</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>Dan Bejar</string>
@@ -620,29 +634,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/05%20Jackie,%20Dressed%20In%20Cobras.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/05%20Jackie,%20Dressed%20In%20Cobras.mp3</string>
 		</dict>
-		<key>19355</key>
+		<key>19368</key>
 		<dict>
-			<key>Track ID</key><integer>19355</integer>
-			<key>Size</key><integer>3737261</integer>
+			<key>Track ID</key><integer>19368</integer>
+			<key>Size</key><integer>3797867</integer>
 			<key>Total Time</key><integer>186749</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:44Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634012856</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:00:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2FAB54FC7D92A629</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Jessica Numbers</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman and John Collins</string>
@@ -651,12 +666,12 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Name</key><string>Jessica Numbers</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/06%20The%20Jessica%20Numbers.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/06%20The%20Jessica%20Numbers.mp3</string>
 		</dict>
-		<key>19361</key>
+		<key>19374</key>
 		<dict>
-			<key>Track ID</key><integer>19361</integer>
-			<key>Size</key><integer>4195721</integer>
+			<key>Track ID</key><integer>19374</integer>
+			<key>Size</key><integer>4258059</integer>
 			<key>Total Time</key><integer>209632</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -664,17 +679,18 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
 			<key>BPM</key><integer>87</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:44Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3634013066</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:04:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C295AA1B85AE6C23</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>These Are The Fables</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -682,29 +698,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/07%20These%20Are%20The%20Fables.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/07%20These%20Are%20The%20Fables.mp3</string>
 		</dict>
-		<key>19345</key>
+		<key>19358</key>
 		<dict>
-			<key>Track ID</key><integer>19345</integer>
-			<key>Size</key><integer>5135320</integer>
+			<key>Track ID</key><integer>19358</integer>
+			<key>Size</key><integer>5195926</integer>
 			<key>Total Time</key><integer>256653</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:44Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3634013322</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:08:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D10CA69D20A0A5E5</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Sing Me Spanish Techno</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -712,28 +729,29 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/08%20Sing%20Me%20Spanish%20Techno.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/08%20Sing%20Me%20Spanish%20Techno.mp3</string>
 		</dict>
-		<key>19365</key>
+		<key>19378</key>
 		<dict>
-			<key>Track ID</key><integer>19365</integer>
-			<key>Size</key><integer>3481775</integer>
+			<key>Track ID</key><integer>19378</integer>
+			<key>Size</key><integer>3542381</integer>
 			<key>Total Time</key><integer>173975</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:44Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-02-26T13:08:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>98C74408CA0ED853</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Falling Through Your Clothes</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -741,29 +759,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/09%20Falling%20Through%20Your%20Clothes.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/09%20Falling%20Through%20Your%20Clothes.mp3</string>
 		</dict>
-		<key>19353</key>
+		<key>19366</key>
 		<dict>
-			<key>Track ID</key><integer>19353</integer>
-			<key>Size</key><integer>3613415</integer>
+			<key>Track ID</key><integer>19366</integer>
+			<key>Size</key><integer>3674021</integer>
 			<key>Total Time</key><integer>180558</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:45Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634013512</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:11:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E9282FCAED11CCF9</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Broken Beads</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>Dan Bejar</string>
@@ -771,29 +790,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/10%20Broken%20Beads.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/10%20Broken%20Beads.mp3</string>
 		</dict>
-		<key>19347</key>
+		<key>19360</key>
 		<dict>
-			<key>Track ID</key><integer>19347</integer>
-			<key>Size</key><integer>3744553</integer>
+			<key>Track ID</key><integer>19360</integer>
+			<key>Size</key><integer>3805159</integer>
 			<key>Total Time</key><integer>187115</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>11</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:45Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3634013699</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:14:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>093E23BDEB9008B1</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Three Or Four</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -801,29 +821,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/11%20Three%20Or%20Four.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/11%20Three%20Or%20Four.mp3</string>
 		</dict>
-		<key>19363</key>
+		<key>19376</key>
 		<dict>
-			<key>Track ID</key><integer>19363</integer>
-			<key>Size</key><integer>4952453</integer>
+			<key>Track ID</key><integer>19376</integer>
+			<key>Size</key><integer>5013059</integer>
 			<key>Total Time</key><integer>247510</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:45Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3634013947</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:19:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EB12BAEED0A095F6</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Star Bodies</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -831,29 +852,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/12%20Star%20Bodies.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/12%20Star%20Bodies.mp3</string>
 		</dict>
-		<key>19371</key>
+		<key>19384</key>
 		<dict>
-			<key>Track ID</key><integer>19371</integer>
-			<key>Size</key><integer>3235688</integer>
+			<key>Track ID</key><integer>19384</integer>
+			<key>Size</key><integer>3296294</integer>
 			<key>Total Time</key><integer>161671</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:45Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3634014108</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:21:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>62A5D0EB705F0900</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Streets Of Fire</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>Dan Bejar</string>
@@ -861,29 +883,30 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/13%20Streets%20Of%20Fire.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/13%20Streets%20Of%20Fire.mp3</string>
 		</dict>
-		<key>19369</key>
+		<key>19382</key>
 		<dict>
-			<key>Track ID</key><integer>19369</integer>
-			<key>Size</key><integer>5180767</integer>
+			<key>Track ID</key><integer>19382</integer>
+			<key>Size</key><integer>5241373</integer>
 			<key>Total Time</key><integer>258925</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>14</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:45Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:51Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634014367</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:26:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7956D90EFA16747C</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Stacked Crooked</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Composer</key><string>A.C. Newman</string>
@@ -891,19 +914,19 @@
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Twin%20Cinema/14%20Stacked%20Crooked.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Twin%20Cinema/14%20Stacked%20Crooked.mp3</string>
 		</dict>
-		<key>19393</key>
+		<key>19406</key>
 		<dict>
-			<key>Track ID</key><integer>19393</integer>
-			<key>Size</key><integer>8277945</integer>
+			<key>Track ID</key><integer>19406</integer>
+			<key>Size</key><integer>8359450</integer>
 			<key>Total Time</key><integer>206811</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:35Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:26Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -911,10 +934,11 @@
 			<key>Play Date</key><integer>3634014574</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:29:34Z</date>
 			<key>Release Date</key><date>2003-05-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>461DE46686F18DCA</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Laws Have Changed</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Album Artist</key><string>The New Pornographers</string>
@@ -925,19 +949,19 @@
 			<key>Sort Name</key><string>Laws Have Changed</string>
 			<key>Sort Artist</key><string>New Pornographers, The</string>
 			<key>Sort Album Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Electric%20Version/03%20The%20Laws%20Have%20Changed.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Electric%20Version/03%20The%20Laws%20Have%20Changed.mp3</string>
 		</dict>
-		<key>19383</key>
+		<key>19396</key>
 		<dict>
-			<key>Track ID</key><integer>19383</integer>
-			<key>Size</key><integer>6318759</integer>
+			<key>Track ID</key><integer>19396</integer>
+			<key>Size</key><integer>6401008</integer>
 			<key>Total Time</key><integer>157910</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:35Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:26Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -945,10 +969,11 @@
 			<key>Play Date</key><integer>3634014732</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:32:12Z</date>
 			<key>Release Date</key><date>2003-05-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>625053FEF4CD85D4</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The End of Medicine</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Album Artist</key><string>The New Pornographers</string>
@@ -958,19 +983,19 @@
 			<key>Sort Name</key><string>End of Medicine</string>
 			<key>Sort Artist</key><string>New Pornographers, The</string>
 			<key>Sort Album Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Electric%20Version/04%20The%20End%20of%20Medicine.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Electric%20Version/04%20The%20End%20of%20Medicine.mp3</string>
 		</dict>
-		<key>19375</key>
+		<key>19388</key>
 		<dict>
-			<key>Track ID</key><integer>19375</integer>
-			<key>Size</key><integer>7190201</integer>
+			<key>Track ID</key><integer>19388</integer>
+			<key>Size</key><integer>7272450</integer>
 			<key>Total Time</key><integer>179696</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:35Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:27Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -978,10 +1003,11 @@
 			<key>Play Date</key><integer>3634014911</integer>
 			<key>Play Date UTC</key><date>2019-02-26T13:35:11Z</date>
 			<key>Release Date</key><date>2003-05-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E2DC65F4E9E07485</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Loose Translation</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Album Artist</key><string>The New Pornographers</string>
@@ -990,30 +1016,33 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers, The</string>
 			<key>Sort Album Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Electric%20Version/05%20Loose%20Translation.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Electric%20Version/05%20Loose%20Translation.mp3</string>
 		</dict>
-		<key>19379</key>
+		<key>19392</key>
 		<dict>
-			<key>Track ID</key><integer>19379</integer>
-			<key>Size</key><integer>8893395</integer>
+			<key>Track ID</key><integer>19392</integer>
+			<key>Size</key><integer>8975644</integer>
 			<key>Total Time</key><integer>222275</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:36Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:27Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634034789</integer>
 			<key>Play Date UTC</key><date>2019-02-26T19:06:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-02T22:31:22Z</date>
 			<key>Release Date</key><date>2003-05-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7800A682EF87E290</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>All for Swinging You Around</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Album Artist</key><string>The New Pornographers</string>
@@ -1022,30 +1051,33 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>New Pornographers, The</string>
 			<key>Sort Album Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Electric%20Version/07%20All%20for%20Swinging%20You%20Around.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Electric%20Version/07%20All%20for%20Swinging%20You%20Around.mp3</string>
 		</dict>
-		<key>19391</key>
+		<key>19404</key>
 		<dict>
-			<key>Track ID</key><integer>19391</integer>
-			<key>Size</key><integer>10054278</integer>
+			<key>Track ID</key><integer>19404</integer>
+			<key>Size</key><integer>10136527</integer>
 			<key>Total Time</key><integer>251297</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T05:14:36Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:06:27Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3634035041</integer>
 			<key>Play Date UTC</key><date>2019-02-26T19:10:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-02T22:31:18Z</date>
 			<key>Release Date</key><date>2003-05-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3ADF04F198FD10DB</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The New Face of Zero and One</string>
 			<key>Artist</key><string>The New Pornographers</string>
 			<key>Album Artist</key><string>The New Pornographers</string>
@@ -1055,11 +1087,11 @@
 			<key>Sort Name</key><string>New Face of Zero and One</string>
 			<key>Sort Artist</key><string>New Pornographers, The</string>
 			<key>Sort Album Artist</key><string>New Pornographers</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Electric%20Version/08%20The%20New%20Face%20of%20Zero%20and%20One.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20New%20Pornographers/Electric%20Version/08%20The%20New%20Face%20of%20Zero%20and%20One.mp3</string>
 		</dict>
-		<key>19327</key>
+		<key>19340</key>
 		<dict>
-			<key>Track ID</key><integer>19327</integer>
+			<key>Track ID</key><integer>19340</integer>
 			<key>Size</key><integer>6084368</integer>
 			<key>Total Time</key><integer>176117</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -1091,9 +1123,9 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Brill%20Bruisers/01%20Brill%20Bruisers.mp3</string>
 		</dict>
-		<key>19339</key>
+		<key>19352</key>
 		<dict>
-			<key>Track ID</key><integer>19339</integer>
+			<key>Track ID</key><integer>19352</integer>
 			<key>Size</key><integer>6045671</integer>
 			<key>Total Time</key><integer>176404</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -1108,6 +1140,8 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3634035393</integer>
 			<key>Play Date UTC</key><date>2019-02-26T19:16:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-02T22:31:42Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1DB5334D5D721D16</string>
 			<key>Track Type</key><string>File</string>
@@ -1123,9 +1157,9 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Brill%20Bruisers/09%20Wide%20Eyes.mp3</string>
 		</dict>
-		<key>19335</key>
+		<key>19348</key>
 		<dict>
-			<key>Track ID</key><integer>19335</integer>
+			<key>Track ID</key><integer>19348</integer>
 			<key>Size</key><integer>8112667</integer>
 			<key>Total Time</key><integer>259134</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -1155,9 +1189,9 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Brill%20Bruisers/06%20Marching%20Orders.mp3</string>
 		</dict>
-		<key>19337</key>
+		<key>19350</key>
 		<dict>
-			<key>Track ID</key><integer>19337</integer>
+			<key>Track ID</key><integer>19350</integer>
 			<key>Size</key><integer>6794506</integer>
 			<key>Total Time</key><integer>206942</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -1187,9 +1221,9 @@
 			<key>Sort Album Artist</key><string>New Pornographers</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20New%20Pornographers/Brill%20Bruisers/03%20Fantasy%20Fools.mp3</string>
 		</dict>
-		<key>19331</key>
+		<key>19344</key>
 		<dict>
-			<key>Track ID</key><integer>19331</integer>
+			<key>Track ID</key><integer>19344</integer>
 			<key>Size</key><integer>7158287</integer>
 			<key>Total Time</key><integer>238210</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -1223,131 +1257,131 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>141815</integer>
+			<key>Playlist ID</key><integer>142143</integer>
 			<key>Playlist Persistent ID</key><string>D4A75B0A9B074D22</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The New Pornographers</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14567</integer>
+					<key>Track ID</key><integer>14580</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14565</integer>
+					<key>Track ID</key><integer>14578</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14573</integer>
+					<key>Track ID</key><integer>14586</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14579</integer>
+					<key>Track ID</key><integer>14592</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14545</integer>
+					<key>Track ID</key><integer>14558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14557</integer>
+					<key>Track ID</key><integer>14570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14549</integer>
+					<key>Track ID</key><integer>14562</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14547</integer>
+					<key>Track ID</key><integer>14560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14521</integer>
+					<key>Track ID</key><integer>14534</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19285</integer>
+					<key>Track ID</key><integer>19298</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19291</integer>
+					<key>Track ID</key><integer>19304</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19279</integer>
+					<key>Track ID</key><integer>19292</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19297</integer>
+					<key>Track ID</key><integer>19310</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19299</integer>
+					<key>Track ID</key><integer>19312</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19317</integer>
+					<key>Track ID</key><integer>19330</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19303</integer>
+					<key>Track ID</key><integer>19316</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19367</integer>
+					<key>Track ID</key><integer>19380</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19349</integer>
+					<key>Track ID</key><integer>19362</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19357</integer>
+					<key>Track ID</key><integer>19370</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19351</integer>
+					<key>Track ID</key><integer>19364</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19359</integer>
+					<key>Track ID</key><integer>19372</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19355</integer>
+					<key>Track ID</key><integer>19368</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19361</integer>
+					<key>Track ID</key><integer>19374</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19345</integer>
+					<key>Track ID</key><integer>19358</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19365</integer>
+					<key>Track ID</key><integer>19378</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19353</integer>
+					<key>Track ID</key><integer>19366</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19347</integer>
+					<key>Track ID</key><integer>19360</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19363</integer>
+					<key>Track ID</key><integer>19376</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19371</integer>
+					<key>Track ID</key><integer>19384</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19369</integer>
+					<key>Track ID</key><integer>19382</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19393</integer>
+					<key>Track ID</key><integer>19406</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19383</integer>
+					<key>Track ID</key><integer>19396</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19375</integer>
+					<key>Track ID</key><integer>19388</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19379</integer>
+					<key>Track ID</key><integer>19392</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19391</integer>
+					<key>Track ID</key><integer>19404</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19327</integer>
+					<key>Track ID</key><integer>19340</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19339</integer>
+					<key>Track ID</key><integer>19352</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19335</integer>
+					<key>Track ID</key><integer>19348</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19337</integer>
+					<key>Track ID</key><integer>19350</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19331</integer>
+					<key>Track ID</key><integer>19344</integer>
 				</dict>
 			</array>
 		</dict>

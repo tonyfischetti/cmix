@@ -4,118 +4,125 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>14253</key>
+		<key>14266</key>
 		<dict>
-			<key>Track ID</key><integer>14253</integer>
-			<key>Size</key><integer>5892936</integer>
+			<key>Track ID</key><integer>14266</integer>
+			<key>Size</key><integer>5927527</integer>
 			<key>Total Time</key><integer>232228</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:49Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:42Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>202</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-02-02T18:57:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DDB83CE9C226D10E</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>They Write Books About This ..</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Discosadness</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 2</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/02%20They%20Write%20Books%20About%20This%20...mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/02%20They%20Write%20Books%20About%20This%20...mp3</string>
 		</dict>
-		<key>14245</key>
+		<key>14258</key>
 		<dict>
-			<key>Track ID</key><integer>14245</integer>
-			<key>Size</key><integer>4515927</integer>
+			<key>Track ID</key><integer>14258</integer>
+			<key>Size</key><integer>4550518</integer>
 			<key>Total Time</key><integer>187271</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:49Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:42Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C02E81B6A4A08BD1</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Laundry</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Discosadness</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 3</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/03%20Laundry.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/03%20Laundry.mp3</string>
 		</dict>
-		<key>14259</key>
+		<key>14272</key>
 		<dict>
-			<key>Track ID</key><integer>14259</integer>
-			<key>Size</key><integer>5305846</integer>
+			<key>Track ID</key><integer>14272</integer>
+			<key>Size</key><integer>5340437</integer>
 			<key>Total Time</key><integer>188447</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:50Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:42Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>224</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-29T16:31:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E3D12A0A97DA8917</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Kill the Cat</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Discosadness</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 5</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/05%20Kill%20the%20Cat.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/05%20Kill%20the%20Cat.mp3</string>
 		</dict>
-		<key>14251</key>
+		<key>14264</key>
 		<dict>
-			<key>Track ID</key><integer>14251</integer>
-			<key>Size</key><integer>7272398</integer>
+			<key>Track ID</key><integer>14264</integer>
+			<key>Size</key><integer>7306989</integer>
 			<key>Total Time</key><integer>268669</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:50Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:42Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>216</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>111DC2665EEFE422</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Blizzard</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Discosadness</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 8</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/08%20Blizzard.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/08%20Blizzard.mp3</string>
 		</dict>
-		<key>14249</key>
+		<key>14262</key>
 		<dict>
-			<key>Track ID</key><integer>14249</integer>
-			<key>Size</key><integer>5608661</integer>
+			<key>Track ID</key><integer>14262</integer>
+			<key>Size</key><integer>5643252</integer>
 			<key>Total Time</key><integer>201404</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2002</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:51Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:42Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>222</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3631960880</integer>
 			<key>Play Date UTC</key><date>2019-02-02T19:01:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>12D768DA164BD348</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Showdown in Goattown</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Discosadness</string>
@@ -123,26 +130,27 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 10</string>
 			<key>Sort Name</key><string>Showdown in Goattown</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/10%20The%20Showdown%20in%20Goattown.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Discosadness/10%20The%20Showdown%20in%20Goattown.mp3</string>
 		</dict>
-		<key>14337</key>
+		<key>14350</key>
 		<dict>
-			<key>Track ID</key><integer>14337</integer>
+			<key>Track ID</key><integer>14350</integer>
 			<key>Size</key><integer>7297627</integer>
 			<key>Total Time</key><integer>266318</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:51Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:32:04Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>218</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3631961146</integer>
 			<key>Play Date UTC</key><date>2019-02-02T19:05:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B1A02C128ADC89F5</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Twenty-Second Century</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Ferocious Mopes</string>
@@ -150,26 +158,27 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 1</string>
 			<key>Sort Name</key><string>Twenty-Second Century</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/01%20The%20Twenty-Second%20Century.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/01%20The%20Twenty-Second%20Century.mp3</string>
 		</dict>
-		<key>14335</key>
+		<key>14348</key>
 		<dict>
-			<key>Track ID</key><integer>14335</integer>
+			<key>Track ID</key><integer>14348</integer>
 			<key>Size</key><integer>6266883</integer>
 			<key>Total Time</key><integer>230817</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:51Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:32:04Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>216</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3631961377</integer>
 			<key>Play Date UTC</key><date>2019-02-02T19:09:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E171D65D6B4C2E70</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Death of Girl Number Two</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Ferocious Mopes</string>
@@ -177,89 +186,92 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 2</string>
 			<key>Sort Name</key><string>Death of Girl Number Two</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/02%20The%20Death%20of%20Girl%20Number%20Two.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/02%20The%20Death%20of%20Girl%20Number%20Two.mp3</string>
 		</dict>
-		<key>14339</key>
+		<key>14352</key>
 		<dict>
-			<key>Track ID</key><integer>14339</integer>
+			<key>Track ID</key><integer>14352</integer>
 			<key>Size</key><integer>3401865</integer>
 			<key>Total Time</key><integer>138422</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:52Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:32:04Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>196</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3631961515</integer>
 			<key>Play Date UTC</key><date>2019-02-02T19:11:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8B1B6FFDC5FBC084</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Yeah, I'm in Love with an Android</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Ferocious Mopes</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 4</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/04%20Yeah,%20I'm%20in%20Love%20with%20an%20Android.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/04%20Yeah,%20I'm%20in%20Love%20with%20an%20Android.mp3</string>
 		</dict>
-		<key>14333</key>
+		<key>14346</key>
 		<dict>
-			<key>Track ID</key><integer>14333</integer>
+			<key>Track ID</key><integer>14346</integer>
 			<key>Size</key><integer>6732385</integer>
 			<key>Total Time</key><integer>281025</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:52Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:32:04Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>191</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3631961796</integer>
 			<key>Play Date UTC</key><date>2019-02-02T19:16:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A796580F9F7DAB3F</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>I Think I'll Be a Good Ghost</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Ferocious Mopes</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 5</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/05%20I%20Think%20I'll%20Be%20a%20Good%20Ghost.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/05%20I%20Think%20I'll%20Be%20a%20Good%20Ghost.mp3</string>
 		</dict>
-		<key>14329</key>
+		<key>14342</key>
 		<dict>
-			<key>Track ID</key><integer>14329</integer>
+			<key>Track ID</key><integer>14342</integer>
 			<key>Size</key><integer>7253401</integer>
 			<key>Total Time</key><integer>261485</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:52Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:32:04Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>221</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3631962058</integer>
 			<key>Play Date UTC</key><date>2019-02-02T19:20:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9F87722823ED7EB0</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Dimensions and Verticals</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Ferocious Mopes</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 6</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/06%20Dimensions%20and%20Verticals.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/06%20Dimensions%20and%20Verticals.mp3</string>
 		</dict>
-		<key>14233</key>
+		<key>14246</key>
 		<dict>
-			<key>Track ID</key><integer>14233</integer>
+			<key>Track ID</key><integer>14246</integer>
 			<key>Size</key><integer>8278932</integer>
 			<key>Total Time</key><integer>206915</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -281,9 +293,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Impeccable%20Blahs/03%20Blah%20Blah%20Blah.mp3</string>
 		</dict>
-		<key>14231</key>
+		<key>14244</key>
 		<dict>
-			<key>Track ID</key><integer>14231</integer>
+			<key>Track ID</key><integer>14244</integer>
 			<key>Size</key><integer>9887719</integer>
 			<key>Total Time</key><integer>246726</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -307,9 +319,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Impeccable%20Blahs/06%20Prefers%20Unhappy%20Endings.mp3</string>
 		</dict>
-		<key>14235</key>
+		<key>14248</key>
 		<dict>
-			<key>Track ID</key><integer>14235</integer>
+			<key>Track ID</key><integer>14248</integer>
 			<key>Size</key><integer>8508423</integer>
 			<key>Total Time</key><integer>212244</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -330,9 +342,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Impeccable%20Blahs/07%20Angels%20And%20Darlas.mp3</string>
 		</dict>
-		<key>14227</key>
+		<key>14240</key>
 		<dict>
-			<key>Track ID</key><integer>14227</integer>
+			<key>Track ID</key><integer>14240</integer>
 			<key>Size</key><integer>7948389</integer>
 			<key>Total Time</key><integer>198243</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -353,21 +365,22 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Impeccable%20Blahs/09%20Sweet%20Sweet%20Heartkiller.mp3</string>
 		</dict>
-		<key>14363</key>
+		<key>14376</key>
 		<dict>
-			<key>Track ID</key><integer>14363</integer>
-			<key>Size</key><integer>4472352</integer>
+			<key>Track ID</key><integer>14376</integer>
+			<key>Size</key><integer>4503627</integer>
 			<key>Total Time</key><integer>186122</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:58Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:13Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EC556DF6639F4A4E</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Pop Music of the Future</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Composer</key><string>Eric Elbogen</string>
@@ -375,23 +388,24 @@
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 0000068A 0000055C 00003176 000027A0 000138C5 000138C5 00008000 00007E36 000186B7 000186B7</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/01%20Pop%20Music%20of%20the%20Future.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/01%20Pop%20Music%20of%20the%20Future.mp3</string>
 		</dict>
-		<key>14353</key>
+		<key>14366</key>
 		<dict>
-			<key>Track ID</key><integer>14353</integer>
-			<key>Size</key><integer>5954475</integer>
+			<key>Track ID</key><integer>14366</integer>
+			<key>Size</key><integer>5985758</integer>
 			<key>Total Time</key><integer>247902</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:59Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:13Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5C35DB66A07A00F4</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Hooplas Involving Circus Tricks</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Composer</key><string>Eric Elbogen</string>
@@ -399,23 +413,24 @@
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 000008F2 00000B09 00001AD7 00001F49 00030D85 000111B5 00007C79 00008000 0002BF37 0002BF37</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/04%20Hooplas%20Involving%20Circus%20Tricks.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/04%20Hooplas%20Involving%20Circus%20Tricks.mp3</string>
 		</dict>
-		<key>14351</key>
+		<key>14364</key>
 		<dict>
-			<key>Track ID</key><integer>14351</integer>
-			<key>Size</key><integer>4402762</integer>
+			<key>Track ID</key><integer>14364</integer>
+			<key>Size</key><integer>4434092</integer>
 			<key>Total Time</key><integer>183248</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:59Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:13Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5A320E0A4C7BECAF</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Let's Talk About Spaceships</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Composer</key><string>Eric Elbogen</string>
@@ -423,23 +438,24 @@
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 000004F7 0000049E 00001397 00001031 0000C395 000186E5 00007EB9 00007E79 00004E20 00004E37</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/05%20Let's%20Talk%20About%20Spaceships.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/05%20Let's%20Talk%20About%20Spaceships.mp3</string>
 		</dict>
-		<key>14367</key>
+		<key>14380</key>
 		<dict>
-			<key>Track ID</key><integer>14367</integer>
-			<key>Size</key><integer>3149512</integer>
+			<key>Track ID</key><integer>14380</integer>
+			<key>Size</key><integer>3180790</integer>
 			<key>Total Time</key><integer>131030</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:59Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:13Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D1DF230676913BEE</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>But She Beat My High Score</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Composer</key><string>Eric Elbogen</string>
@@ -447,11 +463,11 @@
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 00000315 00000313 00000C1C 00000D9A 0001D4D7 0001D4D7 00006F3A 00006F8D 0001D4D7 000138C5</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/07%20But%20She%20Beat%20My%20High%20Score.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/07%20But%20She%20Beat%20My%20High%20Score.mp3</string>
 		</dict>
-		<key>14313</key>
+		<key>14326</key>
 		<dict>
-			<key>Track ID</key><integer>14313</integer>
+			<key>Track ID</key><integer>14326</integer>
 			<key>Size</key><integer>5307248</integer>
 			<key>Total Time</key><integer>221596</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -474,9 +490,9 @@
 			<key>Sort Album</key><string>Wishes and the Glitch</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/The%20Wishes%20and%20the%20Glitch/01%20Northwestern%20Girls.mp3</string>
 		</dict>
-		<key>14315</key>
+		<key>14328</key>
 		<dict>
-			<key>Track ID</key><integer>14315</integer>
+			<key>Track ID</key><integer>14328</integer>
 			<key>Size</key><integer>3350340</integer>
 			<key>Total Time</key><integer>146155</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -499,9 +515,9 @@
 			<key>Sort Album</key><string>Wishes and the Glitch</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/The%20Wishes%20and%20the%20Glitch/05%20Oboes%20Bleat%20And%20Triangles%20Tink.mp3</string>
 		</dict>
-		<key>14323</key>
+		<key>14336</key>
 		<dict>
-			<key>Track ID</key><integer>14323</integer>
+			<key>Track ID</key><integer>14336</integer>
 			<key>Size</key><integer>4876477</integer>
 			<key>Total Time</key><integer>190615</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -524,9 +540,9 @@
 			<key>Sort Album</key><string>Wishes and the Glitch</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/The%20Wishes%20and%20the%20Glitch/07%20Bluetime.mp3</string>
 		</dict>
-		<key>14287</key>
+		<key>14300</key>
 		<dict>
-			<key>Track ID</key><integer>14287</integer>
+			<key>Track ID</key><integer>14300</integer>
 			<key>Size</key><integer>4981579</integer>
 			<key>Total Time</key><integer>215693</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -548,9 +564,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Oohs%20&amp;%20Aahs/02%20Hallie%20And%20Henry.mp3</string>
 		</dict>
-		<key>14301</key>
+		<key>14314</key>
 		<dict>
-			<key>Track ID</key><integer>14301</integer>
+			<key>Track ID</key><integer>14314</integer>
 			<key>Size</key><integer>4198634</integer>
 			<key>Total Time</key><integer>194533</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -575,9 +591,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Oohs%20&amp;%20Aahs/06%20Maurine.mp3</string>
 		</dict>
-		<key>14277</key>
+		<key>14290</key>
 		<dict>
-			<key>Track ID</key><integer>14277</integer>
+			<key>Track ID</key><integer>14290</integer>
 			<key>Size</key><integer>6388837</integer>
 			<key>Total Time</key><integer>157727</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -598,32 +614,33 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Um,%20Uh%20Oh/03%20All%20The%20Pretty%20Ones.mp3</string>
 		</dict>
-		<key>14341</key>
+		<key>14354</key>
 		<dict>
-			<key>Track ID</key><integer>14341</integer>
+			<key>Track ID</key><integer>14354</integer>
 			<key>Size</key><integer>5125879</integer>
 			<key>Total Time</key><integer>196519</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>2005</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:53Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:32:04Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>208</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D6FADA05510FA0D6</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Poor Pete Is a Bit Self Cons..</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Album</key><string>Ferocious Mopes</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Track 9</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/09%20Poor%20Pete%20Is%20a%20Bit%20Self%20Cons...mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Ferocious%20Mopes/09%20Poor%20Pete%20Is%20a%20Bit%20Self%20Cons...mp3</string>
 		</dict>
-		<key>14229</key>
+		<key>14242</key>
 		<dict>
-			<key>Track ID</key><integer>14229</integer>
+			<key>Track ID</key><integer>14242</integer>
 			<key>Size</key><integer>7797880</integer>
 			<key>Total Time</key><integer>194481</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -644,21 +661,22 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Impeccable%20Blahs/01%20These%20Fangs.mp3</string>
 		</dict>
-		<key>14349</key>
+		<key>14362</key>
 		<dict>
-			<key>Track ID</key><integer>14349</integer>
-			<key>Size</key><integer>6351915</integer>
+			<key>Track ID</key><integer>14362</integer>
+			<key>Size</key><integer>6383180</integer>
 			<key>Total Time</key><integer>264463</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2003</integer>
-			<key>Date Modified</key><date>2013-10-19T04:59:59Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:31:13Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7A0C2F270DEF6EFA</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Key of C</string>
 			<key>Artist</key><string>Say Hi (To Your Mom)</string>
 			<key>Composer</key><string>Eric Elbogen</string>
@@ -667,98 +685,98 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 00000179 000001AE 0000044F 0000084D 0000EA8E 00024A1E 0000552B 00006291 00029855 00029855</string>
 			<key>Sort Name</key><string>Key of C</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/10%20The%20Key%20of%20C.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Say%20Hi%20(To%20Your%20Mom)/Numbers%20&amp;%20Mumbles/10%20The%20Key%20of%20C.mp3</string>
 		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>138160</integer>
+			<key>Playlist ID</key><integer>138488</integer>
 			<key>Playlist Persistent ID</key><string>07E4144EBFC3A57A</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Say Hi (To Your Mom)</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14253</integer>
+					<key>Track ID</key><integer>14266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14245</integer>
+					<key>Track ID</key><integer>14258</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14259</integer>
+					<key>Track ID</key><integer>14272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14251</integer>
+					<key>Track ID</key><integer>14264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14249</integer>
+					<key>Track ID</key><integer>14262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14337</integer>
+					<key>Track ID</key><integer>14350</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14335</integer>
+					<key>Track ID</key><integer>14348</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14339</integer>
+					<key>Track ID</key><integer>14352</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14333</integer>
+					<key>Track ID</key><integer>14346</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14329</integer>
+					<key>Track ID</key><integer>14342</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14233</integer>
+					<key>Track ID</key><integer>14246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14231</integer>
+					<key>Track ID</key><integer>14244</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14235</integer>
+					<key>Track ID</key><integer>14248</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14227</integer>
+					<key>Track ID</key><integer>14240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14363</integer>
+					<key>Track ID</key><integer>14376</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14353</integer>
+					<key>Track ID</key><integer>14366</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14351</integer>
+					<key>Track ID</key><integer>14364</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14367</integer>
+					<key>Track ID</key><integer>14380</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14313</integer>
+					<key>Track ID</key><integer>14326</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14315</integer>
+					<key>Track ID</key><integer>14328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14323</integer>
+					<key>Track ID</key><integer>14336</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14287</integer>
+					<key>Track ID</key><integer>14300</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14301</integer>
+					<key>Track ID</key><integer>14314</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14277</integer>
+					<key>Track ID</key><integer>14290</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14341</integer>
+					<key>Track ID</key><integer>14354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14229</integer>
+					<key>Track ID</key><integer>14242</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14349</integer>
+					<key>Track ID</key><integer>14362</integer>
 				</dict>
 			</array>
 		</dict>

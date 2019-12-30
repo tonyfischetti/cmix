@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>48535</key>
+		<key>48526</key>
 		<dict>
-			<key>Track ID</key><integer>48535</integer>
+			<key>Track ID</key><integer>48526</integer>
 			<key>Size</key><integer>3427024</integer>
 			<key>Total Time</key><integer>212349</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -31,9 +31,9 @@
 			<key>Sort Artist</key><string>Rentals</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Rentals/The%20Return%20of%20the%20Rentals/03%20Friends%20of%20P..mp3</string>
 		</dict>
-		<key>4867</key>
+		<key>4882</key>
 		<dict>
-			<key>Track ID</key><integer>4867</integer>
+			<key>Track ID</key><integer>4882</integer>
 			<key>Size</key><integer>8307215</integer>
 			<key>Total Time</key><integer>204382</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -58,9 +58,9 @@
 			<key>Sort Album</key><string>Blue Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/01%20My%20Name%20Is%20Jonas.mp3</string>
 		</dict>
-		<key>4859</key>
+		<key>4874</key>
 		<dict>
-			<key>Track ID</key><integer>4859</integer>
+			<key>Track ID</key><integer>4874</integer>
 			<key>Size</key><integer>7515176</integer>
 			<key>Total Time</key><integer>184581</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -85,9 +85,9 @@
 			<key>Sort Album</key><string>Blue Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/02%20No%20One%20Else.mp3</string>
 		</dict>
-		<key>4865</key>
+		<key>4880</key>
 		<dict>
-			<key>Track ID</key><integer>4865</integer>
+			<key>Track ID</key><integer>4880</integer>
 			<key>Size</key><integer>6503711</integer>
 			<key>Total Time</key><integer>159294</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -112,9 +112,9 @@
 			<key>Sort Album</key><string>Blue Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/04%20Buddy%20Holly.mp3</string>
 		</dict>
-		<key>4855</key>
+		<key>4870</key>
 		<dict>
-			<key>Track ID</key><integer>4855</integer>
+			<key>Track ID</key><integer>4870</integer>
 			<key>Size</key><integer>12356209</integer>
 			<key>Total Time</key><integer>305606</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -139,9 +139,9 @@
 			<key>Sort Album</key><string>Blue Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/05%20Undone%20(The%20Sweater%20Song).mp3</string>
 		</dict>
-		<key>4861</key>
+		<key>4876</key>
 		<dict>
-			<key>Track ID</key><integer>4861</integer>
+			<key>Track ID</key><integer>4876</integer>
 			<key>Size</key><integer>7592507</integer>
 			<key>Total Time</key><integer>186514</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -166,9 +166,9 @@
 			<key>Sort Album</key><string>Blue Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/06%20Surf%20Wax%20America.mp3</string>
 		</dict>
-		<key>4869</key>
+		<key>4884</key>
 		<dict>
-			<key>Track ID</key><integer>4869</integer>
+			<key>Track ID</key><integer>4884</integer>
 			<key>Size</key><integer>10487917</integer>
 			<key>Total Time</key><integer>258899</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -193,9 +193,9 @@
 			<key>Sort Album</key><string>Blue Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/07%20Say%20It%20Ain't%20So.mp3</string>
 		</dict>
-		<key>4851</key>
+		<key>4866</key>
 		<dict>
-			<key>Track ID</key><integer>4851</integer>
+			<key>Track ID</key><integer>4866</integer>
 			<key>Size</key><integer>9563175</integer>
 			<key>Total Time</key><integer>235781</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -220,23 +220,24 @@
 			<key>Sort Album</key><string>Blue Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Blue%20Album/08%20In%20The%20Garage.mp3</string>
 		</dict>
-		<key>4815</key>
+		<key>4830</key>
 		<dict>
-			<key>Track ID</key><integer>4815</integer>
-			<key>Size</key><integer>7467008</integer>
+			<key>Track ID</key><integer>4830</integer>
+			<key>Size</key><integer>7550312</integer>
 			<key>Total Time</key><integer>186618</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2013-10-19T05:26:57Z</date>
+			<key>Date Modified</key><date>2019-12-30T04:04:57Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6740E1DBAA5CFA4C</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Hash Pipe</string>
 			<key>Artist</key><string>Weezer</string>
 			<key>Composer</key><string>Rivers Cuomo</string>
@@ -244,25 +245,26 @@
 			<key>Genre</key><string>Alternative Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Green Album</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Green%20Album/03%20Hash%20Pipe.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Weezer/The%20Green%20Album/03%20Hash%20Pipe.mp3</string>
 		</dict>
-		<key>4825</key>
+		<key>4840</key>
 		<dict>
-			<key>Track ID</key><integer>4825</integer>
-			<key>Size</key><integer>8017587</integer>
+			<key>Track ID</key><integer>4840</integer>
+			<key>Size</key><integer>8100988</integer>
 			<key>Total Time</key><integer>200385</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2001</integer>
-			<key>Date Modified</key><date>2013-10-19T05:26:58Z</date>
+			<key>Date Modified</key><date>2019-12-30T04:04:57Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CB6DE1C291910EDE</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Island In The Sun</string>
 			<key>Artist</key><string>Weezer</string>
 			<key>Composer</key><string>Rivers Cuomo</string>
@@ -270,34 +272,35 @@
 			<key>Genre</key><string>Alternative Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Green Album</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Green%20Album/04%20Island%20In%20The%20Sun.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Weezer/The%20Green%20Album/04%20Island%20In%20The%20Sun.mp3</string>
 		</dict>
-		<key>4873</key>
+		<key>4888</key>
 		<dict>
-			<key>Track ID</key><integer>4873</integer>
-			<key>Size</key><integer>4768795</integer>
+			<key>Track ID</key><integer>4888</integer>
+			<key>Size</key><integer>4873546</integer>
 			<key>Total Time</key><integer>246021</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T05:26:38Z</date>
+			<key>Date Modified</key><date>2019-12-30T04:06:41Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>154</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8E3B5DF26D58482C</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Viva La Vida</string>
 			<key>Artist</key><string>Weezer</string>
 			<key>Album</key><string>Hurley</string>
 			<key>Genre</key><string>Alternative Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/Hurley/12%20Viva%20La%20Vida.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Weezer/Hurley/12%20Viva%20La%20Vida.mp3</string>
 		</dict>
-		<key>4949</key>
+		<key>4964</key>
 		<dict>
-			<key>Track ID</key><integer>4949</integer>
+			<key>Track ID</key><integer>4964</integer>
 			<key>Size</key><integer>7702772</integer>
 			<key>Total Time</key><integer>189466</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -320,77 +323,78 @@
 			<key>Sort Album</key><string>Red Album</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/The%20Red%20Album/03%20Pork%20and%20Beans.mp3</string>
 		</dict>
-		<key>4883</key>
+		<key>4898</key>
 		<dict>
-			<key>Track ID</key><integer>4883</integer>
-			<key>Size</key><integer>5137183</integer>
+			<key>Track ID</key><integer>4898</integer>
+			<key>Size</key><integer>5241934</integer>
 			<key>Total Time</key><integer>196022</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T05:26:36Z</date>
+			<key>Date Modified</key><date>2019-12-30T04:06:41Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>209</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3878E01BDD28A1C3</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Memories</string>
 			<key>Artist</key><string>Weezer</string>
 			<key>Album</key><string>Hurley</string>
 			<key>Genre</key><string>Alternative Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Weezer/Hurley/01%20Memories.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Weezer/Hurley/01%20Memories.mp3</string>
 		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>142859</integer>
+			<key>Playlist ID</key><integer>143209</integer>
 			<key>Playlist Persistent ID</key><string>5739FE560ED44759</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Weezer</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>48535</integer>
+					<key>Track ID</key><integer>48526</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4867</integer>
+					<key>Track ID</key><integer>4882</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4859</integer>
+					<key>Track ID</key><integer>4874</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4865</integer>
+					<key>Track ID</key><integer>4880</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4855</integer>
+					<key>Track ID</key><integer>4870</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4861</integer>
+					<key>Track ID</key><integer>4876</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4869</integer>
+					<key>Track ID</key><integer>4884</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4851</integer>
+					<key>Track ID</key><integer>4866</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4815</integer>
+					<key>Track ID</key><integer>4830</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4825</integer>
+					<key>Track ID</key><integer>4840</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4873</integer>
+					<key>Track ID</key><integer>4888</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4949</integer>
+					<key>Track ID</key><integer>4964</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4883</integer>
+					<key>Track ID</key><integer>4898</integer>
 				</dict>
 			</array>
 		</dict>

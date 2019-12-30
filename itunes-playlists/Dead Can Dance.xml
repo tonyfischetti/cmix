@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>51195</key>
+		<key>51186</key>
 		<dict>
-			<key>Track ID</key><integer>51195</integer>
+			<key>Track ID</key><integer>51186</integer>
 			<key>Size</key><integer>18379597</integer>
 			<key>Total Time</key><integer>457038</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -31,9 +31,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Anastasis/01%20Children%20of%20the%20Sun.mp3</string>
 		</dict>
-		<key>51197</key>
+		<key>51188</key>
 		<dict>
-			<key>Track ID</key><integer>51197</integer>
+			<key>Track ID</key><integer>51188</integer>
 			<key>Size</key><integer>16036924</integer>
 			<key>Total Time</key><integer>398471</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -58,9 +58,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Anastasis/04%20Amnesia.mp3</string>
 		</dict>
-		<key>51203</key>
+		<key>51194</key>
 		<dict>
-			<key>Track ID</key><integer>51203</integer>
+			<key>Track ID</key><integer>51194</integer>
 			<key>Size</key><integer>13978473</integer>
 			<key>Total Time</key><integer>347010</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -85,9 +85,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Anastasis/06%20Opium.mp3</string>
 		</dict>
-		<key>51347</key>
+		<key>51338</key>
 		<dict>
-			<key>Track ID</key><integer>51347</integer>
+			<key>Track ID</key><integer>51338</integer>
 			<key>Size</key><integer>8917009</integer>
 			<key>Total Time</key><integer>222876</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -113,9 +113,9 @@
 			<key>Sort Name</key><string>Trial</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Dead%20Can%20Dance/02%20The%20Trial.mp3</string>
 		</dict>
-		<key>51337</key>
+		<key>51328</key>
 		<dict>
-			<key>Track ID</key><integer>51337</integer>
+			<key>Track ID</key><integer>51328</integer>
 			<key>Size</key><integer>9099866</integer>
 			<key>Total Time</key><integer>227448</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -140,9 +140,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Dead%20Can%20Dance/04%20Fortune.mp3</string>
 		</dict>
-		<key>51341</key>
+		<key>51332</key>
 		<dict>
-			<key>Track ID</key><integer>51341</integer>
+			<key>Track ID</key><integer>51332</integer>
 			<key>Size</key><integer>9755017</integer>
 			<key>Total Time</key><integer>243826</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -170,9 +170,9 @@
 			<key>Sort Name</key><string>Passage in Time</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Dead%20Can%20Dance/08%20A%20Passage%20in%20Time.mp3</string>
 		</dict>
-		<key>51219</key>
+		<key>51210</key>
 		<dict>
-			<key>Track ID</key><integer>51219</integer>
+			<key>Track ID</key><integer>51210</integer>
 			<key>Size</key><integer>7085015</integer>
 			<key>Total Time</key><integer>254354</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -197,9 +197,9 @@
 			<key>Comments</key><string>Track 6</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Memento/06%20Enigma%20Of%20The%20Absolute.mp3</string>
 		</dict>
-		<key>51227</key>
+		<key>51218</key>
 		<dict>
-			<key>Track ID</key><integer>51227</integer>
+			<key>Track ID</key><integer>51218</integer>
 			<key>Size</key><integer>8781804</integer>
 			<key>Total Time</key><integer>326347</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -225,9 +225,9 @@
 			<key>Sort Name</key><string>Carnival Is Over</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Memento/04%20The%20Carnival%20Is%20Over.mp3</string>
 		</dict>
-		<key>51217</key>
+		<key>51208</key>
 		<dict>
-			<key>Track ID</key><integer>51217</integer>
+			<key>Track ID</key><integer>51208</integer>
 			<key>Size</key><integer>7145211</integer>
 			<key>Total Time</key><integer>252604</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -252,9 +252,9 @@
 			<key>Comments</key><string>Track 8</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Memento/08%20In%20the%20Kingdom%20of%20the%20Blind,%20the%20One-Eyed%20Are%20Kings.mp3</string>
 		</dict>
-		<key>51263</key>
+		<key>51254</key>
 		<dict>
-			<key>Track ID</key><integer>51263</integer>
+			<key>Track ID</key><integer>51254</integer>
 			<key>Size</key><integer>12654515</integer>
 			<key>Total Time</key><integer>251245</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -278,9 +278,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Garden%20Of%20The%20Arcane%20Delights/02%20In%20Power%20We%20Entrust%20(The%20Love%20Advocated).mp3</string>
 		</dict>
-		<key>51261</key>
+		<key>51252</key>
 		<dict>
-			<key>Track ID</key><integer>51261</integer>
+			<key>Track ID</key><integer>51252</integer>
 			<key>Size</key><integer>11775726</integer>
 			<key>Total Time</key><integer>229276</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -305,9 +305,9 @@
 			<key>Sort Name</key><string>Arcane</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Dead%20Can%20Dance/Garden%20Of%20The%20Arcane%20Delights/03%20The%20Arcane.mp3</string>
 		</dict>
-		<key>51105</key>
+		<key>51096</key>
 		<dict>
-			<key>Track ID</key><integer>51105</integer>
+			<key>Track ID</key><integer>51096</integer>
 			<key>Size</key><integer>22252561</integer>
 			<key>Total Time</key><integer>555102</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -334,47 +334,47 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>132618</integer>
+			<key>Playlist ID</key><integer>132897</integer>
 			<key>Playlist Persistent ID</key><string>E246C1FC4BF5CED0</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Dead Can Dance</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>51195</integer>
+					<key>Track ID</key><integer>51186</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51197</integer>
+					<key>Track ID</key><integer>51188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51203</integer>
+					<key>Track ID</key><integer>51194</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51347</integer>
+					<key>Track ID</key><integer>51338</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51337</integer>
+					<key>Track ID</key><integer>51328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51341</integer>
+					<key>Track ID</key><integer>51332</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51219</integer>
+					<key>Track ID</key><integer>51210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51227</integer>
+					<key>Track ID</key><integer>51218</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51217</integer>
+					<key>Track ID</key><integer>51208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51263</integer>
+					<key>Track ID</key><integer>51254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51261</integer>
+					<key>Track ID</key><integer>51252</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>51105</integer>
+					<key>Track ID</key><integer>51096</integer>
 				</dict>
 			</array>
 		</dict>

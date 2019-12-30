@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>16307</key>
+		<key>16320</key>
 		<dict>
-			<key>Track ID</key><integer>16307</integer>
+			<key>Track ID</key><integer>16320</integer>
 			<key>Size</key><integer>8816107</integer>
 			<key>Total Time</key><integer>246622</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -37,9 +37,9 @@
 			<key>Sort Album Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Script%20Of%20The%20Bridge/01%20Don't%20Fall.mp3</string>
 		</dict>
-		<key>16303</key>
+		<key>16316</key>
 		<dict>
-			<key>Track ID</key><integer>16303</integer>
+			<key>Track ID</key><integer>16316</integer>
 			<key>Size</key><integer>12914706</integer>
 			<key>Total Time</key><integer>410644</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -67,9 +67,9 @@
 			<key>Sort Album Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Script%20Of%20The%20Bridge/04%20Second%20Skin.mp3</string>
 		</dict>
-		<key>16309</key>
+		<key>16322</key>
 		<dict>
-			<key>Track ID</key><integer>16309</integer>
+			<key>Track ID</key><integer>16322</integer>
 			<key>Size</key><integer>6729159</integer>
 			<key>Total Time</key><integer>237844</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -97,9 +97,9 @@
 			<key>Sort Album Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Script%20Of%20The%20Bridge/05%20Up%20the%20Down%20Escalator.mp3</string>
 		</dict>
-		<key>16267</key>
+		<key>16280</key>
 		<dict>
-			<key>Track ID</key><integer>16267</integer>
+			<key>Track ID</key><integer>16280</integer>
 			<key>Size</key><integer>9186575</integer>
 			<key>Total Time</key><integer>307304</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -122,9 +122,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/03%20Tears.mp3</string>
 		</dict>
-		<key>16275</key>
+		<key>16288</key>
 		<dict>
-			<key>Track ID</key><integer>16275</integer>
+			<key>Track ID</key><integer>16288</integer>
 			<key>Size</key><integer>13178724</integer>
 			<key>Total Time</key><integer>449880</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -147,9 +147,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/04%20Soul%20in%20Isolation.mp3</string>
 		</dict>
-		<key>16259</key>
+		<key>16272</key>
 		<dict>
-			<key>Track ID</key><integer>16259</integer>
+			<key>Track ID</key><integer>16272</integer>
 			<key>Size</key><integer>10596044</integer>
 			<key>Total Time</key><integer>357642</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -172,9 +172,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/05%20Swamp%20Thing.mp3</string>
 		</dict>
-		<key>16269</key>
+		<key>16282</key>
 		<dict>
-			<key>Track ID</key><integer>16269</integer>
+			<key>Track ID</key><integer>16282</integer>
 			<key>Size</key><integer>5637687</integer>
 			<key>Total Time</key><integer>180558</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -197,9 +197,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/07%20Seriocity.mp3</string>
 		</dict>
-		<key>16251</key>
+		<key>16264</key>
 		<dict>
-			<key>Track ID</key><integer>16251</integer>
+			<key>Track ID</key><integer>16264</integer>
 			<key>Size</key><integer>8515127</integer>
 			<key>Total Time</key><integer>283324</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -222,9 +222,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/09%20Childhood.mp3</string>
 		</dict>
-		<key>16273</key>
+		<key>16286</key>
 		<dict>
-			<key>Track ID</key><integer>16273</integer>
+			<key>Track ID</key><integer>16286</integer>
 			<key>Size</key><integer>9266317</integer>
 			<key>Total Time</key><integer>310151</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -250,9 +250,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/11%20Tears.mp3</string>
 		</dict>
-		<key>16249</key>
+		<key>16262</key>
 		<dict>
-			<key>Track ID</key><integer>16249</integer>
+			<key>Track ID</key><integer>16262</integer>
 			<key>Size</key><integer>8301566</integer>
 			<key>Total Time</key><integer>275696</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -275,9 +275,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Strange%20Times/12%20Paradiso.mp3</string>
 		</dict>
-		<key>16339</key>
+		<key>16352</key>
 		<dict>
-			<key>Track ID</key><integer>16339</integer>
+			<key>Track ID</key><integer>16352</integer>
 			<key>Size</key><integer>4537173</integer>
 			<key>Total Time</key><integer>278439</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -300,9 +300,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/What%20Does%20Anything%20Mean_%20Basically/02%20Perfume%20Garden.mp3</string>
 		</dict>
-		<key>16337</key>
+		<key>16350</key>
 		<dict>
-			<key>Track ID</key><integer>16337</integer>
+			<key>Track ID</key><integer>16350</integer>
 			<key>Size</key><integer>8959557</integer>
 			<key>Total Time</key><integer>317048</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -325,9 +325,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/What%20Does%20Anything%20Mean_%20Basically/03%20Intrigue%20In%20Tangiers.mp3</string>
 		</dict>
-		<key>16341</key>
+		<key>16354</key>
 		<dict>
-			<key>Track ID</key><integer>16341</integer>
+			<key>Track ID</key><integer>16354</integer>
 			<key>Size</key><integer>7613717</integer>
 			<key>Total Time</key><integer>268982</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -350,9 +350,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/What%20Does%20Anything%20Mean_%20Basically/08%20One%20Flesh.mp3</string>
 		</dict>
-		<key>16343</key>
+		<key>16356</key>
 		<dict>
-			<key>Track ID</key><integer>16343</integer>
+			<key>Track ID</key><integer>16356</integer>
 			<key>Size</key><integer>13012717</integer>
 			<key>Total Time</key><integer>323265</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -374,9 +374,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/What%20Does%20Anything%20Mean_%20Basically/12%20Nostalgia.mp3</string>
 		</dict>
-		<key>16297</key>
+		<key>16310</key>
 		<dict>
-			<key>Track ID</key><integer>16297</integer>
+			<key>Track ID</key><integer>16310</integer>
 			<key>Size</key><integer>8170827</integer>
 			<key>Total Time</key><integer>256078</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -404,9 +404,9 @@
 			<key>Sort Album Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/Script%20Of%20The%20Bridge/06%20Less%20Than%20Human.mp3</string>
 		</dict>
-		<key>16325</key>
+		<key>16338</key>
 		<dict>
-			<key>Track ID</key><integer>16325</integer>
+			<key>Track ID</key><integer>16338</integer>
 			<key>Size</key><integer>7086358</integer>
 			<key>Total Time</key><integer>250148</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -429,9 +429,9 @@
 			<key>Sort Artist</key><string>Chameleons</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Chameleons/What%20Does%20Anything%20Mean_%20Basically/11%20In%20Shreds.mp3</string>
 		</dict>
-		<key>16319</key>
+		<key>16332</key>
 		<dict>
-			<key>Track ID</key><integer>16319</integer>
+			<key>Track ID</key><integer>16332</integer>
 			<key>Size</key><integer>7725345</integer>
 			<key>Total Time</key><integer>257149</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -463,62 +463,62 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>138673</integer>
+			<key>Playlist ID</key><integer>139001</integer>
 			<key>Playlist Persistent ID</key><string>C253B2D37FE48F86</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The Chameleons</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>16307</integer>
+					<key>Track ID</key><integer>16320</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16303</integer>
+					<key>Track ID</key><integer>16316</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16309</integer>
+					<key>Track ID</key><integer>16322</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16267</integer>
+					<key>Track ID</key><integer>16280</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16275</integer>
+					<key>Track ID</key><integer>16288</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16259</integer>
+					<key>Track ID</key><integer>16272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16269</integer>
+					<key>Track ID</key><integer>16282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16251</integer>
+					<key>Track ID</key><integer>16264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16273</integer>
+					<key>Track ID</key><integer>16286</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16249</integer>
+					<key>Track ID</key><integer>16262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16339</integer>
+					<key>Track ID</key><integer>16352</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16337</integer>
+					<key>Track ID</key><integer>16350</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16341</integer>
+					<key>Track ID</key><integer>16354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16343</integer>
+					<key>Track ID</key><integer>16356</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16297</integer>
+					<key>Track ID</key><integer>16310</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16325</integer>
+					<key>Track ID</key><integer>16338</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16319</integer>
+					<key>Track ID</key><integer>16332</integer>
 				</dict>
 			</array>
 		</dict>

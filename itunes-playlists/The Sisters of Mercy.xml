@@ -4,93 +4,97 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>3129</key>
+		<key>3144</key>
 		<dict>
-			<key>Track ID</key><integer>3129</integer>
-			<key>Size</key><integer>9004269</integer>
+			<key>Track ID</key><integer>3144</integer>
+			<key>Size</key><integer>9086179</integer>
 			<key>Total Time</key><integer>281364</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:46Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:02Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5167801E982D5AC9</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Black Planet</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/01%20Black%20Planet.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/01%20Black%20Planet.mp3</string>
 		</dict>
-		<key>3123</key>
+		<key>3138</key>
 		<dict>
-			<key>Track ID</key><integer>3123</integer>
-			<key>Size</key><integer>6606017</integer>
+			<key>Track ID</key><integer>3138</integer>
+			<key>Size</key><integer>6687924</integer>
 			<key>Total Time</key><integer>206419</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:46Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:02Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3642367754</integer>
 			<key>Play Date UTC</key><date>2019-06-03T04:49:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A407216D14471BD6</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Walk Away</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/02%20Walk%20Away.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/02%20Walk%20Away.mp3</string>
 		</dict>
-		<key>3127</key>
+		<key>3142</key>
 		<dict>
-			<key>Track ID</key><integer>3127</integer>
-			<key>Size</key><integer>7655099</integer>
+			<key>Track ID</key><integer>3142</integer>
+			<key>Size</key><integer>7737011</integer>
 			<key>Total Time</key><integer>239203</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:46Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:02Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3D947BB21FC77E75</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>No Time To Cry</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/03%20No%20Time%20To%20Cry.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/03%20No%20Time%20To%20Cry.mp3</string>
 		</dict>
-		<key>3125</key>
+		<key>3140</key>
 		<dict>
-			<key>Track ID</key><integer>3125</integer>
-			<key>Size</key><integer>6892751</integer>
+			<key>Track ID</key><integer>3140</integer>
+			<key>Size</key><integer>6974672</integer>
 			<key>Total Time</key><integer>215379</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:46Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:02Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B3F4175F3A73CCA5</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>A Rock and a Hard Place</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
@@ -98,109 +102,113 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Name</key><string>Rock and a Hard Place</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/04%20A%20Rock%20and%20a%20Hard%20Place.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/04%20A%20Rock%20and%20a%20Hard%20Place.mp3</string>
 		</dict>
-		<key>3131</key>
+		<key>3146</key>
 		<dict>
-			<key>Track ID</key><integer>3131</integer>
-			<key>Size</key><integer>8130748</integer>
+			<key>Track ID</key><integer>3146</integer>
+			<key>Size</key><integer>8212671</integer>
 			<key>Total Time</key><integer>254066</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:47Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:02Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3643571367</integer>
 			<key>Play Date UTC</key><date>2019-06-17T03:09:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1C415BC5FEF3216B</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>First and Last and Always</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/06%20First%20and%20Last%20and%20Always.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/06%20First%20and%20Last%20and%20Always.mp3</string>
 		</dict>
-		<key>3121</key>
+		<key>3136</key>
 		<dict>
-			<key>Track ID</key><integer>3121</integer>
-			<key>Size</key><integer>8036279</integer>
+			<key>Track ID</key><integer>3136</integer>
+			<key>Size</key><integer>8118192</integer>
 			<key>Total Time</key><integer>251115</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:48Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:03Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3643572024</integer>
 			<key>Play Date UTC</key><date>2019-06-17T03:20:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B8FA7181C57A38E3</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Nine While Nine</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/08%20Nine%20While%20Nine.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/08%20Nine%20While%20Nine.mp3</string>
 		</dict>
-		<key>3133</key>
+		<key>3148</key>
 		<dict>
-			<key>Track ID</key><integer>3133</integer>
-			<key>Size</key><integer>9261725</integer>
+			<key>Track ID</key><integer>3148</integer>
+			<key>Size</key><integer>9343628</integer>
 			<key>Total Time</key><integer>289410</integer>
 			<key>Track Number</key><integer>9</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:48Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:03Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E4227BD424524C26</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Logic</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/09%20Logic.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/09%20Logic.mp3</string>
 		</dict>
-		<key>3119</key>
+		<key>3134</key>
 		<dict>
-			<key>Track ID</key><integer>3119</integer>
-			<key>Size</key><integer>13970469</integer>
+			<key>Track ID</key><integer>3134</integer>
+			<key>Size</key><integer>14052389</integer>
 			<key>Total Time</key><integer>436558</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:49Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:03Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5ED1F4D3AE0BFFEB</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Some Kind of Stranger</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/10%20Some%20Kind%20of%20Stranger.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/10%20Some%20Kind%20of%20Stranger.mp3</string>
 		</dict>
-		<key>3141</key>
+		<key>3156</key>
 		<dict>
-			<key>Track ID</key><integer>3141</integer>
+			<key>Track ID</key><integer>3156</integer>
 			<key>Size</key><integer>9546811</integer>
 			<key>Total Time</key><integer>296646</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -225,9 +233,9 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/Floodland/03%20Lucretia%20My%20Reflection.mp3</string>
 		</dict>
-		<key>3145</key>
+		<key>3160</key>
 		<dict>
-			<key>Track ID</key><integer>3145</integer>
+			<key>Track ID</key><integer>3160</integer>
 			<key>Size</key><integer>21019774</integer>
 			<key>Total Time</key><integer>655177</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -252,9 +260,9 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/Floodland/05%20This%20Corrosion.mp3</string>
 		</dict>
-		<key>3075</key>
+		<key>3090</key>
 		<dict>
-			<key>Track ID</key><integer>3075</integer>
+			<key>Track ID</key><integer>3090</integer>
 			<key>Size</key><integer>11542849</integer>
 			<key>Total Time</key><integer>357041</integer>
 			<key>Track Number</key><integer>13</integer>
@@ -278,34 +286,35 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/Some%20Girls%20Wander%20By%20Mistake/13%20Gimme%20Shelter.mp3</string>
 		</dict>
-		<key>3115</key>
+		<key>3130</key>
 		<dict>
-			<key>Track ID</key><integer>3115</integer>
-			<key>Size</key><integer>11037227</integer>
+			<key>Track ID</key><integer>3130</integer>
+			<key>Size</key><integer>11119131</integer>
 			<key>Total Time</key><integer>344894</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T05:16:47Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:28:02Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2019-06-03T04:45:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9D77D6B4559F4729</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Marian</string>
 			<key>Artist</key><string>The Sisters Of Mercy</string>
 			<key>Album</key><string>First and Last and Always</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/05%20Marian.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Sisters%20Of%20Mercy/First%20and%20Last%20and%20Always/05%20Marian.mp3</string>
 		</dict>
-		<key>3095</key>
+		<key>3110</key>
 		<dict>
-			<key>Track ID</key><integer>3095</integer>
+			<key>Track ID</key><integer>3110</integer>
 			<key>Size</key><integer>6994600</integer>
 			<key>Total Time</key><integer>214909</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -329,9 +338,9 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/Some%20Girls%20Wander%20By%20Mistake/01%20Alice.mp3</string>
 		</dict>
-		<key>3057</key>
+		<key>3072</key>
 		<dict>
-			<key>Track ID</key><integer>3057</integer>
+			<key>Track ID</key><integer>3072</integer>
 			<key>Size</key><integer>9469464</integer>
 			<key>Total Time</key><integer>422844</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -357,9 +366,9 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/A%20Slight%20Case%20Of%20Overbombing/08%20Dominion%20_%20Mother%20Russia.mp3</string>
 		</dict>
-		<key>3043</key>
+		<key>3058</key>
 		<dict>
-			<key>Track ID</key><integer>3043</integer>
+			<key>Track ID</key><integer>3058</integer>
 			<key>Size</key><integer>5864930</integer>
 			<key>Total Time</key><integer>236016</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -386,9 +395,9 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/A%20Slight%20Case%20Of%20Overbombing/10%20No%20Time%20To%20Cry.mp3</string>
 		</dict>
-		<key>3109</key>
+		<key>3124</key>
 		<dict>
-			<key>Track ID</key><integer>3109</integer>
+			<key>Track ID</key><integer>3124</integer>
 			<key>Size</key><integer>9553048</integer>
 			<key>Total Time</key><integer>294321</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -413,9 +422,9 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/Vision%20Thing/05%20When%20You%20Don't%20See%20Me.mp3</string>
 		</dict>
-		<key>3113</key>
+		<key>3128</key>
 		<dict>
-			<key>Track ID</key><integer>3113</integer>
+			<key>Track ID</key><integer>3128</integer>
 			<key>Size</key><integer>16236181</integer>
 			<key>Total Time</key><integer>503170</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -438,9 +447,9 @@
 			<key>Sort Artist</key><string>Sisters Of Mercy</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Sisters%20Of%20Mercy/Vision%20Thing/07%20More.mp3</string>
 		</dict>
-		<key>3105</key>
+		<key>3120</key>
 		<dict>
-			<key>Track ID</key><integer>3105</integer>
+			<key>Track ID</key><integer>3120</integer>
 			<key>Size</key><integer>11778243</integer>
 			<key>Total Time</key><integer>363859</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -467,65 +476,65 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>141956</integer>
+			<key>Playlist ID</key><integer>142284</integer>
 			<key>Playlist Persistent ID</key><string>D67C87827DBA373B</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The Sisters of Mercy</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>3129</integer>
+					<key>Track ID</key><integer>3144</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3123</integer>
+					<key>Track ID</key><integer>3138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3127</integer>
+					<key>Track ID</key><integer>3142</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3125</integer>
+					<key>Track ID</key><integer>3140</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3131</integer>
+					<key>Track ID</key><integer>3146</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3121</integer>
+					<key>Track ID</key><integer>3136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3133</integer>
+					<key>Track ID</key><integer>3148</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3119</integer>
+					<key>Track ID</key><integer>3134</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3141</integer>
+					<key>Track ID</key><integer>3156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3145</integer>
+					<key>Track ID</key><integer>3160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3075</integer>
+					<key>Track ID</key><integer>3090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3115</integer>
+					<key>Track ID</key><integer>3130</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3095</integer>
+					<key>Track ID</key><integer>3110</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3057</integer>
+					<key>Track ID</key><integer>3072</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3043</integer>
+					<key>Track ID</key><integer>3058</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3109</integer>
+					<key>Track ID</key><integer>3124</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3113</integer>
+					<key>Track ID</key><integer>3128</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>3105</integer>
+					<key>Track ID</key><integer>3120</integer>
 				</dict>
 			</array>
 		</dict>

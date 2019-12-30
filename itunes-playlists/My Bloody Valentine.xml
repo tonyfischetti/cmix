@@ -4,24 +4,25 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>13219</key>
+		<key>13234</key>
 		<dict>
-			<key>Track ID</key><integer>13219</integer>
-			<key>Size</key><integer>6184850</integer>
+			<key>Track ID</key><integer>13234</integer>
+			<key>Size</key><integer>6230738</integer>
 			<key>Total Time</key><integer>257410</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1991</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:15Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:05:29Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3610563840</integer>
 			<key>Play Date UTC</key><date>2018-05-31T02:24:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>61BF3B44CB1701FD</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Only Shallow</string>
 			<key>Artist</key><string>My Bloody Valentine</string>
 			<key>Album Artist</key><string>My Bloody Valentine</string>
@@ -30,23 +31,24 @@
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 0000079F 0000076F 000021A5</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Loveless/01%20Only%20Shallow.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/My%20Bloody%20Valentine/Loveless/01%20Only%20Shallow.mp3</string>
 		</dict>
-		<key>13221</key>
+		<key>13236</key>
 		<dict>
-			<key>Track ID</key><integer>13221</integer>
-			<key>Size</key><integer>3808119</integer>
+			<key>Track ID</key><integer>13236</integer>
+			<key>Size</key><integer>3854001</integer>
 			<key>Total Time</key><integer>158380</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1991</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:16Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:05:29Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>70B1DC23C7767BE6</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Loomer</string>
 			<key>Artist</key><string>My Bloody Valentine</string>
 			<key>Album Artist</key><string>My Bloody Valentine</string>
@@ -55,23 +57,24 @@
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 00000619 00000521 00001607</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Loveless/02%20Loomer.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/My%20Bloody%20Valentine/Loveless/02%20Loomer.mp3</string>
 		</dict>
-		<key>13227</key>
+		<key>13242</key>
 		<dict>
-			<key>Track ID</key><integer>13227</integer>
-			<key>Size</key><integer>1368701</integer>
+			<key>Track ID</key><integer>13242</integer>
+			<key>Size</key><integer>1414569</integer>
 			<key>Total Time</key><integer>56737</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1991</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:16Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:05:29Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>61D72E0DC6472AA1</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Touched</string>
 			<key>Artist</key><string>My Bloody Valentine</string>
 			<key>Album Artist</key><string>My Bloody Valentine</string>
@@ -80,23 +83,24 @@
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 00000159 0000016B 00000791</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Loveless/03%20Touched.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/My%20Bloody%20Valentine/Loveless/03%20Touched.mp3</string>
 		</dict>
-		<key>13225</key>
+		<key>13240</key>
 		<dict>
-			<key>Track ID</key><integer>13225</integer>
-			<key>Size</key><integer>6055076</integer>
+			<key>Track ID</key><integer>13240</integer>
+			<key>Size</key><integer>6100950</integer>
 			<key>Total Time</key><integer>252003</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1991</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:16Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:05:29Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1F6936C0E5C8E1AD</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>When You Sleep</string>
 			<key>Artist</key><string>My Bloody Valentine</string>
 			<key>Album Artist</key><string>My Bloody Valentine</string>
@@ -105,23 +109,24 @@
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 0000085D 00000903 00001C24</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Loveless/05%20When%20You%20Sleep.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/My%20Bloody%20Valentine/Loveless/05%20When%20You%20Sleep.mp3</string>
 		</dict>
-		<key>13231</key>
+		<key>13246</key>
 		<dict>
-			<key>Track ID</key><integer>13231</integer>
-			<key>Size</key><integer>8005482</integer>
+			<key>Track ID</key><integer>13246</integer>
+			<key>Size</key><integer>8051356</integer>
 			<key>Total Time</key><integer>333270</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>1991</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:18Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:05:30Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C0F2245A4BA846A4</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>What You Want</string>
 			<key>Artist</key><string>My Bloody Valentine</string>
 			<key>Album Artist</key><string>My Bloody Valentine</string>
@@ -130,11 +135,11 @@
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string> 00000C31 00000C6F 00003EF1</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Loveless/10%20What%20You%20Want.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/My%20Bloody%20Valentine/Loveless/10%20What%20You%20Want.mp3</string>
 		</dict>
-		<key>13209</key>
+		<key>13224</key>
 		<dict>
-			<key>Track ID</key><integer>13209</integer>
+			<key>Track ID</key><integer>13224</integer>
 			<key>Size</key><integer>15318415</integer>
 			<key>Total Time</key><integer>381701</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -159,9 +164,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/m%20b%20v/02%20Only%20Tomorrow.mp3</string>
 		</dict>
-		<key>13201</key>
+		<key>13216</key>
 		<dict>
-			<key>Track ID</key><integer>13201</integer>
+			<key>Track ID</key><integer>13216</integer>
 			<key>Size</key><integer>12011301</integer>
 			<key>Total Time</key><integer>299023</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -186,9 +191,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/m%20b%20v/06%20New%20You.mp3</string>
 		</dict>
-		<key>13203</key>
+		<key>13218</key>
 		<dict>
-			<key>Track ID</key><integer>13203</integer>
+			<key>Track ID</key><integer>13218</integer>
 			<key>Size</key><integer>13290268</integer>
 			<key>Total Time</key><integer>330997</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -213,9 +218,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/m%20b%20v/07%20In%20Another%20Way.mp3</string>
 		</dict>
-		<key>13207</key>
+		<key>13222</key>
 		<dict>
-			<key>Track ID</key><integer>13207</integer>
+			<key>Track ID</key><integer>13222</integer>
 			<key>Size</key><integer>12297615</integer>
 			<key>Total Time</key><integer>306181</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -240,9 +245,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/m%20b%20v/01%20She%20Found%20Now.mp3</string>
 		</dict>
-		<key>13251</key>
+		<key>13266</key>
 		<dict>
-			<key>Track ID</key><integer>13251</integer>
+			<key>Track ID</key><integer>13266</integer>
 			<key>Size</key><integer>6500224</integer>
 			<key>Total Time</key><integer>269348</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -262,9 +267,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/My%20Bloody%20Valentine/Isn't%20Anything/03%20Cupid%20Come.mp3</string>
 		</dict>
-		<key>13241</key>
+		<key>13256</key>
 		<dict>
-			<key>Track ID</key><integer>13241</integer>
+			<key>Track ID</key><integer>13256</integer>
 			<key>Size</key><integer>4636544</integer>
 			<key>Total Time</key><integer>192078</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -288,44 +293,44 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>137415</integer>
+			<key>Playlist ID</key><integer>137695</integer>
 			<key>Playlist Persistent ID</key><string>FD91BEB183D044E1</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>My Bloody Valentine</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>13219</integer>
+					<key>Track ID</key><integer>13234</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13221</integer>
+					<key>Track ID</key><integer>13236</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13227</integer>
+					<key>Track ID</key><integer>13242</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13225</integer>
+					<key>Track ID</key><integer>13240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13231</integer>
+					<key>Track ID</key><integer>13246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13209</integer>
+					<key>Track ID</key><integer>13224</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13201</integer>
+					<key>Track ID</key><integer>13216</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13203</integer>
+					<key>Track ID</key><integer>13218</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13207</integer>
+					<key>Track ID</key><integer>13222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13251</integer>
+					<key>Track ID</key><integer>13266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13241</integer>
+					<key>Track ID</key><integer>13256</integer>
 				</dict>
 			</array>
 		</dict>

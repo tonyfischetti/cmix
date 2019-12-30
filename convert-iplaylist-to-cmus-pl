@@ -2,7 +2,7 @@
 ; vi: ft=lisp
 
 
-(defconstant +OLDMUSICPATH+ •/Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/•)
+(defconstant +OLDMUSICPATH+ •/Users/tonyfischetti/(Music.iTunes.iTunes%20Media.M|Dropbox.m)usic/•)
 (defconstant +NEWMUSICPATH+ •/home/tony/Dropbox/music/•)
 (defconstant +CONVERTFROMWHERE+ •./itunes-playlists/•)
 
@@ -25,7 +25,7 @@
 (for-each/list (zsh "find itunes-playlists/ -type f" :split t)
   (let ((thefile    value!)
         (new-fn     (xlate-fn value!)))
-    ; (unless (~m thefile "ctima")
+    ; (unless (~m thefile "ternative.xml$")
     ;   (continue!))
     (with-a-file new-fn :w
       (ft (yellow "preparing: ~A~%" new-fn))
@@ -38,9 +38,8 @@
                             (quri:url-decode <>)
                             (html-entities:decode-entities <>)
                             (nfc-it <>)))
-          ; (ft (yellow "~A~%" value!))
           (setq final (gethash value! /huge-holder/))
-          ; (ft (green "~A~%~%" final))
+          ; (debug-these value! final)
           (unless (null final)
             (format stream! (fn "~A~A~%" +NEWMUSICPATH+ final))))))))
 

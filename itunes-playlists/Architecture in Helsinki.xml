@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>47306</key>
+		<dict>
+			<key>Track ID</key><integer>47306</integer>
+			<key>Size</key><integer>9569946</integer>
+			<key>Total Time</key><integer>289332</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:30Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C2198A881594EE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Neverevereverdid</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527932</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/01%20Neverevereverdid.mp3</string>
+		</dict>
+		<key>47304</key>
+		<dict>
+			<key>Track ID</key><integer>47304</integer>
+			<key>Size</key><integer>4457318</integer>
+			<key>Total Time</key><integer>127425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>273</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650298555</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:49:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-29T06:40:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72DC32B821F7DF8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It'5!</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527933</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/02%20It'5!.mp3</string>
+		</dict>
+		<key>47296</key>
+		<dict>
+			<key>Track ID</key><integer>47296</integer>
+			<key>Size</key><integer>6220832</integer>
+			<key>Total Time</key><integer>183353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650298737</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:52:17Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A654ED5F49F75FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tiny Paintings</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527934</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/03%20Tiny%20Paintings.mp3</string>
+		</dict>
+		<key>47292</key>
+		<dict>
+			<key>Track ID</key><integer>47292</integer>
+			<key>Size</key><integer>5031874</integer>
+			<key>Total Time</key><integer>146259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:32Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650298883</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:54:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B944C760BBAF50BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wishbone</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527935</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/04%20Wishbone.mp3</string>
+		</dict>
+		<key>47302</key>
+		<dict>
+			<key>Track ID</key><integer>47302</integer>
+			<key>Size</key><integer>8090166</integer>
+			<key>Total Time</key><integer>242991</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9F6708ABA8B5859</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Maybe You Can Owe Me</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527936</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/05%20Maybe%20You%20Can%20Owe%20Me.mp3</string>
+		</dict>
+		<key>47310</key>
+		<dict>
+			<key>Track ID</key><integer>47310</integer>
+			<key>Size</key><integer>9702334</integer>
+			<key>Total Time</key><integer>279066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:34Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>275</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650298258</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:44:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>828F438F584A8D68</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Do The Whirlwind</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527937</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/06%20Do%20The%20Whirlwind.mp3</string>
+		</dict>
+		<key>47300</key>
+		<dict>
+			<key>Track ID</key><integer>47300</integer>
+			<key>Size</key><integer>7128821</integer>
+			<key>Total Time</key><integer>213733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>263</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E661D6EFAD69D133</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>In Case We Die, Pts. 1-4</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527938</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/07%20In%20Case%20We%20Die,%20Pts.%201-4.mp3</string>
+		</dict>
+		<key>47294</key>
+		<dict>
+			<key>Track ID</key><integer>47294</integer>
+			<key>Size</key><integer>4112004</integer>
+			<key>Total Time</key><integer>122462</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-04-02T21:25:36Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>596F844133C3F6BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Cemetery</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>In Case We Die</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Amazon.com Song ID: 220527939</string>
+			<key>Sort Name</key><string>Cemetery</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/In%20Case%20We%20Die/08%20The%20Cemetery.mp3</string>
+		</dict>
+		<key>47318</key>
+		<dict>
+			<key>Track ID</key><integer>47318</integer>
+			<key>Size</key><integer>4065494</integer>
+			<key>Total Time</key><integer>175751</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>179</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB53347D4F9C21C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lazy (Lazy)</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Places Like This</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Places%20Like%20This/08%20Lazy%20(Lazy).mp3</string>
+		</dict>
+		<key>47328</key>
+		<dict>
+			<key>Track ID</key><integer>47328</integer>
+			<key>Size</key><integer>4533708</integer>
+			<key>Total Time</key><integer>195160</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:49Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>181</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650297566</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:32:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E3E37661281BBA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heart It Races</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Places Like This</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Places%20Like%20This/02%20Heart%20It%20Races.mp3</string>
+		</dict>
+		<key>47284</key>
+		<dict>
+			<key>Track ID</key><integer>47284</integer>
+			<key>Size</key><integer>10110743</integer>
+			<key>Total Time</key><integer>252708</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>55F707D9CA60BE59</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Desert Island</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Moment Bends</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Moment%20Bends/01%20Desert%20Island.mp3</string>
+		</dict>
+		<key>47272</key>
+		<dict>
+			<key>Track ID</key><integer>47272</integer>
+			<key>Size</key><integer>9030315</integer>
+			<key>Total Time</key><integer>225697</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:48Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>31EB9EA84AED87DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>That Beep</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Moment Bends</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Moment%20Bends/08%20That%20Beep.mp3</string>
+		</dict>
+		<key>47268</key>
+		<dict>
+			<key>Track ID</key><integer>47268</integer>
+			<key>Size</key><integer>7110835</integer>
+			<key>Total Time</key><integer>177711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650297371</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:29:31Z</date>
+			<key>Persistent ID</key><string>041395079FF491EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Escapee</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Moment Bends</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Moment%20Bends/02%20Escapee.mp3</string>
+		</dict>
+		<key>47270</key>
+		<dict>
+			<key>Track ID</key><integer>47270</integer>
+			<key>Size</key><integer>8750285</integer>
+			<key>Total Time</key><integer>218697</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:46Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>04529B6B994BDFD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Contact High</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Moment Bends</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Moment%20Bends/03%20Contact%20High.mp3</string>
+		</dict>
+		<key>47212</key>
+		<dict>
+			<key>Track ID</key><integer>47212</integer>
+			<key>Size</key><integer>1647758</integer>
+			<key>Total Time</key><integer>59454</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:41Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650297625</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:33:45Z</date>
+			<key>Persistent ID</key><string>50F296AB346A20FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>One Heavy February</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Fingers Crossed</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Fingers%20Crossed/01%20One%20Heavy%20February.mp3</string>
+		</dict>
+		<key>47234</key>
+		<dict>
+			<key>Track ID</key><integer>47234</integer>
+			<key>Size</key><integer>6671104</integer>
+			<key>Total Time</key><integer>215588</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>247</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650297021</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:23:41Z</date>
+			<key>Persistent ID</key><string>EA984D94B2B29817</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Owls Go</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Fingers Crossed</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Owls Go</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Fingers%20Crossed/07%20The%20Owls%20Go.mp3</string>
+		</dict>
+		<key>47232</key>
+		<dict>
+			<key>Track ID</key><integer>47232</integer>
+			<key>Size</key><integer>5126140</integer>
+			<key>Total Time</key><integer>187297</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:42Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2F33FD424B310F17</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fumble</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Fingers Crossed</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Fingers%20Crossed/08%20Fumble.mp3</string>
+		</dict>
+		<key>47220</key>
+		<dict>
+			<key>Track ID</key><integer>47220</integer>
+			<key>Size</key><integer>4986258</integer>
+			<key>Total Time</key><integer>170031</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:43Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650297795</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:36:35Z</date>
+			<key>Persistent ID</key><string>32E6AEDA9E8D226A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>City Calm Down</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Fingers Crossed</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Fingers%20Crossed/13%20City%20Calm%20Down.mp3</string>
+		</dict>
+		<key>47324</key>
+		<dict>
+			<key>Track ID</key><integer>47324</integer>
+			<key>Size</key><integer>4465589</integer>
+			<key>Total Time</key><integer>173818</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650297193</integer>
+			<key>Play Date UTC</key><date>2019-09-02T23:26:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F9E8ACCCAC9E2900</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Debbie</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Places Like This</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Places%20Like%20This/07%20Debbie.mp3</string>
+		</dict>
+		<key>47322</key>
+		<dict>
+			<key>Track ID</key><integer>47322</integer>
+			<key>Size</key><integer>4874247</integer>
+			<key>Total Time</key><integer>203546</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-10-19T04:01:50Z</date>
+			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0868C172341F63F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nothing's Wrong</string>
+			<key>Artist</key><string>Architecture In Helsinki</string>
+			<key>Album</key><string>Places Like This</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Architecture%20in%20Helsinki/Places%20Like%20This/09%20Nothing's%20Wrong.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>131977</integer>
+			<key>Playlist Persistent ID</key><string>A4DD93CA62CBEF28</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Architecture in Helsinki</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>47306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47304</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47220</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>47322</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

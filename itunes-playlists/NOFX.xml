@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>11275</key>
+		<key>11290</key>
 		<dict>
-			<key>Track ID</key><integer>11275</integer>
+			<key>Track ID</key><integer>11290</integer>
 			<key>Size</key><integer>2181664</integer>
 			<key>Total Time</key><integer>125074</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -31,9 +31,9 @@
 			<key>Comments</key><string>..::::by jotun 2005::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/War%20On%20Errorism/05%20She's%20Nubs.mp3</string>
 		</dict>
-		<key>11299</key>
+		<key>11314</key>
 		<dict>
-			<key>Track ID</key><integer>11299</integer>
+			<key>Track ID</key><integer>11314</integer>
 			<key>Size</key><integer>2028274</integer>
 			<key>Total Time</key><integer>115487</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -58,36 +58,37 @@
 			<key>Comments</key><string>..::::by jotun 2005::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/War%20On%20Errorism/12%2013%20Stitches.mp3</string>
 		</dict>
-		<key>11103</key>
+		<key>11118</key>
 		<dict>
-			<key>Track ID</key><integer>11103</integer>
-			<key>Size</key><integer>4051489</integer>
+			<key>Track ID</key><integer>11118</integer>
+			<key>Size</key><integer>4358366</integer>
 			<key>Total Time</key><integer>153782</integer>
 			<key>Track Number</key><integer>13</integer>
 			<key>Track Count</key><integer>30</integer>
 			<key>Year</key><integer>2010</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:54Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:40:57Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>210</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3640443012</integer>
 			<key>Play Date UTC</key><date>2019-05-11T22:10:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>82CECF7DAD1542C3</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Jaw Knee Music</string>
 			<key>Artist</key><string>NOFX</string>
 			<key>Album</key><string>The Longest EP</string>
 			<key>Genre</key><string>Punk</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Longest EP</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Longest%20EP/13%20Jaw%20Knee%20Music.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/NOFX/The%20Longest%20EP/13%20Jaw%20Knee%20Music.mp3</string>
 		</dict>
-		<key>11325</key>
+		<key>11340</key>
 		<dict>
-			<key>Track ID</key><integer>11325</integer>
+			<key>Track ID</key><integer>11340</integer>
 			<key>Size</key><integer>4304520</integer>
 			<key>Total Time</key><integer>178651</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -111,9 +112,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/02%20Olympia%20WA%20(Rancid).mp3</string>
 		</dict>
-		<key>11083</key>
+		<key>11098</key>
 		<dict>
-			<key>Track ID</key><integer>11083</integer>
+			<key>Track ID</key><integer>11098</integer>
 			<key>Size</key><integer>4584190</integer>
 			<key>Total Time</key><integer>190223</integer>
 			<key>Track Number</key><integer>22</integer>
@@ -139,9 +140,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/22%20Philthy%20Phil%20Philantropist.mp3</string>
 		</dict>
-		<key>11065</key>
+		<key>11080</key>
 		<dict>
-			<key>Track ID</key><integer>11065</integer>
+			<key>Track ID</key><integer>11080</integer>
 			<key>Size</key><integer>3700199</integer>
 			<key>Total Time</key><integer>153391</integer>
 			<key>Track Number</key><integer>19</integer>
@@ -167,9 +168,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/19%20Don't%20Call%20Me%20White.mp3</string>
 		</dict>
-		<key>11093</key>
+		<key>11108</key>
 		<dict>
-			<key>Track ID</key><integer>11093</integer>
+			<key>Track ID</key><integer>11108</integer>
 			<key>Size</key><integer>3051306</integer>
 			<key>Total Time</key><integer>126354</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -195,9 +196,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/02%20Linoleum.mp3</string>
 		</dict>
-		<key>11047</key>
+		<key>11062</key>
 		<dict>
-			<key>Track ID</key><integer>11047</integer>
+			<key>Track ID</key><integer>11062</integer>
 			<key>Size</key><integer>3460707</integer>
 			<key>Total Time</key><integer>143412</integer>
 			<key>Track Number</key><integer>12</integer>
@@ -223,36 +224,37 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/12%20Stickin'%20In%20My%20Eye.mp3</string>
 		</dict>
-		<key>11461</key>
+		<key>11476</key>
 		<dict>
-			<key>Track ID</key><integer>11461</integer>
-			<key>Size</key><integer>3072430</integer>
+			<key>Track ID</key><integer>11476</integer>
+			<key>Size</key><integer>3172171</integer>
 			<key>Total Time</key><integer>127921</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2009</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:34Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:41:23Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3640443932</integer>
 			<key>Play Date UTC</key><date>2019-05-11T22:25:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>29620F7C66FA35B7</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>We Called it America</string>
 			<key>Artist</key><string>NOFX</string>
 			<key>Album</key><string>Coaster</string>
 			<key>Genre</key><string>Punk</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>http://wewantleaks.blogspot.com/ </string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Coaster/01%20We%20Called%20it%20America.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/NOFX/Coaster/01%20We%20Called%20it%20America.mp3</string>
 		</dict>
-		<key>11067</key>
+		<key>11082</key>
 		<dict>
-			<key>Track ID</key><integer>11067</integer>
+			<key>Track ID</key><integer>11082</integer>
 			<key>Size</key><integer>2045092</integer>
 			<key>Total Time</key><integer>84427</integer>
 			<key>Track Number</key><integer>24</integer>
@@ -278,9 +280,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/24%20It's%20My%20Job%20To%20Keep%20Punk%20Rock%20Elite.mp3</string>
 		</dict>
-		<key>11173</key>
+		<key>11188</key>
 		<dict>
-			<key>Track ID</key><integer>11173</integer>
+			<key>Track ID</key><integer>11188</integer>
 			<key>Size</key><integer>2671375</integer>
 			<key>Total Time</key><integer>165982</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -306,9 +308,9 @@
 			<key>Sort Name</key><string>Bag</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/White%20Trash%20Two%20Heebs%20And%20A%20Bean/07%20The%20Bag.mp3</string>
 		</dict>
-		<key>11101</key>
+		<key>11116</key>
 		<dict>
-			<key>Track ID</key><integer>11101</integer>
+			<key>Track ID</key><integer>11116</integer>
 			<key>Size</key><integer>26409688</integer>
 			<key>Total Time</key><integer>1099676</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -335,9 +337,9 @@
 			<key>Sort Album</key><string>Decline (EP)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Decline%20(EP)/01%20The%20Decline.mp3</string>
 		</dict>
-		<key>11401</key>
+		<key>11416</key>
 		<dict>
-			<key>Track ID</key><integer>11401</integer>
+			<key>Track ID</key><integer>11416</integer>
 			<key>Size</key><integer>2239216</integer>
 			<key>Total Time</key><integer>138893</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -364,35 +366,36 @@
 			<key>Comments</key><string>..::::by jotun 2004::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/45%20Or%2046%20Songs%20That%20Weren't%20Good%20Enough%20To%20Go%20On%20Our%20Other%20Records/1-04%20Drugs%20Are%20Good.mp3</string>
 		</dict>
-		<key>11309</key>
+		<key>11324</key>
 		<dict>
-			<key>Track ID</key><integer>11309</integer>
-			<key>Size</key><integer>2725760</integer>
+			<key>Track ID</key><integer>11324</integer>
+			<key>Size</key><integer>2897699</integer>
 			<key>Total Time</key><integer>113554</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:39Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:40:57Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>2</integer>
 			<key>Play Date</key><integer>3640440329</integer>
 			<key>Play Date UTC</key><date>2019-05-11T21:25:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B2B73A5DF5FFAE8F</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>I'm Going To Hell For This One</string>
 			<key>Artist</key><string>NOFX</string>
 			<key>Album</key><string>Never Trust A Hippy (EP)</string>
 			<key>Genre</key><string>Punk</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>..::::by jotun 2007::::..</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Never%20Trust%20A%20Hippy%20(EP)/06%20I'm%20Going%20To%20Hell%20For%20This%20One.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/NOFX/Never%20Trust%20A%20Hippy%20(EP)/06%20I'm%20Going%20To%20Hell%20For%20This%20One.mp3</string>
 		</dict>
-		<key>11377</key>
+		<key>11392</key>
 		<dict>
-			<key>Track ID</key><integer>11377</integer>
+			<key>Track ID</key><integer>11392</integer>
 			<key>Size</key><integer>1059735</integer>
 			<key>Total Time</key><integer>65175</integer>
 			<key>Disc Number</key><integer>2</integer>
@@ -419,9 +422,9 @@
 			<key>Comments</key><string>..::::by jotun 2004::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/45%20Or%2046%20Songs%20That%20Weren't%20Good%20Enough%20To%20Go%20On%20Our%20Other%20Records/2-01%20Fun%20Things%20To%20Fuck.mp3</string>
 		</dict>
-		<key>11075</key>
+		<key>11090</key>
 		<dict>
-			<key>Track ID</key><integer>11075</integer>
+			<key>Track ID</key><integer>11090</integer>
 			<key>Size</key><integer>3549733</integer>
 			<key>Total Time</key><integer>147121</integer>
 			<key>Track Number</key><integer>25</integer>
@@ -446,9 +449,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/25%20Franco%20Un%20American.mp3</string>
 		</dict>
-		<key>11217</key>
+		<key>11232</key>
 		<dict>
-			<key>Track ID</key><integer>11217</integer>
+			<key>Track ID</key><integer>11232</integer>
 			<key>Size</key><integer>1761280</integer>
 			<key>Total Time</key><integer>110053</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -472,9 +475,9 @@
 			<key>Comments</key><string>..::::by jotun 2003::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Pump%20Up%20The%20Valuum/07%20Louise.mp3</string>
 		</dict>
-		<key>11323</key>
+		<key>11338</key>
 		<dict>
-			<key>Track ID</key><integer>11323</integer>
+			<key>Track ID</key><integer>11338</integer>
 			<key>Size</key><integer>4615488</integer>
 			<key>Total Time</key><integer>191608</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -498,9 +501,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/BYO%20Split%20Series%20Vol%203%20%5BUK%5D/05%20Corazon%20De%20Oro.mp3</string>
 		</dict>
-		<key>11085</key>
+		<key>11100</key>
 		<dict>
-			<key>Track ID</key><integer>11085</integer>
+			<key>Track ID</key><integer>11100</integer>
 			<key>Size</key><integer>3031895</integer>
 			<key>Total Time</key><integer>125544</integer>
 			<key>Track Number</key><integer>27</integer>
@@ -526,9 +529,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/27%20Wore%20Out%20Soles%20Of%20My%20Party%20Boots.mp3</string>
 		</dict>
-		<key>11073</key>
+		<key>11088</key>
 		<dict>
-			<key>Track ID</key><integer>11073</integer>
+			<key>Track ID</key><integer>11088</integer>
 			<key>Size</key><integer>3993602</integer>
 			<key>Total Time</key><integer>165616</integer>
 			<key>Track Number</key><integer>23</integer>
@@ -554,9 +557,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/23%20Shut%20Up%20Already.mp3</string>
 		</dict>
-		<key>11471</key>
+		<key>11486</key>
 		<dict>
-			<key>Track ID</key><integer>11471</integer>
+			<key>Track ID</key><integer>11486</integer>
 			<key>Size</key><integer>3691208</integer>
 			<key>Total Time</key><integer>153704</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -581,9 +584,9 @@
 			<key>Comments</key><string>http://wewantleaks.blogspot.com/ </string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Coaster/03%20First%20Call.mp3</string>
 		</dict>
-		<key>11475</key>
+		<key>11490</key>
 		<dict>
-			<key>Track ID</key><integer>11475</integer>
+			<key>Track ID</key><integer>11490</integer>
 			<key>Size</key><integer>3066788</integer>
 			<key>Total Time</key><integer>127686</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -609,9 +612,9 @@
 			<key>Sort Name</key><string>Agony of Victory</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Coaster/10%20The%20Agony%20of%20Victory.mp3</string>
 		</dict>
-		<key>11467</key>
+		<key>11482</key>
 		<dict>
-			<key>Track ID</key><integer>11467</integer>
+			<key>Track ID</key><integer>11482</integer>
 			<key>Size</key><integer>3765822</integer>
 			<key>Total Time</key><integer>156813</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -636,9 +639,9 @@
 			<key>Comments</key><string>http://wewantleaks.blogspot.com/ </string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Coaster/11%20I%20Am%20an%20Alcoholic.mp3</string>
 		</dict>
-		<key>11205</key>
+		<key>11220</key>
 		<dict>
-			<key>Track ID</key><integer>11205</integer>
+			<key>Track ID</key><integer>11220</integer>
 			<key>Size</key><integer>2277376</integer>
 			<key>Total Time</key><integer>142288</integer>
 			<key>Track Number</key><integer>10</integer>
@@ -662,9 +665,9 @@
 			<key>Comments</key><string>..::::by jotun 2003::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Pump%20Up%20The%20Valuum/10%20Bottles%20To%20The%20Ground.mp3</string>
 		</dict>
-		<key>11139</key>
+		<key>11154</key>
 		<dict>
-			<key>Track ID</key><integer>11139</integer>
+			<key>Track ID</key><integer>11154</integer>
 			<key>Size</key><integer>1953792</integer>
 			<key>Total Time</key><integer>122017</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -688,9 +691,9 @@
 			<key>Comments</key><string>..::::by jotun 2000::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/So%20Long%20&amp;%20Thanks%20For%20All%20The%20Shoes/09%20Champs%20Elyse%CC%81es.mp3</string>
 		</dict>
-		<key>11145</key>
+		<key>11160</key>
 		<dict>
-			<key>Track ID</key><integer>11145</integer>
+			<key>Track ID</key><integer>11160</integer>
 			<key>Size</key><integer>1695744</integer>
 			<key>Total Time</key><integer>105926</integer>
 			<key>Track Number</key><integer>14</integer>
@@ -714,9 +717,9 @@
 			<key>Comments</key><string>..::::by jotun 2000::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/So%20Long%20&amp;%20Thanks%20For%20All%20The%20Shoes/14%20Flossing%20A%20Dead%20Horse.mp3</string>
 		</dict>
-		<key>11287</key>
+		<key>11302</key>
 		<dict>
-			<key>Track ID</key><integer>11287</integer>
+			<key>Track ID</key><integer>11302</integer>
 			<key>Size</key><integer>2564935</integer>
 			<key>Total Time</key><integer>149028</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -741,9 +744,9 @@
 			<key>Comments</key><string>..::::by jotun 2005::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/War%20On%20Errorism/06%20Mattersville.mp3</string>
 		</dict>
-		<key>11407</key>
+		<key>11422</key>
 		<dict>
-			<key>Track ID</key><integer>11407</integer>
+			<key>Track ID</key><integer>11422</integer>
 			<key>Size</key><integer>1579676</integer>
 			<key>Total Time</key><integer>97671</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -770,9 +773,9 @@
 			<key>Comments</key><string>..::::by jotun 2004::::..</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/45%20Or%2046%20Songs%20That%20Weren't%20Good%20Enough%20To%20Go%20On%20Our%20Other%20Records/1-13%20Zyclone%20B%20Bathouse.mp3</string>
 		</dict>
-		<key>11099</key>
+		<key>11114</key>
 		<dict>
-			<key>Track ID</key><integer>11099</integer>
+			<key>Track ID</key><integer>11114</integer>
 			<key>Size</key><integer>4127143</integer>
 			<key>Total Time</key><integer>171180</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -800,9 +803,9 @@
 			<key>Sort Album</key><string>Greatest Songs Ever Written (By Us)</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/The%20Greatest%20Songs%20Ever%20Written%20(By%20Us)/01%20Dinosaurs%20Will%20Die.mp3</string>
 		</dict>
-		<key>11465</key>
+		<key>11480</key>
 		<dict>
-			<key>Track ID</key><integer>11465</integer>
+			<key>Track ID</key><integer>11480</integer>
 			<key>Size</key><integer>3979607</integer>
 			<key>Total Time</key><integer>165720</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -829,134 +832,135 @@
 			<key>Comments</key><string>http://wewantleaks.blogspot.com/ </string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Coaster/06%20Creeping%20Out%20Sara.mp3</string>
 		</dict>
-		<key>11313</key>
+		<key>11328</key>
 		<dict>
-			<key>Track ID</key><integer>11313</integer>
-			<key>Size</key><integer>3118976</integer>
+			<key>Track ID</key><integer>11328</integer>
+			<key>Size</key><integer>3289540</integer>
 			<key>Total Time</key><integer>129880</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2006</integer>
-			<key>Date Modified</key><date>2013-10-19T04:47:38Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:40:57Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3640442618</integer>
 			<key>Play Date UTC</key><date>2019-05-11T22:03:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6D065E77A66CA399</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Seeing Double At The Triple Rock</string>
 			<key>Artist</key><string>NOFX</string>
 			<key>Album</key><string>Never Trust A Hippy (EP)</string>
 			<key>Genre</key><string>Punk</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>..::::by jotun 2007::::..</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/NOFX/Never%20Trust%20A%20Hippy%20(EP)/01%20Seeing%20Double%20At%20The%20Triple%20Rock.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/NOFX/Never%20Trust%20A%20Hippy%20(EP)/01%20Seeing%20Double%20At%20The%20Triple%20Rock.mp3</string>
 		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>137468</integer>
+			<key>Playlist ID</key><integer>137748</integer>
 			<key>Playlist Persistent ID</key><string>EBAB32B78A68FF2A</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>NOFX</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>11275</integer>
+					<key>Track ID</key><integer>11290</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11299</integer>
+					<key>Track ID</key><integer>11314</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11103</integer>
+					<key>Track ID</key><integer>11118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11325</integer>
+					<key>Track ID</key><integer>11340</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11083</integer>
+					<key>Track ID</key><integer>11098</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11065</integer>
+					<key>Track ID</key><integer>11080</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11093</integer>
+					<key>Track ID</key><integer>11108</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11047</integer>
+					<key>Track ID</key><integer>11062</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11461</integer>
+					<key>Track ID</key><integer>11476</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11067</integer>
+					<key>Track ID</key><integer>11082</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11173</integer>
+					<key>Track ID</key><integer>11188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11101</integer>
+					<key>Track ID</key><integer>11116</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11401</integer>
+					<key>Track ID</key><integer>11416</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11309</integer>
+					<key>Track ID</key><integer>11324</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11377</integer>
+					<key>Track ID</key><integer>11392</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11075</integer>
+					<key>Track ID</key><integer>11090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11217</integer>
+					<key>Track ID</key><integer>11232</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11323</integer>
+					<key>Track ID</key><integer>11338</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11085</integer>
+					<key>Track ID</key><integer>11100</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11073</integer>
+					<key>Track ID</key><integer>11088</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11471</integer>
+					<key>Track ID</key><integer>11486</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11475</integer>
+					<key>Track ID</key><integer>11490</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11467</integer>
+					<key>Track ID</key><integer>11482</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11205</integer>
+					<key>Track ID</key><integer>11220</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11139</integer>
+					<key>Track ID</key><integer>11154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11145</integer>
+					<key>Track ID</key><integer>11160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11287</integer>
+					<key>Track ID</key><integer>11302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11407</integer>
+					<key>Track ID</key><integer>11422</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11099</integer>
+					<key>Track ID</key><integer>11114</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11465</integer>
+					<key>Track ID</key><integer>11480</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11313</integer>
+					<key>Track ID</key><integer>11328</integer>
 				</dict>
 			</array>
 		</dict>

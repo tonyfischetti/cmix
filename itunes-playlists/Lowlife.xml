@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>40747</key>
+		<key>40738</key>
 		<dict>
-			<key>Track ID</key><integer>40747</integer>
+			<key>Track ID</key><integer>40738</integer>
 			<key>Size</key><integer>10555675</integer>
 			<key>Total Time</key><integer>245394</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -30,9 +30,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/01%20Sometime%20Something.mp3</string>
 		</dict>
-		<key>40735</key>
+		<key>40726</key>
 		<dict>
-			<key>Track ID</key><integer>40735</integer>
+			<key>Track ID</key><integer>40726</integer>
 			<key>Size</key><integer>10388488</integer>
 			<key>Total Time</key><integer>241214</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -56,9 +56,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/04%20Permanent%20Sleep.mp3</string>
 		</dict>
-		<key>40745</key>
+		<key>40736</key>
 		<dict>
-			<key>Track ID</key><integer>40745</integer>
+			<key>Track ID</key><integer>40736</integer>
 			<key>Size</key><integer>10257871</integer>
 			<key>Total Time</key><integer>237949</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -82,9 +82,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/06%20Hollow%20Gut.mp3</string>
 		</dict>
-		<key>40699</key>
+		<key>40690</key>
 		<dict>
-			<key>Track ID</key><integer>40699</integer>
+			<key>Track ID</key><integer>40690</integer>
 			<key>Size</key><integer>6198638</integer>
 			<key>Total Time</key><integer>249391</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -113,9 +113,9 @@
 			<key>Sort Name</key><string>Sullen Sky</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/01%20A%20Sullen%20Sky.mp3</string>
 		</dict>
-		<key>40707</key>
+		<key>40698</key>
 		<dict>
-			<key>Track ID</key><integer>40707</integer>
+			<key>Track ID</key><integer>40698</integer>
 			<key>Size</key><integer>5519668</integer>
 			<key>Total Time</key><integer>221100</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -143,9 +143,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/09%20Given%20to%20Dreaming.mp3</string>
 		</dict>
-		<key>40789</key>
+		<key>40780</key>
 		<dict>
-			<key>Track ID</key><integer>40789</integer>
+			<key>Track ID</key><integer>40780</integer>
 			<key>Size</key><integer>5031144</integer>
 			<key>Total Time</key><integer>181342</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -171,9 +171,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Godhead/07%20River%20Of%20Woe.mp3</string>
 		</dict>
-		<key>40773</key>
+		<key>40764</key>
 		<dict>
-			<key>Track ID</key><integer>40773</integer>
+			<key>Track ID</key><integer>40764</integer>
 			<key>Size</key><integer>6471182</integer>
 			<key>Total Time</key><integer>242416</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -199,34 +199,35 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/San%20Antorium/09%20Bathe.mp3</string>
 		</dict>
-		<key>40697</key>
+		<key>40688</key>
 		<dict>
-			<key>Track ID</key><integer>40697</integer>
-			<key>Size</key><integer>7493635</integer>
+			<key>Track ID</key><integer>40688</integer>
+			<key>Size</key><integer>7558403</integer>
 			<key>Total Time</key><integer>234292</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T04:43:08Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:59:09Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
 			<key>Play Date</key><integer>3643690169</integer>
 			<key>Play Date UTC</key><date>2019-06-18T12:09:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>34F1C804B129D23F</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Cowards Way</string>
 			<key>Artist</key><string>Lowlife</string>
 			<key>Album</key><string>Permanent Sleep</string>
 			<key>Genre</key><string>Darkwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Permanent%20Sleep/01%20Cowards%20Way.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Lowlife/Permanent%20Sleep/01%20Cowards%20Way.mp3</string>
 		</dict>
-		<key>40753</key>
+		<key>40744</key>
 		<dict>
-			<key>Track ID</key><integer>40753</integer>
+			<key>Track ID</key><integer>40744</integer>
 			<key>Size</key><integer>9803388</integer>
 			<key>Total Time</key><integer>226586</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -250,9 +251,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/09%20Eternity%20Road.mp3</string>
 		</dict>
-		<key>40757</key>
+		<key>40748</key>
 		<dict>
-			<key>Track ID</key><integer>40757</integer>
+			<key>Track ID</key><integer>40748</integer>
 			<key>Size</key><integer>10906815</integer>
 			<key>Total Time</key><integer>254171</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -276,9 +277,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/11%20Ramafied.mp3</string>
 		</dict>
-		<key>40743</key>
+		<key>40734</key>
 		<dict>
-			<key>Track ID</key><integer>40743</integer>
+			<key>Track ID</key><integer>40734</integer>
 			<key>Size</key><integer>8984144</integer>
 			<key>Total Time</key><integer>206106</integer>
 			<key>Track Number</key><integer>14</integer>
@@ -302,9 +303,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/14%20I%20The%20Cheated.mp3</string>
 		</dict>
-		<key>40737</key>
+		<key>40728</key>
 		<dict>
-			<key>Track ID</key><integer>40737</integer>
+			<key>Track ID</key><integer>40728</integer>
 			<key>Size</key><integer>10354018</integer>
 			<key>Total Time</key><integer>240352</integer>
 			<key>Track Number</key><integer>16</integer>
@@ -328,9 +329,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/16%20Suddenly%20Violently%20Random.mp3</string>
 		</dict>
-		<key>40739</key>
+		<key>40730</key>
 		<dict>
-			<key>Track ID</key><integer>40739</integer>
+			<key>Track ID</key><integer>40730</integer>
 			<key>Size</key><integer>12046732</integer>
 			<key>Total Time</key><integer>282671</integer>
 			<key>Track Number</key><integer>19</integer>
@@ -354,9 +355,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/19%20Swell.mp3</string>
 		</dict>
-		<key>40717</key>
+		<key>40708</key>
 		<dict>
-			<key>Track ID</key><integer>40717</integer>
+			<key>Track ID</key><integer>40708</integer>
 			<key>Size</key><integer>6080153</integer>
 			<key>Total Time</key><integer>244453</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -384,26 +385,27 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/02%20Big%20Uncle%20Ugliness.mp3</string>
 		</dict>
-		<key>40683</key>
+		<key>40674</key>
 		<dict>
-			<key>Track ID</key><integer>40683</integer>
-			<key>Size</key><integer>3460552</integer>
+			<key>Track ID</key><integer>40674</integer>
+			<key>Size</key><integer>3527955</integer>
 			<key>Total Time</key><integer>216137</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T04:43:09Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:59:10Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>128</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
 			<key>Play Date</key><integer>3643691854</integer>
 			<key>Play Date UTC</key><date>2019-06-18T12:37:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C25C70CC38460F31</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Betting &amp; Gaming Act 1964</string>
 			<key>Artist</key><string>Lowlife</string>
 			<key>Composer</key><string>Everest</string>
@@ -411,36 +413,37 @@
 			<key>Genre</key><string>Darkwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Name</key><string>Betting &amp; Gaming Act 1964</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Permanent%20Sleep/07%20The%20Betting%20&amp;%20Gaming%20Act%201964.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Lowlife/Permanent%20Sleep/07%20The%20Betting%20&amp;%20Gaming%20Act%201964.mp3</string>
 		</dict>
-		<key>40693</key>
+		<key>40684</key>
 		<dict>
-			<key>Track ID</key><integer>40693</integer>
-			<key>Size</key><integer>8971583</integer>
+			<key>Track ID</key><integer>40684</integer>
+			<key>Size</key><integer>9036351</integer>
 			<key>Total Time</key><integer>280528</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T04:43:09Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:59:10Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>5</integer>
 			<key>Play Date</key><integer>3643685690</integer>
 			<key>Play Date UTC</key><date>2019-06-18T10:54:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7C67FE3CD4197541</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Wild Swan</string>
 			<key>Artist</key><string>Lowlife</string>
 			<key>Album</key><string>Permanent Sleep</string>
 			<key>Genre</key><string>Darkwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Permanent%20Sleep/04%20Wild%20Swan.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Lowlife/Permanent%20Sleep/04%20Wild%20Swan.mp3</string>
 		</dict>
-		<key>40783</key>
+		<key>40774</key>
 		<dict>
-			<key>Track ID</key><integer>40783</integer>
+			<key>Track ID</key><integer>40774</integer>
 			<key>Size</key><integer>5459956</integer>
 			<key>Total Time</key><integer>199262</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -466,9 +469,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Godhead/03%20Marjory's%20Dream.mp3</string>
 		</dict>
-		<key>40807</key>
+		<key>40798</key>
 		<dict>
-			<key>Track ID</key><integer>40807</integer>
+			<key>Track ID</key><integer>40798</integer>
 			<key>Size</key><integer>3363596</integer>
 			<key>Total Time</key><integer>139964</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -492,9 +495,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Godhead/05%20Drowning%20Leaves.mp3</string>
 		</dict>
-		<key>40815</key>
+		<key>40806</key>
 		<dict>
-			<key>Track ID</key><integer>40815</integer>
+			<key>Track ID</key><integer>40806</integer>
 			<key>Size</key><integer>5038145</integer>
 			<key>Total Time</key><integer>312737</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -517,9 +520,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Gush/01%20Bleach.mp3</string>
 		</dict>
-		<key>40711</key>
+		<key>40702</key>
 		<dict>
-			<key>Track ID</key><integer>40711</integer>
+			<key>Track ID</key><integer>40702</integer>
 			<key>Size</key><integer>6803642</integer>
 			<key>Total Time</key><integer>274599</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -547,34 +550,35 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/07%20Licking%20One's%20Wounds.mp3</string>
 		</dict>
-		<key>40681</key>
+		<key>40672</key>
 		<dict>
-			<key>Track ID</key><integer>40681</integer>
-			<key>Size</key><integer>9733942</integer>
+			<key>Track ID</key><integer>40672</integer>
+			<key>Size</key><integer>9798710</integer>
 			<key>Total Time</key><integer>304378</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>1985</integer>
-			<key>Date Modified</key><date>2013-10-19T04:43:08Z</date>
+			<key>Date Modified</key><date>2019-12-29T15:59:09Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3643689196</integer>
 			<key>Play Date UTC</key><date>2019-06-18T11:53:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0F6C79CA4E58E2B6</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>As It Happens</string>
 			<key>Artist</key><string>Lowlife</string>
 			<key>Album</key><string>Permanent Sleep</string>
 			<key>Genre</key><string>Darkwave</string>
 			<key>Kind</key><string>MPEG audio file</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Permanent%20Sleep/02%20As%20It%20Happens.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Lowlife/Permanent%20Sleep/02%20As%20It%20Happens.mp3</string>
 		</dict>
-		<key>40797</key>
+		<key>40788</key>
 		<dict>
-			<key>Track ID</key><integer>40797</integer>
+			<key>Track ID</key><integer>40788</integer>
 			<key>Size</key><integer>6245600</integer>
 			<key>Total Time</key><integer>232933</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -600,9 +604,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Godhead/02%20Where%20I%20Lay,%20I'll%20Lie.mp3</string>
 		</dict>
-		<key>40767</key>
+		<key>40758</key>
 		<dict>
-			<key>Track ID</key><integer>40767</integer>
+			<key>Track ID</key><integer>40758</integer>
 			<key>Size</key><integer>6125893</integer>
 			<key>Total Time</key><integer>244767</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -628,9 +632,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/San%20Antorium/03%20My%20Mother's%20Fatherly%20Father.mp3</string>
 		</dict>
-		<key>40763</key>
+		<key>40754</key>
 		<dict>
-			<key>Track ID</key><integer>40763</integer>
+			<key>Track ID</key><integer>40754</integer>
 			<key>Size</key><integer>5069259</integer>
 			<key>Total Time</key><integer>200751</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -656,9 +660,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/San%20Antorium/13%20Forever%20Filthy.mp3</string>
 		</dict>
-		<key>40803</key>
+		<key>40794</key>
 		<dict>
-			<key>Track ID</key><integer>40803</integer>
+			<key>Track ID</key><integer>40794</integer>
 			<key>Size</key><integer>4690568</integer>
 			<key>Total Time</key><integer>185756</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -684,9 +688,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Godhead/04%20I%20Don't%20Talk%20To%20Me.mp3</string>
 		</dict>
-		<key>40779</key>
+		<key>40770</key>
 		<dict>
-			<key>Track ID</key><integer>40779</integer>
+			<key>Track ID</key><integer>40770</integer>
 			<key>Size</key><integer>5688792</integer>
 			<key>Total Time</key><integer>230478</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -712,9 +716,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/San%20Antorium/04%20Big%20Fat%20Funky%20Whale.mp3</string>
 		</dict>
-		<key>40761</key>
+		<key>40752</key>
 		<dict>
-			<key>Track ID</key><integer>40761</integer>
+			<key>Track ID</key><integer>40752</integer>
 			<key>Size</key><integer>10789732</integer>
 			<key>Total Time</key><integer>251245</integer>
 			<key>Track Number</key><integer>17</integer>
@@ -738,9 +742,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Eternity%20Road/17%20Give%20Up%20Giving%20Up.mp3</string>
 		</dict>
-		<key>40713</key>
+		<key>40704</key>
 		<dict>
-			<key>Track ID</key><integer>40713</integer>
+			<key>Track ID</key><integer>40704</integer>
 			<key>Size</key><integer>5039429</integer>
 			<key>Total Time</key><integer>201090</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -768,9 +772,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/14%20Colours%20Blue.mp3</string>
 		</dict>
-		<key>40805</key>
+		<key>40796</key>
 		<dict>
-			<key>Track ID</key><integer>40805</integer>
+			<key>Track ID</key><integer>40796</integer>
 			<key>Size</key><integer>6612063</integer>
 			<key>Total Time</key><integer>252473</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -796,9 +800,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Godhead/06%20Bittersweet.mp3</string>
 		</dict>
-		<key>40719</key>
+		<key>40710</key>
 		<dict>
-			<key>Track ID</key><integer>40719</integer>
+			<key>Track ID</key><integer>40710</integer>
 			<key>Size</key><integer>5608683</integer>
 			<key>Total Time</key><integer>224809</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -826,9 +830,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Diminuendo/13%20Swing.mp3</string>
 		</dict>
-		<key>40817</key>
+		<key>40808</key>
 		<dict>
-			<key>Track ID</key><integer>40817</integer>
+			<key>Track ID</key><integer>40808</integer>
 			<key>Size</key><integer>4507308</integer>
 			<key>Total Time</key><integer>279484</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -851,9 +855,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/Gush/05%20Tocopherol.mp3</string>
 		</dict>
-		<key>40769</key>
+		<key>40760</key>
 		<dict>
-			<key>Track ID</key><integer>40769</integer>
+			<key>Track ID</key><integer>40760</integer>
 			<key>Size</key><integer>5877898</integer>
 			<key>Total Time</key><integer>228832</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -879,9 +883,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Lowlife/San%20Antorium/11%20Missing%20The%20Kick.mp3</string>
 		</dict>
-		<key>40823</key>
+		<key>40814</key>
 		<dict>
-			<key>Track ID</key><integer>40823</integer>
+			<key>Track ID</key><integer>40814</integer>
 			<key>Size</key><integer>4071125</integer>
 			<key>Total Time</key><integer>252160</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -908,110 +912,110 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>137178</integer>
+			<key>Playlist ID</key><integer>137458</integer>
 			<key>Playlist Persistent ID</key><string>3CD37D977522B356</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Lowlife</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>40747</integer>
+					<key>Track ID</key><integer>40738</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40735</integer>
+					<key>Track ID</key><integer>40726</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40745</integer>
+					<key>Track ID</key><integer>40736</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40699</integer>
+					<key>Track ID</key><integer>40690</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40707</integer>
+					<key>Track ID</key><integer>40698</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40789</integer>
+					<key>Track ID</key><integer>40780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40773</integer>
+					<key>Track ID</key><integer>40764</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40697</integer>
+					<key>Track ID</key><integer>40688</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40753</integer>
+					<key>Track ID</key><integer>40744</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40757</integer>
+					<key>Track ID</key><integer>40748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40743</integer>
+					<key>Track ID</key><integer>40734</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40737</integer>
+					<key>Track ID</key><integer>40728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40739</integer>
+					<key>Track ID</key><integer>40730</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40717</integer>
+					<key>Track ID</key><integer>40708</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40683</integer>
+					<key>Track ID</key><integer>40674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40693</integer>
+					<key>Track ID</key><integer>40684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40783</integer>
+					<key>Track ID</key><integer>40774</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40807</integer>
+					<key>Track ID</key><integer>40798</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40815</integer>
+					<key>Track ID</key><integer>40806</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40711</integer>
+					<key>Track ID</key><integer>40702</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40681</integer>
+					<key>Track ID</key><integer>40672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40797</integer>
+					<key>Track ID</key><integer>40788</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40767</integer>
+					<key>Track ID</key><integer>40758</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40763</integer>
+					<key>Track ID</key><integer>40754</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40803</integer>
+					<key>Track ID</key><integer>40794</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40779</integer>
+					<key>Track ID</key><integer>40770</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40761</integer>
+					<key>Track ID</key><integer>40752</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40713</integer>
+					<key>Track ID</key><integer>40704</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40805</integer>
+					<key>Track ID</key><integer>40796</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40719</integer>
+					<key>Track ID</key><integer>40710</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40817</integer>
+					<key>Track ID</key><integer>40808</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40769</integer>
+					<key>Track ID</key><integer>40760</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>40823</integer>
+					<key>Track ID</key><integer>40814</integer>
 				</dict>
 			</array>
 		</dict>

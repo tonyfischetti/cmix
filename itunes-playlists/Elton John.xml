@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>12859</key>
+		<key>12874</key>
 		<dict>
-			<key>Track ID</key><integer>12859</integer>
+			<key>Track ID</key><integer>12874</integer>
 			<key>Size</key><integer>16084469</integer>
 			<key>Total Time</key><integer>669753</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -29,9 +29,9 @@
 			<key>Comments</key><string>Comment</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/01%20Funeral%20For%20A%20Friend_Love%20Lies%20Bleeding.mp3</string>
 		</dict>
-		<key>12871</key>
+		<key>12886</key>
 		<dict>
-			<key>Track ID</key><integer>12871</integer>
+			<key>Track ID</key><integer>12886</integer>
 			<key>Size</key><integer>7764763</integer>
 			<key>Total Time</key><integer>323526</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -54,9 +54,9 @@
 			<key>Comments</key><string>Comment</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/03%20Bennie%20And%20The%20Jets.mp3</string>
 		</dict>
-		<key>12845</key>
+		<key>12860</key>
 		<dict>
-			<key>Track ID</key><integer>12845</integer>
+			<key>Track ID</key><integer>12860</integer>
 			<key>Size</key><integer>4644489</integer>
 			<key>Total Time</key><integer>193515</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -79,9 +79,9 @@
 			<key>Comments</key><string>Comment</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/04%20Goodbye%20Yellow%20Brick%20Road.mp3</string>
 		</dict>
-		<key>12853</key>
+		<key>12868</key>
 		<dict>
-			<key>Track ID</key><integer>12853</integer>
+			<key>Track ID</key><integer>12868</integer>
 			<key>Size</key><integer>7059684</integer>
 			<key>Total Time</key><integer>293720</integer>
 			<key>Track Number</key><integer>14</integer>
@@ -104,9 +104,9 @@
 			<key>Comments</key><string>Comment</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Goodbye%20Yellow%20Brick%20Road/14%20Saturday%20Night's%20Alright%20For%20Fighting.mp3</string>
 		</dict>
-		<key>12827</key>
+		<key>12842</key>
 		<dict>
-			<key>Track ID</key><integer>12827</integer>
+			<key>Track ID</key><integer>12842</integer>
 			<key>Size</key><integer>9053123</integer>
 			<key>Total Time</key><integer>377208</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -129,9 +129,9 @@
 			<key>Comments</key><string>Comment</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Madman%20Across%20The%20Water/01%20Tiny%20Dancer.mp3</string>
 		</dict>
-		<key>12835</key>
+		<key>12850</key>
 		<dict>
-			<key>Track ID</key><integer>12835</integer>
+			<key>Track ID</key><integer>12850</integer>
 			<key>Size</key><integer>9823630</integer>
 			<key>Total Time</key><integer>409312</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -154,9 +154,9 @@
 			<key>Comments</key><string>Comment</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Madman%20Across%20The%20Water/06%20Someone%20Saved%20My%20Life%20Tonight.mp3</string>
 		</dict>
-		<key>12829</key>
+		<key>12844</key>
 		<dict>
-			<key>Track ID</key><integer>12829</integer>
+			<key>Track ID</key><integer>12844</integer>
 			<key>Size</key><integer>5867647</integer>
 			<key>Total Time</key><integer>244480</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -179,9 +179,9 @@
 			<key>Comments</key><string>Comment</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Madman%20Across%20The%20Water/04%20Your%20Song.mp3</string>
 		</dict>
-		<key>12777</key>
+		<key>12792</key>
 		<dict>
-			<key>Track ID</key><integer>12777</integer>
+			<key>Track ID</key><integer>12792</integer>
 			<key>Size</key><integer>6785229</integer>
 			<key>Total Time</key><integer>282697</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -206,9 +206,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Elton%20John/Greatest%20Hits%201970-2002/1-04%20Rocket%20Man.mp3</string>
 		</dict>
-		<key>12785</key>
+		<key>12800</key>
 		<dict>
-			<key>Track ID</key><integer>12785</integer>
+			<key>Track ID</key><integer>12800</integer>
 			<key>Size</key><integer>5662341</integer>
 			<key>Total Time</key><integer>235911</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -237,38 +237,38 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>132844</integer>
+			<key>Playlist ID</key><integer>133124</integer>
 			<key>Playlist Persistent ID</key><string>76A8449AE87122E5</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Elton John</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12859</integer>
+					<key>Track ID</key><integer>12874</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12871</integer>
+					<key>Track ID</key><integer>12886</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12845</integer>
+					<key>Track ID</key><integer>12860</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12853</integer>
+					<key>Track ID</key><integer>12868</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12827</integer>
+					<key>Track ID</key><integer>12842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12835</integer>
+					<key>Track ID</key><integer>12850</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12829</integer>
+					<key>Track ID</key><integer>12844</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12777</integer>
+					<key>Track ID</key><integer>12792</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12785</integer>
+					<key>Track ID</key><integer>12800</integer>
 				</dict>
 			</array>
 		</dict>

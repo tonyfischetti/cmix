@@ -4,98 +4,102 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>47845</key>
+		<key>47836</key>
 		<dict>
-			<key>Track ID</key><integer>47845</integer>
-			<key>Size</key><integer>8026112</integer>
+			<key>Track ID</key><integer>47836</integer>
+			<key>Size</key><integer>8150549</integer>
 			<key>Total Time</key><integer>253204</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>1</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:17Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:45Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>253</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A34D01B2605C7F5A</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Grow Up And Blow Away</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/01%20Grow%20Up%20And%20Blow%20Away.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/01%20Grow%20Up%20And%20Blow%20Away.mp3</string>
 		</dict>
-		<key>47847</key>
+		<key>47838</key>
 		<dict>
-			<key>Track ID</key><integer>47847</integer>
-			<key>Size</key><integer>8560640</integer>
+			<key>Track ID</key><integer>47838</integer>
+			<key>Size</key><integer>8684997</integer>
 			<key>Total Time</key><integer>282017</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>2</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:17Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:45Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>242</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BC6558C60DA0F74F</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Hardwire</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/02%20Hardwire.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/02%20Hardwire.mp3</string>
 		</dict>
-		<key>47841</key>
+		<key>47832</key>
 		<dict>
-			<key>Track ID</key><integer>47841</integer>
-			<key>Size</key><integer>7041024</integer>
+			<key>Track ID</key><integer>47832</integer>
+			<key>Size</key><integer>7166247</integer>
 			<key>Total Time</key><integer>231653</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:17Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:45Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>243</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F9C78FF306AD1D82</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Rock Me Now</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/03%20Rock%20Me%20Now.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/03%20Rock%20Me%20Now.mp3</string>
 		</dict>
-		<key>47833</key>
+		<key>47824</key>
 		<dict>
-			<key>Track ID</key><integer>47833</integer>
-			<key>Size</key><integer>6545408</integer>
+			<key>Track ID</key><integer>47824</integer>
+			<key>Size</key><integer>6670383</integer>
 			<key>Total Time</key><integer>216659</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>4</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:18Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:45Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>241</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>132018F7EE838DF1</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>The Twist</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
@@ -103,136 +107,141 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
 			<key>Sort Name</key><string>Twist</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/04%20The%20Twist.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/04%20The%20Twist.mp3</string>
 		</dict>
-		<key>47839</key>
+		<key>47830</key>
 		<dict>
-			<key>Track ID</key><integer>47839</integer>
-			<key>Size</key><integer>7987200</integer>
+			<key>Track ID</key><integer>47830</integer>
+			<key>Size</key><integer>8111812</integer>
 			<key>Total Time</key><integer>238053</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:18Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:45Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>268</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>74E004382DD3F603</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>On The Sly</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/05%20On%20The%20Sly.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/05%20On%20The%20Sly.mp3</string>
 		</dict>
-		<key>47837</key>
+		<key>47828</key>
 		<dict>
-			<key>Track ID</key><integer>47837</integer>
-			<key>Size</key><integer>8663040</integer>
+			<key>Track ID</key><integer>47828</integer>
+			<key>Size</key><integer>8787891</integer>
 			<key>Total Time</key><integer>240587</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:18Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:46Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>288</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>21DE9E288C7E1CCB</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Soft Rock Star</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/06%20Soft%20Rock%20Star.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/06%20Soft%20Rock%20Star.mp3</string>
 		</dict>
-		<key>47843</key>
+		<key>47834</key>
 		<dict>
-			<key>Track ID</key><integer>47843</integer>
-			<key>Size</key><integer>6492160</integer>
+			<key>Track ID</key><integer>47834</integer>
+			<key>Size</key><integer>6616364</integer>
 			<key>Total Time</key><integer>218383</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:18Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:46Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>237</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FE58FFE657A3854B</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Raw Sugar</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/07%20Raw%20Sugar.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/07%20Raw%20Sugar.mp3</string>
 		</dict>
-		<key>47835</key>
+		<key>47826</key>
 		<dict>
-			<key>Track ID</key><integer>47835</integer>
-			<key>Size</key><integer>7536640</integer>
+			<key>Track ID</key><integer>47826</integer>
+			<key>Size</key><integer>7661288</integer>
 			<key>Total Time</key><integer>249626</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:19Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:46Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>241</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3D01FA4377893332</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>White Gold</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/08%20White%20Gold.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/08%20White%20Gold.mp3</string>
 		</dict>
-		<key>47831</key>
+		<key>47822</key>
 		<dict>
-			<key>Track ID</key><integer>47831</integer>
-			<key>Size</key><integer>8400896</integer>
+			<key>Track ID</key><integer>47822</integer>
+			<key>Size</key><integer>8525941</integer>
 			<key>Total Time</key><integer>263941</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
 			<key>Track Number</key><integer>10</integer>
 			<key>Year</key><integer>2007</integer>
-			<key>Date Modified</key><date>2013-10-19T04:45:19Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:18:46Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>254</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>316C5FE5E97BE47F</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Soft Rock Star (Jimmy vs. Joe mix)</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Grow Up And Blow Away</string>
 			<key>Genre</key><string>Indie Rock</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>arterialzed</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Grow%20Up%20And%20Blow%20Away/10%20Soft%20Rock%20Star%20(Jimmy%20vs.%20Joe%20mix).mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/Metric/Grow%20Up%20And%20Blow%20Away/10%20Soft%20Rock%20Star%20(Jimmy%20vs.%20Joe%20mix).mp3</string>
 		</dict>
-		<key>47883</key>
+		<key>47874</key>
 		<dict>
-			<key>Track ID</key><integer>47883</integer>
+			<key>Track ID</key><integer>47874</integer>
 			<key>Size</key><integer>4773877</integer>
 			<key>Total Time</key><integer>190223</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -254,9 +263,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Live%20It%20Out/03%20Handshakes.mp3</string>
 		</dict>
-		<key>47879</key>
+		<key>47870</key>
 		<dict>
-			<key>Track ID</key><integer>47879</integer>
+			<key>Track ID</key><integer>47870</integer>
 			<key>Size</key><integer>6599409</integer>
 			<key>Total Time</key><integer>266292</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -278,9 +287,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Live%20It%20Out/04%20Too%20Little,%20Too%20Late.mp3</string>
 		</dict>
-		<key>47893</key>
+		<key>47884</key>
 		<dict>
-			<key>Track ID</key><integer>47893</integer>
+			<key>Track ID</key><integer>47884</integer>
 			<key>Size</key><integer>5354931</integer>
 			<key>Total Time</key><integer>214439</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -302,9 +311,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Live%20It%20Out/06%20Monster%20Hospital.mp3</string>
 		</dict>
-		<key>47853</key>
+		<key>47844</key>
 		<dict>
-			<key>Track ID</key><integer>47853</integer>
+			<key>Track ID</key><integer>47844</integer>
 			<key>Size</key><integer>4337819</integer>
 			<key>Total Time</key><integer>212062</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -329,9 +338,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Old%20World%20Underground,%20Where%20Are%20You%20Now_/04%20Combat%20Baby.mp3</string>
 		</dict>
-		<key>47865</key>
+		<key>47856</key>
 		<dict>
-			<key>Track ID</key><integer>47865</integer>
+			<key>Track ID</key><integer>47856</integer>
 			<key>Size</key><integer>4292012</integer>
 			<key>Total Time</key><integer>262217</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -353,9 +362,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Old%20World%20Underground,%20Where%20Are%20You%20Now_/01%20IOU.mp3</string>
 		</dict>
-		<key>47867</key>
+		<key>47858</key>
 		<dict>
-			<key>Track ID</key><integer>47867</integer>
+			<key>Track ID</key><integer>47858</integer>
 			<key>Size</key><integer>8100016</integer>
 			<key>Total Time</key><integer>333479</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -377,9 +386,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Old%20World%20Underground,%20Where%20Are%20You%20Now_/02%20Hustle%20Rose.mp3</string>
 		</dict>
-		<key>47855</key>
+		<key>47846</key>
 		<dict>
-			<key>Track ID</key><integer>47855</integer>
+			<key>Track ID</key><integer>47846</integer>
 			<key>Size</key><integer>3061728</integer>
 			<key>Total Time</key><integer>185338</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -401,9 +410,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Old%20World%20Underground,%20Where%20Are%20You%20Now_/03%20Succexy.mp3</string>
 		</dict>
-		<key>47851</key>
+		<key>47842</key>
 		<dict>
-			<key>Track ID</key><integer>47851</integer>
+			<key>Track ID</key><integer>47842</integer>
 			<key>Size</key><integer>4242389</integer>
 			<key>Total Time</key><integer>172721</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -427,9 +436,9 @@
 			<key>Sort Name</key><string>List</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Old%20World%20Underground,%20Where%20Are%20You%20Now_/08%20The%20List.mp3</string>
 		</dict>
-		<key>47863</key>
+		<key>47854</key>
 		<dict>
-			<key>Track ID</key><integer>47863</integer>
+			<key>Track ID</key><integer>47854</integer>
 			<key>Size</key><integer>5031056</integer>
 			<key>Total Time</key><integer>205609</integer>
 			<key>Track Number</key><integer>9</integer>
@@ -451,9 +460,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Old%20World%20Underground,%20Where%20Are%20You%20Now_/09%20Dead%20Disco.mp3</string>
 		</dict>
-		<key>47849</key>
+		<key>47840</key>
 		<dict>
-			<key>Track ID</key><integer>47849</integer>
+			<key>Track ID</key><integer>47840</integer>
 			<key>Size</key><integer>6042379</integer>
 			<key>Total Time</key><integer>247745</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -475,9 +484,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Old%20World%20Underground,%20Where%20Are%20You%20Now_/06%20Wet%20Blanket.mp3</string>
 		</dict>
-		<key>47929</key>
+		<key>47920</key>
 		<dict>
-			<key>Track ID</key><integer>47929</integer>
+			<key>Track ID</key><integer>47920</integer>
 			<key>Size</key><integer>4466879</integer>
 			<key>Total Time</key><integer>263556</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -499,9 +508,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Metric/Static%20Anonymity%20EP/01%20Grow%20Up%20and%20Blow%20Away.mp3</string>
 		</dict>
-		<key>47927</key>
+		<key>47918</key>
 		<dict>
-			<key>Track ID</key><integer>47927</integer>
+			<key>Track ID</key><integer>47918</integer>
 			<key>Size</key><integer>5095136</integer>
 			<key>Total Time</key><integer>201456</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -527,74 +536,74 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>137214</integer>
+			<key>Playlist ID</key><integer>137494</integer>
 			<key>Playlist Persistent ID</key><string>2B327DF8B3030DAA</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Metric</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>47845</integer>
+					<key>Track ID</key><integer>47836</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47847</integer>
+					<key>Track ID</key><integer>47838</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47841</integer>
+					<key>Track ID</key><integer>47832</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47833</integer>
+					<key>Track ID</key><integer>47824</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47839</integer>
+					<key>Track ID</key><integer>47830</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47837</integer>
+					<key>Track ID</key><integer>47828</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47843</integer>
+					<key>Track ID</key><integer>47834</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47835</integer>
+					<key>Track ID</key><integer>47826</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47831</integer>
+					<key>Track ID</key><integer>47822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47883</integer>
+					<key>Track ID</key><integer>47874</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47879</integer>
+					<key>Track ID</key><integer>47870</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47893</integer>
+					<key>Track ID</key><integer>47884</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47853</integer>
+					<key>Track ID</key><integer>47844</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47865</integer>
+					<key>Track ID</key><integer>47856</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47867</integer>
+					<key>Track ID</key><integer>47858</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47855</integer>
+					<key>Track ID</key><integer>47846</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47851</integer>
+					<key>Track ID</key><integer>47842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47863</integer>
+					<key>Track ID</key><integer>47854</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47849</integer>
+					<key>Track ID</key><integer>47840</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47929</integer>
+					<key>Track ID</key><integer>47920</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>47927</integer>
+					<key>Track ID</key><integer>47918</integer>
 				</dict>
 			</array>
 		</dict>

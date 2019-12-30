@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>54163</key>
+		<key>54072</key>
 		<dict>
-			<key>Track ID</key><integer>54163</integer>
+			<key>Track ID</key><integer>54072</integer>
 			<key>Size</key><integer>6836524</integer>
 			<key>Total Time</key><integer>201142</integer>
 			<key>Disc Number</key><integer>1</integer>
@@ -42,14 +42,14 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>132714</integer>
+			<key>Playlist ID</key><integer>132993</integer>
 			<key>Playlist Persistent ID</key><string>208493233C0D3F41</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Disco</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>54163</integer>
+					<key>Track ID</key><integer>54072</integer>
 				</dict>
 			</array>
 		</dict>

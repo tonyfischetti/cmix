@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>27937</key>
+		<key>27950</key>
 		<dict>
-			<key>Track ID</key><integer>27937</integer>
+			<key>Track ID</key><integer>27950</integer>
 			<key>Size</key><integer>7507975</integer>
 			<key>Total Time</key><integer>293459</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -32,9 +32,9 @@
 			<key>Sort Artist</key><string>Stone Roses</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Very%20Best%20Of%20The%20Stone%20Roses/01%20I%20Wanna%20Be%20Adored.mp3</string>
 		</dict>
-		<key>27929</key>
+		<key>27942</key>
 		<dict>
-			<key>Track ID</key><integer>27929</integer>
+			<key>Track ID</key><integer>27942</integer>
 			<key>Size</key><integer>6901179</integer>
 			<key>Total Time</key><integer>230478</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -60,9 +60,9 @@
 			<key>Sort Artist</key><string>Stone Roses</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Very%20Best%20Of%20The%20Stone%20Roses/02%20She%20Bangs%20The%20Drums.mp3</string>
 		</dict>
-		<key>27927</key>
+		<key>27940</key>
 		<dict>
-			<key>Track ID</key><integer>27927</integer>
+			<key>Track ID</key><integer>27940</integer>
 			<key>Size</key><integer>7210886</integer>
 			<key>Total Time</key><integer>279640</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -88,25 +88,26 @@
 			<key>Sort Artist</key><string>Stone Roses</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Very%20Best%20Of%20The%20Stone%20Roses/04%20Waterfall.mp3</string>
 		</dict>
-		<key>27893</key>
+		<key>27906</key>
 		<dict>
-			<key>Track ID</key><integer>27893</integer>
-			<key>Size</key><integer>4134405</integer>
+			<key>Track ID</key><integer>27906</integer>
+			<key>Size</key><integer>4332858</integer>
 			<key>Total Time</key><integer>206602</integer>
 			<key>Track Number</key><integer>8</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1989</integer>
-			<key>Date Modified</key><date>2014-06-05T20:06:44Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:36:59Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3614665763</integer>
 			<key>Play Date UTC</key><date>2018-07-17T13:49:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>19BDDB157FBEDDC4</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Song For My Sugar Spun Sister</string>
 			<key>Artist</key><string>The Stone Roses</string>
 			<key>Album</key><string>The Stone Roses</string>
@@ -114,11 +115,11 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Sort Album</key><string>Stone Roses</string>
 			<key>Sort Artist</key><string>Stone Roses</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Stone%20Roses/08%20Song%20For%20My%20Sugar%20Spun%20Sister.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Stone%20Roses/The%20Stone%20Roses/08%20Song%20For%20My%20Sugar%20Spun%20Sister.mp3</string>
 		</dict>
-		<key>27939</key>
+		<key>27952</key>
 		<dict>
-			<key>Track ID</key><integer>27939</integer>
+			<key>Track ID</key><integer>27952</integer>
 			<key>Size</key><integer>6683019</integer>
 			<key>Total Time</key><integer>256862</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -144,9 +145,9 @@
 			<key>Sort Artist</key><string>Stone Roses</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Very%20Best%20Of%20The%20Stone%20Roses/05%20Made%20Of%20Stone.mp3</string>
 		</dict>
-		<key>27931</key>
+		<key>27944</key>
 		<dict>
-			<key>Track ID</key><integer>27931</integer>
+			<key>Track ID</key><integer>27944</integer>
 			<key>Size</key><integer>7395319</integer>
 			<key>Total Time</key><integer>263967</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -172,9 +173,9 @@
 			<key>Sort Artist</key><string>Stone Roses</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Very%20Best%20Of%20The%20Stone%20Roses/03%20Ten%20Storey%20Love%20Song.mp3</string>
 		</dict>
-		<key>27919</key>
+		<key>27932</key>
 		<dict>
-			<key>Track ID</key><integer>27919</integer>
+			<key>Track ID</key><integer>27932</integer>
 			<key>Size</key><integer>8599611</integer>
 			<key>Total Time</key><integer>291448</integer>
 			<key>Track Number</key><integer>11</integer>
@@ -200,9 +201,9 @@
 			<key>Sort Artist</key><string>Stone Roses</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Very%20Best%20Of%20The%20Stone%20Roses/11%20Elephant%20Stone.mp3</string>
 		</dict>
-		<key>27925</key>
+		<key>27938</key>
 		<dict>
-			<key>Track ID</key><integer>27925</integer>
+			<key>Track ID</key><integer>27938</integer>
 			<key>Size</key><integer>7862250</integer>
 			<key>Total Time</key><integer>300878</integer>
 			<key>Track Number</key><integer>14</integer>
@@ -228,25 +229,26 @@
 			<key>Sort Artist</key><string>Stone Roses</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Very%20Best%20Of%20The%20Stone%20Roses/14%20This%20Is%20The%20One.mp3</string>
 		</dict>
-		<key>27905</key>
+		<key>27918</key>
 		<dict>
-			<key>Track ID</key><integer>27905</integer>
-			<key>Size</key><integer>9887084</integer>
+			<key>Track ID</key><integer>27918</integer>
+			<key>Size</key><integer>10085550</integer>
 			<key>Total Time</key><integer>494236</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>1989</integer>
-			<key>Date Modified</key><date>2014-06-05T20:06:44Z</date>
+			<key>Date Modified</key><date>2019-12-30T03:36:59Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>160</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3614667370</integer>
 			<key>Play Date UTC</key><date>2018-07-17T14:16:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>94A62ED3F529E93A</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>I Am The Resurrection</string>
 			<key>Artist</key><string>The Stone Roses</string>
 			<key>Album</key><string>The Stone Roses</string>
@@ -255,44 +257,44 @@
 			<key>Comments</key><string>5</string>
 			<key>Sort Album</key><string>Stone Roses</string>
 			<key>Sort Artist</key><string>Stone Roses</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Stone%20Roses/The%20Stone%20Roses/12%20I%20Am%20The%20Resurrection.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Stone%20Roses/The%20Stone%20Roses/12%20I%20Am%20The%20Resurrection.mp3</string>
 		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>141991</integer>
+			<key>Playlist ID</key><integer>142319</integer>
 			<key>Playlist Persistent ID</key><string>BB867E6075777FC1</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The Stone Roses</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>27937</integer>
+					<key>Track ID</key><integer>27950</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27929</integer>
+					<key>Track ID</key><integer>27942</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27927</integer>
+					<key>Track ID</key><integer>27940</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27893</integer>
+					<key>Track ID</key><integer>27906</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27939</integer>
+					<key>Track ID</key><integer>27952</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27931</integer>
+					<key>Track ID</key><integer>27944</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27919</integer>
+					<key>Track ID</key><integer>27932</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27925</integer>
+					<key>Track ID</key><integer>27938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27905</integer>
+					<key>Track ID</key><integer>27918</integer>
 				</dict>
 			</array>
 		</dict>

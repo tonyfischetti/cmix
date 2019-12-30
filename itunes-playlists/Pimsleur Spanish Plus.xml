@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>33305</key>
+		<key>33318</key>
 		<dict>
-			<key>Track ID</key><integer>33305</integer>
+			<key>Track ID</key><integer>33318</integer>
 			<key>Size</key><integer>13068846</integer>
 			<key>Total Time</key><integer>1790746</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -25,9 +25,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/01%20Spanish%20Plus%20-%2001.mp3</string>
 		</dict>
-		<key>33291</key>
+		<key>33304</key>
 		<dict>
-			<key>Track ID</key><integer>33291</integer>
+			<key>Track ID</key><integer>33304</integer>
 			<key>Size</key><integer>13154225</integer>
 			<key>Total Time</key><integer>1797093</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -46,9 +46,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/02%20Spanish%20Plus%20-%2002.mp3</string>
 		</dict>
-		<key>33307</key>
+		<key>33320</key>
 		<dict>
-			<key>Track ID</key><integer>33307</integer>
+			<key>Track ID</key><integer>33320</integer>
 			<key>Size</key><integer>13132813</integer>
 			<key>Total Time</key><integer>1793097</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -67,9 +67,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/01%20Spanish%20Plus%20-%2003.mp3</string>
 		</dict>
-		<key>33299</key>
+		<key>33312</key>
 		<dict>
-			<key>Track ID</key><integer>33299</integer>
+			<key>Track ID</key><integer>33312</integer>
 			<key>Size</key><integer>7728733</integer>
 			<key>Total Time</key><integer>1806942</integer>
 			<key>Date Modified</key><date>2016-04-16T18:06:04Z</date>
@@ -87,9 +87,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/Spanish%20Plus%20-%2004.mp3</string>
 		</dict>
-		<key>33303</key>
+		<key>33316</key>
 		<dict>
-			<key>Track ID</key><integer>33303</integer>
+			<key>Track ID</key><integer>33316</integer>
 			<key>Size</key><integer>13275875</integer>
 			<key>Total Time</key><integer>1815614</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -108,9 +108,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/01%20Spanish%20Plus%20-%2005.mp3</string>
 		</dict>
-		<key>33295</key>
+		<key>33308</key>
 		<dict>
-			<key>Track ID</key><integer>33295</integer>
+			<key>Track ID</key><integer>33308</integer>
 			<key>Size</key><integer>13190265</integer>
 			<key>Total Time</key><integer>1809214</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -129,9 +129,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/02%20Spanish%20Plus%20-%2006.mp3</string>
 		</dict>
-		<key>33301</key>
+		<key>33314</key>
 		<dict>
-			<key>Track ID</key><integer>33301</integer>
+			<key>Track ID</key><integer>33314</integer>
 			<key>Size</key><integer>13297312</integer>
 			<key>Total Time</key><integer>1807098</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -152,9 +152,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/01%20Spanish%20Plus%20-%2007.mp3</string>
 		</dict>
-		<key>33309</key>
+		<key>33322</key>
 		<dict>
-			<key>Track ID</key><integer>33309</integer>
+			<key>Track ID</key><integer>33322</integer>
 			<key>Size</key><integer>12857687</integer>
 			<key>Total Time</key><integer>1794690</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -173,9 +173,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/02%20Spanish%20Plus%20-%2008.mp3</string>
 		</dict>
-		<key>33297</key>
+		<key>33310</key>
 		<dict>
-			<key>Track ID</key><integer>33297</integer>
+			<key>Track ID</key><integer>33310</integer>
 			<key>Size</key><integer>13128257</integer>
 			<key>Total Time</key><integer>1809841</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -194,9 +194,9 @@
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/Pimsleur/Spanish%20Plus/01%20Spanish%20Plus%20-%2009.mp3</string>
 		</dict>
-		<key>33293</key>
+		<key>33306</key>
 		<dict>
-			<key>Track ID</key><integer>33293</integer>
+			<key>Track ID</key><integer>33306</integer>
 			<key>Size</key><integer>12995511</integer>
 			<key>Total Time</key><integer>1807751</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -219,41 +219,41 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>137785</integer>
+			<key>Playlist ID</key><integer>138111</integer>
 			<key>Playlist Persistent ID</key><string>1BCD5FBABE5BEAC2</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>Pimsleur Spanish Plus</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>33305</integer>
+					<key>Track ID</key><integer>33318</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33291</integer>
+					<key>Track ID</key><integer>33304</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33307</integer>
+					<key>Track ID</key><integer>33320</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33299</integer>
+					<key>Track ID</key><integer>33312</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33303</integer>
+					<key>Track ID</key><integer>33316</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33295</integer>
+					<key>Track ID</key><integer>33308</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33301</integer>
+					<key>Track ID</key><integer>33314</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33309</integer>
+					<key>Track ID</key><integer>33322</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33297</integer>
+					<key>Track ID</key><integer>33310</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33293</integer>
+					<key>Track ID</key><integer>33306</integer>
 				</dict>
 			</array>
 		</dict>

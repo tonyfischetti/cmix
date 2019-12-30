@@ -4,9 +4,9 @@
 <dict>
 	<key>Tracks</key>
 	<dict>
-		<key>15453</key>
+		<key>15466</key>
 		<dict>
-			<key>Track ID</key><integer>15453</integer>
+			<key>Track ID</key><integer>15466</integer>
 			<key>Size</key><integer>3871373</integer>
 			<key>Total Time</key><integer>160208</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -32,9 +32,9 @@
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/07%20We're%20A%20Happy%20Family.mp3</string>
 		</dict>
-		<key>15429</key>
+		<key>15442</key>
 		<dict>
-			<key>Track ID</key><integer>15429</integer>
+			<key>Track ID</key><integer>15442</integer>
 			<key>Size</key><integer>4094529</integer>
 			<key>Total Time</key><integer>169508</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -59,9 +59,9 @@
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/03%20Here%20Today,%20Gone%20Tomorrow.mp3</string>
 		</dict>
-		<key>15241</key>
+		<key>15254</key>
 		<dict>
-			<key>Track ID</key><integer>15241</integer>
+			<key>Track ID</key><integer>15254</integer>
 			<key>Size</key><integer>5746554</integer>
 			<key>Total Time</key><integer>212897</integer>
 			<key>Track Number</key><integer>19</integer>
@@ -70,9 +70,9 @@
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>215</integer>
 			<key>Sample Rate</key><integer>44100</integer>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3643569800</integer>
-			<key>Play Date UTC</key><date>2019-06-17T02:43:20Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3655274606</integer>
+			<key>Play Date UTC</key><date>2019-10-30T14:03:26Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F294F46AD77C7CCA</string>
 			<key>Track Type</key><string>File</string>
@@ -91,24 +91,27 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Greatest%20Hits/19%20Pet%20Sematary%20(Single%20Version).mp3</string>
 		</dict>
-		<key>15277</key>
+		<key>15290</key>
 		<dict>
-			<key>Track ID</key><integer>15277</integer>
-			<key>Size</key><integer>3061760</integer>
+			<key>Track ID</key><integer>15290</integer>
+			<key>Size</key><integer>3217098</integer>
 			<key>Total Time</key><integer>127555</integer>
 			<key>Track Number</key><integer>6</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2013-10-19T05:15:41Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:35:49Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3643570696</integer>
 			<key>Play Date UTC</key><date>2019-06-17T02:58:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-30T14:03:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D97E05A1C9339215</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>I'm Against It</string>
 			<key>Artist</key><string>The Ramones</string>
 			<key>Album</key><string>Road To Ruin</string>
@@ -116,23 +119,26 @@ ASIN: B000EXZI0A</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Ripped By Magnus Blom</string>
 			<key>Sort Artist</key><string>Ramones</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Road%20To%20Ruin/06%20I'm%20Against%20It.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Ramones/Road%20To%20Ruin/06%20I'm%20Against%20It.mp3</string>
 		</dict>
-		<key>15267</key>
+		<key>15280</key>
 		<dict>
-			<key>Track ID</key><integer>15267</integer>
-			<key>Size</key><integer>3430400</integer>
+			<key>Track ID</key><integer>15280</integer>
+			<key>Size</key><integer>3584491</integer>
 			<key>Total Time</key><integer>142863</integer>
 			<key>Track Number</key><integer>12</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2013-10-19T05:15:42Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:35:49Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-30T14:03:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>96248DD6E576E57A</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>It's A Long Way Back</string>
 			<key>Artist</key><string>The Ramones</string>
 			<key>Album</key><string>Road To Ruin</string>
@@ -140,11 +146,11 @@ ASIN: B000EXZI0A</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Ripped By Magnus Blom</string>
 			<key>Sort Artist</key><string>Ramones</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Road%20To%20Ruin/12%20It's%20A%20Long%20Way%20Back.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Ramones/Road%20To%20Ruin/12%20It's%20A%20Long%20Way%20Back.mp3</string>
 		</dict>
-		<key>15439</key>
+		<key>15452</key>
 		<dict>
-			<key>Track ID</key><integer>15439</integer>
+			<key>Track ID</key><integer>15452</integer>
 			<key>Size</key><integer>4129384</integer>
 			<key>Total Time</key><integer>169978</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -169,9 +175,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/06%20Sheena%20Is%20A%20Punk%20Rocker.mp3</string>
 		</dict>
-		<key>15333</key>
+		<key>15346</key>
 		<dict>
-			<key>Track ID</key><integer>15333</integer>
+			<key>Track ID</key><integer>15346</integer>
 			<key>Size</key><integer>5724772</integer>
 			<key>Total Time</key><integer>136751</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -196,9 +202,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Leave%20Home/08%20Now%20I%20Wanna%20Be%20A%20Good%20Boy.mp3</string>
 		</dict>
-		<key>15421</key>
+		<key>15434</key>
 		<dict>
-			<key>Track ID</key><integer>15421</integer>
+			<key>Track ID</key><integer>15434</integer>
 			<key>Size</key><integer>3182985</integer>
 			<key>Total Time</key><integer>131526</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -224,24 +230,25 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/04%20Locket%20Love.mp3</string>
 		</dict>
-		<key>15287</key>
+		<key>15300</key>
 		<dict>
-			<key>Track ID</key><integer>15287</integer>
-			<key>Size</key><integer>3592192</integer>
+			<key>Track ID</key><integer>15300</integer>
+			<key>Size</key><integer>3747492</integer>
 			<key>Total Time</key><integer>149655</integer>
 			<key>Track Number</key><integer>7</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2013-10-19T05:15:41Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:35:49Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3643568409</integer>
 			<key>Play Date UTC</key><date>2019-06-17T02:20:09Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2B314857E8FC7F04</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>I Wanna Be Sedated</string>
 			<key>Artist</key><string>The Ramones</string>
 			<key>Album</key><string>Road To Ruin</string>
@@ -249,11 +256,11 @@ ASIN: B000EXZI0A</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Ripped By Magnus Blom</string>
 			<key>Sort Artist</key><string>Ramones</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Road%20To%20Ruin/07%20I%20Wanna%20Be%20Sedated.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Ramones/Road%20To%20Ruin/07%20I%20Wanna%20Be%20Sedated.mp3</string>
 		</dict>
-		<key>15343</key>
+		<key>15356</key>
 		<dict>
-			<key>Track ID</key><integer>15343</integer>
+			<key>Track ID</key><integer>15356</integer>
 			<key>Size</key><integer>4445818</integer>
 			<key>Total Time</key><integer>104777</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -278,9 +285,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Leave%20Home/02%20Gimme%20Gimme%20Shock%20Treatment.mp3</string>
 		</dict>
-		<key>15425</key>
+		<key>15438</key>
 		<dict>
-			<key>Track ID</key><integer>15425</integer>
+			<key>Track ID</key><integer>15438</integer>
 			<key>Size</key><integer>3490205</integer>
 			<key>Total Time</key><integer>144326</integer>
 			<key>Track Number</key><integer>15</integer>
@@ -305,9 +312,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/15%20Needles%20&amp;%20Pins%20(Early%20Version).mp3</string>
 		</dict>
-		<key>15195</key>
+		<key>15208</key>
 		<dict>
-			<key>Track ID</key><integer>15195</integer>
+			<key>Track ID</key><integer>15208</integer>
 			<key>Size</key><integer>5575203</integer>
 			<key>Total Time</key><integer>134164</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -319,6 +326,8 @@ ASIN: B000EXZI0A</string>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3643567849</integer>
 			<key>Play Date UTC</key><date>2019-06-17T02:10:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-30T13:58:59Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2B6C3A2B8A489DC7</string>
 			<key>Track Type</key><string>File</string>
@@ -332,9 +341,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20(Expanded%20&amp;%20Remastered)/01%20Blitzkrieg%20Bop.mp3</string>
 		</dict>
-		<key>15341</key>
+		<key>15354</key>
 		<dict>
-			<key>Track ID</key><integer>15341</integer>
+			<key>Track ID</key><integer>15354</integer>
 			<key>Size</key><integer>4712257</integer>
 			<key>Total Time</key><integer>111438</integer>
 			<key>Track Number</key><integer>21</integer>
@@ -359,9 +368,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Leave%20Home/21%20Chain%20Saw%20(Live).mp3</string>
 		</dict>
-		<key>15427</key>
+		<key>15440</key>
 		<dict>
-			<key>Track ID</key><integer>15427</integer>
+			<key>Track ID</key><integer>15440</integer>
 			<key>Size</key><integer>3449518</integer>
 			<key>Total Time</key><integer>142628</integer>
 			<key>Track Number</key><integer>17</integer>
@@ -387,9 +396,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/17%20It's%20A%20Long%20Way%20Back%20To%20Germany%20(Uk%20B-side).mp3</string>
 		</dict>
-		<key>15189</key>
+		<key>15202</key>
 		<dict>
-			<key>Track ID</key><integer>15189</integer>
+			<key>Track ID</key><integer>15202</integer>
 			<key>Size</key><integer>4881385</integer>
 			<key>Total Time</key><integer>116819</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -414,21 +423,22 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20(Expanded%20&amp;%20Remastered)/05%20Chain%20Saw.mp3</string>
 		</dict>
-		<key>15275</key>
+		<key>15288</key>
 		<dict>
-			<key>Track ID</key><integer>15275</integer>
-			<key>Size</key><integer>3958784</integer>
+			<key>Track ID</key><integer>15288</integer>
+			<key>Size</key><integer>4113622</integer>
 			<key>Total Time</key><integer>164911</integer>
 			<key>Track Number</key><integer>3</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2013-10-19T05:15:40Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:35:49Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>174CF90373D7C411</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Don't Come Close</string>
 			<key>Artist</key><string>The Ramones</string>
 			<key>Album</key><string>Road To Ruin</string>
@@ -436,11 +446,11 @@ ASIN: B000EXZI0A</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Ripped By Magnus Blom</string>
 			<key>Sort Artist</key><string>Ramones</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Road%20To%20Ruin/03%20Don't%20Come%20Close.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Ramones/Road%20To%20Ruin/03%20Don't%20Come%20Close.mp3</string>
 		</dict>
-		<key>15255</key>
+		<key>15268</key>
 		<dict>
-			<key>Track ID</key><integer>15255</integer>
+			<key>Track ID</key><integer>15268</integer>
 			<key>Size</key><integer>4145735</integer>
 			<key>Total Time</key><integer>150622</integer>
 			<key>Track Number</key><integer>17</integer>
@@ -471,9 +481,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Greatest%20Hits/17%20The%20KKK%20Took%20My%20Baby%20Away.mp3</string>
 		</dict>
-		<key>15187</key>
+		<key>15200</key>
 		<dict>
-			<key>Track ID</key><integer>15187</integer>
+			<key>Track ID</key><integer>15200</integer>
 			<key>Size</key><integer>4062202</integer>
 			<key>Total Time</key><integer>96339</integer>
 			<key>Track Number</key><integer>6</integer>
@@ -498,24 +508,25 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20(Expanded%20&amp;%20Remastered)/06%20Now%20I%20Wanna%20Sniff%20Some%20Glue.mp3</string>
 		</dict>
-		<key>15285</key>
+		<key>15298</key>
 		<dict>
-			<key>Track ID</key><integer>15285</integer>
-			<key>Size</key><integer>3397632</integer>
+			<key>Track ID</key><integer>15298</integer>
+			<key>Size</key><integer>3551883</integer>
 			<key>Total Time</key><integer>141505</integer>
 			<key>Track Number</key><integer>5</integer>
 			<key>Year</key><integer>1978</integer>
-			<key>Date Modified</key><date>2013-10-19T05:15:41Z</date>
+			<key>Date Modified</key><date>2019-12-29T16:35:49Z</date>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>192</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3643568090</integer>
 			<key>Play Date UTC</key><date>2019-06-17T02:14:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EE10EF7D439B31A5</string>
 			<key>Track Type</key><string>File</string>
-			<key>File Folder Count</key><integer>5</integer>
-			<key>Library Folder Count</key><integer>1</integer>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
 			<key>Name</key><string>Needles &amp; Pins</string>
 			<key>Artist</key><string>The Ramones</string>
 			<key>Album</key><string>Road To Ruin</string>
@@ -523,11 +534,11 @@ ASIN: B000EXZI0A</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Comments</key><string>Ripped By Magnus Blom</string>
 			<key>Sort Artist</key><string>Ramones</string>
-			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Road%20To%20Ruin/05%20Needles%20&amp;%20Pins.mp3</string>
+			<key>Location</key><string>file:///Users/tonyfischetti/Dropbox/music/The%20Ramones/Road%20To%20Ruin/05%20Needles%20&amp;%20Pins.mp3</string>
 		</dict>
-		<key>15199</key>
+		<key>15212</key>
 		<dict>
-			<key>Track ID</key><integer>15199</integer>
+			<key>Track ID</key><integer>15212</integer>
 			<key>Size</key><integer>6621168</integer>
 			<key>Total Time</key><integer>160313</integer>
 			<key>Track Number</key><integer>7</integer>
@@ -552,9 +563,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20(Expanded%20&amp;%20Remastered)/07%20I%20Don't%20Wanna%20Go%20Down%20To%20The%20Basement.mp3</string>
 		</dict>
-		<key>15183</key>
+		<key>15196</key>
 		<dict>
-			<key>Track ID</key><integer>15183</integer>
+			<key>Track ID</key><integer>15196</integer>
 			<key>Size</key><integer>6327531</integer>
 			<key>Total Time</key><integer>152973</integer>
 			<key>Track Number</key><integer>2</integer>
@@ -579,9 +590,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20(Expanded%20&amp;%20Remastered)/02%20Beat%20On%20The%20Brat.mp3</string>
 		</dict>
-		<key>15191</key>
+		<key>15204</key>
 		<dict>
-			<key>Track ID</key><integer>15191</integer>
+			<key>Track ID</key><integer>15204</integer>
 			<key>Size</key><integer>5998397</integer>
 			<key>Total Time</key><integer>144744</integer>
 			<key>Track Number</key><integer>4</integer>
@@ -590,6 +601,8 @@ ASIN: B000EXZI0A</string>
 			<key>Date Added</key><date>2018-04-09T14:48:31Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-30T13:59:36Z</date>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1014DD3E7D521A91</string>
 			<key>Track Type</key><string>File</string>
@@ -603,9 +616,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20(Expanded%20&amp;%20Remastered)/04%20I%20Wanna%20Be%20Your%20Boyfriend.mp3</string>
 		</dict>
-		<key>15371</key>
+		<key>15384</key>
 		<dict>
-			<key>Track ID</key><integer>15371</integer>
+			<key>Track ID</key><integer>15384</integer>
 			<key>Size</key><integer>10055127</integer>
 			<key>Total Time</key><integer>237975</integer>
 			<key>Track Number</key><integer>17</integer>
@@ -629,9 +642,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20Mania/17%20My%20Brain%20Is%20Hanging%20Upside%20Down.mp3</string>
 		</dict>
-		<key>15437</key>
+		<key>15450</key>
 		<dict>
-			<key>Track ID</key><integer>15437</integer>
+			<key>Track ID</key><integer>15450</integer>
 			<key>Size</key><integer>2409344</integer>
 			<key>Total Time</key><integer>99291</integer>
 			<key>Track Number</key><integer>5</integer>
@@ -657,9 +670,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/05%20I%20Don't%20Care.mp3</string>
 		</dict>
-		<key>15431</key>
+		<key>15444</key>
 		<dict>
-			<key>Track ID</key><integer>15431</integer>
+			<key>Track ID</key><integer>15444</integer>
 			<key>Size</key><integer>2939738</integer>
 			<key>Total Time</key><integer>121391</integer>
 			<key>Track Number</key><integer>8</integer>
@@ -685,9 +698,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/08%20Teenage%20Lobotomy.mp3</string>
 		</dict>
-		<key>15433</key>
+		<key>15446</key>
 		<dict>
-			<key>Track ID</key><integer>15433</integer>
+			<key>Track ID</key><integer>15446</integer>
 			<key>Size</key><integer>3477021</integer>
 			<key>Total Time</key><integer>143777</integer>
 			<key>Track Number</key><integer>16</integer>
@@ -713,9 +726,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Rocket%20To%20Russia/16%20Slug%20(Demo).mp3</string>
 		</dict>
-		<key>15177</key>
+		<key>15190</key>
 		<dict>
-			<key>Track ID</key><integer>15177</integer>
+			<key>Track ID</key><integer>15190</integer>
 			<key>Size</key><integer>3911724</integer>
 			<key>Total Time</key><integer>92577</integer>
 			<key>Track Number</key><integer>3</integer>
@@ -740,9 +753,9 @@ ASIN: B000EXZI0A</string>
 			<key>Sort Artist</key><string>Ramones</string>
 			<key>Location</key><string>file:///Users/tonyfischetti/Music/iTunes/iTunes%20Media/Music/The%20Ramones/Ramones%20(Expanded%20&amp;%20Remastered)/03%20Judy%20Is%20A%20Punk.mp3</string>
 		</dict>
-		<key>15443</key>
+		<key>15456</key>
 		<dict>
-			<key>Track ID</key><integer>15443</integer>
+			<key>Track ID</key><integer>15456</integer>
 			<key>Size</key><integer>2802432</integer>
 			<key>Total Time</key><integer>115670</integer>
 			<key>Track Number</key><integer>1</integer>
@@ -772,95 +785,95 @@ ASIN: B000EXZI0A</string>
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Playlist ID</key><integer>141901</integer>
+			<key>Playlist ID</key><integer>142229</integer>
 			<key>Playlist Persistent ID</key><string>9530C8709FFC4573</string>
 			<key>All Items</key><true/>
 			<key>Name</key><string>The Ramones</string>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>15453</integer>
+					<key>Track ID</key><integer>15466</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15429</integer>
+					<key>Track ID</key><integer>15442</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15241</integer>
+					<key>Track ID</key><integer>15254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15277</integer>
+					<key>Track ID</key><integer>15290</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15267</integer>
+					<key>Track ID</key><integer>15280</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15439</integer>
+					<key>Track ID</key><integer>15452</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15333</integer>
+					<key>Track ID</key><integer>15346</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15421</integer>
+					<key>Track ID</key><integer>15434</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15287</integer>
+					<key>Track ID</key><integer>15300</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15343</integer>
+					<key>Track ID</key><integer>15356</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15425</integer>
+					<key>Track ID</key><integer>15438</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15195</integer>
+					<key>Track ID</key><integer>15208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15341</integer>
+					<key>Track ID</key><integer>15354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15427</integer>
+					<key>Track ID</key><integer>15440</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15189</integer>
+					<key>Track ID</key><integer>15202</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15275</integer>
+					<key>Track ID</key><integer>15288</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15255</integer>
+					<key>Track ID</key><integer>15268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15187</integer>
+					<key>Track ID</key><integer>15200</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15285</integer>
+					<key>Track ID</key><integer>15298</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15199</integer>
+					<key>Track ID</key><integer>15212</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15183</integer>
+					<key>Track ID</key><integer>15196</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15191</integer>
+					<key>Track ID</key><integer>15204</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15371</integer>
+					<key>Track ID</key><integer>15384</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15437</integer>
+					<key>Track ID</key><integer>15450</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15431</integer>
+					<key>Track ID</key><integer>15444</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15433</integer>
+					<key>Track ID</key><integer>15446</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15177</integer>
+					<key>Track ID</key><integer>15190</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15443</integer>
+					<key>Track ID</key><integer>15456</integer>
 				</dict>
 			</array>
 		</dict>
