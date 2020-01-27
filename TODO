@@ -1,18 +1,8 @@
 
 - Resync Caifanes playlist
 
-- Delete Mitropanos playlist and songs
-- Make(REDO) "Dimitris Mitropanos" playlist with these songs
-{
-Roza	Dimitris Mitropanos	Stou Eona Tin Paraga	spotify:track:2uh88Sbc5kFNV8p2cfrFsP
-Ta Ladadika	Dimitris Mitropanos	Parea M' Enan Ilio	spotify:track:2MendFOemdBuMGDHMlxyEZ
-Thes	Dimitris Mitropanos	Pes Mou T' Alithina Sou	spotify:track:1Hqmz48dyRIBne1IqSUo52
-O Timvorihos	Dimitris Mitropanos	Stou Eona Tin Paraga	spotify:track:3UlTZEkwhGG0mXXzL9aO61
-S' Anazito Sti Saloniki	Dimitris Mitropanos	I Ethniki Mas Monaxia	spotify:track:64CDnJJmjRsMccthpSFuxH
-Mia Stasi Edo	Dimitris Mitropanos	I Ethniki Mas Monaxia	spotify:track:6a9QeEw5jXsG4juBgOKLFf
-Poso Kostizei Mia Zoi	Dimitris Basis, Dimitris Mitropanos, Lavrentis Machairitsas	I Synnefia Pernaei Me Parea	spotify:track:1X3Knv6xRgSbjo2nHZ8KaK
-}
-- Add more from his discography
+- Add more to Zeibekiko playlist from his discography
+- Rsync Zeibekiko
 
 - Make "Arts & Crafts" playlist
 {
