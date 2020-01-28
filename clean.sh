@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -r cache
+rm -fr cache
 rm -f autosave
 rm -f search-history
 rm -f command-history
