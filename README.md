@@ -19,4 +19,5 @@ Oh, and don't forget to
 
 before attempting to compile cmus fork
 
+And then compile the patched version of cmusfm in goodies
 
