@@ -1,0 +1,142 @@
+From 17e8f321a5c77dfe8b23a8db25eb442676561fd7 Mon Sep 17 00:00:00 2001
+From: Tony Fischetti <tony.fischetti@gmail.com>
+Date: Tue, 2 Feb 2021 14:11:40 -0500
+Subject: [PATCH] tony changes (see changelog)
+
+---
+ TONY-CHANGELOG | 10 ++++++++++
+ command_mode.c |  4 ++--
+ misc.c         | 21 +++------------------
+ misc.h         |  1 +
+ options.c      |  9 +--------
+ 5 files changed, 17 insertions(+), 28 deletions(-)
+ create mode 100644 TONY-CHANGELOG
+
+diff --git a/TONY-CHANGELOG b/TONY-CHANGELOG
+new file mode 100644
+index 0000000000000..9f49fda62e532
+--- /dev/null
++++ b/TONY-CHANGELOG
+@@ -0,0 +1,10 @@
++
++Wed 27 Nov 2019 04:13:09 PM EST
++
++From 354625c
++  - the color schemes are loaded from the `cmus_theme_dir` now
++  - the `cmus_theme_dir` is cmus_config_dir + "/themes"
++  - `cmus_playlist_dir` is always cmus_config_dir + "/playlists"
++  - idk what playlist moving was about but it's gone now
++  - the configuration file is in the config dir now. The whole rc
++  - so, no need to load optional static config
+diff --git a/command_mode.c b/command_mode.c
+index e2081380218a5..f7559f15b0a73 100644
+--- a/command_mode.c
++++ b/command_mode.c
+@@ -772,7 +772,7 @@ static void cmd_colorscheme(char *arg)
+ {
+ 	char filename[512];
+ 
+-	snprintf(filename, sizeof(filename), "%s/%s.theme", cmus_config_dir, arg);
++	snprintf(filename, sizeof(filename), "%s/%s.theme", cmus_theme_dir, arg);
+ 	if (source_file(filename) == -1) {
+ 		snprintf(filename, sizeof(filename), "%s/%s.theme", cmus_data_dir, arg);
+ 		if (source_file(filename) == -1)
+@@ -2556,7 +2556,7 @@ static void expand_colorscheme(const char *str)
+ {
+ 	PTR_ARRAY(array);
+ 
+-	load_themes(cmus_config_dir, str, &array);
++	load_themes(cmus_theme_dir, str, &array);
+ 	load_themes(cmus_data_dir, str, &array);
+ 
+ 	if (array.count) {
+diff --git a/misc.c b/misc.c
+index 8d6888c1d6d0e..256b64beb14a0 100644
+--- a/misc.c
++++ b/misc.c
+@@ -37,6 +37,7 @@
+ 
+ const char *cmus_config_dir = NULL;
+ const char *cmus_playlist_dir = NULL;
++const char *cmus_theme_dir = NULL;
+ const char *cmus_socket_path = NULL;
+ const char *cmus_data_dir = NULL;
+ const char *cmus_lib_dir = NULL;
+@@ -199,18 +200,6 @@ const char *get_filename(const char *path)
+ 	return file;
+ }
+ 
+-static void move_old_playlist(void)
+-{
+-	char *default_playlist = xstrjoin(cmus_playlist_dir, "/default");
+-	char *old_playlist = xstrjoin(cmus_config_dir, "/playlist.pl");
+-	int rc = rename(old_playlist, default_playlist);
+-	if (rc && errno != ENOENT)
+-		die_errno("error: unable to move %s to playlist directory",
+-				old_playlist);
+-	free(default_playlist);
+-	free(old_playlist);
+-}
+-
+ int misc_init(void)
+ {
+ 	char *xdg_runtime_dir = get_non_empty_env("XDG_RUNTIME_DIR");
+@@ -244,14 +233,10 @@ int misc_init(void)
+ 	}
+ 	make_dir(cmus_config_dir);
+ 
+-	cmus_playlist_dir = get_non_empty_env("CMUS_PLAYLIST_DIR");
+-	if (!cmus_playlist_dir)
+-		cmus_playlist_dir = xstrjoin(cmus_config_dir, "/playlists");
++	cmus_playlist_dir = xstrjoin(cmus_config_dir, "/playlists");
++	cmus_theme_dir = xstrjoin(cmus_config_dir, "/themes");
+ 
+-	int playlist_dir_is_new = dir_exists(cmus_playlist_dir) == 0;
+ 	make_dir(cmus_playlist_dir);
+-	if (playlist_dir_is_new)
+-		move_old_playlist();
+ 
+ 	cmus_socket_path = get_non_empty_env("CMUS_SOCKET");
+ 	if (cmus_socket_path == NULL) {
+diff --git a/misc.h b/misc.h
+index caccdad7447ba..d5021bd9c423f 100644
+--- a/misc.h
++++ b/misc.h
+@@ -23,6 +23,7 @@
+ 
+ extern const char *cmus_config_dir;
+ extern const char *cmus_playlist_dir;
++extern const char *cmus_theme_dir;
+ extern const char *cmus_socket_path;
+ extern const char *cmus_data_dir;
+ extern const char *cmus_lib_dir;
+diff --git a/options.c b/options.c
+index 93b1c3589f457..c5710e21576a4 100644
+--- a/options.c
++++ b/options.c
+@@ -1584,7 +1584,7 @@ void options_load(void)
+ 	/* load autosave config */
+ 	snprintf(filename, sizeof(filename), "%s/autosave", cmus_config_dir);
+ 	if (source_file(filename) == -1) {
+-		char *def = xstrjoin(cmus_data_dir, "/rc");
++		char *def = xstrjoin(cmus_config_dir, "/rc");
+ 
+ 		if (errno != ENOENT)
+ 			error_msg("loading %s: %s", filename, strerror(errno));
+@@ -1595,13 +1595,6 @@ void options_load(void)
+ 
+ 		free(def);
+ 	}
+-
+-	/* load optional static config */
+-	snprintf(filename, sizeof(filename), "%s/rc", cmus_config_dir);
+-	if (source_file(filename) == -1) {
+-		if (errno != ENOENT)
+-			error_msg("loading %s: %s", filename, strerror(errno));
+-	}
+ }
+ 
+ void options_exit(void)
+-- 
+2.20.1
+
