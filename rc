@@ -91,3 +91,5 @@ set status_display_program=cmusfm
 set format_current= ▇ %{artist}     ▇ [%{album}]      %{title} 
 set format_playlist= %-50t %-30a  %= %30l   %d
 set format_playlist_va= %-50t %-30a  %= %30l   %d
+
+set pl_env_vars=HOME
