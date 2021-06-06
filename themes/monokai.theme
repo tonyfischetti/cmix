@@ -50,7 +50,7 @@ set color_win_cur_sel_bg=197
 set color_win_cur_sel_fg=232
 
 # inactive selection for currently playing track
-set color_win_inactive_cur_sel_bg=208
+set color_win_inactive_cur_sel_bg=197
 set color_win_inactive_cur_sel_fg=232
 
 ##### non-playing file colors ##############################
