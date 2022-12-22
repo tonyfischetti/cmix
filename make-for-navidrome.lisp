@@ -6,7 +6,7 @@
 
 
 (for-each /all-playlists/
-  (progress-bar index! (length /all-playlists/))
+  ; (progress-bar index! (length /all-playlists/))
   (let* ((tmp (-path value! #P"/home/tony/cmus/playlists/"))
          (dest (fn "~A~A.m3u" /dest-base/ tmp)))
     (with-a-file dest :w
