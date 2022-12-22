@@ -1,6 +1,6 @@
 #!/usr/local/bin/lispscript
 
-(defvar /all-playlists/ (ls "./playlists/"))
+(defvar /all-playlists/ (ls "/home/tony/cmus/playlists/"))
 
 (defvar /dest-base/ "/home/tony/music/_PLAYLISTS/")
 
