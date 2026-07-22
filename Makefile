@@ -22,6 +22,12 @@ UNAME_S   := $(shell uname -s)
 CMUS_REPO := https://github.com/tonyfischetti/cmus
 BUILD_DIR := /tmp/cmix-cmus-build
 
+# extra args for cmus's ./configure.  Desktops want the default (MPRIS
+# for media keys); containers have no D-Bus session, so risa builds
+# with `make setup CMUS_CONFIGURE_FLAGS="CONFIG_MPRIS=n"` to avoid the
+# "error while initializing MPRIS" nag at every launch.
+CMUS_CONFIGURE_FLAGS ?=
+
 # the patched build installs here; presence = "already done"
 CMUS_BIN := /usr/local/bin/cmus
 
@@ -59,7 +65,7 @@ setup:
 cmus:
 	rm -rf $(BUILD_DIR)
 	git clone -q --depth 1 $(CMUS_REPO) $(BUILD_DIR)
-	cd $(BUILD_DIR) && ./configure && $(MAKE)
+	cd $(BUILD_DIR) && ./configure $(CMUS_CONFIGURE_FLAGS) && $(MAKE)
 	cd $(BUILD_DIR) && sudo $(MAKE) install
 	rm -rf $(BUILD_DIR)
 
